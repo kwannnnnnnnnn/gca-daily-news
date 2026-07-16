@@ -17,15 +17,21 @@ def build_group_map(cfg: dict) -> dict:
 
 
 def is_relevant(art: dict, group: dict, global_exclude: list) -> bool:
-    text = f"{art.get('title','')} {art.get('snippet','')}"
+    title = art.get("title", "")
+    text = f"{title} {art.get('snippet','')}"
     for w in global_exclude:
         if w and w in text:
             return False
     for w in (group.get("exclude") or []):
         if w and w in text:
             return False
+    # require_any: 제목/요약 어디든 하나라도(동시출현 게이트)
     req = group.get("require_any") or []
     if req and not any(w in text for w in req):
+        return False
+    # title_any: 제목(헤드라인)에 하나라도 — 엔티티 분류 정밀도용(스쳐 언급 배제)
+    tany = group.get("title_any") or []
+    if tany and not any(w in title for w in tany):
         return False
     return True
 
