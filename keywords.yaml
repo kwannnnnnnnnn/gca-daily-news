@@ -7,6 +7,7 @@ settings:
   min_title_similarity: 0.60  # 제목 유사도 이 값 이상이면 같은 사건으로 통합
   max_items_per_group: 40   # 그룹별 최대 보관 건수
   preview_items: 5          # 그룹별 기본 노출 개수(나머지는 '더보기'로 접힘)
+  retention_days: 365       # 이 기간 지난 아카이브(archive/*.html·data/*.json)는 자동 삭제(0=무제한)
 
 # 모든 그룹 공통 제외어(제목/요약에 있으면 버림) — 증권·광고성·공지 노이즈 차단
 global_exclude:
