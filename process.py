@@ -72,7 +72,9 @@ def process(articles: list, meta: dict, cfg: dict) -> dict:
     out_clusters = []
     for c in clusters:
         members = c["members"]
-        prim = min(members, key=lambda m: m["group_priority"])
+        # 특정 기관 분류(비-catchall)가 광범위 분류(catchall: 경기도·중앙부처)보다 우선
+        prim = min(members, key=lambda m: (
+            bool(gmap.get(m["group"], {}).get("catchall")), m["group_priority"]))
         seen, sources = set(), []
         for m in sorted(members, key=lambda m: (m["origin"] != "naver", -m["ts"])):
             nm = m["source"] or press_name(m["url"])
