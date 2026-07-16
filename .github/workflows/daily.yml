@@ -1,8 +1,11 @@
 name: daily-news
 
 on:
-  schedule:
-    - cron: "30 22 * * *"   # 매일 22:30 UTC = 07:30 KST
+  schedule:                   # KST = UTC+9. GitHub cron은 UTC 기준·best-effort(수 분 지연 가능)
+    - cron: "0 0 * * *"       # 09:00 KST (아침)
+    - cron: "0 4 * * *"       # 13:00 KST
+    - cron: "0 6 * * *"       # 15:00 KST
+    - cron: "0 8 * * *"       # 17:00 KST
   workflow_dispatch:          # 수동 실행 버튼
 
 permissions:
