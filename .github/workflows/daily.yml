@@ -1,0 +1,44 @@
+name: daily-news
+
+on:
+  schedule:
+    - cron: "30 22 * * *"   # 매일 22:30 UTC = 07:30 KST
+  workflow_dispatch:          # 수동 실행 버튼
+
+permissions:
+  contents: write            # 생성물(docs) 커밋/푸시용
+
+concurrency:
+  group: daily-news
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Collect → process → render
+        env:
+          NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
+          NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
+        run: python main.py
+
+      - name: Commit & push results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs
+          if git diff --cached --quiet; then
+            echo "변경 없음 — 커밋 생략"
+          else
+            git commit -m "chore: 뉴스 자동 갱신 $(TZ=Asia/Seoul date +%Y-%m-%d)"
+            git push
+          fi
