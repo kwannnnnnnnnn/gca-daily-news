@@ -1,11 +1,12 @@
 # 경기콘텐츠진흥원(GCA) 일일 언론 모니터링 — 키워드/필터 설정
-# 이 파일만 고치면 수집 대상·노이즈 규칙을 바꿀 수 있습니다.
+# 이 파일만 고치면 수집 대상·노이즈 규칙·노출 순서를 바꿀 수 있습니다.
 
 settings:
   hours_window: 30          # 최근 N시간 안에 나온 기사만 유지
   naver_display: 100        # 네이버 API 키워드당 최대 수집 건수(최대 100)
   min_title_similarity: 0.60  # 제목 유사도 이 값 이상이면 같은 사건으로 통합
-  max_items_per_group: 40   # 그룹별 화면 표시 상한
+  max_items_per_group: 40   # 그룹별 최대 보관 건수
+  preview_items: 5          # 그룹별 기본 노출 개수(나머지는 '더보기'로 접힘)
 
 # 모든 그룹 공통 제외어(제목/요약에 있으면 버림) — 증권·광고성 노이즈 차단
 global_exclude:
@@ -20,7 +21,7 @@ global_exclude:
   - 분양가
   - 오늘의 날씨
 
-# 키워드 그룹: 위에서부터 우선순위(priority) 순으로 화면에 표시
+# 노출 순서 = priority 오름차순(우리 기관 관계·콘텐츠 관련을 앞쪽에)
 #   queries      : 실제 검색어(네이버+구글 공통)
 #   require_any  : 제목/요약에 이 단어 중 '하나라도' 있어야 관련기사로 인정(동시출현 게이트)
 #   exclude      : 이 단어가 있으면 그 그룹에선 제외
@@ -28,46 +29,40 @@ groups:
   - id: gca
     label: 경기콘텐츠진흥원
     queries: [경기콘텐츠진흥원, 경콘진]
-    # 구글 유사검색 노이즈 차단: 제목/요약에 기관·사업 브랜드가 실제로 있어야 인정
     require_any: [경기콘텐츠진흥원, 경콘진, 경기문화창조허브, 문화창조허브, 경기게임아카데미, 경기콘텐츠코리아랩, GCON]
     priority: 1
+
+  - id: province
+    label: 경기도(콘텐츠 관련)
+    queries: [경기도, 경기도 콘텐츠, 경기 콘텐츠산업, 경기 게임산업, 판교 게임, 경기 웹툰, 경기도 웹툰]
+    require_any: [콘텐츠, 게임, 웹툰, 웹소설, 만화, 애니, 문화산업, 콘텐츠진흥원, 메타버스, 실감콘텐츠, OTT, e스포츠]
+    priority: 2
+
+  - id: governor
+    label: 경기도지사
+    queries: [추미애]
+    require_any: [경기도, 도지사, 도정, 경기도청, 경기도의회, 민선, 경기]
+    priority: 3
 
   - id: gg_council
     label: 경기도의회
     queries: [경기도의회]
     require_any: [경기도의회, 경기도의원, 경기의회, 도의회, 도의원]
-    priority: 2
+    priority: 4
+
+  - id: bucheon
+    label: 부천시(콘텐츠 관련)
+    queries: [부천시, 조용익, 부천 웹툰, 부천국제판타스틱영화제]
+    require_any: [콘텐츠, 문화, 웹툰, 만화, 애니, 게임, 영화, 축제, 산업, 진흥원, 부천국제, BIFAN, 조용익, 부천시장]
+    priority: 5
 
   - id: bucheon_council
     label: 부천시의회
     queries: [부천시의회]
     require_any: [부천시의회, 부천시의원, 부천 시의회]
-    priority: 3
-
-  - id: governor
-    label: 경기도지사(추미애)
-    queries: [추미애]
-    require_any: [경기도, 도지사, 도정, 경기도청, 경기도의회, 민선, 경기]
-    priority: 4
-
-  - id: bucheon
-    label: 부천시
-    queries: [부천시, 조용익]
-    require_any: [콘텐츠, 문화, 웹툰, 만화, 애니, 게임, 영화, 축제, 산업, 진흥원, 시의회, 부천국제, BIFAN, 부천시장, 조용익]
-    priority: 5
-
-  - id: gg_content
-    label: 경기 콘텐츠·게임산업
-    queries: [경기도 콘텐츠, 경기 콘텐츠산업, 경기 게임산업, 판교 게임, 경기 웹툰, 경기도 웹툰]
     priority: 6
 
-  - id: province_policy
-    label: 경기도(콘텐츠 정책)
-    queries: [경기도]
-    require_any: [콘텐츠, 게임, 웹툰, 만화, 애니, 문화산업, 콘텐츠진흥원, 메타버스, 실감콘텐츠, OTT]
-    priority: 7
-
   - id: central
-    label: 중앙부처·콘텐츠 정책
+    label: 중앙부처(콘텐츠)
     queries: [한국콘텐츠진흥원, 콘진원, 문화체육관광부 콘텐츠, 콘텐츠산업 진흥, 게임산업 진흥]
-    priority: 8
+    priority: 7

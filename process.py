@@ -99,6 +99,7 @@ def process(articles: list, meta: dict, cfg: dict) -> dict:
         "window_hours": meta.get("window_hours", settings.get("hours_window", 30)),
         "sources": meta.get("sources", []),
         "use_naver": meta.get("use_naver", False),
+        "preview_items": settings.get("preview_items", 5),
         "counts": {"collected": collected, "kept": len(kept),
                    "excluded": collected - len(kept),
                    "consolidated": len(out_clusters), "multi": multi},
