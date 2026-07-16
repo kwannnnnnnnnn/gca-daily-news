@@ -1,6 +1,6 @@
 {
   "date": "2026-07-16",
-  "generated_at": "2026-07-16T13:46:20.714231+09:00",
+  "generated_at": "2026-07-16T14:13:33.400479+09:00",
   "window_hours": 30,
   "sources": [
     "네이버뉴스",
@@ -9,19 +9,57 @@
   "use_naver": true,
   "preview_items": 5,
   "counts": {
-    "collected": 1981,
-    "kept": 460,
-    "excluded": 1521,
-    "consolidated": 150,
-    "multi": 62
+    "collected": 1990,
+    "kept": 459,
+    "excluded": 1531,
+    "consolidated": 154,
+    "multi": 67
   },
   "groups": [
     {
       "id": "gca",
       "label": "경기콘텐츠진흥원",
       "priority": 1,
-      "count": 5,
+      "count": 6,
       "items": [
+        {
+          "title": "경기도콘텐츠진흥원, JYP파트너스와 ‘레벨업 투자조합’ 결성",
+          "url": "https://www.seoul.co.kr/news/publicnews/policy_admin/public_org/2026/07/16/20260716500095?wlog_tag3=naver",
+          "snippet": "경기콘텐츠진흥원(경콘진)은 15일 경기콘텐츠코리아랩에서 JYP파트너스와 ‘JYPP-GCA 레벨업 투자조합(레벨업 5호 펀드)’ 결성식을 갖고 콘텐츠 스타트업을 대상으로 본격적인 투자 자금 집행에 나선다고 밝혔다....",
+          "source": "서울신문",
+          "sources": [
+            {
+              "name": "서울신문",
+              "url": "https://www.seoul.co.kr/news/publicnews/policy_admin/public_org/2026/07/16/20260716500095?wlog_tag3=naver",
+              "origin": "naver"
+            },
+            {
+              "name": "지디넷코리아",
+              "url": "https://zdnet.co.kr/view/?no=20260716105417",
+              "origin": "naver"
+            },
+            {
+              "name": "beyondpost.co.kr",
+              "url": "http://www.beyondpost.co.kr/view.php?ud=202607160728302734c878f8fa1_30",
+              "origin": "naver"
+            },
+            {
+              "name": "전국매일신문",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vNXF5UnMtV3dzSEtKXzdUc0d3TTF5VTRKQVVQcTBJWUVvaVNFLXpRSldrT0lFYU9hT2VKa1libEN0a2dLOGVuRjcxdWl6eFN1NEp1TUU4OTItNDA3ajFVZ3Z6MlE0UTdic28zLUlB?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "비욘드포스트",
+              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9heG12YmhNUk9HUnE1R2htbjB3NTkxRF9adHBLRTRPem9BRjFGc09IM0pBXzNpNFM2YXBtRVNxVzFjUE9kOVpMUXNwWmZHbUN4ZUgtenI0bmMzTnBQZ3V2ZkRlc0hUdXU5SDBJalhMZnRlZDJ4Sy12VWtKdw?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 5,
+          "published": "2026-07-16T14:03:00+09:00",
+          "ts": 1784178180.0,
+          "group": "gca",
+          "group_label": "경기콘텐츠진흥원"
+        },
         {
           "title": "경콘진, JYP파트너스와 '레벨업 5호 펀드' 결성… 콘텐츠 스타트업 투자",
           "url": "https://platum.kr/archives/291012",
@@ -34,28 +72,13 @@
               "origin": "naver"
             },
             {
-              "name": "지디넷코리아",
-              "url": "https://zdnet.co.kr/view/?no=20260716105417",
-              "origin": "naver"
-            },
-            {
               "name": "디지털타임스",
               "url": "https://www.dt.co.kr/article/12073206?ref=naver",
               "origin": "naver"
             },
             {
-              "name": "beyondpost.co.kr",
-              "url": "http://www.beyondpost.co.kr/view.php?ud=202607160728302734c878f8fa1_30",
-              "origin": "naver"
-            },
-            {
               "name": "플래텀(Platum)",
               "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1DX2NtQ1lBNmRma0V1QlkzcmpJNElmd1RYUVB2SWc2cWNlUG1WT3hMQWN5bTdhUEtaR1ZoN2pGeXFHVUJpU0JuUg?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "전국매일신문",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vNXF5UnMtV3dzSEtKXzdUc0d3TTF5VTRKQVVQcTBJWUVvaVNFLXpRSldrT0lFYU9hT2VKa1libEN0a2dLOGVuRjcxdWl6eFN1NEp1TUU4OTItNDA3ajFVZ3Z6MlE0UTdic28zLUlB?oc=5",
               "origin": "google"
             },
             {
@@ -67,14 +90,9 @@
               "name": "와우테일",
               "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBITUdKd2pZMUswQkZwTDFYWTI0cHltY29fcEhYYnlBSTNOU2NLNExsSVI3aDNibjllOFZ4VmxDTWRwR0EzR0Q5WFFZTkxkX1E?oc=5",
               "origin": "google"
-            },
-            {
-              "name": "비욘드포스트",
-              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9heG12YmhNUk9HUnE1R2htbjB3NTkxRF9adHBLRTRPem9BRjFGc09IM0pBXzNpNFM2YXBtRVNxVzFjUE9kOVpMUXNwWmZHbUN4ZUgtenI0bmMzTnBQZ3V2ZkRlc0hUdXU5SDBJalhMZnRlZDJ4Sy12VWtKdw?oc=5",
-              "origin": "google"
             }
           ],
-          "source_count": 9,
+          "source_count": 5,
           "published": "2026-07-16T12:46:00+09:00",
           "ts": 1784173560.0,
           "group": "gca",
@@ -173,7 +191,7 @@
       "id": "province",
       "label": "경기도(콘텐츠 관련)",
       "priority": 2,
-      "count": 12,
+      "count": 10,
       "items": [
         {
           "title": "[위클리오늘] 경기도, '프리랜서 공정거래 문화 조성 콘텐츠 공모전' 개...",
@@ -207,27 +225,12 @@
               "origin": "naver"
             },
             {
-              "name": "MSN",
-              "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPVVVRV1d4VGNrWHVFUVptM2VyMDQ4bXlxZklBRG40N2trYzg0T2ZfNnphQURKcFMxSi1pOFphNE5ObXVDUUN2NjNzWlFpX2Y5b0VpaHkxOHRNenFpVE9mek5aUTZiMm4tSnMzeHhrZTVHOWdETktyVzJfWlNKcm5Nd2lrRFQzWXB1QWJXUEY1ZnZtdEpLdnowUGhCLUZoSTM3N3l4dXMydGNXRU9oVWhaVU0tU1lYSjZ6SEhGLXI0RHJqYkNRN0drY0RoX094ckFfTDhFRDBBU2g4NHFEVHBXZllXYmlsc20tUkZOSnRYb19Nd1ZtT2J5Ti1FQmVxTkhPTGUyYTZVNXBpcllLV2xvZl81YVpYVTg2b0lkeW92dDNaaXdsdGFZcWFLR3cwZ3NHNW5SM1dSTVBZOFp1ZFNzNU8wNGtuRkVMaTNTa0Z3YTM2TElQMUtSSE1lRVdmbnJRdUJNbUMyZkRrTWRtb0kyMFg1UjFUZUtNZng0V19WdjQydw?oc=5",
-              "origin": "google"
-            },
-            {
               "name": "로이슈",
               "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5VeXpDV2Z1VjhoMkFMSW1wU080RWhDTEtnamhFWjNCMndiaUdFY3Q1YVVKZ0xQWmNicTI5WkRqYV9STldVY0pxRDJLelZ2SXNWWG5tUmlNbXk2Tm1xdXFTaDRnckJ2b1V1cW1JVmNVV3M1RWhsZm0zUG93?oc=5",
               "origin": "google"
-            },
-            {
-              "name": "장애인인식개선신문",
-              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RNmhmUV85SkRZckJWR3Mwc1Z3NEFEZmExcF9aOU5GRjRYUVZuSUk3QzVGeUY5a2VIX254dHZ4NFBJZ1NiNkZSMXNuOF9TRFEyN3I3YUl6UVZCbkE0UFpn0gFfQVVfeXFMTlE2aGZRXzlKRFlyQlZHczBzVnc0QURmYTFwX1o5TkZGNFhRVm5JSTdDNUZ5RjlrZUhfbnh0dng0UElnU2I2RlIxc244X1NEUTI3cjdhSXpRVkJuQTRQWmc?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxS0JWQnAyY0FjUmwxTVFXbXg2WG5pTTJDZFcwLWNNQkdDU081emhxT3hJYXZaQ1ZXdm1LQXpMblBIS1UxSkpTT014b3BjTnZDcHNv?oc=5",
-              "origin": "google"
             }
           ],
-          "source_count": 9,
+          "source_count": 6,
           "published": "2026-07-15T16:10:00+09:00",
           "ts": 1784099400.0,
           "group": "province",
@@ -308,24 +311,6 @@
           "group_label": "경기도(콘텐츠 관련)"
         },
         {
-          "title": "AI가 전하는 안전의 메시지“경기청, AI 영상으로 안전문화 확산”",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVTTMzQmdNclNaQllfeXBYNUlDNE42ZG5uaVRMalBMLUJpckdaU3g3UnlHd096UXJVYlpBUUphRG43WmhMTUw4QUxqSGY1aXNWeEhKejRfVS1Oa290TXVsRmZ4TlNnZw?oc=5",
-          "snippet": "",
-          "source": "한국미디어뉴스",
-          "sources": [
-            {
-              "name": "한국미디어뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVTTMzQmdNclNaQllfeXBYNUlDNE42ZG5uaVRMalBMLUJpckdaU3g3UnlHd096UXJVYlpBUUphRG43WmhMTUw4QUxqSGY1aXNWeEhKejRfVS1Oa290TXVsRmZ4TlNnZw?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-16T09:40:25+09:00",
-          "ts": 1784162425.0,
-          "group": "province",
-          "group_label": "경기도(콘텐츠 관련)"
-        },
-        {
           "title": "성남FC, 인기 애니메이션 '헬로카봇' 컬래버 MD 11종 출시… 18일 부산전부터 판매",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DaUQ0dWRnMks4RlFJQUFyQ1VCb2NQWlFtNVN4VnpDV2lzR0F0QlRFZVBRM0tqWHBJYmFUZ0NOb0haYlZhTjM3c1JMc3JvVHl4V3VFMGdkTWZ6dFVrem4wQWNvdEtNSDQzVGpOdTlR?oc=5",
           "snippet": "",
@@ -382,7 +367,7 @@
         {
           "title": "파주 출판도시, AI 입고 글로벌 콘텐츠 허브 도약…2027년 문화선도 산업...",
           "url": "http://www.breaknews.com/1221881",
-          "snippet": "미래 콘텐츠 산업 거점으로의 대전환에 나선다. 파주시는 최근 사업설명회를... for the AI ​​content industry, extending beyond Korea.\" 원본 기사 보기:브레이크뉴스 경기서부",
+          "snippet": "종이책 중심의 콘텐츠 생산 구조를 넘어 영상과 게임, 웹툰, 웹소설 등 다양한... for the AI ​​content industry, extending beyond Korea.\" 원본 기사 보기:브레이크뉴스 경기서부",
           "source": "breaknews.com",
           "sources": [
             {
@@ -394,24 +379,6 @@
           "source_count": 1,
           "published": "2026-07-15T14:24:00+09:00",
           "ts": 1784093040.0,
-          "group": "province",
-          "group_label": "경기도(콘텐츠 관련)"
-        },
-        {
-          "title": "\"'출판도시의 대변신'… 파주, AI 콘텐츠 산업 메카로 도약\"",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxTDA1V0RtcE9UeWFTdktyZDljMFhxOE9ua3RrbGF4OU8zM2JqODk5MlVUNlRkNUNFZldsekpuNGlUUWpRcTBMUGZMREZQem1VSGVuZWFFc3Vmb0hOVzFLcTRvMEhfR0xOWVZnVUY0RQ?oc=5",
-          "snippet": "",
-          "source": "일요서울i",
-          "sources": [
-            {
-              "name": "일요서울i",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxTDA1V0RtcE9UeWFTdktyZDljMFhxOE9ua3RrbGF4OU8zM2JqODk5MlVUNlRkNUNFZldsekpuNGlUUWpRcTBMUGZMREZQem1VSGVuZWFFc3Vmb0hOVzFLcTRvMEhfR0xOWVZnVUY0RQ?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-15T13:58:57+09:00",
-          "ts": 1784091537.0,
           "group": "province",
           "group_label": "경기도(콘텐츠 관련)"
         },
@@ -457,7 +424,7 @@
       "id": "governor",
       "label": "경기도지사",
       "priority": 3,
-      "count": 48,
+      "count": 50,
       "items": [
         {
           "title": "추미애 \"삼성전자 평택캠퍼스 용적률 상향 신속히\"",
@@ -526,23 +493,18 @@
               "origin": "naver"
             },
             {
-              "name": "daily.hankooki.com",
-              "url": "https://daily.hankooki.com/news/articleView.html?idxno=1386374",
-              "origin": "naver"
-            },
-            {
               "name": "연합뉴스",
               "url": "https://www.yna.co.kr/view/AKR20260715150400061?input=1195m",
               "origin": "naver"
             },
             {
-              "name": "suwonilbo.kr",
-              "url": "http://www.suwonilbo.kr/news/articleView.html?idxno=316787",
+              "name": "daily.hankooki.com",
+              "url": "https://daily.hankooki.com/news/articleView.html?idxno=1386374",
               "origin": "naver"
             },
             {
-              "name": "기호일보",
-              "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3029069",
+              "name": "suwonilbo.kr",
+              "url": "http://www.suwonilbo.kr/news/articleView.html?idxno=316787",
               "origin": "naver"
             },
             {
@@ -571,7 +533,7 @@
               "origin": "google"
             }
           ],
-          "source_count": 21,
+          "source_count": 20,
           "published": "2026-07-16T13:28:00+09:00",
           "ts": 1784176080.0,
           "group": "governor",
@@ -604,11 +566,6 @@
               "origin": "google"
             },
             {
-              "name": "필드뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAweUpJSmF4ems5RncyRF9PNGdrN3pZYWFfaXI0cUFBWWlsbzFZMnRNUC12dzM4VzdxTW1JNks1QktPb0YzR2NETW9aX3h5TVd2NzNnVGRWYlJDWkM5WURVTzNIaFhNMzV6SUHSAWxBVV95cUxNRFh1VDRnOXpwZktIczA1T2wtWlV1UlVhMTdDT2h1TXhwNjNkdmFPQkYzQU5fQzlxelIzelo0TnpGc2w4UmJiNTd1WkFWN3VQU05lckUxLTNyQjdPVDRSUHhmbVNCbktXcV9CcWs?oc=5",
-              "origin": "google"
-            },
-            {
               "name": "뉴데일리 경기",
               "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43bFBiMDFnc3otQ0JyNkxHVHJIczl6U2dmWTZyc3FTSEQ5VlQwaW9CREx5aGwyZ2d1SkNFdkQyTk9iODljMHhUbERfM1NHTUM1bVhkNHlaMmhhQUNQTm95SjRLWHU2VTNNRGxrYmxTNk0xd3B0T2gzWmtn0gF_QVVfeXFMUFZOaE5NakFzRlV3LVk3MlRvTkc4aFFfeGVobnFoSXVZeGF4NW94dHVjeGdCRkxLcEFVdEJmaFNacTYwNkhXeUN0X09zWGtzdkVkblVoTFItcGtiWkFIdlRJNDJoRDNUTWE0akg4VTZaUGxqVjJGd0ZPMkt2RVBFUQ?oc=5",
               "origin": "google"
@@ -619,7 +576,7 @@
               "origin": "google"
             }
           ],
-          "source_count": 7,
+          "source_count": 6,
           "published": "2026-07-15T20:04:00+09:00",
           "ts": 1784113440.0,
           "group": "governor",
@@ -655,14 +612,9 @@
               "name": "시민의소리",
               "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SNTlGWHJSb1I4cGRaNGhaenhVUFlERnAyYTBXZHhYeTVyN24xNWRVUDRoeFk4cnVmUmwxUmNLVXhpQ2hYYXF4ZjJqd19LaEZtS2hYUWlpOEZUbXRWOFVhWWlvbmNCNkxvdFZHQdIBcEFVX3lxTE5NSGs1TE5LWFpxMlUxX0hzcEV6bmNITDY4ZGg0eTE1Y0RwV18wUnNOQk04Tm1zM0Jlc05uR2ZDbDlEbDRvWmJleXZYRWowd0ZLUEphWFBoSTFuSGRfWFlZRC1KUFJRcjFXZW5UTTVKVEg?oc=5",
               "origin": "google"
-            },
-            {
-              "name": "데일리안",
-              "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNNU5NX2lJalNRblRHSVl5Znk0Y1FnWUdpN0FxMW9RZ0JyQ0FVcGdkbjJNLUJCaWoydm85WmVpTkFuakZMNW9jNmdBZmlIVEY1RUh4TmU3a1JQMmRxX2tSVWxacVM0aTRpWVpVUk0wU1Z3Y1ZtUXN1S0twNWNfVnB2ZGhYQVZFN1B2cXZkUEZGYmZtejkzUVkwTlFPTGtUV2N5M01OLTR1MzBkaE1vcDNiZ3gzNTdRcFBUTkJTTDE0NzI2cGttQjlDci1Zb2xqOGpReElUdFhXaEZqcHR5d1VyN3lFS01Lb3N5V1FWaDZiOTJ2ZmQxRmh5dDg4d0gxaElLVFhuMzFPX25RSGl3SkdBVUlmOUVsalRKWEVUbjVqMmJjUQ?oc=5",
-              "origin": "google"
             }
           ],
-          "source_count": 6,
+          "source_count": 5,
           "published": "2026-07-16T10:01:00+09:00",
           "ts": 1784163660.0,
           "group": "governor",
@@ -913,6 +865,29 @@
           "group_label": "경기도지사"
         },
         {
+          "title": "경기도, 반도체 투자환경 개선 속도…평택캠 용적률 완화 검토",
+          "url": "https://www.newsverse.kr/news/articleView.html?idxno=10952",
+          "snippet": "추미애 경기도지사가 15일 '제2차 반도체 초격차 전략회의'를 주재하고 있다. (사진=경기도) 경기도가... 추미애 경기도지사는 전날(15일) '제2차 반도체 초격차 전략회의'를 주재하고 삼성전자 설비 확장과 용인 반도체...",
+          "source": "newsverse.kr",
+          "sources": [
+            {
+              "name": "newsverse.kr",
+              "url": "https://www.newsverse.kr/news/articleView.html?idxno=10952",
+              "origin": "naver"
+            },
+            {
+              "name": "필드뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAweUpJSmF4ems5RncyRF9PNGdrN3pZYWFfaXI0cUFBWWlsbzFZMnRNUC12dzM4VzdxTW1JNks1QktPb0YzR2NETW9aX3h5TVd2NzNnVGRWYlJDWkM5WURVTzNIaFhNMzV6SUHSAWxBVV95cUxNRFh1VDRnOXpwZktIczA1T2wtWlV1UlVhMTdDT2h1TXhwNjNkdmFPQkYzQU5fQzlxelIzelo0TnpGc2w4UmJiNTd1WkFWN3VQU05lckUxLTNyQjdPVDRSUHhmbVNCbktXcV9CcWs?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-07-16T14:00:00+09:00",
+          "ts": 1784178000.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
           "title": "추미애, 업무보고 재개…“성과·한계 함께 보겠다”",
           "url": "https://www.sedaily.com/article/20068515?ref=naver",
           "snippet": "추미애 경기도지사가 재정 혁신과 행정 쇄신을 위해 중단했던 실·국 업무보고를 8일만에 재개했다. 16일 경기도에 따르면 추 지사는 이날 10시부터 도청 서희홀에서 기후환경에너지국, 환경에너지진흥원, 수자원본부를...",
@@ -1047,6 +1022,24 @@
           "source_count": 2,
           "published": "2026-07-15T16:41:00+09:00",
           "ts": 1784101260.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "[강대웅의 정문일침(頂門一鍼)] 추미애 경기지사가 던진 승부수...'반도...",
+          "url": "https://www.ajunews.com/view/20260716133923794",
+          "snippet": "com 추미애 경기도지사가 경기도청 실·국장 등과 제2차 반도체 초격차 전략회의를 하고 있다. [사진=경기도] 추미애 경기도지사가 반도체 인허가 속도전을 주문하며 직접 '반도체 초격차 전략' 챙기기에 나섰다. 추 지사가...",
+          "source": "아주경제",
+          "sources": [
+            {
+              "name": "아주경제",
+              "url": "https://www.ajunews.com/view/20260716133923794",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-16T13:54:00+09:00",
+          "ts": 1784177640.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -1427,42 +1420,6 @@
           "ts": 1784105880.0,
           "group": "governor",
           "group_label": "경기도지사"
-        },
-        {
-          "title": "[경기도 정책 브리핑]추미애, ‘반도체 초격차’ 정책 드라이브…투자...",
-          "url": "https://www.nspna.com/news/?mode=view&newsid=820763",
-          "snippet": "제2차 반도체 전략회의 주재…“현장 목소리 반영해 업무 혁신하라” 삼성전자 평택·화성 투자 지원 및 용인 산단 가동시기 단축 ‘총력’ 추미애 경기도지사가 민선 9기 핵심 공약인 ‘반도체 초격차 전략’ 달성을...",
-          "source": "nspna.com",
-          "sources": [
-            {
-              "name": "nspna.com",
-              "url": "https://www.nspna.com/news/?mode=view&newsid=820763",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-15T17:56:00+09:00",
-          "ts": 1784105760.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "추미애“반도체는 대한민국 명운이 걸린 경기도 최대 현안이다”",
-          "url": "https://www.sportsseoul.com/news/read/1622636?ref=naver",
-          "snippet": "-15일 제2차 반도체 초격차 전략회의 직접 주재 -삼성전자 팹 확장에 따른 도 협의요청에 기업 투자환경 개선 속도전 주문 〔스포츠서울│수원=좌승훈기자〕추미애 경기도지사는 15일 ‘제2차 반도체 초격차 전략회의’...",
-          "source": "sportsseoul.com",
-          "sources": [
-            {
-              "name": "sportsseoul.com",
-              "url": "https://www.sportsseoul.com/news/read/1622636?ref=naver",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-15T17:45:00+09:00",
-          "ts": 1784105100.0,
-          "group": "governor",
-          "group_label": "경기도지사"
         }
       ]
     },
@@ -1470,7 +1427,7 @@
       "id": "gg_council",
       "label": "경기도의회",
       "priority": 4,
-      "count": 49,
+      "count": 51,
       "items": [
         {
           "title": "경기도의회 남종섭 의장, '지방의회법 제정' 전국 광역의회 연대 본격화",
@@ -1539,11 +1496,6 @@
               "origin": "naver"
             },
             {
-              "name": "뉴스1",
-              "url": "https://www.news1.kr/local/gyeonggi/6229137",
-              "origin": "naver"
-            },
-            {
               "name": "메트로신문",
               "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TYXFEVy1GeW5XYnJmWlg4MEI4UDBnNEpaVml0Vi1pa2p6M3ZQNklLOVdwZHp5UXVQUzY3dURyRVZVUkdreEV6b09ReDExQk1XTEttYU5DMmE4UTdMWWVWMA?oc=5",
               "origin": "google"
@@ -1575,7 +1527,7 @@
             },
             {
               "name": "v.daum.net",
-              "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5DdFdKbUQwQ3plREJ0Y3c3ZHJqTlJOQ3BXV3B5a1M2R3NzZVZlN2xMVWJqOTZMTnFTcTJBOV9SdWdDVjJMSnc?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81MHltYzh4X01DemZKSU5DTW9yemtuX1liY2tUWUVBcTBOeWRlRGk5dHYtSjFvYVgyd29jNEJpeHd0ZlRaNmVyZzZBVy1YR0RDU1BnWA?oc=5",
               "origin": "google"
             },
             {
@@ -1609,19 +1561,92 @@
               "origin": "google"
             },
             {
-              "name": "전국매일신문",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xWmpPUjJRVkUzRHEzZWZJTnpKMkREbVlhRXRMRXQ5dHdabmo4RTEwZXhDZjhPd2hRT2s3QzNKMnVxS3F3N21fWkhIQ0lJYkVoa1RFREt0Vno1UDZDUmFIOGttYnpRcXVYUnFKaWJB?oc=5",
-              "origin": "google"
-            },
-            {
               "name": "퍼블릭뉴스통신",
               "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6VmtfR0dvWGFjTTNfYVBHVm1wWjJ4dm5RMjM4SlZOUGZNRFl4WGlwWk1oM3hxZlA4bVltbXZGVjUwaEZOeXE2Qjk0SHJOSTVUMXFJZ3daNXV2SkpsYUpmakhfNDFzZGZpVk04?oc=5",
               "origin": "google"
+            },
+            {
+              "name": "뉴스1",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NTFFSazBsNmx2ZHVXWkdialZXZHplbEU1bjFSYm5JQzlfdEJ6SjV4ci1kMGhYQmRFNGM2MGhIUkJGUHdiaEtYbnY2dXA0bXFQYzZudEl3?oc=5",
+              "origin": "google"
             }
           ],
-          "source_count": 28,
+          "source_count": 27,
           "published": "2026-07-16T10:36:00+09:00",
           "ts": 1784165760.0,
+          "group": "gg_council",
+          "group_label": "경기도의회"
+        },
+        {
+          "title": "“현장에 답이 있다”… 경기도의회 국민의힘, 농정해양위원장에 서광...",
+          "url": "http://www.breaknews.com/1222236",
+          "snippet": "경기도의회 교섭단체 국민의힘이 제12대 도의회 전반기 농정해양위원장 후보로 재선의 서광범 의원(여주1)을 만장일치로 추대하며 원 구성에 속도를 내고 있다....",
+          "source": "breaknews.com",
+          "sources": [
+            {
+              "name": "breaknews.com",
+              "url": "http://www.breaknews.com/1222236",
+              "origin": "naver"
+            },
+            {
+              "name": "newstown.co.kr",
+              "url": "http://www.newstown.co.kr/news/articleView.html?idxno=709297",
+              "origin": "naver"
+            },
+            {
+              "name": "enewstoday.co.kr",
+              "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2449359",
+              "origin": "naver"
+            },
+            {
+              "name": "jeonmae.co.kr",
+              "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1275151",
+              "origin": "naver"
+            },
+            {
+              "name": "브레이크뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5pSzF1WGFEcDR5QjFlSEFad0dPRVNHaE91S05wN0ZaVUIxaF9mSndzUkpyTjQ4WTM3MDQ0MGRLU0FOdw?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "천지일보",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vUV85TG5Cc2J2R0kxODh3bkJOTTZKSGcwRWxQaW5RUUwteGZ0VnVFblNyWk01U1FSVFU2SWkyNHVnY1pZWjdsRXlxbWVjcVZHQThnNVl4MVZCaGw2ZC1laFZNN1NzcHlBQXc?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "한스경제",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yVzRZWnYyNDY5dkt4Vk9ZZm1nRjlEQmJ6OGprZlVDa3dERGpWTmhfMWRBOVltQTAyOXZTMWVDSFNFUDJPaXVHa3lPXzZkY0kyVDJNSDNTX1ZGOGNralU4akFIY0NkRF9ob1d5edIBb0FVX3lxTE54UTBaeGluZV96eTBSbk1FQjZwU0xSdVlxQTU2dUZDVUVZalZPQTlPOFM4Ym9PbGZlNENNdkxaMWNXcEI4MWNjalRsempubVlWRi1fd2ctMkdOa2t1YXd4c0tmdUo4R1lFZmtpZ0toTQ?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "데일리엔뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MQVBYTVhsNUlxSnh4b3V6cl9EWG96Y3dUbDF4alVKTENyVzhMLWJEMWJ5QjZUYmNyQnN4VVBYZGVtU2E4QmNCOFlkb2tmMU5WVFRnLWhTWFdQZzZqODdF?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "뉴스타운",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Xc1dyS0lMcV90cG53eHFFMk5ybXhxT01ZMmJzaUR3ZVN1VHZxUlBxUVJRTWZNZS10S2U0TEJrMWROdXRwS0FuMWloWmViYXpXZjR5aUFtbElyWUpTOHNkZVFQNFZnNTBXaVQ4QnBB?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "글로벌뉴스통신GNA",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zRVFBR2VXX3o2a21lUXc4UDlSNWZsMGNiVklCanJ4bXB6b213ZDRRNERGVnRJVVl4MnVuT1R4am4zRHZsdkNMT2Fvd0p2NzBaeHJOcVZ5a0RXdnBraE95ak41ZlZVSFUxaGhTUHlIaTdvOU10?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "내외뉴스통신",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVV3YyLUNqM0toRTdIVmdDcEFtVVNuSXlzbTVoRGdORlZNMmxRb2xLdjdMSHJ3VzdQekN2ZVg5Y3NVay1ZR1o0eUc3Z2ktNXg4TnFZVFpSOVhqeEdLVUpBSmZ3R0tSa1pnbFlUWdIBcEFVX3lxTFAyZFIyTmYwNnN2cjlBNGN2anVQTjYzemVaRWVRUEdjbnBsOHB2QTlRMEZfOWhWZk1oSXRDdHkyTlNkYWo0cEFhaWZBLV9FNW5IVDRuMm93WnkzNGhtV24zTHBNTVdEZTYyeVlOMmxUb1g?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "이뉴스투데이",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96YzdrZGxnNFJHZHhYS09QOWtoWTB4ZVFDR2hqdGlhX3Jjb0hZMTljcVhPWUt5Zmc1SDF5NWdxUGs1TmxiQTVCeGdzeGhHMlNNbXRsSmp4YmxGaE5zUDNyWFVSbjdvWW52OFRwRTBReVR3bnpk0gF0QVVfeXFMT3pjN2tkbGc0UkdkeFhLT1A5a2hZMHhlUUNHaGp0aWFfcmNvSFkxOWNxWE9ZS3lmZzVIMXk1Z3FQazVObGJBNUJ4Z3N4aEcyU01tdGxKanhibEZoTnNQM3JYVVJuN29ZbnY4VHBFMFF5VHduemQ?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 12,
+          "published": "2026-07-16T14:08:00+09:00",
+          "ts": 1784178480.0,
           "group": "gg_council",
           "group_label": "경기도의회"
         },
@@ -1663,7 +1688,7 @@
             },
             {
               "name": "비즈월드",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nRkVWYlZLWTZsZGx3aGdxaXlTS0VPd0tEQjl5YkFUS04xRDlZR3Q5SVd4cDR5UElELXpCT1Z2eGxkNFBmRm1NeV9tOVM2RkZyc2RDT2hwcXM3MWZ6ZjFlTXdKbmQ2UDY4dFE?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10OUduNE8waVl4SkNpak9vTmRqRTluYUlHeFpGclJNUHUzdzB5anZleDJqUzJBVmRZd21GMHp2TTFEb1dHUmhQVTRHWjF3RFBuMVFNYjI5bmdTRnBURVhEdzJJcm90MjdMb2NN?oc=5",
               "origin": "google"
             },
             {
@@ -1690,99 +1715,11 @@
               "name": "여성신문",
               "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwSlVLVFI2c2w1S1BzTFMzeUtPdkNod2ZwQ3Z0M21ZUGlNc1BZR0R4RlVHUk5PbnMydFE5YzJJTkZsa0tSWDhOZzN4MnZ3OVZLSGpQX3drOUZGd1FDVXJ4VkhrcEhSam5hVkVxTl9mdmtmSUXSAXNBVV95cUxQcEpVS1RSNnNsNUtQc0xTM3lLT3ZDaHdmcEN2dDNtWVBpTXNQWUdEeEZVR1JOT25zMnRROWMySU5GbGtLUlg4TmczeDJ2dzlWS0hqUF93azlGRndRQ1VyeFZIa3BIUmpuYVZFcU5fZnZrZklF?oc=5",
               "origin": "google"
-            },
-            {
-              "name": "뉴스1",
-              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13YTVyUHlyeVhxaGxDdjRnSC0wczM1SGR5dHRJTkpTbkVTODRZc0FLMDBJZ1hRT09iSlpyeUk0SVZ0UXgzREdKVTdmMjUwQVdaeTdxeExR?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "뉴스핌",
-              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40VWpBbmtzZ2w4ZzZUUGtUYlJCVmV5VWFlNU9FWktOcWFaVVBEUnlzZkhPZFBUcGFGMG13UTZjdFBLbjdKS0ZBdnY2SktxaTJ0ekRMZ2c2RHdQVllD?oc=5",
-              "origin": "google"
             }
           ],
-          "source_count": 14,
+          "source_count": 12,
           "published": "2026-07-16T12:46:00+09:00",
           "ts": 1784173560.0,
-          "group": "gg_council",
-          "group_label": "경기도의회"
-        },
-        {
-          "title": "경기도의회 국민의힘, 농정해양위원장 후보에 서광범 의원 추대",
-          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=709297",
-          "snippet": "15일 경기도의회 중회의실에서 열린 국민의힘 제4차 의원총회에서 농정해양위원장 후보로 만장일치 추대된 서광범 의원(왼쪽)이 방성환 대표의원과 기념촬영을 하고 있다. /경기도의회 국민의힘 경기도의회 교섭단체...",
-          "source": "newstown.co.kr",
-          "sources": [
-            {
-              "name": "newstown.co.kr",
-              "url": "http://www.newstown.co.kr/news/articleView.html?idxno=709297",
-              "origin": "naver"
-            },
-            {
-              "name": "enewstoday.co.kr",
-              "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2449359",
-              "origin": "naver"
-            },
-            {
-              "name": "jeonmae.co.kr",
-              "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1275151",
-              "origin": "naver"
-            },
-            {
-              "name": "tournews21.com",
-              "url": "https://www.tournews21.com/news/articleView.html?idxno=138674",
-              "origin": "naver"
-            },
-            {
-              "name": "천지일보",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vUV85TG5Cc2J2R0kxODh3bkJOTTZKSGcwRWxQaW5RUUwteGZ0VnVFblNyWk01U1FSVFU2SWkyNHVnY1pZWjdsRXlxbWVjcVZHQThnNVl4MVZCaGw2ZC1laFZNN1NzcHlBQXc?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "일간투데이",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BSkhDSVdYZ1RXTEZNUVdVeXgxUFAwUFlLdmI3RHNsWF9hWnlrZzduLU1PZl9OSUEyZEExRkMyLXVJNWV6TVBVcDBzbV9jTVNLcEpvMWt1VHZTN1M2ZUpKakNDMTBtWUdRTGZj?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "한스경제",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yVzRZWnYyNDY5dkt4Vk9ZZm1nRjlEQmJ6OGprZlVDa3dERGpWTmhfMWRBOVltQTAyOXZTMWVDSFNFUDJPaXVHa3lPXzZkY0kyVDJNSDNTX1ZGOGNralU4akFIY0NkRF9ob1d5edIBb0FVX3lxTE54UTBaeGluZV96eTBSbk1FQjZwU0xSdVlxQTU2dUZDVUVZalZPQTlPOFM4Ym9PbGZlNENNdkxaMWNXcEI4MWNjalRsempubVlWRi1fd2ctMkdOa2t1YXd4c0tmdUo4R1lFZmtpZ0toTQ?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "데일리엔뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MQVBYTVhsNUlxSnh4b3V6cl9EWG96Y3dUbDF4alVKTENyVzhMLWJEMWJ5QjZUYmNyQnN4VVBYZGVtU2E4QmNCOFlkb2tmMU5WVFRnLWhTWFdQZzZqODdF?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "뉴스타운",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Xc1dyS0lMcV90cG53eHFFMk5ybXhxT01ZMmJzaUR3ZVN1VHZxUlBxUVJRTWZNZS10S2U0TEJrMWROdXRwS0FuMWloWmViYXpXZjR5aUFtbElyWUpTOHNkZVFQNFZnNTBXaVQ4QnBB?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "글로벌뉴스통신GNA",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zRVFBR2VXX3o2a21lUXc4UDlSNWZsMGNiVklCanJ4bXB6b213ZDRRNERGVnRJVVl4MnVuT1R4am4zRHZsdkNMT2Fvd0p2NzBaeHJOcVZ5a0RXdnBraE95ak41ZlZVSFUxaGhTUHlIaTdvOU10?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "내외뉴스통신",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVV3YyLUNqM0toRTdIVmdDcEFtVVNuSXlzbTVoRGdORlZNMmxRb2xLdjdMSHJ3VzdQekN2ZVg5Y3NVay1ZR1o0eUc3Z2ktNXg4TnFZVFpSOVhqeEdLVUpBSmZ3R0tSa1pnbFlUWdIBcEFVX3lxTFAyZFIyTmYwNnN2cjlBNGN2anVQTjYzemVaRWVRUEdjbnBsOHB2QTlRMEZfOWhWZk1oSXRDdHkyTlNkYWo0cEFhaWZBLV9FNW5IVDRuMm93WnkzNGhtV24zTHBNTVdEZTYyeVlOMmxUb1g?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "이뉴스투데이",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFSDgwQjNCR1dYT3VERVJ3SDc4bkZNWW1ybGFMYkNta0QzYTVXQWNjZGlLcGp6RXN1TER1RDNPOFI1aFFramUwajd3c25uVVBmN1p6ZWRhR3R3bEZqMHVfTXU4QUhMcFFYVktENGRHbmfSAXRBVV95cUxPemM3a2RsZzRSR2R4WEtPUDlraFkweGVRQ0doanRpYV9yY29IWTE5Y3FYT1lLeWZnNUgxeTVncVBrNU5sYkE1Qnhnc3hoRzJTTW10bEpqeGJsRmhOc1AzclhVUm43b1ludjhUcEUwUXlUd256ZA?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "투어코리아",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HTEtBQ0p2aF9jZWtWMjlFLWZDMTZaaHM5YTdJZjVuVVVqQndwVkFGLWxzQUdwZDE1VzhQLVV0X0ZmSU4xR2xMZWY2b1R4WGJ2YnRGLTFaWTVxcGJKREcwejJVb1NuYXc3V2g4S193?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 13,
-          "published": "2026-07-15T22:44:00+09:00",
-          "ts": 1784123040.0,
           "group": "gg_council",
           "group_label": "경기도의회"
         },
@@ -1831,14 +1768,9 @@
               "name": "전국매일신문",
               "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SMWlwT1VJMTBMWEFoMVVmMlhHb2RocXZpZzJpWFd5dDRUX1ZxdlE1RWpoZVptcGVneUdfWkVUaGtvOFhNSEtWb3NNMG0yWFZ4ZjIzWVpQS3U3QVB1bmIwdVpLdC1NcEt1a1I5M1Jn?oc=5",
               "origin": "google"
-            },
-            {
-              "name": "뉴스후",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tb0VHTDBicWlta1JUUE1HMGwySTFWdTVYbU9qVE1OYjR6ZXY3RUhWVWFuXzl4SzVES1FVMHg2aUlpdTI3cXRyLVByQ3BKZ1RZS3RDRW01dUlhay1jUjBOTWF5VnlYRmp3R1dSNA?oc=5",
-              "origin": "google"
             }
           ],
-          "source_count": 9,
+          "source_count": 8,
           "published": "2026-07-15T17:04:00+09:00",
           "ts": 1784102640.0,
           "group": "gg_council",
@@ -1876,12 +1808,17 @@
               "origin": "google"
             },
             {
+              "name": "글로벌에픽",
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA2MDdfSzdPWjM0WElFZHhIN3h6SE11eEdHbnR2WkpIWGtXb2JrN0hoUWlLWFdwQkFUTjNYcG1BYVBxVnpvUXA1WVhPbTI5VkxwcGhZb2U4Z1dkQ2x0RFl5QTMtUzdFbkttbVBHOGZ5T1RCU2FqV05Nb3dKdHU?oc=5",
+              "origin": "google"
+            },
+            {
               "name": "엔디엔뉴스",
               "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zLTR3NkE5Q2psRHpVUkFleHcwMGNHc1VCME1ObjNUYWFzdWk0UDZ0N0JST044M0F1SThpZ1pybk9mZ2VUZFhicEZJaUVOdUhSekJTRmRRV0JKWmk5VGFrYTZaRloxODBPZXdjNlR2WjhxQdIBckFVX3lxTE8zLTR3NkE5Q2psRHpVUkFleHcwMGNHc1VCME1ObjNUYWFzdWk0UDZ0N0JST044M0F1SThpZ1pybk9mZ2VUZFhicEZJaUVOdUhSekJTRmRRV0JKWmk5VGFrYTZaRloxODBPZXdjNlR2WjhxQQ?oc=5",
               "origin": "google"
             }
           ],
-          "source_count": 6,
+          "source_count": 7,
           "published": "2026-07-16T12:08:00+09:00",
           "ts": 1784171280.0,
           "group": "gg_council",
@@ -1889,13 +1826,13 @@
         },
         {
           "title": "경기도의회, 성평등하고 안전한 조직문화 조성 나서",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pSklfU3FOSnE4UmRGLUYzZlRGYk9HUU5hN09ocFlJUmZrVTFWMktKbVhQXzd4TkJXYWlkMWpMQjAyeURIN09GMEJKSVpRRndkNzROYXo3SkRmT0N3TGxTYWlvdHR2cXhtbmwtS2RUVQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nX0NWUXFtdXE1OVNyUFlRQTM3RTBmVXNENGNVSXdQQWFXSWgtMXVGelNBY2QwNGxXaGdlVkgwZjNsdFpUYVZGdDBqYlZTUzg2ZWZzdXpxREJ4aTY0UHZKUENqZW9wZlhi?oc=5",
           "snippet": "",
-          "source": "굿타임즈",
+          "source": "일간경기",
           "sources": [
             {
-              "name": "굿타임즈",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pSklfU3FOSnE4UmRGLUYzZlRGYk9HUU5hN09ocFlJUmZrVTFWMktKbVhQXzd4TkJXYWlkMWpMQjAyeURIN09GMEJKSVpRRndkNzROYXo3SkRmT0N3TGxTYWlvdHR2cXhtbmwtS2RUVQ?oc=5",
+              "name": "일간경기",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nX0NWUXFtdXE1OVNyUFlRQTM3RTBmVXNENGNVSXdQQWFXSWgtMXVGelNBY2QwNGxXaGdlVkgwZjNsdFpUYVZGdDBqYlZTUzg2ZWZzdXpxREJ4aTY0UHZKUENqZW9wZlhi?oc=5",
               "origin": "google"
             },
             {
@@ -1925,41 +1862,8 @@
             }
           ],
           "source_count": 6,
-          "published": "2026-07-16T05:24:06+09:00",
-          "ts": 1784147046.0,
-          "group": "gg_council",
-          "group_label": "경기도의회"
-        },
-        {
-          "title": "최경순 경기도의원, 안양대교~박석교 남측 안양천변 인도 확장 논의",
-          "url": "https://www.m-i.kr/news/articleView.html?idxno=1392265",
-          "snippet": "최경순 경기도의원이 15일 경기도의회 안양상담소에서 관계기관 협의를 진행하고 있다. 사진=경기도의회 매일일보 = 강재규 기자 | 경기도의회 최경순 의원이 그간 주민 수원사업이던 안양천변 인도 확장을 위한 관계기관...",
-          "source": "m-i.kr",
-          "sources": [
-            {
-              "name": "m-i.kr",
-              "url": "https://www.m-i.kr/news/articleView.html?idxno=1392265",
-              "origin": "naver"
-            },
-            {
-              "name": "매일일보",
-              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9OQzA4WXViMTlUVXZiMGY1ck12NFBGSFdxOE1qZE5oZWVTN1pLNTlvYzBWR1RjTXNyZm1iQ1hMRFRQMzMzUzJ1ZVc5WnhwV0lyVTVxcFJGMzFvNEhxaEw0d3VfVWs?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "경기헤럴드",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qSG9YbG9tNzAtQnNpVjRwbmhHR0lGYlN1cktmYXBJUWgwNllHblc1ZEFRaThGRHI5OGFDYTNwRGpVZ0JDS2FGODVIRW1jTHZDaTk0?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "전국매일신문",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10a1FqYjlvNHRXOGFNeFNDVlJtbjlQeWlxMFI1b2FRYXVDLUVIZFFLMHBaVnhEbjZTQ1l6YzIwRzgtVXViaUdwWVBRRkVFaXplUEhfck91NTBfaEd3a1N5Z0ZtdWJQbERmT0JrclhB?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 4,
-          "published": "2026-07-16T13:08:00+09:00",
-          "ts": 1784174880.0,
+          "published": "2026-07-16T14:03:06+09:00",
+          "ts": 1784178186.0,
           "group": "gg_council",
           "group_label": "경기도의회"
         },
@@ -2129,6 +2033,62 @@
           "group_label": "경기도의회"
         },
         {
+          "title": "최경순 경기도의원, 안양대교~박석교 남측 안양천변 인도 확장 논의",
+          "url": "https://www.m-i.kr/news/articleView.html?idxno=1392265",
+          "snippet": "최경순 경기도의원이 15일 경기도의회 안양상담소에서 관계기관 협의를 진행하고 있다. 사진=경기도의회 매일일보 = 강재규 기자 | 경기도의회 최경순 의원이 그간 주민 수원사업이던 안양천변 인도 확장을 위한 관계기관...",
+          "source": "m-i.kr",
+          "sources": [
+            {
+              "name": "m-i.kr",
+              "url": "https://www.m-i.kr/news/articleView.html?idxno=1392334",
+              "origin": "naver"
+            },
+            {
+              "name": "국제뉴스",
+              "url": "https://www.gukjenews.com/news/articleView.html?idxno=3637845",
+              "origin": "naver"
+            },
+            {
+              "name": "매일일보",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MUHppMFJ6THdHdE9hWFhuWGRzVmJkRU9SVmg4VC1USzZock5yd3NFZkZKTFNlVm9vcWdlY0t0V0hPSjZGT2JVNHVsQ3FBNTJsTzY1VzNTeTdPNTRXU1lybGpOYWE?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-07-16T13:08:00+09:00",
+          "ts": 1784174880.0,
+          "group": "gg_council",
+          "group_label": "경기도의회"
+        },
+        {
+          "title": "최경순 경기도의원, 안양대교~박석교 남측 안양천변 인도 확장 논의",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9OQzA4WXViMTlUVXZiMGY1ck12NFBGSFdxOE1qZE5oZWVTN1pLNTlvYzBWR1RjTXNyZm1iQ1hMRFRQMzMzUzJ1ZVc5WnhwV0lyVTVxcFJGMzFvNEhxaEw0d3VfVWs?oc=5",
+          "snippet": "",
+          "source": "매일일보",
+          "sources": [
+            {
+              "name": "매일일보",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9OQzA4WXViMTlUVXZiMGY1ck12NFBGSFdxOE1qZE5oZWVTN1pLNTlvYzBWR1RjTXNyZm1iQ1hMRFRQMzMzUzJ1ZVc5WnhwV0lyVTVxcFJGMzFvNEhxaEw0d3VfVWs?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "경기헤럴드",
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGampYVlZjTjFjNkpxeVRKenV0cXlfbmxUa09JUVE5eC1MdEt0ZjRYUlJJQTlDdjZEamRhY1pXdXhKVkpOaFE4U01CdjhBUmljYUh5Rm5fREhrUGlwRUQtdlZ5U0R3QU9kaUUzaE1zMFoweTFBOE5OUHZGSm4?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "전국매일신문",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10a1FqYjlvNHRXOGFNeFNDVlJtbjlQeWlxMFI1b2FRYXVDLUVIZFFLMHBaVnhEbjZTQ1l6YzIwRzgtVXViaUdwWVBRRkVFaXplUEhfck91NTBfaEd3a1N5Z0ZtdWJQbERmT0JrclhB?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-07-16T13:07:32+09:00",
+          "ts": 1784174852.0,
+          "group": "gg_council",
+          "group_label": "경기도의회"
+        },
+        {
           "title": "“지방의회법 제정” 남종섭 경기도의회 의장, 광역의회 연대 잰걸음",
           "url": "https://www.kyeongin.com/article/1767412",
           "snippet": "인천 찾아 박종혁 의장과 간담회 협력체계 구축 논의… 제주 방문도 남종섭 경기도의회 의장이 지방의회의 권한과 위상 강화를 위한 ‘지방의회법 제정’을 목표로 전국 광역의회와의 연대 행보에 나섰다. 남 의장은 15일...",
@@ -2153,6 +2113,34 @@
           "source_count": 3,
           "published": "2026-07-15T20:42:00+09:00",
           "ts": 1784115720.0,
+          "group": "gg_council",
+          "group_label": "경기도의회"
+        },
+        {
+          "title": "경기도의회 국민의힘 전반기 상임위원장 후보로 서광범 의원 추대",
+          "url": "https://www.tournews21.com/news/articleView.html?idxno=138674",
+          "snippet": "경기도의회 국민의힘(대표의원 방성환)은 15일 도의회 중회의실에서 제4차 의원총회를 열어 12대 전반기 상임위원장 후보로 농정해양위원장에 재선 서광범 의원을 만장일치 추대했다 방성환 대표의원은 그간 수차례에...",
+          "source": "tournews21.com",
+          "sources": [
+            {
+              "name": "tournews21.com",
+              "url": "https://www.tournews21.com/news/articleView.html?idxno=138674",
+              "origin": "naver"
+            },
+            {
+              "name": "일간투데이",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BSkhDSVdYZ1RXTEZNUVdVeXgxUFAwUFlLdmI3RHNsWF9hWnlrZzduLU1PZl9OSUEyZEExRkMyLXVJNWV6TVBVcDBzbV9jTVNLcEpvMWt1VHZTN1M2ZUpKakNDMTBtWUdRTGZj?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "투어코리아",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HTEtBQ0p2aF9jZWtWMjlFLWZDMTZaaHM5YTdJZjVuVVVqQndwVkFGLWxzQUdwZDE1VzhQLVV0X0ZmSU4xR2xMZWY2b1R4WGJ2YnRGLTFaWTVxcGJKREcwejJVb1NuYXc3V2g4S193?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-07-15T18:26:00+09:00",
+          "ts": 1784107560.0,
           "group": "gg_council",
           "group_label": "경기도의회"
         },
@@ -2227,6 +2215,29 @@
           "source_count": 2,
           "published": "2026-07-16T12:40:00+09:00",
           "ts": 1784173200.0,
+          "group": "gg_council",
+          "group_label": "경기도의회"
+        },
+        {
+          "title": "\"학교급식 예비식 기부 멈추나\"…전자영 도의원, 행정 장벽 개선 촉구",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=345234",
+          "snippet": "경기도의회가 현장의 목소리를 반영한 제도 개선과 경기도교육청 차원의 지원 확대 필요성을 강조하며 지속 가능한 운영 방안 마련에 나섰다. 전자영 경기도의회 의원(더불어민주당·용인 구갈·상갈)은 \"학교와 지역사회가...",
+          "source": "greened.kr",
+          "sources": [
+            {
+              "name": "greened.kr",
+              "url": "https://www.greened.kr/news/articleView.html?idxno=345234",
+              "origin": "naver"
+            },
+            {
+              "name": "녹색경제신문",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XU3ZPN1E4QmhxVkVkUFMwQUpDcUMyN0lOd0RPMnZWeWU2UzIyM2lxMmxCZTlwMnFQdUFkcEZyU09kTnduV0hJYWJ3bm5IeEZEcEVHY1JEX2RGQWE1MDJNTy1lQzZ6TVU?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-07-16T11:28:00+09:00",
+          "ts": 1784168880.0,
           "group": "gg_council",
           "group_label": "경기도의회"
         },
@@ -2392,20 +2403,38 @@
           "group_label": "경기도의회"
         },
         {
-          "title": "\"학교급식 예비식 기부 멈추나\"…전자영 도의원, 행정 장벽 개선 촉구",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=345234",
-          "snippet": "경기도의회가 현장의 목소리를 반영한 제도 개선과 경기도교육청 차원의 지원 확대 필요성을 강조하며 지속 가능한 운영 방안 마련에 나섰다. 전자영 경기도의회 의원(더불어민주당·용인 구갈·상갈)은 \"학교와 지역사회가...",
-          "source": "greened.kr",
+          "title": "[문수철 기자가 본 세상 데스크 칼럼] 다수는 얻었지만 협치는 잃었다…경기도의회 민주당의 아쉬운 선택",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CbEswZFB4aDc1bzNETlg2M2hCczhLT2E0U0tNMVRKNzEwYzFWU21jV1NyV2ZwNW11Y0pXdWdkY0ZqSF9NVnJZaXQyWk5pZlVoTlFkaW9mYWZQSXFoWjdNbm13UGhCdw?oc=5",
+          "snippet": "",
+          "source": "경기헤드라인",
           "sources": [
             {
-              "name": "greened.kr",
-              "url": "https://www.greened.kr/news/articleView.html?idxno=345234",
-              "origin": "naver"
+              "name": "경기헤드라인",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CbEswZFB4aDc1bzNETlg2M2hCczhLT2E0U0tNMVRKNzEwYzFWU21jV1NyV2ZwNW11Y0pXdWdkY0ZqSF9NVnJZaXQyWk5pZlVoTlFkaW9mYWZQSXFoWjdNbm13UGhCdw?oc=5",
+              "origin": "google"
             }
           ],
           "source_count": 1,
-          "published": "2026-07-16T11:28:00+09:00",
-          "ts": 1784168880.0,
+          "published": "2026-07-16T13:55:15+09:00",
+          "ts": 1784177715.0,
+          "group": "gg_council",
+          "group_label": "경기도의회"
+        },
+        {
+          "title": "[e-사람] 이용구 경기도의회 노조지부장...소통으로 의회 발전 힘 모은다",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWU1hDQWtOWUZtbXFJU3ZJZVB4TzlyUFhlV210dE1RMWpVSzZZY3ZEU2hSbEtwcWhON3BQaGs2RlFuNGZ0THI4X09kbjhfNFBJNkdvMXBwSmhqQ2c0X0ItbUJmcFhFT0lKclHSAW5BVV95cUxOdWthN0FibHpHTGRvRTE3RnFyU0lyNElRT2M5VlpfbEY4Y0QydFVfLU04Vm1vOV9YQWNaSVhPV2I0WnNEOHlEczVlVENOMG53NzM4amtoRzJ4RDNHN1Z0bmhKdTJobHlUbVNXNUUtQQ?oc=5",
+          "snippet": "",
+          "source": "fnnews1.com",
+          "sources": [
+            {
+              "name": "fnnews1.com",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWU1hDQWtOWUZtbXFJU3ZJZVB4TzlyUFhlV210dE1RMWpVSzZZY3ZEU2hSbEtwcWhON3BQaGs2RlFuNGZ0THI4X09kbjhfNFBJNkdvMXBwSmhqQ2c0X0ItbUJmcFhFT0lKclHSAW5BVV95cUxOdWthN0FibHpHTGRvRTE3RnFyU0lyNElRT2M5VlpfbEY4Y0QydFVfLU04Vm1vOV9YQWNaSVhPV2I0WnNEOHlEczVlVENOMG53NzM4amtoRzJ4RDNHN1Z0bmhKdTJobHlUbVNXNUUtQQ?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-16T11:42:00+09:00",
+          "ts": 1784169720.0,
           "group": "gg_council",
           "group_label": "경기도의회"
         },
@@ -2460,24 +2489,6 @@
           "source_count": 1,
           "published": "2026-07-16T09:17:00+09:00",
           "ts": 1784161020.0,
-          "group": "gg_council",
-          "group_label": "경기도의회"
-        },
-        {
-          "title": "다수는 얻었지만 협치는 잃었다…경기도의회 민주당의 아쉬운 선택",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkNmNiRFg4NlRrNHNvV2NoUkJKMi1nbUdlT2JfcFBTWHlqUThTR2ZUZnhGWlMxWGp1ZGNaVU1qWUVQak1ZV3lmMllza0xXd09VNHRzRGRfbGNaVjBvNllXRzdWaUNWdw?oc=5",
-          "snippet": "",
-          "source": "경기헤드라인",
-          "sources": [
-            {
-              "name": "경기헤드라인",
-              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkNmNiRFg4NlRrNHNvV2NoUkJKMi1nbUdlT2JfcFBTWHlqUThTR2ZUZnhGWlMxWGp1ZGNaVU1qWUVQak1ZV3lmMllza0xXd09VNHRzRGRfbGNaVjBvNllXRzdWaUNWdw?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-16T09:06:06+09:00",
-          "ts": 1784160366.0,
           "group": "gg_council",
           "group_label": "경기도의회"
         },
@@ -2642,60 +2653,6 @@
           "ts": 1784107948.0,
           "group": "gg_council",
           "group_label": "경기도의회"
-        },
-        {
-          "title": "제12대 경기도의회 전반기 의장단 선출…의장 남종섭·부의장 고은정·김미숙",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vOXdkSU41U0huWDZxTllhVWN3VU5tb0FnZW04LVpubHN4SE53Y0FWX19QS1JmbjZIa2dJMUFGVWp4UV9GQ3g5TnBOcXdGdUkxWGpteHpRcjNnUGxITTdfVmgxXzFjeTBNMlBCczJn?oc=5",
-          "snippet": "",
-          "source": "부천신문",
-          "sources": [
-            {
-              "name": "부천신문",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vOXdkSU41U0huWDZxTllhVWN3VU5tb0FnZW04LVpubHN4SE53Y0FWX19QS1JmbjZIa2dJMUFGVWp4UV9GQ3g5TnBOcXdGdUkxWGpteHpRcjNnUGxITTdfVmgxXzFjeTBNMlBCczJn?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-15T18:29:37+09:00",
-          "ts": 1784107777.0,
-          "group": "gg_council",
-          "group_label": "경기도의회"
-        },
-        {
-          "title": "경기도의회 유종상 광명시흥 개발·이채명 의원 시민안전시설 점검",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PSkJWcThmd0twTmk3LXlmcjFWcGhTVHJiaTlQbXFLV3RLN0s5QmNrQ3lCNkdxbzBVbUhFOU15MFdrQ2laT1ZYVTlmU25oak9JdnR1RTd4Si1wbFBIMVR1b2JqbENvZw?oc=5",
-          "snippet": "",
-          "source": "열린뉴스통신",
-          "sources": [
-            {
-              "name": "열린뉴스통신",
-              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PSkJWcThmd0twTmk3LXlmcjFWcGhTVHJiaTlQbXFLV3RLN0s5QmNrQ3lCNkdxbzBVbUhFOU15MFdrQ2laT1ZYVTlmU25oak9JdnR1RTd4Si1wbFBIMVR1b2JqbENvZw?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-15T18:13:24+09:00",
-          "ts": 1784106804.0,
-          "group": "gg_council",
-          "group_label": "경기도의회"
-        },
-        {
-          "title": "[ㄱㄱㄷ 의정 Pick] 남종섭 의장, 지방의회법 제정 드라이브…성평등가...",
-          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=759418",
-          "snippet": "남종섭 경기도의회 의장이 지방의회법 제정을 위해 박종혁 인천광역시의회 의장 등 전국 광역의회를 순회할 계획이다. 경기도의회 성평등가족부는 '2026년 성희롱 방지 조직문화 진단' 대상 기관으로 선정됐다. ▲남종섭...",
-          "source": "consumernews.co.kr",
-          "sources": [
-            {
-              "name": "consumernews.co.kr",
-              "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=759418",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-15T17:46:00+09:00",
-          "ts": 1784105160.0,
-          "group": "gg_council",
-          "group_label": "경기도의회"
         }
       ]
     },
@@ -2703,7 +2660,7 @@
       "id": "bucheon",
       "label": "부천시(콘텐츠 관련)",
       "priority": 5,
-      "count": 9,
+      "count": 10,
       "items": [
         {
           "title": "김민기 무려 작품만 3개… BIFAN서 존재감 터졌다",
@@ -2734,25 +2691,25 @@
           "group_label": "부천시(콘텐츠 관련)"
         },
         {
-          "title": "한국만화영상진흥원 입주기업 재담미디어, 꼬마비 작가 신작 웹툰 『데칼꼬마니』공개",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IM1RkSWFaSUxLaUI4YWcxNjJWRGV1bkhDUWMyY19IZTNqTWNLa0o4bndlZE9aUW9Gdm8yTXN4U0xnVl9ENjU1UzlFUUpaS0drMkZWTnVoalJ4bmtWejJjQ24yZW0tVTg?oc=5",
-          "snippet": "",
-          "source": "경기매일",
+          "title": "\"대만서 K콘텐츠 잭팟 터뜨린다\"…부천시 TCCF 참가기업 모집",
+          "url": "https://www.mt.co.kr/policy/2026/07/16/2026071613585920108",
+          "snippet": "경기 부천시는 오는 31일까지 아시아 대표 콘텐츠 비즈니스 행사인 '대만 크리에이티브 콘텐츠 페스티벌... 지원 자격은 공고일(7월16일) 기준 부천시에 본사나 지사, 혹은 기업부설연구소를 둔 콘텐츠 전문 기업이다....",
+          "source": "머니투데이",
           "sources": [
             {
-              "name": "경기매일",
-              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IM1RkSWFaSUxLaUI4YWcxNjJWRGV1bkhDUWMyY19IZTNqTWNLa0o4bndlZE9aUW9Gdm8yTXN4U0xnVl9ENjU1UzlFUUpaS0drMkZWTnVoalJ4bmtWejJjQ24yZW0tVTg?oc=5",
-              "origin": "google"
+              "name": "머니투데이",
+              "url": "https://www.mt.co.kr/policy/2026/07/16/2026071613585920108",
+              "origin": "naver"
             },
             {
-              "name": "생생부천",
-              "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTHVURFJqMkFYMTVlT05PVFZyVVdESDNSSFlZbE5HOVlnZHFrRWhpb0VaSkRqMmM4TUt5MUxxTmNEMlVrNlVYenFUdDlMRXpaMkMyUDdqTlJxUXhSanlaWC0wM0NHUWJEd1dNYV9EQU13LWFfVmlkcmkwaVJiRV9WUTRqR3EzMS14VThGRnkzSW5KaVVLUHFjVnRtYmlmd1VwMU16RGZOblJXVkhxSy1obS1YcG44YzdDaHdYeEViNm9uYjN5Vy1Bdi1wMjh0MkJUSURwWFdCUlB6dnEwNWRv?oc=5",
+              "name": "네이트",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lNGFPNFhpN1UtMzA3MmpycG9mY3VjaFVBMkMtWGYwTzRrLVpxUjZnaEc4TFVPbTE0d1U4QVQzMkdUWVJaaDVkSHNkNVhTQXltbnVSR1A4N0hPeEotZGVIZg?oc=5",
               "origin": "google"
             }
           ],
           "source_count": 2,
-          "published": "2026-07-16T12:14:14+09:00",
-          "ts": 1784171654.0,
+          "published": "2026-07-16T14:09:00+09:00",
+          "ts": 1784178540.0,
           "group": "bucheon",
           "group_label": "부천시(콘텐츠 관련)"
         },
@@ -2804,19 +2761,37 @@
         },
         {
           "title": "부천시, 콘텐츠 기업 해외 진출 지원 ... TCCF 참가기업 모집",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1RYzRFRE0zbnYyNWRva01mb1ZWeTRpamVRZnl3Yzc0RlBMeENvd2FTMUliVEhBeGozRkxxVGZ2LTZoSW9fZGZkMzBn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YVHZXRmgxZS04cld6eDFaYjlEMVpuSkxjOEtYODVlYzVxUUtkOVBUV1NKLWZXdGJuWnNuMG8xMkt4Ynp3UjNzY3I5ZlRfRlJGWnBSWExWMGdzMF9BMThDZjVvZFpjUQ?oc=5",
           "snippet": "",
-          "source": "mediatoday.asia",
+          "source": "한국미디어뉴스",
           "sources": [
             {
-              "name": "mediatoday.asia",
-              "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1RYzRFRE0zbnYyNWRva01mb1ZWeTRpamVRZnl3Yzc0RlBMeENvd2FTMUliVEhBeGozRkxxVGZ2LTZoSW9fZGZkMzBn?oc=5",
+              "name": "한국미디어뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YVHZXRmgxZS04cld6eDFaYjlEMVpuSkxjOEtYODVlYzVxUUtkOVBUV1NKLWZXdGJuWnNuMG8xMkt4Ynp3UjNzY3I5ZlRfRlJGWnBSWExWMGdzMF9BMThDZjVvZFpjUQ?oc=5",
               "origin": "google"
             }
           ],
           "source_count": 1,
-          "published": "2026-07-16T12:00:00+09:00",
-          "ts": 1784170800.0,
+          "published": "2026-07-16T12:52:17+09:00",
+          "ts": 1784173937.0,
+          "group": "bucheon",
+          "group_label": "부천시(콘텐츠 관련)"
+        },
+        {
+          "title": "한국만화영상진흥원 입주기업 재담미디어, 꼬마비 작가 신작 웹툰 『데칼꼬마니』공개",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IM1RkSWFaSUxLaUI4YWcxNjJWRGV1bkhDUWMyY19IZTNqTWNLa0o4bndlZE9aUW9Gdm8yTXN4U0xnVl9ENjU1UzlFUUpaS0drMkZWTnVoalJ4bmtWejJjQ24yZW0tVTg?oc=5",
+          "snippet": "",
+          "source": "경기매일",
+          "sources": [
+            {
+              "name": "경기매일",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IM1RkSWFaSUxLaUI4YWcxNjJWRGV1bkhDUWMyY19IZTNqTWNLa0o4bndlZE9aUW9Gdm8yTXN4U0xnVl9ENjU1UzlFUUpaS0drMkZWTnVoalJ4bmtWejJjQ24yZW0tVTg?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-16T12:14:14+09:00",
+          "ts": 1784171654.0,
           "group": "bucheon",
           "group_label": "부천시(콘텐츠 관련)"
         },
