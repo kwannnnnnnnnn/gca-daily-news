@@ -16,23 +16,34 @@ def build_group_map(cfg: dict) -> dict:
     return {g["id"]: g for g in cfg.get("groups", [])}
 
 
-def is_relevant(art: dict, group: dict, global_exclude: list) -> bool:
+def is_relevant(art: dict, group: dict, global_exclude: list,
+                lead_window: int = 14) -> bool:
     title = art.get("title", "")
-    text = f"{title} {art.get('snippet','')}"
+    snip = art.get("snippet", "")
+    text = f"{title} {snip}"
     for w in global_exclude:
         if w and w in text:
             return False
     for w in (group.get("exclude") or []):
         if w and w in text:
             return False
-    # require_any: 제목/요약 어디든 하나라도(동시출현 게이트)
+    # 내용 게이트(있으면): 제목/요약 어디든 하나
     req = group.get("require_any") or []
     if req and not any(w in text for w in req):
         return False
-    # title_any: 제목(헤드라인)에 하나라도 — 엔티티 분류 정밀도용(스쳐 언급 배제)
+    # 주제(subject) 게이트: 아래 중 정의된 게 있으면 최소 하나는 충족해야
+    #   title_any    : 제목에 하나라도(엔티티 헤드라인)
+    #   lead_any     : 기사 도입부(요약 앞 N자)에 하나라도 → 사업명 제목이어도 주체가 그 기관
+    #   title_all_of : 제목에 각 하위목록에서 하나씩 모두(예: 경기지역 AND 콘텐츠)
     tany = group.get("title_any") or []
-    if tany and not any(w in title for w in tany):
-        return False
+    lany = group.get("lead_any") or []
+    tall = group.get("title_all_of") or []
+    if tany or lany or tall:
+        ok = (any(w in title for w in tany)
+              or any(w in snip[:lead_window] for w in lany)
+              or (bool(tall) and all(any(w in title for w in sub) for sub in tall)))
+        if not ok:
+            return False
     return True
 
 
