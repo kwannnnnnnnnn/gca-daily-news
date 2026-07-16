@@ -73,8 +73,10 @@ def process(articles: list, meta: dict, cfg: dict) -> dict:
     for c in clusters:
         members = c["members"]
         # 특정 기관 분류(비-catchall)가 광범위 분류(catchall: 경기도·중앙부처)보다 우선
+        # 배정: spec(정밀도 등급, 낮을수록 특정기관) 우선, 그다음 표시 priority
         prim = min(members, key=lambda m: (
-            bool(gmap.get(m["group"], {}).get("catchall")), m["group_priority"]))
+            gmap.get(m["group"], {}).get("spec", 99), m["group_priority"]))
+        prim_members = [m for m in members if m["group"] == prim["group"]]
         seen, sources = set(), []
         for m in sorted(members, key=lambda m: (m["origin"] != "naver", -m["ts"])):
             nm = m["source"] or press_name(m["url"])
@@ -82,7 +84,8 @@ def process(articles: list, meta: dict, cfg: dict) -> dict:
                 continue
             seen.add(nm)
             sources.append({"name": nm, "url": m["url"], "origin": m["origin"]})
-        rep = max(members, key=lambda m: (bool(m["snippet"]), m["ts"]))
+        # 대표 기사는 배정 분류의 멤버 중에서(표시 제목이 섹션과 일치하도록)
+        rep = max(prim_members, key=lambda m: (bool(m["snippet"]), m["ts"]))
         out_clusters.append({
             "title": rep["title"], "url": rep["url"], "snippet": rep["snippet"],
             "source": sources[0]["name"] if sources else rep["source"],
