@@ -1,6 +1,6 @@
 {
   "date": "2026-07-17",
-  "generated_at": "2026-07-17T20:10:34.537368+09:00",
+  "generated_at": "2026-07-17T21:02:20.420795+09:00",
   "window_hours": 30,
   "sources": [
     "네이버뉴스",
@@ -9,10 +9,10 @@
   "use_naver": true,
   "preview_items": 5,
   "counts": {
-    "collected": 1397,
-    "kept": 241,
-    "excluded": 1156,
-    "consolidated": 71,
+    "collected": 1326,
+    "kept": 231,
+    "excluded": 1095,
+    "consolidated": 67,
     "multi": 27
   },
   "groups": [
@@ -20,7 +20,7 @@
       "id": "gca",
       "label": "경기콘텐츠진흥원",
       "priority": 1,
-      "count": 3,
+      "count": 2,
       "items": [
         {
           "title": "경콘진, JYP파트너스와 콘텐츠 스타트업 투자펀드 결성",
@@ -37,14 +37,9 @@
               "name": "한국경제",
               "url": "https://www.hankyung.com/article/202607169990h",
               "origin": "naver"
-            },
-            {
-              "name": "웹이코노미",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyV0J5Mk5kdDVGclNVTmdDSGlLNnE2T0ZtekIzRmR0S0ZwNHRPbS04ZnQ4NThBcE5vOHZUZndXNHpRaWtQaWtxV0VzRWNiMmRPOE9Sc2Z4UnRZQ1ViYmtLaG9JNHBwZGFsSHRkSHZLMEVHQQ?oc=5",
-              "origin": "google"
             }
           ],
-          "source_count": 3,
+          "source_count": 2,
           "published": "2026-07-16T20:32:00+09:00",
           "ts": 1784201520.0,
           "group": "gca",
@@ -67,24 +62,6 @@
           "ts": 1784240100.0,
           "group": "gca",
           "group_label": "경기콘텐츠진흥원"
-        },
-        {
-          "title": "경콘진, '레벨업 5호 펀드' 결성…\"콘텐츠 스타트업 발굴\"",
-          "url": "http://www.bizwnews.com/news/articleView.html?idxno=140793",
-          "snippet": "경기콘텐츠코리아랩에서 열린 'JYPP-GCA 레벨업 투자조합' 결성식 사진=경콘진 경기콘텐츠진흥원(이하 경콘진)이 JYP파트너스와 신규 투자조합을 결성하고 경기도 콘텐츠 스타트업을 대상으로 투자 집행에 나선다....",
-          "source": "bizwnews.com",
-          "sources": [
-            {
-              "name": "bizwnews.com",
-              "url": "http://www.bizwnews.com/news/articleView.html?idxno=140793",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-16T14:52:00+09:00",
-          "ts": 1784181120.0,
-          "group": "gca",
-          "group_label": "경기콘텐츠진흥원"
         }
       ]
     },
@@ -92,7 +69,7 @@
       "id": "province",
       "label": "경기도(콘텐츠 관련)",
       "priority": 2,
-      "count": 4,
+      "count": 3,
       "items": [
         {
           "title": "경기권 최대 게임쇼 PlayX4, 5월 21일 개최",
@@ -147,24 +124,6 @@
           "ts": 1784185560.0,
           "group": "province",
           "group_label": "경기도(콘텐츠 관련)"
-        },
-        {
-          "title": "고양산업진흥원·경기영상과학고, 방송영상 전문인재 양성 위한 명사특...",
-          "url": "http://www.breaknews.com/1222251",
-          "snippet": "고양산업진흥원과 경기영상과학고등학교가 지난 13일 미래 방송·영상 콘텐츠 산업을 이끌 전문인재 양성을 위해 손을 맞잡고 학생들을 위한 명사특강을 열었다....",
-          "source": "breaknews.com",
-          "sources": [
-            {
-              "name": "breaknews.com",
-              "url": "http://www.breaknews.com/1222251",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-16T14:16:00+09:00",
-          "ts": 1784178960.0,
-          "group": "province",
-          "group_label": "경기도(콘텐츠 관련)"
         }
       ]
     },
@@ -172,7 +131,7 @@
       "id": "governor",
       "label": "경기도지사",
       "priority": 3,
-      "count": 40,
+      "count": 39,
       "items": [
         {
           "title": "추미애 “삼전닉스, 폐수 방류량 줄여라…기준위반하면 엄중 조치”",
@@ -324,7 +283,7 @@
         {
           "title": "추미애 \"개혁은 법 흔드는 일 아냐…헌법 원칙 세우고 권력은 국민 통제...",
           "url": "https://www.kyeonggi.com/article/20260717580074",
-          "snippet": "제78주년 제헌절을 맞아 추미애 경기도지사는 \"개혁은 법을 흔드는 일이 아니라 헌법의 원칙을 다시 세우고 모든 권력을 국민의 통제 아래 돌려놓는 일\"이라며 헌법 정신에 기반한 권력 개혁의 필요성을 강조했다. 추...",
+          "snippet": "제78회 제헌절을 맞아 추미애 경기도지사가 \"개혁은 법을 흔드는 일이 아니라 헌법의 원칙을 다시 세우고 모든 권력을 국민의 통제 아래 돌려놓는 일\"이라며 헌법 정신에 기반한 권력 개혁의 필요성을 강조했다. 추 지사는...",
           "source": "경기일보",
           "sources": [
             {
@@ -747,10 +706,10 @@
           "title": "추미애 도지사, 삼성전자와 에스케이하이닉스에 “폐수 방류량 줄여라” 행정권고",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qaUZhVGgwT01aTi1YOXNrc3lTNFlGZzM0Y2wzc1lweXN2dmoyYVNYblRKbHI4YnhERzJZRXVPTWpEMmtwbkp4dWg1MWhFWE5QNmY3V2Q1My1rTWRfZjFwN2ZqS3N2eVVkOEZWUw?oc=5",
           "snippet": "",
-          "source": "전주일보",
+          "source": "시사안성",
           "sources": [
             {
-              "name": "전주일보",
+              "name": "시사안성",
               "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qaUZhVGgwT01aTi1YOXNrc3lTNFlGZzM0Y2wzc1lweXN2dmoyYVNYblRKbHI4YnhERzJZRXVPTWpEMmtwbkp4dWg1MWhFWE5QNmY3V2Q1My1rTWRfZjFwN2ZqS3N2eVVkOEZWUw?oc=5",
               "origin": "google"
             }
@@ -1030,24 +989,6 @@
           "ts": 1784182320.0,
           "group": "governor",
           "group_label": "경기도지사"
-        },
-        {
-          "title": "[여성뉴스] 성평등가족부, 변화하는 젠더폭력 대응 위한 두 번째 '성평등...",
-          "url": "https://www.ibabynews.com/news/articleView.html?idxno=152969",
-          "snippet": "추미애 \"경기소방의 새로운 역사가 후배들에게 희망의 이정표 되길\" 추미애 경기도지사는 13일 경기도청 집무실에서 경기도소방재난본부 소방준감 및 소방정 승진자에게 임명장을 수여했다. 이 자리에서는 1992년...",
-          "source": "ibabynews.com",
-          "sources": [
-            {
-              "name": "ibabynews.com",
-              "url": "https://www.ibabynews.com/news/articleView.html?idxno=152969",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-16T14:56:00+09:00",
-          "ts": 1784181360.0,
-          "group": "governor",
-          "group_label": "경기도지사"
         }
       ]
     },
@@ -1057,59 +998,6 @@
       "priority": 4,
       "count": 9,
       "items": [
-        {
-          "title": "채신덕, 경기도의회 문화체육관광위원장 선출",
-          "url": "https://www.seoulfn.com/news/articleView.html?idxno=633588",
-          "snippet": "채신덕 경기도의원(더불어민주당·김포2)이 16일 열린 경기도의회 제392회 임시회 제3차 본회의에서 제12대 전반기 문화체육관광위원장으로 선출됐다. 채 위원장은 당선 인사에서 \"문화와 예술, 체육, 관광은 도민 삶의 질을...",
-          "source": "seoulfn.com",
-          "sources": [
-            {
-              "name": "seoulfn.com",
-              "url": "https://www.seoulfn.com/news/articleView.html?idxno=633588",
-              "origin": "naver"
-            },
-            {
-              "name": "tournews21.com",
-              "url": "https://www.tournews21.com/news/articleView.html?idxno=138773",
-              "origin": "naver"
-            },
-            {
-              "name": "서울신문",
-              "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/16/20260716500208?wlog_tag3=naver",
-              "origin": "naver"
-            },
-            {
-              "name": "내외뉴스통신",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ud3NMQkFCbWpjUFdHby1lcnIwamxSQ1NoSExsd2dxck9DejcwRkVJeXZTQnNoalZPTEZiTGF0cWxOQ2N6T0JHci1mQ2xta2JYSTBNWFFPekRTakxtMmhkaHRKWEdNMUoxTjNINQ?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "경기종합뉴스",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBobTdQcnJiWTYxc2xENmJYeXo2eHBMbzEzcHVWQWFRT0RGZkxLakFlak5VYTZGWm5rTXJWSkxPLUh6VUZCOHV5Q0tKZDBkWmwwT1MxR2d4Zlg1T2llZnFxWGxGTndZakxfNk5ieVB0OEhVcWJC?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "서울파이낸스",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Bdndobk0wcWVTeDgzSlg2OVJNc1ZhQlBCWnB0ZWNMVExPZ21QMnREUGxqMWdHRmd5emhmOXMtbmU0UVRQcThWUGxsZE1BRFRXLXU4anBHd2c4azk2ZURGYk5aTEhGT0tvWHc?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "일간경기",
-              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByRnluOFhrcjFpd2tDdkk3RGZmbHRXZVc2VGNWaVZxdmxhbTk2c2tuTmtkX2hiQUlMWnhDY0t5WmJDQ3JOMTROcm1saVI2ZFhSdEpjU2hJdXN5NHV3VUtvOFRfY2I1cmNs?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "뉴스잡",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VRldjMkV2UTNoM21Kc2lRU1dDTGt3MV9EbGJDcFhLNGp5c2d2ZHpvLUJ4aHVld3AyQkI2YXlZZEh1enZ3UUExdTMxZ2lFTTdTSm1idUNKWmI5VHMzcm9LZ2J0WXU4LV9sYnRj0gFrQVVfeXFMTlVGV2MyRXZRM2gzbUpzaVFTV0NMa3cxX0RsYkNwWEs0anlzZ3Zkem8tQnhodWV3cDJCQjZheVlkSHV6dndRQTF1MzFnaUVNN1NKbWJ1Q0paYjlUczNyb0tnYnRZdTgtX2xidGM?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 8,
-          "published": "2026-07-16T22:00:00+09:00",
-          "ts": 1784206800.0,
-          "group": "gg_council",
-          "group_label": "경기도의회(문체·미래위)"
-        },
         {
           "title": "경기도의회 상임위원장단, ‘절대다수’ 민주당 12석 차지…국힘 1석",
           "url": "https://www.kgnews.co.kr/news/article.html?no=904200",
@@ -1212,6 +1100,54 @@
           "group_label": "경기도의회(문체·미래위)"
         },
         {
+          "title": "채신덕, 경기도의회 문화체육관광위원장 선출",
+          "url": "https://www.seoulfn.com/news/articleView.html?idxno=633588",
+          "snippet": "채신덕 경기도의원(더불어민주당·김포2)이 16일 열린 경기도의회 제392회 임시회 제3차 본회의에서 제12대 전반기 문화체육관광위원장으로 선출됐다. 채 위원장은 당선 인사에서 \"문화와 예술, 체육, 관광은 도민 삶의 질을...",
+          "source": "seoulfn.com",
+          "sources": [
+            {
+              "name": "seoulfn.com",
+              "url": "https://www.seoulfn.com/news/articleView.html?idxno=633588",
+              "origin": "naver"
+            },
+            {
+              "name": "tournews21.com",
+              "url": "https://www.tournews21.com/news/articleView.html?idxno=138773",
+              "origin": "naver"
+            },
+            {
+              "name": "서울신문",
+              "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/16/20260716500208?wlog_tag3=naver",
+              "origin": "naver"
+            },
+            {
+              "name": "내외뉴스통신",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ud3NMQkFCbWpjUFdHby1lcnIwamxSQ1NoSExsd2dxck9DejcwRkVJeXZTQnNoalZPTEZiTGF0cWxOQ2N6T0JHci1mQ2xta2JYSTBNWFFPekRTakxtMmhkaHRKWEdNMUoxTjNINQ?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "경기종합뉴스",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBobTdQcnJiWTYxc2xENmJYeXo2eHBMbzEzcHVWQWFRT0RGZkxLakFlak5VYTZGWm5rTXJWSkxPLUh6VUZCOHV5Q0tKZDBkWmwwT1MxR2d4Zlg1T2llZnFxWGxGTndZakxfNk5ieVB0OEhVcWJC?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "서울파이낸스",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Bdndobk0wcWVTeDgzSlg2OVJNc1ZhQlBCWnB0ZWNMVExPZ21QMnREUGxqMWdHRmd5emhmOXMtbmU0UVRQcThWUGxsZE1BRFRXLXU4anBHd2c4azk2ZURGYk5aTEhGT0tvWHc?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "일간경기",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByRnluOFhrcjFpd2tDdkk3RGZmbHRXZVc2VGNWaVZxdmxhbTk2c2tuTmtkX2hiQUlMWnhDY0t5WmJDQ3JOMTROcm1saVI2ZFhSdEpjU2hJdXN5NHV3VUtvOFRfY2I1cmNs?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 7,
+          "published": "2026-07-16T22:00:00+09:00",
+          "ts": 1784206800.0,
+          "group": "gg_council",
+          "group_label": "경기도의회(문체·미래위)"
+        },
+        {
           "title": "경기도의회 미래과학협력위원회, 김태형 위원장 선출로 본격 출범 > 뉴스",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xMjRFaWpreGI5TmxXeVRRazJpd0stRVdPMzAxNGZRSUQ1MURTNXVCeUFYRy15QlpwX2RGTnVDSE5rVnd2WUxYNExfS05RaDJoZjhQNUpaakU4clVGMDg4ODJ2dTVXd01tLXFHdTdQRkQ?oc=5",
           "snippet": "",
@@ -1234,7 +1170,7 @@
             },
             {
               "name": "아시아뉴스통신",
-              "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OcTNGVXZDRnp2UjR3N3VFTloxNG5zRjlid3NNUzQ2S1VsYm1pcEp4Zl9hVWNPRzdiZTJIYVRRdUhRRTNsaDFyR2tkNFFhdWVmWW9IXzNEQWxJOURNaVVFWDhR?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qc1FPOW5SLUxrVDZidGNwTU1LQkliQ3UwcDJJcXRkRWpzU0NSOV9WTzkwODZ6c09MUkpHUlNaWHVRNkl0TDcta3VtaG5SRHVuYTdpZ2dmQWhBbDc3MnFhQklfaW1vMWs2SnhaN203V0R1SFR5?oc=5",
               "origin": "google"
             }
           ],
@@ -1343,43 +1279,25 @@
       "count": 5,
       "items": [
         {
-          "title": "[Opinion] 2026 제30회 BIFAN 부천국제판타스틱영화제 결산 [영화]",
-          "url": "https://www.artinsight.co.kr/news/view.php?no=81676",
-          "snippet": "1997년 '사랑, 환상, 모험'을 기치로 첫걸음을 뗀 부천국제판타스틱영화제(BIFAN)는 호러, 스릴러, SF 등 주류가 외면했던 비주류 장르 영화들을 수면 위로 꾸준히 끌어올린 아시아 최대 규모의 장르 영화제다. 어느덧 서른...",
-          "source": "artinsight.co.kr",
-          "sources": [
-            {
-              "name": "artinsight.co.kr",
-              "url": "https://www.artinsight.co.kr/news/view.php?no=81676",
-              "origin": "naver"
-            },
-            {
-              "name": "아트인사이트",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Land6MndDNkl4T1p5ZU5UOWRXNjhyUWQ1dG40M2VpZllRaUVPdmQ3Z29EZUJhMEw2bGkya1VSUU05UWxfYVFKN0ktM2FLc0Zyb2RRSmh3Z1RObm5OYjE5dw?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-07-16T21:18:00+09:00",
-          "ts": 1784204280.0,
-          "group": "bucheon",
-          "group_label": "부천시(콘텐츠 관련)"
-        },
-        {
-          "title": "부천시, 콘텐츠 기업 해외 진출 지원 … TCCF 참가기업 모집",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iMXpfVmUzMzhKQk5YZEk0S1NCekh1bnF6Q28xaGRYeDVOUWFLeXNGNktFdWhoY2g3Z1lfcE1FNlk1eDZ1X3p3bFoyTUFCbmkwTFpHQjI0VE8xYW55eWhOMmRENnhvZ1J0WHc?oc=5",
+          "title": "부천시 콘텐츠 기업 해외 진출 지원 위해 TCCF 참가기업 모집 > 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WdGo2Y1pYM2RBSnp3MmRuZEVaQU9ReFk2bTRSUzdrV0Q4YWdIb0FSWDR6YmJiaTZobE9GNnlfc3o2ZWtWdllhQ2ZKdll6WHpmQ2JQOXFJQWc1d3pnNkk3M0NfVzBxRV9SVDVkcEwzWGg?oc=5",
           "snippet": "",
-          "source": "부천포커스",
+          "source": "더코리아",
           "sources": [
+            {
+              "name": "더코리아",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WdGo2Y1pYM2RBSnp3MmRuZEVaQU9ReFk2bTRSUzdrV0Q4YWdIb0FSWDR6YmJiaTZobE9GNnlfc3o2ZWtWdllhQ2ZKdll6WHpmQ2JQOXFJQWc1d3pnNkk3M0NfVzBxRV9SVDVkcEwzWGg?oc=5",
+              "origin": "google"
+            },
             {
               "name": "부천포커스",
               "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iMXpfVmUzMzhKQk5YZEk0S1NCekh1bnF6Q28xaGRYeDVOUWFLeXNGNktFdWhoY2g3Z1lfcE1FNlk1eDZ1X3p3bFoyTUFCbmkwTFpHQjI0VE8xYW55eWhOMmRENnhvZ1J0WHc?oc=5",
               "origin": "google"
             }
           ],
-          "source_count": 1,
-          "published": "2026-07-17T17:41:00+09:00",
-          "ts": 1784277660.0,
+          "source_count": 2,
+          "published": "2026-07-17T20:14:00+09:00",
+          "ts": 1784286840.0,
           "group": "bucheon",
           "group_label": "부천시(콘텐츠 관련)"
         },
@@ -1436,6 +1354,24 @@
           "ts": 1784207662.0,
           "group": "bucheon",
           "group_label": "부천시(콘텐츠 관련)"
+        },
+        {
+          "title": "[Opinion] 2026 제30회 BIFAN 부천국제판타스틱영화제 결산 [영화]",
+          "url": "https://www.artinsight.co.kr/news/view.php?no=81676",
+          "snippet": "1997년 '사랑, 환상, 모험'을 기치로 첫걸음을 뗀 부천국제판타스틱영화제(BIFAN)는 호러, 스릴러, SF 등 주류가 외면했던 비주류 장르 영화들을 수면 위로 꾸준히 끌어올린 아시아 최대 규모의 장르 영화제다. 어느덧 서른...",
+          "source": "artinsight.co.kr",
+          "sources": [
+            {
+              "name": "artinsight.co.kr",
+              "url": "https://www.artinsight.co.kr/news/view.php?no=81676",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-16T21:18:00+09:00",
+          "ts": 1784204280.0,
+          "group": "bucheon",
+          "group_label": "부천시(콘텐츠 관련)"
         }
       ]
     },
@@ -1443,7 +1379,7 @@
       "id": "central",
       "label": "중앙부처(콘텐츠)",
       "priority": 7,
-      "count": 10,
+      "count": 9,
       "items": [
         {
           "title": "이마트24·콘진원, 콘텐츠 IP 업무협약",
@@ -1709,24 +1645,6 @@
           "source_count": 1,
           "published": "2026-07-16T15:32:00+09:00",
           "ts": 1784183520.0,
-          "group": "central",
-          "group_label": "중앙부처(콘텐츠)"
-        },
-        {
-          "title": "경남도 홍보캐릭터 '벼리', 문체부 '캐릭터 라이선싱 페어' 첫 출동",
-          "url": "https://www.newsis.com/view/NISX20260716_0003712328",
-          "snippet": "경남도는 공식 홍보캐릭터 '벼리'가 16일부터 19일까지 서울 코엑스(COEX)에서 열리는 문화체육관광부 주최, 한국콘텐츠진흥원·코엑스 공동주관 '캐릭터 라이선싱 페어 2026'에 처음으로 참가했다고 밝혔다. '캐릭터...",
-          "source": "뉴시스",
-          "sources": [
-            {
-              "name": "뉴시스",
-              "url": "https://www.newsis.com/view/NISX20260716_0003712328",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-16T14:31:00+09:00",
-          "ts": 1784179860.0,
           "group": "central",
           "group_label": "중앙부처(콘텐츠)"
         }
