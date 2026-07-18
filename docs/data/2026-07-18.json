@@ -1,6 +1,6 @@
 {
   "date": "2026-07-18",
-  "generated_at": "2026-07-18T19:47:16.653479+09:00",
+  "generated_at": "2026-07-18T20:32:50.459719+09:00",
   "window_hours": 30,
   "sources": [
     "네이버뉴스",
@@ -9,11 +9,11 @@
   "use_naver": true,
   "preview_items": 5,
   "counts": {
-    "collected": 651,
-    "kept": 60,
-    "excluded": 591,
-    "consolidated": 30,
-    "multi": 8
+    "collected": 639,
+    "kept": 57,
+    "excluded": 582,
+    "consolidated": 28,
+    "multi": 7
   },
   "groups": [
     {
@@ -43,36 +43,10 @@
       ]
     },
     {
-      "id": "province",
-      "label": "경기도(콘텐츠 관련)",
-      "priority": 2,
-      "count": 1,
-      "items": [
-        {
-          "title": "용인 파3 골프장 추천 TOP5! 경기 숏게임 좋은 곳",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORDA2WVVPWXNkSTJhTHJReVB5NjV6d1JKVTZHUHpPMDNXV2M5Z3lob21zWnZpMHg1b0d0V0R3U0lqWWlob3ZpbG9vZ01hOWFCTDVpNkxPbkNxa3JvaHFXY3Y5S0NLNm9GeUV6ZmlId3duQm9KaU1rdUQ4RkdDem9GUVdMeDhiM2pKY1hHU2JTcw?oc=5",
-          "snippet": "",
-          "source": "네이버 프리미엄콘텐츠",
-          "sources": [
-            {
-              "name": "네이버 프리미엄콘텐츠",
-              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORDA2WVVPWXNkSTJhTHJReVB5NjV6d1JKVTZHUHpPMDNXV2M5Z3lob21zWnZpMHg1b0d0V0R3U0lqWWlob3ZpbG9vZ01hOWFCTDVpNkxPbkNxa3JvaHFXY3Y5S0NLNm9GeUV6ZmlId3duQm9KaU1rdUQ4RkdDem9GUVdMeDhiM2pKY1hHU2JTcw?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-17T20:10:00+09:00",
-          "ts": 1784286600.0,
-          "group": "province",
-          "group_label": "경기도(콘텐츠 관련)"
-        }
-      ]
-    },
-    {
       "id": "governor",
       "label": "경기도지사",
       "priority": 3,
-      "count": 16,
+      "count": 15,
       "items": [
         {
           "title": "추미애 경기도지사 “권력이 개혁 거부하면 국민이 바로잡아야”",
@@ -204,6 +178,24 @@
           "source_count": 1,
           "published": "2026-07-18T03:49:15+09:00",
           "ts": 1784314155.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "추미애·양향자·조응천, ‘경기도 성장’ 입 모아…방식은 제각각 [6·3 지선]",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oQkFOcE1HYnN3YmdkXzQzc0d2aElXcmxKOVFXMWhBSzlvY25xM3FuQURzSnFxTWRiUGJuazlhV3JVTThBOHEwdEJHMXp4ODBBeGlTSTUxUzJfVnJkeEpreUpQaw?oc=5",
+          "snippet": "",
+          "source": "쿠키뉴스",
+          "sources": [
+            {
+              "name": "쿠키뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oQkFOcE1HYnN3YmdkXzQzc0d2aElXcmxKOVFXMWhBSzlvY25xM3FuQURzSnFxTWRiUGJuazlhV3JVTThBOHEwdEJHMXp4ODBBeGlTSTUxUzJfVnJkeEpreUpQaw?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-18T00:35:31+09:00",
+          "ts": 1784302531.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -350,42 +342,6 @@
           "ts": 1784267640.0,
           "group": "governor",
           "group_label": "경기도지사"
-        },
-        {
-          "title": "추미애 \"개혁은 법 흔드는 일 아냐…헌법 원칙 세우고 권력은 국민 통제...",
-          "url": "https://www.kyeonggi.com/article/20260717580074",
-          "snippet": "제78회 제헌절을 맞아 추미애 경기도지사가 \"개혁은 법을 흔드는 일이 아니라 헌법의 원칙을 다시 세우고 모든 권력을 국민의 통제 아래 돌려놓는 일\"이라며 헌법 정신에 기반한 권력 개혁의 필요성을 강조했다. 추 지사는...",
-          "source": "경기일보",
-          "sources": [
-            {
-              "name": "경기일보",
-              "url": "https://www.kyeonggi.com/article/20260717580074",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-17T14:08:00+09:00",
-          "ts": 1784264880.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "[재계핫이슈] 삼전닉스의 잇따른 기존라인 증설에 초조한 '호남반도체'",
-          "url": "https://www.pennmike.com/news/articleView.html?idxno=123879",
-          "snippet": "이와관련, 추미애 경기도지사는 지난 15일 '제2차 반도체 초격차 전략회의'를 주재하고 삼성전자 평택캠퍼스의 P5 1·2공장(팹 5·6기)의 3복층 건설을 위한 용적률 상향 절차를 신속히 추진하도록 했다. 경기도는...",
-          "source": "pennmike.com",
-          "sources": [
-            {
-              "name": "pennmike.com",
-              "url": "https://www.pennmike.com/news/articleView.html?idxno=123879",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-17T13:56:00+09:00",
-          "ts": 1784264160.0,
-          "group": "governor",
-          "group_label": "경기도지사"
         }
       ]
     },
@@ -496,29 +452,6 @@
       "count": 5,
       "items": [
         {
-          "title": "부천시, 콘텐츠 기업 해외 진출 지원...TCCF 참가기업 모집",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80WUFkVVJtam5rTHdNbkZfejFJNUtlWTBsX25YbGVBcHRELWY5MUQ3eXRFWXFNTDh6UmJ6Wk92R0ZRTl9vU0pBbHBabEI3OFRMQVgySEhUZ2FidEVKcDVpYmRpU3lQcjB1VXVUY9IBcEFVX3lxTE1XeE5zeTcxOTR4N1lPLWNRZzNYQlNlU0N4YlBkdUN3SERkd1ZTQmFtaXdJcndxbEIxQkVvM1NBcUpiQ1hYQzBLdDFDQkU1WjN4YWd0b0NoQjUzN3VSMUE3M1FHeDdUeXFBSFJnNUlkWkI?oc=5",
-          "snippet": "",
-          "source": "뉴스체크",
-          "sources": [
-            {
-              "name": "뉴스체크",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80WUFkVVJtam5rTHdNbkZfejFJNUtlWTBsX25YbGVBcHRELWY5MUQ3eXRFWXFNTDh6UmJ6Wk92R0ZRTl9vU0pBbHBabEI3OFRMQVgySEhUZ2FidEVKcDVpYmRpU3lQcjB1VXVUY9IBcEFVX3lxTE1XeE5zeTcxOTR4N1lPLWNRZzNYQlNlU0N4YlBkdUN3SERkd1ZTQmFtaXdJcndxbEIxQkVvM1NBcUpiQ1hYQzBLdDFDQkU1WjN4YWd0b0NoQjUzN3VSMUE3M1FHeDdUeXFBSFJnNUlkWkI?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "더코리아",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WdGo2Y1pYM2RBSnp3MmRuZEVaQU9ReFk2bTRSUzdrV0Q4YWdIb0FSWDR6YmJiaTZobE9GNnlfc3o2ZWtWdllhQ2ZKdll6WHpmQ2JQOXFJQWc1d3pnNkk3M0NfVzBxRV9SVDVkcEwzWGg?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-07-18T09:52:20+09:00",
-          "ts": 1784335940.0,
-          "group": "bucheon",
-          "group_label": "부천시(콘텐츠 관련)"
-        },
-        {
           "title": "[현장 카메라] 혈세 92억 삼킨 부천 동춘서커스장 \"20여년 째 공사만…\"...",
           "url": "https://www.joongboo.com/news/articleView.html?idxno=363731660",
           "snippet": "지난 17일 오전, 부천시 상동의 영상문화산업단지 내 동춘서커스장. 공연장의 모습을 갖추기도 못하고 20여... 동춘서커스장 건립 사업은 2004년 부천시가 동춘서커스단과 건립 협약을 체결하면서 본격 추진됐다....",
@@ -533,6 +466,24 @@
           "source_count": 1,
           "published": "2026-07-18T12:50:00+09:00",
           "ts": 1784346600.0,
+          "group": "bucheon",
+          "group_label": "부천시(콘텐츠 관련)"
+        },
+        {
+          "title": "부천시, 콘텐츠 기업 해외 진출 지원...TCCF 참가기업 모집",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80WUFkVVJtam5rTHdNbkZfejFJNUtlWTBsX25YbGVBcHRELWY5MUQ3eXRFWXFNTDh6UmJ6Wk92R0ZRTl9vU0pBbHBabEI3OFRMQVgySEhUZ2FidEVKcDVpYmRpU3lQcjB1VXVUY9IBcEFVX3lxTE1XeE5zeTcxOTR4N1lPLWNRZzNYQlNlU0N4YlBkdUN3SERkd1ZTQmFtaXdJcndxbEIxQkVvM1NBcUpiQ1hYQzBLdDFDQkU1WjN4YWd0b0NoQjUzN3VSMUE3M1FHeDdUeXFBSFJnNUlkWkI?oc=5",
+          "snippet": "",
+          "source": "뉴스체크",
+          "sources": [
+            {
+              "name": "뉴스체크",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80WUFkVVJtam5rTHdNbkZfejFJNUtlWTBsX25YbGVBcHRELWY5MUQ3eXRFWXFNTDh6UmJ6Wk92R0ZRTl9vU0pBbHBabEI3OFRMQVgySEhUZ2FidEVKcDVpYmRpU3lQcjB1VXVUY9IBcEFVX3lxTE1XeE5zeTcxOTR4N1lPLWNRZzNYQlNlU0N4YlBkdUN3SERkd1ZTQmFtaXdJcndxbEIxQkVvM1NBcUpiQ1hYQzBLdDFDQkU1WjN4YWd0b0NoQjUzN3VSMUE3M1FHeDdUeXFBSFJnNUlkWkI?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-18T09:52:20+09:00",
+          "ts": 1784335940.0,
           "group": "bucheon",
           "group_label": "부천시(콘텐츠 관련)"
         },
