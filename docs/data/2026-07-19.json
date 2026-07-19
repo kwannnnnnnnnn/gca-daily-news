@@ -1,6 +1,6 @@
 {
   "date": "2026-07-19",
-  "generated_at": "2026-07-19T19:59:29.546126+09:00",
+  "generated_at": "2026-07-19T20:40:31.948094+09:00",
   "window_hours": 30,
   "sources": [
     "네이버뉴스",
@@ -9,11 +9,11 @@
   "use_naver": true,
   "preview_items": 5,
   "counts": {
-    "collected": 913,
-    "kept": 113,
-    "excluded": 800,
-    "consolidated": 56,
-    "multi": 16
+    "collected": 940,
+    "kept": 117,
+    "excluded": 823,
+    "consolidated": 58,
+    "multi": 17
   },
   "groups": [
     {
@@ -46,8 +46,56 @@
       "id": "governor",
       "label": "경기도지사",
       "priority": 3,
-      "count": 46,
+      "count": 47,
       "items": [
+        {
+          "title": "추미애, 민주당 내 ‘보완수사권 존치’ 논의에 “반민주적 검찰 회귀 ...",
+          "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000540499",
+          "snippet": "추미애 경기도지사가 오늘(19일) 새벽 SNS에 글을 올려 민주당 일각에서 검찰에 제한적으로 보완수사권을 남겨야 한다는 논의를 두고 \"가장 반민주적인 검찰 제도로 회귀할 가능성이 농후하다\"고 비판했습니다. 추 지사는...",
+          "source": "ichannela.com",
+          "sources": [
+            {
+              "name": "ichannela.com",
+              "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000540499",
+              "origin": "naver"
+            },
+            {
+              "name": "뉴시스",
+              "url": "https://www.newsis.com/view/NISX20260719_0003714223",
+              "origin": "naver"
+            },
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202607191620001",
+              "origin": "naver"
+            },
+            {
+              "name": "TV조선",
+              "url": "https://news.tvchosun.com/site/data/html_dir/2026/07/19/2026071990047.html",
+              "origin": "naver"
+            },
+            {
+              "name": "newdaily.co.kr",
+              "url": "https://www.newdaily.co.kr/site/data/html/2026/07/19/2026071900039.html",
+              "origin": "naver"
+            },
+            {
+              "name": "getnews.co.kr",
+              "url": "https://www.getnews.co.kr/news/articleView.html?idxno=875441",
+              "origin": "naver"
+            },
+            {
+              "name": "뉴스1",
+              "url": "https://www.news1.kr/politics/general-politics/6231821",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 7,
+          "published": "2026-07-19T17:10:00+09:00",
+          "ts": 1784448600.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
         {
           "title": "추미애 \"보완수사 일부 인정하면 문재인 정부 이전으로 회귀\"",
           "url": "http://www.yonhapnewstv.co.kr/news/AKR20260719170054DLC",
@@ -141,49 +189,6 @@
           "source_count": 7,
           "published": "2026-07-19T16:51:00+09:00",
           "ts": 1784447460.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "추미애, 민주당 내 ‘보완수사권 존치’ 논의에 “반민주적 검찰 회귀 ...",
-          "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000540499",
-          "snippet": "추미애 경기도지사가 오늘(19일) 새벽 SNS에 글을 올려 민주당 일각에서 검찰에 제한적으로 보완수사권을 남겨야 한다는 논의를 두고 \"가장 반민주적인 검찰 제도로 회귀할 가능성이 농후하다\"고 비판했습니다. 추 지사는...",
-          "source": "ichannela.com",
-          "sources": [
-            {
-              "name": "ichannela.com",
-              "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000540499",
-              "origin": "naver"
-            },
-            {
-              "name": "뉴시스",
-              "url": "https://www.newsis.com/view/NISX20260719_0003714223",
-              "origin": "naver"
-            },
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202607191620001",
-              "origin": "naver"
-            },
-            {
-              "name": "TV조선",
-              "url": "https://news.tvchosun.com/site/data/html_dir/2026/07/19/2026071990047.html",
-              "origin": "naver"
-            },
-            {
-              "name": "getnews.co.kr",
-              "url": "https://www.getnews.co.kr/news/articleView.html?idxno=875441",
-              "origin": "naver"
-            },
-            {
-              "name": "뉴스1",
-              "url": "https://www.news1.kr/politics/general-politics/6231821",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 6,
-          "published": "2026-07-19T17:10:00+09:00",
-          "ts": 1784448600.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -283,6 +288,29 @@
           "source_count": 2,
           "published": "2026-07-19T18:48:00+09:00",
           "ts": 1784454480.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "민선 9기 경기도 첫 교통안전 청사진…추미애표 ‘도민 안전’ 시동",
+          "url": "https://www.kyeonggi.com/article/20260719580252",
+          "snippet": "취임 일성으로 ‘도민 안전’을 도정 운영의 최우선 가치로 내세운 추미애 경기도지사는 고령화와 교통약자 증가 등 변화하는 교통환경에 대응해 사고 예방 중심의 안전체계 구축에 본격 나선다. 19일 경기일보 취재를...",
+          "source": "경기일보",
+          "sources": [
+            {
+              "name": "경기일보",
+              "url": "https://www.kyeonggi.com/article/20260719580252",
+              "origin": "naver"
+            },
+            {
+              "name": "v.daum.net",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zbTRRMGE1bEF0YWZCRlBFRjhacmQ2ekdJWDRLVElPSVduaTFXa3Z0aFE3U2FXT05wX0FfWTd1VmZCZV9RVTRzUGc3aXB3NGM?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-07-19T18:08:00+09:00",
+          "ts": 1784452080.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -516,24 +544,6 @@
           "source_count": 1,
           "published": "2026-07-19T18:16:00+09:00",
           "ts": 1784452560.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "민선 9기 경기도 첫 교통안전 청사진…추미애표 ‘도민 안전’ 시동",
-          "url": "https://www.kyeonggi.com/article/20260719580252",
-          "snippet": "취임 일성으로 ‘도민 안전’을 도정 운영의 최우선 가치로 내세운 추미애 경기도지사는 고령화와 교통약자 증가 등 변화하는 교통환경에 대응해 사고 예방 중심의 안전체계 구축에 본격 나선다. 19일 경기일보 취재를...",
-          "source": "경기일보",
-          "sources": [
-            {
-              "name": "경기일보",
-              "url": "https://www.kyeonggi.com/article/20260719580252",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-19T18:08:00+09:00",
-          "ts": 1784452080.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -862,24 +872,6 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "\"불안 심한 모양\" … 추미애, 당내 '檢 보완수사권 존치론'에 군기 잡기",
-          "url": "https://www.newdaily.co.kr/site/data/html/2026/07/19/2026071900039.html",
-          "snippet": "뉴데일리 황지희 기자 = 더불어민주당 소속 추미애 경기지사가 19일 당내 일각에서 제기되는 '검찰 보완수사권 제한적 존치' 주장에 대해 문재인 정부 시절 추진한 검찰개혁을 되돌리는 것이라며 강하게 반대했다. 추 지사는...",
-          "source": "newdaily.co.kr",
-          "sources": [
-            {
-              "name": "newdaily.co.kr",
-              "url": "https://www.newdaily.co.kr/site/data/html/2026/07/19/2026071900039.html",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-19T11:22:00+09:00",
-          "ts": 1784427720.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
           "title": "추미애 경기도지사, 홍기원안에 직격탄…\"검찰개혁 무위로 돌리는 것\" |",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9la3YzUHI3c3ZtV0NDUDlLSzA2NkxMc3hkMXhkeWtKWTUtYUdnSm1tQlNNMFh4clQtaTd1TmpuY29TaUIxNXRlSE9zbzFHcGRCcVM4TFBqbUhoaXBPVTdfNjh6S0RGY2NxTFBTOUlaWQ?oc=5",
           "snippet": "",
@@ -930,6 +922,24 @@
           "source_count": 1,
           "published": "2026-07-19T10:42:00+09:00",
           "ts": 1784425320.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "추미애 “수사·기소 분리 후퇴는 반민주적 검찰 회귀”…수사권 부활 ...",
+          "url": "https://www.hani.co.kr/arti/area/capital/1268831.html",
+          "snippet": "추미애 경기도지사가 “수사·기소 분리는 국민의 인권 보호와 피해자 구제를 위해 반드시 완수해야 할 시대적 사명”이라며 검찰의 직접 수사권 부활 움직임에 강한 우려를 표명했다. 추 지사는 19일 새벽 자신의...",
+          "source": "한겨레",
+          "sources": [
+            {
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/area/capital/1268831.html",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-19T09:58:00+09:00",
+          "ts": 1784422680.0,
           "group": "governor",
           "group_label": "경기도지사"
         }
@@ -1083,7 +1093,7 @@
       "id": "central",
       "label": "중앙부처(콘텐츠)",
       "priority": 7,
-      "count": 3,
+      "count": 4,
       "items": [
         {
           "title": "[단독] 콘진원, 2년여 수장 공백 기간에...제멋대로 ‘억대 인건비 돌려...",
@@ -1123,6 +1133,24 @@
           "source_count": 1,
           "published": "2026-07-19T12:00:00+09:00",
           "ts": 1784430000.0,
+          "group": "central",
+          "group_label": "중앙부처(콘텐츠)"
+        },
+        {
+          "title": "“해외진출 지원” 콘진원, ‘글로벌 비즈니스 라운드테이블’ 참가기업 모집",
+          "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxOUHZCLUZUXzZld3pwTm9jNEJBbWdldGM3M1h1ODRwcXRIZmR1ZFpQMEItXy1iUkpyNUZ3TnZlLU80UE1Va2o4LXpfS0RjN2diN0hkbTJNOGd5WVNGaWE5UzlJWWlJSzJ5clUteXBWcWlmOTZ4Y0gxM291d0VsVTFkRFJ2ejlJYjM5LThmTE9YZ0Jkc3ltZnhkcWZlb0tpUHNIY0V5N3ZIaE5Ha3VGb1MzeHA1Y3lnWVlyUWVqc3JHWHhzay1fNWJ2WF90VVpXc2lyN0NxcVBVcENlMTMyUmp3R2dIY3JhUVNPMUhzbTE2WWlKNU9WcG94TUZPOVVDVGQ5Q3hnWF9UMFZJaE1BbDkwU3F3ZEdMRXVtZ05xY05ON1JWZGhfaTV1VW9sNFVEclY1aXNIRS1sNTNHUjZibFBab04zX1F0RGNkaUlFaFYtelkzS3VQdEtSRzlMYlN5YjhvS0VYcWgzZFliQng4Rk9md0FDcEFBYmlIM05EVGJnR3VVSllQemNiRzB1YVUzcTJxZE82SERZQlAyY2ZTNFVSMFBuc0liU01NSGxtdThHLWFVRElSM0R6cUF5dm9INGtBRVpHMFg0WFZBVlNLOUhxdTNid1o?oc=5",
+          "snippet": "",
+          "source": "MSN",
+          "sources": [
+            {
+              "name": "MSN",
+              "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxOUHZCLUZUXzZld3pwTm9jNEJBbWdldGM3M1h1ODRwcXRIZmR1ZFpQMEItXy1iUkpyNUZ3TnZlLU80UE1Va2o4LXpfS0RjN2diN0hkbTJNOGd5WVNGaWE5UzlJWWlJSzJ5clUteXBWcWlmOTZ4Y0gxM291d0VsVTFkRFJ2ejlJYjM5LThmTE9YZ0Jkc3ltZnhkcWZlb0tpUHNIY0V5N3ZIaE5Ha3VGb1MzeHA1Y3lnWVlyUWVqc3JHWHhzay1fNWJ2WF90VVpXc2lyN0NxcVBVcENlMTMyUmp3R2dIY3JhUVNPMUhzbTE2WWlKNU9WcG94TUZPOVVDVGQ5Q3hnWF9UMFZJaE1BbDkwU3F3ZEdMRXVtZ05xY05ON1JWZGhfaTV1VW9sNFVEclY1aXNIRS1sNTNHUjZibFBab04zX1F0RGNkaUlFaFYtelkzS3VQdEtSRzlMYlN5YjhvS0VYcWgzZFliQng4Rk9md0FDcEFBYmlIM05EVGJnR3VVSllQemNiRzB1YVUzcTJxZE82SERZQlAyY2ZTNFVSMFBuc0liU01NSGxtdThHLWFVRElSM0R6cUF5dm9INGtBRVpHMFg0WFZBVlNLOUhxdTNid1o?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-19T06:50:05+09:00",
+          "ts": 1784411405.0,
           "group": "central",
           "group_label": "중앙부처(콘텐츠)"
         },
