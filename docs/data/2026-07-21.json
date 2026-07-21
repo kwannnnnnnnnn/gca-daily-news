@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "generated_at": "2026-07-21T21:10:03.516354+09:00",
+  "generated_at": "2026-07-21T22:04:40.360979+09:00",
   "window_hours": 30,
   "sources": [
     "네이버뉴스",
@@ -9,19 +9,80 @@
   "use_naver": true,
   "preview_items": 5,
   "counts": {
-    "collected": 2113,
-    "kept": 448,
-    "excluded": 1665,
-    "consolidated": 138,
-    "multi": 56
+    "collected": 2082,
+    "kept": 452,
+    "excluded": 1630,
+    "consolidated": 137,
+    "multi": 55
   },
   "groups": [
     {
       "id": "gca",
       "label": "경기콘텐츠진흥원",
       "priority": 1,
-      "count": 8,
+      "count": 9,
       "items": [
+        {
+          "title": "이미정 경기도의원, AI콘텐츠 교육 내실화 요청",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/21/20260721500049?wlog_tag3=naver",
+          "snippet": "경기도와 경기콘텐츠진흥원이 공동 주관하는 ‘AI 콘텐츠 캠퍼스’는 생성형 인공지능(AI) 기술을 활용해 도내 콘텐츠 창작자와 현장 실무형 전문 인력을 양성하는 신규 사업이다. 올해 교육 프로그램은 청소년·일반...",
+          "source": "서울신문",
+          "sources": [
+            {
+              "name": "서울신문",
+              "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/21/20260721500049?wlog_tag3=naver",
+              "origin": "naver"
+            },
+            {
+              "name": "네이트",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhLWJTLWhldVE4Ym90anpoSDdKalBQd0tuZ1lUMXByTmpBaWN1WGFrcDh5NjRfc0FiTjJfT0FjUjJVV2FGUnVESzg2RnpmdS1QbmFZ?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "엔디엔뉴스",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uQlF0MS1USXlhNGprb1hCQ1JsN0hocDhwZzZnZG9PVFhDYXdUdUNuTkhnNDFlMUQxNVByeTZpR0dCNS1wRGVpTVMtUllLal94ZnQyXzllckI2MlVWRmVOalFheGpqanQyc05HZ0o4ajF1UdIBckFVX3lxTE5uQlF0MS1USXlhNGprb1hCQ1JsN0hocDhwZzZnZG9PVFhDYXdUdUNuTkhnNDFlMUQxNVByeTZpR0dCNS1wRGVpTVMtUllLal94ZnQyXzllckI2MlVWRmVOalFheGpqanQyc05HZ0o4ajF1UQ?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "HKBC환경방송",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13S2pYVDBrTzFzYVRJOW9jTnN6aXRTaVFmT1poYkpHdDJMMk5qNmdhV0JPM1htSDR5QTV0d2Q0RkNaOUlXZG9maUZ6bUkyS2dGNUtuSWRxR1dPRUZkN3RoQUlJbGFFazDSAWdBVV95cUxNd0tqWFQwa08xc2FUSTlvY05zeml0U2lRZk9aaGJKR3QyTDJOajZnYVdCTzNYbUg0eUE1dHdkNEZDWjlJV2RvZmlGem1JMktnRjVLbklkcUdXT0VGZDd0aEFJSWxhRWsw?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 4,
+          "published": "2026-07-21T10:07:00+09:00",
+          "ts": 1784596020.0,
+          "group": "gca",
+          "group_label": "경기콘텐츠진흥원"
+        },
+        {
+          "title": "경기콘텐츠진흥원-텀블벅, K-헤리티지 전시 22일 개막",
+          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2240253",
+          "snippet": "경기콘텐츠진흥원(경콘진, 원장 탁용석)과 크라우드 펀딩 플랫폼 텀블벅이 협업해 K-헤리티지 콘텐츠 브랜드 5개 팀의 실물 작품을 선보이는 기획 전시가 7월 22일부터 8월 11일까지 판교 경기창조경제혁신센터 7층 'POPUP7...",
+          "source": "webeconomy.co.kr",
+          "sources": [
+            {
+              "name": "webeconomy.co.kr",
+              "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2240253",
+              "origin": "naver"
+            },
+            {
+              "name": "웹이코노미",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KZFBTb1lvU2Z5cXFyZjBackMxYl9mbDRhNFJRU1VtNG1VU0I5NGdtb0tpcFU4R1pDc2JRVVVqdU1FY3FqaVVvTlZGT2NzMmR0ekdCemQ3NVp6cWU2cmJub0VHMktoMm5yekJOMEtuLTV5QQ?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "이코노믹포스트",
+              "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1vRzYybDBaNXhKQ2hTWmVybzlTd1lQcWROR09pZmxqOHdNTjNWekFTeVdoUXNoUjN0NDRkRk9QN1ZZQU1BNnhOaGRpSW4?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-07-21T21:34:00+09:00",
+          "ts": 1784637240.0,
+          "group": "gca",
+          "group_label": "경기콘텐츠진흥원"
+        },
         {
           "title": "경콘진, 크라우드펀딩 연계 ‘K-헤리티지전’···한국의 전통 판교를...",
           "url": "https://www.dt.co.kr/article/12073948?ref=naver",
@@ -42,44 +103,11 @@
               "name": "v.daum.net",
               "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5lblVaSWRDSzF0YTE4VkZjNFREd21JLVFxUjZsQ2VlMVNEWUxQbWItVWFrNkloM0hzZW9LMEVoYkRHRmdTRVE?oc=5",
               "origin": "google"
-            },
-            {
-              "name": "이코노믹포스트",
-              "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1vRzYybDBaNXhKQ2hTWmVybzlTd1lQcWROR09pZmxqOHdNTjNWekFTeVdoUXNoUjN0NDRkRk9QN1ZZQU1BNnhOaGRpSW4?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 4,
-          "published": "2026-07-21T16:56:00+09:00",
-          "ts": 1784620560.0,
-          "group": "gca",
-          "group_label": "경기콘텐츠진흥원"
-        },
-        {
-          "title": "이미정 경기도의원, AI콘텐츠 교육 내실화 요청",
-          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/21/20260721500049?wlog_tag3=naver",
-          "snippet": "경기도와 경기콘텐츠진흥원이 공동 주관하는 ‘AI 콘텐츠 캠퍼스’는 생성형 인공지능(AI) 기술을 활용해 도내 콘텐츠 창작자와 현장 실무형 전문 인력을 양성하는 신규 사업이다. 올해 교육 프로그램은 청소년·일반...",
-          "source": "서울신문",
-          "sources": [
-            {
-              "name": "서울신문",
-              "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/21/20260721500049?wlog_tag3=naver",
-              "origin": "naver"
-            },
-            {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhLWJTLWhldVE4Ym90anpoSDdKalBQd0tuZ1lUMXByTmpBaWN1WGFrcDh5NjRfc0FiTjJfT0FjUjJVV2FGUnVESzg2RnpmdS1QbmFZ?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "HKBC환경방송",
-              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13S2pYVDBrTzFzYVRJOW9jTnN6aXRTaVFmT1poYkpHdDJMMk5qNmdhV0JPM1htSDR5QTV0d2Q0RkNaOUlXZG9maUZ6bUkyS2dGNUtuSWRxR1dPRUZkN3RoQUlJbGFFazDSAWdBVV95cUxNd0tqWFQwa08xc2FUSTlvY05zeml0U2lRZk9aaGJKR3QyTDJOajZnYVdCTzNYbUg0eUE1dHdkNEZDWjlJV2RvZmlGem1JMktnRjVLbklkcUdXT0VGZDd0aEFJSWxhRWsw?oc=5",
-              "origin": "google"
             }
           ],
           "source_count": 3,
-          "published": "2026-07-21T10:07:00+09:00",
-          "ts": 1784596020.0,
+          "published": "2026-07-21T16:56:00+09:00",
+          "ts": 1784620560.0,
           "group": "gca",
           "group_label": "경기콘텐츠진흥원"
         },
@@ -292,8 +320,114 @@
       "id": "governor",
       "label": "경기도지사",
       "priority": 3,
-      "count": 54,
+      "count": 52,
       "items": [
+        {
+          "title": "정명근 화성시장, 추미애 지사와 ASM코리아 찾아 반도체 기업 애로 청취",
+          "url": "https://www.ajunews.com/view/20260721174054082",
+          "snippet": "[사진=화성시] 정명근 화성특례시장이 추미애 경기도지사와 글로벌 반도체 장비기업 ASM코리아의... 정명근 화성특례시장과 추미애 경기도지사가 ASM코리아를 방문해 기념촬영을 하고 있다. [사진=화성시]",
+          "source": "아주경제",
+          "sources": [
+            {
+              "name": "아주경제",
+              "url": "https://www.ajunews.com/view/20260721174054082",
+              "origin": "naver"
+            },
+            {
+              "name": "fntoday.co.kr",
+              "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=388557",
+              "origin": "naver"
+            },
+            {
+              "name": "weeklytoday.com",
+              "url": "http://www.weeklytoday.com/news/articleView.html?idxno=786155",
+              "origin": "naver"
+            },
+            {
+              "name": "enewstoday.co.kr",
+              "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2450880",
+              "origin": "naver"
+            },
+            {
+              "name": "웹이코노미",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPMGF1S21PNlduTk4wbWhBM1NOeUtHbWdhNmZsaTAyUDQ0MjRqUmJkNzBhZkJwek00bXpkX3FFdTFrTzFYR0drdWVWOW1iYzF0R05HQUcxXzhnYXlvUWZLNlNMMG1mU1FSSnhhZUdOamV6dw?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "일간투데이",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tUEpPU1pZajlfb1RhUjRKRmZjWVNzVDFhN1NNV1NyR2JjVWtuYXZ5QzM1My1rLVJHaDJrNThWLWVpRHhDeEpYcW1NWDFjSzFMLXdXeEgtbHR2OGcwY2dMSGxTeU5XMHptakxN?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "더코리아",
+              "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBNRWpxTTd3UTRkbVIwT1lBWW93YVJrY2pwRUNaT3VvWm05VDRwZG82eC1CMElfWkEzbnpQUll1WHFTZjg?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "파이낸스투데이",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmaUZ0TDYxUFB1QUUzUnV1SzRELVJFdVMyY3F2d0ROYWRNVmJuY2FpTi1EUmVqUlFmQ2tneXBSYUNra1hvYVltYy13YUpmZVRVcUJOZVRvRElheEJRZFJrVWFVYUpZWEJYa3dBTQ?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "이뉴스투데이",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aenNOZGRucWZueXFkcnpQXzBfYUxEd211ZFk3VVZwSXptNWxLSjNEa2ktdHBOMnFJSjgxWFI0WVJNeXRfWFV6UzQyeE9xODYzQ1VVaXNGMWRSRFhwWERrQ3RPVnp1czNyMVFGbFJzMEjSAXRBVV95cUxQWFVIUmRDZGRvTUZiWmFuYVkxM2NQd0NscnUtVEQ1R0NYd1lUak1rS2hIcC1TYU9qZWlFT3JpM1RpNFRhUUtKTE9QOEdNTm5JUUhmc1d2eUFiQlhzSDBvQ3dZSHdpSWNJRzdXOE14TllJNS04cg?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 9,
+          "published": "2026-07-21T17:52:00+09:00",
+          "ts": 1784623920.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "추미애 경기도지사, 글로벌 반도체 장비기업 ASM 방문",
+          "url": "http://www.popcornnews.net/news/articleView.html?idxno=127196",
+          "snippet": "경기도는 추미애 경지사가 21일 화성시에 위치한 글로벌 반도체 장비기업 ASM의 혁신제조센터를 방문해 국내... 추미애 지사는 이 자리에서 현장소통의 중요성과 대기업과의 상생을 강조하며 이에 대한 노력을...",
+          "source": "KBS",
+          "sources": [
+            {
+              "name": "KBS",
+              "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8616488&ref=A",
+              "origin": "naver"
+            },
+            {
+              "name": "popcornnews.net",
+              "url": "http://www.popcornnews.net/news/articleView.html?idxno=127196",
+              "origin": "naver"
+            },
+            {
+              "name": "SBS",
+              "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008667772&plink=ORI&cooper=NAVER",
+              "origin": "naver"
+            },
+            {
+              "name": "YTN",
+              "url": "https://www.ytn.co.kr/_ln/0115_202607211559469325",
+              "origin": "naver"
+            },
+            {
+              "name": "파이낸셜뉴스",
+              "url": "http://www.fnnews.com/news/202607211512277282",
+              "origin": "naver"
+            },
+            {
+              "name": "v.daum.net",
+              "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5XRWxIMERpZmJTdk9rNkVvNXEteWFVeGh1VThDU0dBcGRMajdWYVRtXzhYWGY1cFhIdHU5dlI1YmNVdF90T2c?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "KBS 뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGMVc4QmRKc3UzZVpySlM1OU5XaTR6WTZLUk5PSDVKMDV0ZHJLZXdYQ01zemRELXotTnpPdXRzOXlJZXpZRmJQWjRkelZVNGR6YjFxSEdCajdPbkE?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 7,
+          "published": "2026-07-21T17:34:00+09:00",
+          "ts": 1784622840.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
         {
           "title": "추미애 지사, 글로벌 반도체기업 ASM 찾아",
           "url": "https://www.sentv.co.kr/article/view/sentv202607210163",
@@ -308,16 +442,6 @@
             {
               "name": "beyondpost.co.kr",
               "url": "http://www.beyondpost.co.kr/view.php?ud=2026072117424348274c878f8fa1_30",
-              "origin": "naver"
-            },
-            {
-              "name": "popcornnews.net",
-              "url": "http://www.popcornnews.net/news/articleView.html?idxno=127196",
-              "origin": "naver"
-            },
-            {
-              "name": "KBS",
-              "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8616079&ref=A",
               "origin": "naver"
             },
             {
@@ -339,19 +463,9 @@
               "name": "전국매일신문",
               "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQUm9FUWx5T05IWkNuRnlsaHBnOUtIYjUxMjJNTFRUQWotRm43d0YzNllBVm1YcmRjWl9pQUQ1eDdSMzZZdzhDbGs4NzROcDFRT1UtRDdXS1ZBUzdvQXBkMmFKLWZwNzkwdXBJX0p3?oc=5",
               "origin": "google"
-            },
-            {
-              "name": "KBS 뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGMVc4QmRKc3UzZVpySlM1OU5XaTR6WTZLUk5PSDVKMDV0ZHJLZXdYQ01zemRELXotTnpPdXRzOXlJZXpZRmJQWjRkelZVNGR6YjFxSEdCajdPbkE?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "이투데이",
-              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Hc1hkN1QzRDR2SU5BVXlSSE93bUljZFhnZGJ4bkZVeTNlaFQzaEJ0M29pajRzWlZyNlZhY1QwOEd4djVyRmlVNlQ3TmgtUjlWbDJ2bQ?oc=5",
-              "origin": "google"
             }
           ],
-          "source_count": 10,
+          "source_count": 6,
           "published": "2026-07-21T18:00:00+09:00",
           "ts": 1784624400.0,
           "group": "governor",
@@ -387,69 +501,11 @@
               "name": "뉴스1",
               "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nWmJJM0VUUzBndHJGZTF1TTZITDQ1NVF5ZDdDaWtKRmlfT0E5N3o1dllJdlN1Z19wOTEyN3BJNzlWVGZEM0kzcnJZc0gzZVFaNjYwMGdR?oc=5",
               "origin": "google"
-            },
-            {
-              "name": "이투데이",
-              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56YmFHQzIyTFNZSGtDV0ZFR3ZORnNhNUpSNzliWGRTUWtGWW9ud2pSOEc0N2JSbW9vQ3hDVE1PSHNEVXJZQ3F1Z01mRzdnM20tb1JDbw?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "뉴시스",
-              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBRNUxIcHlTUEx6RGNldGFHWndjd1RyUmpQOG1jU1JudW13RUYtNGlweUxyNUF6eEdzV2d4bzVKbmxDR0pPNU90RHhxdU9CakR2ZkFfdG9XU0JFVzNXS0JnR0I4d1ZZWTdIdXJDX3FobjRFVXo2RlUyYtIBeEFVX3lxTFBRNUxIcHlTUEx6RGNldGFHWndjd1RyUmpQOG1jU1JudW13RUYtNGlweUxyNUF6eEdzV2d4bzVKbmxDR0pPNU90RHhxdU9CakR2ZkFfdG9XU0JFVzNXS0JnR0I4d1ZZWTdIdXJDX3FobjRFVXo2RlUyYg?oc=5",
-              "origin": "google"
             }
           ],
-          "source_count": 7,
+          "source_count": 5,
           "published": "2026-07-21T20:02:00+09:00",
           "ts": 1784631720.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "정명근 화성시장, 추미애 지사와 ASM코리아 찾아 반도체 기업 애로 청취",
-          "url": "https://www.ajunews.com/view/20260721174054082",
-          "snippet": "[사진=화성시] 정명근 화성특례시장이 추미애 경기도지사와 글로벌 반도체 장비기업 ASM코리아의... 정명근 화성특례시장과 추미애 경기도지사가 ASM코리아를 방문해 기념촬영을 하고 있다. [사진=화성시]",
-          "source": "아주경제",
-          "sources": [
-            {
-              "name": "아주경제",
-              "url": "https://www.ajunews.com/view/20260721174054082",
-              "origin": "naver"
-            },
-            {
-              "name": "fntoday.co.kr",
-              "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=388557",
-              "origin": "naver"
-            },
-            {
-              "name": "weeklytoday.com",
-              "url": "http://www.weeklytoday.com/news/articleView.html?idxno=786155",
-              "origin": "naver"
-            },
-            {
-              "name": "더코리아",
-              "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBNRWpxTTd3UTRkbVIwT1lBWW93YVJrY2pwRUNaT3VvWm05VDRwZG82eC1CMElfWkEzbnpQUll1WHFTZjg?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "화성인터넷신문",
-              "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PYTgzbnZfWVNWU1F1eXQ1Y0pTanMwaUlubU9sRkgzVkUtSUJDZXI4WlJjUUJPaTExRjAwdG5DQVNOQQ?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "파이낸스투데이",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmaUZ0TDYxUFB1QUUzUnV1SzRELVJFdVMyY3F2d0ROYWRNVmJuY2FpTi1EUmVqUlFmQ2tneXBSYUNra1hvYVltYy13YUpmZVRVcUJOZVRvRElheEJRZFJrVWFVYUpZWEJYa3dBTQ?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "이뉴스투데이",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aenNOZGRucWZueXFkcnpQXzBfYUxEd211ZFk3VVZwSXptNWxLSjNEa2ktdHBOMnFJSjgxWFI0WVJNeXRfWFV6UzQyeE9xODYzQ1VVaXNGMWRSRFhwWERrQ3RPVnp1czNyMVFGbFJzMEjSAXRBVV95cUxQWFVIUmRDZGRvTUZiWmFuYVkxM2NQd0NscnUtVEQ1R0NYd1lUak1rS2hIcC1TYU9qZWlFT3JpM1RpNFRhUUtKTE9QOEdNTm5JUUhmc1d2eUFiQlhzSDBvQ3dZSHdpSWNJRzdXOE14TllJNS04cg?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 7,
-          "published": "2026-07-21T17:52:00+09:00",
-          "ts": 1784623920.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -483,34 +539,6 @@
           "source_count": 4,
           "published": "2026-07-21T15:30:00+09:00",
           "ts": 1784615400.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "김한슬 경기도의원 \"추미애 지사 '7조 채무' 주장, 산정 근거·재정 실태...",
-          "url": "https://www.m-i.kr/news/articleView.html?idxno=1393641",
-          "snippet": "사진=김한슬 의원 매일일보 = 김동환 기자 | 김한슬 경기도의원(국민의힘·비례)이 추미애 경기도지사가... 앞서 추미애 지사는 지난 7일 도정연설에서 \"민선 9기 경기도는 7조원이 넘는 채무를 안고 출발했다\"며 \"막대한...",
-          "source": "m-i.kr",
-          "sources": [
-            {
-              "name": "m-i.kr",
-              "url": "https://www.m-i.kr/news/articleView.html?idxno=1393641",
-              "origin": "naver"
-            },
-            {
-              "name": "경기in",
-              "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE41QnVKYXRmVXBveHlzOUhkVUdJSmZaQ2g5MUJvSmRINk9wZl8tamU4NUdTU0VpZ19DM1JCUFExYUt1SlE?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "매일일보",
-              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HdkRwSzA1c1paTFdYVjRxeWRLazR6eXZCWmRFamdOR0tGRVNLNDBCaEo2ZTlrX094MlQ2RzNyLXlhUVl6azRTcFUyaklDWGNtQTk4eDVBYlVUcWdLeUlNSlNrTFk?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 3,
-          "published": "2026-07-21T17:32:00+09:00",
-          "ts": 1784622720.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -567,6 +595,29 @@
           "source_count": 3,
           "published": "2026-07-21T16:10:00+09:00",
           "ts": 1784617800.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "‘1호 결재’ 이어 현장 행보…추미애 “K-반도체 초격차 속도전”",
+          "url": "https://www.segye.com/newsView/20260721523230?OutUrl=naver",
+          "snippet": "추미애 경기도지사가 글로벌 장비기업을 방문했다. 글로벌 공급망 안정화와 도내 소재·부품·장비(소부장) 기업들과의 동반성장을 행정의 우선 목표로 삼겠다며 일종의 속도전에 나선 것으로 풀이된다. 추미애...",
+          "source": "세계일보",
+          "sources": [
+            {
+              "name": "세계일보",
+              "url": "https://www.segye.com/newsView/20260721523230?OutUrl=naver",
+              "origin": "naver"
+            },
+            {
+              "name": "이데일리",
+              "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=04890486645516816",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-07-21T21:10:00+09:00",
+          "ts": 1784635800.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -686,29 +737,6 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "'헌정 첫 여성도지사' 추미애, 경기여성대회 첫 참석…\"여러분이 제 지...",
-          "url": "https://www.etoday.co.kr/news/view/2605847",
-          "snippet": "광역자치단체장인 추미애 경기도지사가 취임 후 처음으로 여성 관련 공식 행사를 찾아 \"여러분을... 21일 이투데이 취재를 종합하면 추미애 지사는 이날 경기아트센터 대극장에서 열린 제41회 경기여성대회에 참석해...",
-          "source": "etoday.co.kr",
-          "sources": [
-            {
-              "name": "etoday.co.kr",
-              "url": "https://www.etoday.co.kr/news/view/2605847",
-              "origin": "naver"
-            },
-            {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05TVgzejhkR3paaFQzc2RvaTRpa2k2VVdDNW5wUWxHSHJ4MWU3WFRaRlVMcmVpWkgtZkdiZTFDcFZfeHQ3R3duVzZnbXJrTEZPQVBpSGNiZTBnMkdEMUxqWQ?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-07-21T17:42:00+09:00",
-          "ts": 1784623320.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
           "title": "추미애 경기도지사 \"여성이 더 큰 역할 하도록 적극 뒷받침할 것\"",
           "url": "http://www.fieldnews.kr/news/articleView.html?idxno=30100",
           "snippet": "헌정사상 첫 여성 광역자치단체장인 추미애 경기도지사가 취임 후 처음으로 여성계와 공식 행사를 갖고... 추미애 지사는 \"여성들이 더 큰 역할을 할 수 있도록 경기도가 함께하겠다\"며 \"도민 모두가 체감할 수 있는...",
@@ -728,29 +756,6 @@
           "source_count": 2,
           "published": "2026-07-21T17:38:00+09:00",
           "ts": 1784623080.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "추미애, 화성 ASM 방문 “반도체 초격차 유지… 소부장과 동반성장”",
-          "url": "https://www.kyeongin.com/article/1767655",
-          "snippet": "추미애 경기도지사가 화성 소재 글로벌 반도체 장비 기업 ASM을 찾아 ‘반도체 완결형 생태계 구축’을 위한 소부장(소재·부품·장비) 생태계 강화 의지를 내비쳤다. 추 지사는 21일 오전 ASM의 ‘혁신제조센터’를 방문해...",
-          "source": "kyeongin.com",
-          "sources": [
-            {
-              "name": "kyeongin.com",
-              "url": "https://www.kyeongin.com/article/1767655",
-              "origin": "naver"
-            },
-            {
-              "name": "YTN",
-              "url": "https://www.ytn.co.kr/_ln/0115_202607211559469325",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-07-21T17:12:00+09:00",
-          "ts": 1784621520.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -916,48 +921,56 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "추미애 지사, ASM 혁신제조센터 찾아 \"반도체 소부장·대기업 동반성장...",
-          "url": "https://www.ajunews.com/view/20260721153317738",
-          "snippet": "com 추미애 지사가 도내 소부장 기업들과의 간담회를 진행하고 있다. [사진=경기도] 추미애 경기도지사가 화성시에 있는 글로벌 반도체 장비기업 ASM의 혁신제조센터를 찾아 투자와 기술개발 현황을 점검하고, 도내 소재...",
-          "source": "아주경제",
+          "title": "추미애 지사, 반도체 클러스터 조기 완성 강조… 관건은 '인력·전력·교...",
+          "url": "https://www.thereport.co.kr/news/articleView.html?idxno=89795",
+          "snippet": "추미애 경기도지사가 글로벌 반도체 장비기업 ASM을 찾아 반도체 클러스터 조기 완성과 소재·부품·장비... 추미애 지사는 21일 화성시 ASM 혁신제조센터를 방문해 기업의 국내 투자 여건과 애로사항을 듣고 도내 반도체...",
+          "source": "thereport.co.kr",
           "sources": [
             {
-              "name": "아주경제",
-              "url": "https://www.ajunews.com/view/20260721153317738",
-              "origin": "naver"
-            },
-            {
-              "name": "discoverynews.kr",
-              "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1096618",
+              "name": "thereport.co.kr",
+              "url": "https://www.thereport.co.kr/news/articleView.html?idxno=89795",
               "origin": "naver"
             }
           ],
-          "source_count": 2,
-          "published": "2026-07-21T15:48:00+09:00",
-          "ts": 1784616480.0,
+          "source_count": 1,
+          "published": "2026-07-21T22:02:00+09:00",
+          "ts": 1784638920.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
         {
-          "title": "\"기업·도민 동반 성장\"...추미애 경기지사, 반도체 장비업체 방문",
-          "url": "http://www.fnnews.com/news/202607211512277282",
-          "snippet": "추미애 경기도지사가 21일 화성특례시 글로벌 반도체 장비업체인 'ASM' 혁신제조센터를 방문, \"소부장과 도민이 동반 성장할 수 있도록 하겠다\"고 말했다. 추 지사는 이날 정명근 화성시장, 이영석 ASM코리아 대표이사, 도...",
-          "source": "파이낸셜뉴스",
+          "title": "ASM 간 추미애 \"소부장 기업 동반성장 해야 반도체 생태계 구축 앞당겨...",
+          "url": "https://www.kpinews.kr/newsView/1065615272699151",
+          "snippet": "추미애 경기지사가 21일 \"소부장 기업들이 동반성장 해야 반도체 생태계 구축이 앞당겨질 수 있다\"고 밝혔다. ▲ 21일 오전 경기도 화성특례시 ASM 화성캠퍼스에서 진행된 반도체 소부장 기업 간담회에서 추미애...",
+          "source": "kpinews.kr",
           "sources": [
             {
-              "name": "파이낸셜뉴스",
-              "url": "http://www.fnnews.com/news/202607211512277282",
-              "origin": "naver"
-            },
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260721129900061?input=1195m",
+              "name": "kpinews.kr",
+              "url": "https://www.kpinews.kr/newsView/1065615272699151",
               "origin": "naver"
             }
           ],
-          "source_count": 2,
-          "published": "2026-07-21T15:31:00+09:00",
-          "ts": 1784615460.0,
+          "source_count": 1,
+          "published": "2026-07-21T21:29:00+09:00",
+          "ts": 1784636940.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "추미애, 반도체 초격차 현장행보…글로벌 ASM서 소부장 지원 점검",
+          "url": "https://www.m-economynews.com/news/article.html?no=68965",
+          "snippet": "취임 후 첫 글로벌 소부장 기업 방문…기업 애로 듣고 상생 지원 강화 추미애 경기도지사가 취임 후 첫... 국내 소부장 기업과의 협력을 확대해 반도체 공급망 경쟁력을 강화한다는 방침이다. 추미애 경기도지사 <경기도 제공>",
+          "source": "m-economynews.com",
+          "sources": [
+            {
+              "name": "m-economynews.com",
+              "url": "https://www.m-economynews.com/news/article.html?no=68965",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-21T21:22:00+09:00",
+          "ts": 1784636520.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -1016,6 +1029,24 @@
           "group_label": "경기도지사"
         },
         {
+          "title": "'헌정 첫 여성도지사' 추미애, 경기여성대회 첫 참석…\"여러분이 제 지...",
+          "url": "https://www.etoday.co.kr/news/view/2605847",
+          "snippet": "광역자치단체장인 추미애 경기도지사가 취임 후 처음으로 여성 관련 공식 행사를 찾아 \"여러분을... 21일 이투데이 취재를 종합하면 추미애 지사는 이날 경기아트센터 대극장에서 열린 제41회 경기여성대회에 참석해...",
+          "source": "etoday.co.kr",
+          "sources": [
+            {
+              "name": "etoday.co.kr",
+              "url": "https://www.etoday.co.kr/news/view/2605847",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-21T17:42:00+09:00",
+          "ts": 1784623320.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
           "title": "추미애, K-반도체 혁신대책 첫 현장행보…“소부장 동반성장 방안 마련...",
           "url": "https://www.kgnews.co.kr/news/article.html?no=904674",
           "snippet": "지향” 추미애 경기도지사가 21일 직접 기업 관계자들과 만나 대한민국 반도체 소부장 활성화 방안을 모색했다. 추미애 지사는 이날 화성에 위치한 글로벌 반도체 소부장 기업 ASM 혁신제조센터를 찾았다. 이는 추 지사가...",
@@ -1048,6 +1079,24 @@
           "source_count": 1,
           "published": "2026-07-21T17:32:00+09:00",
           "ts": 1784622720.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "김한슬 경기도의원 \"추미애 지사 '7조 채무' 주장, 산정 근거·재정 실태 공개해야\"",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HdkRwSzA1c1paTFdYVjRxeWRLazR6eXZCWmRFamdOR0tGRVNLNDBCaEo2ZTlrX094MlQ2RzNyLXlhUVl6azRTcFUyaklDWGNtQTk4eDVBYlVUcWdLeUlNSlNrTFk?oc=5",
+          "snippet": "",
+          "source": "매일일보",
+          "sources": [
+            {
+              "name": "매일일보",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HdkRwSzA1c1paTFdYVjRxeWRLazR6eXZCWmRFamdOR0tGRVNLNDBCaEo2ZTlrX094MlQ2RzNyLXlhUVl6azRTcFUyaklDWGNtQTk4eDVBYlVUcWdLeUlNSlNrTFk?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-21T17:30:07+09:00",
+          "ts": 1784622607.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -1102,6 +1151,24 @@
           "source_count": 1,
           "published": "2026-07-21T17:18:00+09:00",
           "ts": 1784621880.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "추미애, 화성 ASM 방문 “반도체 초격차 유지… 소부장과 동반성장”",
+          "url": "https://www.kyeongin.com/article/1767655",
+          "snippet": "추미애 경기도지사가 화성 소재 글로벌 반도체 장비 기업 ASM을 찾아 ‘반도체 완결형 생태계 구축’을 위한 소부장(소재·부품·장비) 생태계 강화 의지를 내비쳤다. 추 지사는 21일 오전 ASM의 ‘혁신제조센터’를 방문해...",
+          "source": "kyeongin.com",
+          "sources": [
+            {
+              "name": "kyeongin.com",
+              "url": "https://www.kyeongin.com/article/1767655",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-21T17:12:00+09:00",
+          "ts": 1784621520.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -1194,60 +1261,6 @@
           "ts": 1784619360.0,
           "group": "governor",
           "group_label": "경기도지사"
-        },
-        {
-          "title": "추미애 “지방정부 목소리 더 강하게” 시도지사협의회장 출사표",
-          "url": "https://www.donga.com/news/Society/article/all/20260721/134337164/1",
-          "snippet": "“국무회의에서 지방정부의 목소리를 더 강하게 내겠습니다.” 추미애 경기도지사가 대한민국시도지사협의회장에 출사표를 던졌다. 협의회장에 선출되면 국무회의에 배석해 지방분권 확대와 지방정부 권한 강화를 위한...",
-          "source": "동아일보",
-          "sources": [
-            {
-              "name": "동아일보",
-              "url": "https://www.donga.com/news/Society/article/all/20260721/134337164/1",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-21T16:31:00+09:00",
-          "ts": 1784619060.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "추미애, “초격차 유지하며 모두가 기회 누릴 수 있는 선순환 환경 조성...",
-          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/today_local/2026/07/21/20260721500270?wlog_tag3=naver",
-          "snippet": "글로벌 반도체 장비기업 ASM 찾아 기업 애로 청취 추미애 경기도지사가 21일 화성시에 위치한 글로벌 반도체 장비기업 ASM의 혁신제조센터를 방문해 국내 투자 여건과 애로사항을 들었다. 추 지사는 이 자리에서 “글로벌...",
-          "source": "서울신문",
-          "sources": [
-            {
-              "name": "서울신문",
-              "url": "https://www.seoul.co.kr/news/publicnews/local_govern/today_local/2026/07/21/20260721500270?wlog_tag3=naver",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-21T16:16:00+09:00",
-          "ts": 1784618160.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "추미애 경기도지사, 삼성전자 SK하이닉스에 폐수 행정 권고 발동.. \"공장 폐수 재활용률 높이고 폐수 방류 줄여라\"",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHUW45NTNFczJnTDdUY3I2ZTZRYzZlS1Jzam4wTGI4eEh3MXVDdHE5Q1h1VU9FNk5FYW00S18wQjB3MHZfMFYxeEJkQndnSzIyeUZKVzVqRFZ4MmJjcGY4SUVqYmtEY3NIX0pZS3pNX2JxSVlZWHM1MHBOblQ?oc=5",
-          "snippet": "",
-          "source": "자치안성신문",
-          "sources": [
-            {
-              "name": "자치안성신문",
-              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHUW45NTNFczJnTDdUY3I2ZTZRYzZlS1Jzam4wTGI4eEh3MXVDdHE5Q1h1VU9FNk5FYW00S18wQjB3MHZfMFYxeEJkQndnSzIyeUZKVzVqRFZ4MmJjcGY4SUVqYmtEY3NIX0pZS3pNX2JxSVlZWHM1MHBOblQ?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-21T16:06:32+09:00",
-          "ts": 1784617592.0,
-          "group": "governor",
-          "group_label": "경기도지사"
         }
       ]
     },
@@ -1255,7 +1268,7 @@
       "id": "gg_council",
       "label": "경기도의회(문체·미래위)",
       "priority": 4,
-      "count": 49,
+      "count": 48,
       "items": [
         {
           "title": "채신덕 문체위원장 \"경기예술제 추진 제안… 도민 체감 문화정책 추진을...",
@@ -1312,13 +1325,13 @@
               "origin": "google"
             },
             {
-              "name": "경기평화신문",
-              "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBSXzhpMW9mRjJRUTBWNlZlVnFhX09lenBDOFRWY1pGclE0dHRaMmZybTFJU2FfczlhWnhUd1NRRlZBRHg3dHRwZU1B?oc=5",
+              "name": "웹이코노미",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKZFJfM1ctc1JteGR2bmN2U0lxYUMzVFNwVEcyclRVYjFES1pxYXdybm1Vcm90NERrcUpQY2s4dHhyajU5UF9ZY3UwejlEUW1qMGhVbENaY0NEbGU0ZXBwYkhoc0JuWjJsQS1NN2FmcHpBdw?oc=5",
               "origin": "google"
             },
             {
-              "name": "산경일보",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11T1FHZzZMX0cxb2pxd0FUUENrUHM3bWZDUmJKWmU5a3JVZ1BTdzJZRmZvajN1QVNjOTJnLXRuekZPV1F1b3Q2aVNWLVNMYUhDelZZOTNyNkVwWHVwME9jM2xpWGQ0NEV4RkQ1RXZ4em8?oc=5",
+              "name": "경기평화신문",
+              "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBSXzhpMW9mRjJRUTBWNlZlVnFhX09lenBDOFRWY1pGclE0dHRaMmZybTFJU2FfczlhWnhUd1NRRlZBRHg3dHRwZU1B?oc=5",
               "origin": "google"
             },
             {
@@ -1330,6 +1343,67 @@
           "source_count": 5,
           "published": "2026-07-20T17:26:00+09:00",
           "ts": 1784535960.0,
+          "group": "gg_council",
+          "group_label": "경기도의회(문체·미래위)"
+        },
+        {
+          "title": "경기도의회 이오수 의원, 문화체육관광위원회 부위원장 선임",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8yYW5vbUF2a0RLWmhHTVBwMXNFWTJHQ25DajVyQjdVUFVHV0VQVUpBV1lENDNqMThxS216bzU2T3hCRlR4UEhoX1hHOWRsY1lJcFV2d0ZMQkZYN3RfNHBUT19mWEZGYk13OTlCSTcwaHBKUQ?oc=5",
+          "snippet": "",
+          "source": "웹이코노미",
+          "sources": [
+            {
+              "name": "웹이코노미",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8yYW5vbUF2a0RLWmhHTVBwMXNFWTJHQ25DajVyQjdVUFVHV0VQVUpBV1lENDNqMThxS216bzU2T3hCRlR4UEhoX1hHOWRsY1lJcFV2d0ZMQkZYN3RfNHBUT19mWEZGYk13OTlCSTcwaHBKUQ?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "이코노믹포스트",
+              "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5xd0tvZFVxV0pObTdpOXJiaGREczZWOW4xUUkweUxSWDJnWVFoRDJPN0VpN3JIT285VXlhR2tUYmdnMzFOZmtrLVBESlk?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "아시아뉴스통신",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BaHkzMnlVN3F1S3pSbDNWb0wyOWpWempjRTJwazNuTVpRRnpzTmd5cnFENEFKTjJ2RXpYYzNGOWtuY3c5dU1SdXdxUk1ZWmx0Q0RnaXIzaHhSOG44ZDgtd0FXSDM4RHBnYWdKcGNmUGNEaThl?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "산경일보",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nbU80RDZzdWdyMDlrci1sOWdlMTZtQmwxVjdUTlVpN3ROZWdJbFNvSGs4UzVnQmdNWTY2WEdqbEVIN3FsRXBYUjNyUHBJUVlBVjBxMERMNzVXUXE4WE0tRmNZMGRqeGtDOHQtMFd0Vlg?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 4,
+          "published": "2026-07-21T15:54:52+09:00",
+          "ts": 1784616892.0,
+          "group": "gg_council",
+          "group_label": "경기도의회(문체·미래위)"
+        },
+        {
+          "title": "채신덕 경기도의회 문화체육관광위원장, 유아체육 및 G-스포츠클럽 현안 점검 > 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PTHpBcUY2UXN5Q05aOWtCSTViUjY2Z3AwLW03dEg2dHB5YXF0OUhla2hMZUFfSEtvUjBjTHpBOWRnWWFVM28wdjgtMlNEeGNJM0lVOUVaTDdJSWFFeTc1N0hReFJnZ3FBS2d4enkxdFA?oc=5",
+          "snippet": "",
+          "source": "더코리아",
+          "sources": [
+            {
+              "name": "더코리아",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PTHpBcUY2UXN5Q05aOWtCSTViUjY2Z3AwLW03dEg2dHB5YXF0OUhla2hMZUFfSEtvUjBjTHpBOWRnWWFVM28wdjgtMlNEeGNJM0lVOUVaTDdJSWFFeTc1N0hReFJnZ3FBS2d4enkxdFA?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "매일일보",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yUmNFV2ZQb3c5TzB0TFpuTzlFR18tSTl2TUY3SXA5ZGh4YURRZlhxZFJsU1VtS0ZwQnpMNXphMmlTcGpLZXBOcnhXUWdhb3JXV0k2WU9BQVRub3kwTXdIeUVCbEU?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "산경일보",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11T1FHZzZMX0cxb2pxd0FUUENrUHM3bWZDUmJKWmU5a3JVZ1BTdzJZRmZvajN1QVNjOTJnLXRuekZPV1F1b3Q2aVNWLVNMYUhDelZZOTNyNkVwWHVwME9jM2xpWGQ0NEV4RkQ1RXZ4em8?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-07-21T21:20:00+09:00",
+          "ts": 1784636400.0,
           "group": "gg_council",
           "group_label": "경기도의회(문체·미래위)"
         },
@@ -1362,6 +1436,34 @@
           "group_label": "경기도의회(문체·미래위)"
         },
         {
+          "title": "최규진 경기도의원 “문화재단·관광공사 고양 이전 로드맵 마련해야”",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=0030141076&code=61122013&cp=nv",
+          "snippet": "경기도의회 문화체육관광위원회 최규진 의원(더불어민주당·고양4)은 지난 20일 열린 문화체육관광위원회 제1차 회의에서 문화체육관광국 업무보고를 받고 경기문화재단과 경기관광공사의 고양시 이전 추진 상황을...",
+          "source": "국민일보",
+          "sources": [
+            {
+              "name": "국민일보",
+              "url": "https://www.kmib.co.kr/article/view.asp?arcid=0030141076&code=61122013&cp=nv",
+              "origin": "naver"
+            },
+            {
+              "name": "서울신문",
+              "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/21/20260721500117?wlog_tag3=naver",
+              "origin": "naver"
+            },
+            {
+              "name": "이데일리",
+              "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=03624406645516816",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-07-21T16:44:00+09:00",
+          "ts": 1784619840.0,
+          "group": "gg_council",
+          "group_label": "경기도의회(문체·미래위)"
+        },
+        {
           "title": "김승기 경기도의원, 문체위 첫 질의부터 도립 뮤지엄 운영체계 개편 촉...",
           "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/21/20260721500257?wlog_tag3=naver",
           "snippet": "경기도의회 문화체육관광위원회 김승기 의원(더불어민주당, 남양주3)은 20일 열린 제392회 임시회 제1차 문화체육관광위원회 회의에 참석해 문화체육관광국 소관 주요 업무 보고를 청취하고 도립 뮤지엄의 운용 실태를...",
@@ -1378,8 +1480,8 @@
               "origin": "google"
             },
             {
-              "name": "뉴스후",
-              "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1ZMUh6LVZySmVuX2lvbWdwU3pVd2xXY0RMbVBYTEZhOVFLaFh0UXlhMDAxeEVHYkR5bUNESTVQMjhPMFk?oc=5",
+              "name": "mediatoday.asia",
+              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY2QxR0tOZWdYSDJ0VVVDQWxkcmVWTXhzUExtTFQ0N2VCY0xqXy1tc3Y1ZzlXZHM3OG1nLVpwdXk1T2x5aUJ3X0V5cFp1VXZUMW9LVjFhdV91T2UtNTFoZmdjbjZWdHFtQlcwSFhEcW5KNjVGV2FGSWtmcHJrQXczRHFJbldyQTU3ZXUxV1pTdWlQaWRJdDhmTQ?oc=5",
               "origin": "google"
             }
           ],
@@ -1441,29 +1543,6 @@
           "group_label": "경기도의회(문체·미래위)"
         },
         {
-          "title": "최규진 경기도의원 “문화재단·관광공사 고양 이전 로드맵 마련해야”",
-          "url": "https://www.kmib.co.kr/article/view.asp?arcid=0030141076&code=61122013&cp=nv",
-          "snippet": "경기도의회 문화체육관광위원회 최규진 의원(더불어민주당·고양4)은 지난 20일 열린 문화체육관광위원회 제1차 회의에서 문화체육관광국 업무보고를 받고 경기문화재단과 경기관광공사의 고양시 이전 추진 상황을...",
-          "source": "국민일보",
-          "sources": [
-            {
-              "name": "국민일보",
-              "url": "https://www.kmib.co.kr/article/view.asp?arcid=0030141076&code=61122013&cp=nv",
-              "origin": "naver"
-            },
-            {
-              "name": "서울신문",
-              "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/21/20260721500117?wlog_tag3=naver",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-07-21T16:44:00+09:00",
-          "ts": 1784619840.0,
-          "group": "gg_council",
-          "group_label": "경기도의회(문체·미래위)"
-        },
-        {
           "title": "이영봉 경기도의원, 미래성장산업국 업무보고서 ‘북부 창업혁신공간, ...",
           "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/21/20260721500249?wlog_tag3=naver",
           "snippet": "경기도의회 미래과학협력위원회 이영봉 의원(더불어민주당, 의정부 2)은 20일 열린 미래성장산업국 주요 업무보고에 참석해 의정부 권역 창업혁신공간의 사업 진행 상황을 면밀히 점검했다. 이영봉 의원은...",
@@ -1506,29 +1585,6 @@
           "source_count": 2,
           "published": "2026-07-21T16:02:00+09:00",
           "ts": 1784617320.0,
-          "group": "gg_council",
-          "group_label": "경기도의회(문체·미래위)"
-        },
-        {
-          "title": "경기도의회 문화체육관광위, 소관 실·국 주요 업무보고 청취",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yUmNFV2ZQb3c5TzB0TFpuTzlFR18tSTl2TUY3SXA5ZGh4YURRZlhxZFJsU1VtS0ZwQnpMNXphMmlTcGpLZXBOcnhXUWdhb3JXV0k2WU9BQVRub3kwTXdIeUVCbEU?oc=5",
-          "snippet": "",
-          "source": "매일일보",
-          "sources": [
-            {
-              "name": "매일일보",
-              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yUmNFV2ZQb3c5TzB0TFpuTzlFR18tSTl2TUY3SXA5ZGh4YURRZlhxZFJsU1VtS0ZwQnpMNXphMmlTcGpLZXBOcnhXUWdhb3JXV0k2WU9BQVRub3kwTXdIeUVCbEU?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "이코노믹포스트",
-              "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5xd0tvZFVxV0pObTdpOXJiaGREczZWOW4xUUkweUxSWDJnWVFoRDJPN0VpN3JIT285VXlhR2tUYmdnMzFOZmtrLVBESlk?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-07-21T15:41:33+09:00",
-          "ts": 1784616093.0,
           "group": "gg_council",
           "group_label": "경기도의회(문체·미래위)"
         },
@@ -1644,6 +1700,24 @@
           "source_count": 2,
           "published": "2026-07-20T17:39:00+09:00",
           "ts": 1784536740.0,
+          "group": "gg_council",
+          "group_label": "경기도의회(문체·미래위)"
+        },
+        {
+          "title": "임창휘 경기도의원,ㅜ \"경기도, 제조 데이터 통합 관리로 AI 시대 선도해...",
+          "url": "http://www.globalepic.co.kr/view.php?ud=202607211444232955f69d33b22_29",
+          "snippet": "경기도의회 미래과학협력위원회 임창휘 의원(더불어민주당)이 경기도 제조업 경쟁력 강화를 위해 산업 현장 중심의 ‘피지컬 AI(Physical AI)’ 투자 확대와 제조 데이터의 공공 관리 체계 구축 필요성을 제기했다. 임...",
+          "source": "globalepic.co.kr",
+          "sources": [
+            {
+              "name": "globalepic.co.kr",
+              "url": "http://www.globalepic.co.kr/view.php?ud=202607211444232955f69d33b22_29",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-21T21:10:00+09:00",
+          "ts": 1784635800.0,
           "group": "gg_council",
           "group_label": "경기도의회(문체·미래위)"
         },
@@ -1774,24 +1848,6 @@
           "group_label": "경기도의회(문체·미래위)"
         },
         {
-          "title": "경기도의회 이오수 의원, 제12대 전반기 문화체육관광위원회 부위원장 선임",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BaHkzMnlVN3F1S3pSbDNWb0wyOWpWempjRTJwazNuTVpRRnpzTmd5cnFENEFKTjJ2RXpYYzNGOWtuY3c5dU1SdXdxUk1ZWmx0Q0RnaXIzaHhSOG44ZDgtd0FXSDM4RHBnYWdKcGNmUGNEaThl?oc=5",
-          "snippet": "",
-          "source": "아시아뉴스통신",
-          "sources": [
-            {
-              "name": "아시아뉴스통신",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BaHkzMnlVN3F1S3pSbDNWb0wyOWpWempjRTJwazNuTVpRRnpzTmd5cnFENEFKTjJ2RXpYYzNGOWtuY3c5dU1SdXdxUk1ZWmx0Q0RnaXIzaHhSOG44ZDgtd0FXSDM4RHBnYWdKcGNmUGNEaThl?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-21T14:03:15+09:00",
-          "ts": 1784610195.0,
-          "group": "gg_council",
-          "group_label": "경기도의회(문체·미래위)"
-        },
-        {
           "title": "임창휘 경기도의원, 일자리와 ‘상생’ 빠진 반도체 클러스터는 절반의...",
           "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/21/20260721500139?wlog_tag3=naver",
           "snippet": "경기도의회 미래과학협력위원회 임창휘 의원(더불어민주당, 광주 2)이 경기도 반도체 클러스터 조성 사업 추진 과정에서 발생할 수 있는 지역 간 불평등 문제를 지적하며, 팔당 상수원 규제 지역 주민들의 희생을 보듬는...",
@@ -1882,24 +1938,6 @@
           "group_label": "경기도의회(문체·미래위)"
         },
         {
-          "title": "최규진 경기도의원 \"道 문화재단·관광공사 고양 이전 계획 구체화해야...",
-          "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=03624406645516816",
-          "snippet": "21일 경기도의회에 따르면 최규진 의원(더불어민주당·고양4)은 지난 20일 열린 문화체육관광위원회 제1차 회의 문화체육관광국 업무보고에서 경기문화재단과 경기관광공사의 고양시 이전 추진 상황을 점검했다. 최규진...",
-          "source": "이데일리",
-          "sources": [
-            {
-              "name": "이데일리",
-              "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=04890486645516816",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-21T10:47:00+09:00",
-          "ts": 1784598420.0,
-          "group": "gg_council",
-          "group_label": "경기도의회(문체·미래위)"
-        },
-        {
           "title": "류기준 경기도의원, AI 디지털배움터, 소외받는 시군 없도록 세심하게 ...",
           "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/21/20260721500069?wlog_tag3=naver",
           "snippet": "경기도의회 미래과학협력위원회 류기준 의원(더불어민주당, 고양 3)은 20일 열린 미래과학협력위원회 AI국 대상 업무보고에서 ‘AI 디지털배움터’ 사업의 추진 실태를 점검하며 이같이 강조했다. AI 디지털배움터는...",
@@ -1932,24 +1970,6 @@
           "source_count": 1,
           "published": "2026-07-21T10:04:00+09:00",
           "ts": 1784595840.0,
-          "group": "gg_council",
-          "group_label": "경기도의회(문체·미래위)"
-        },
-        {
-          "title": "경기도의회 문화체육관광위원회 채신덕 위원장 \"경기예술제 추진 검토···도민 체감 문화정책 강화\"",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nbU80RDZzdWdyMDlrci1sOWdlMTZtQmwxVjdUTlVpN3ROZWdJbFNvSGs4UzVnQmdNWTY2WEdqbEVIN3FsRXBYUjNyUHBJUVlBVjBxMERMNzVXUXE4WE0tRmNZMGRqeGtDOHQtMFd0Vlg?oc=5",
-          "snippet": "",
-          "source": "산경일보",
-          "sources": [
-            {
-              "name": "산경일보",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nbU80RDZzdWdyMDlrci1sOWdlMTZtQmwxVjdUTlVpN3ROZWdJbFNvSGs4UzVnQmdNWTY2WEdqbEVIN3FsRXBYUjNyUHBJUVlBVjBxMERMNzVXUXE4WE0tRmNZMGRqeGtDOHQtMFd0Vlg?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-21T09:56:16+09:00",
-          "ts": 1784595376.0,
           "group": "gg_council",
           "group_label": "경기도의회(문체·미래위)"
         },
@@ -2096,6 +2116,24 @@
           "ts": 1784537760.0,
           "group": "gg_council",
           "group_label": "경기도의회(문체·미래위)"
+        },
+        {
+          "title": "윤도희 경기도의원 “경기도 AI 사업, 정량적 수치 넘어 정성적 성과 분...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/20/20260720500247?wlog_tag3=naver",
+          "snippet": "경기도의회 미래과학협력위원회 윤도희 의원(더불어민주당, 안양 3)이 경기도가 추진 중인 인공지능(AI) 관련 사업들의 성과 평가 방식이 형식적이라고 비판하며, 실효성 있는 성과 분석과 평가 체계 전반의 개편을 강력히...",
+          "source": "서울신문",
+          "sources": [
+            {
+              "name": "서울신문",
+              "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/20/20260720500247?wlog_tag3=naver",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-20T17:53:00+09:00",
+          "ts": 1784537580.0,
+          "group": "gg_council",
+          "group_label": "경기도의회(문체·미래위)"
         }
       ]
     },
@@ -2175,7 +2213,7 @@
       "id": "central",
       "label": "중앙부처(콘텐츠)",
       "priority": 7,
-      "count": 20,
+      "count": 21,
       "items": [
         {
           "title": "엔제리너스, 한국콘텐츠진흥원과 맞손…K-캐릭터 IP 협업 확대",
@@ -2249,13 +2287,13 @@
               "origin": "naver"
             },
             {
-              "name": "newsquest.co.kr",
-              "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=270062",
+              "name": "파이낸셜뉴스",
+              "url": "http://www.fnnews.com/news/202607210923125171",
               "origin": "naver"
             },
             {
-              "name": "파이낸셜뉴스",
-              "url": "http://www.fnnews.com/news/202607210923125171",
+              "name": "newsquest.co.kr",
+              "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=270062",
               "origin": "naver"
             },
             {
@@ -2285,7 +2323,7 @@
             },
             {
               "name": "월드투데이",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwMzZmNHRsUzlTNG9aM2tlSUpJRERMVlVva1VuUDlLZTE3bHJUS0s4Qk9lNi1ienNYdjVMLU9MLVZsS2Y2eFI3cGRVS094OGFiSGlnWHUwcnJ4b3pzRG81aEVTckN2NlNkMkhWS2FR?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vZDl1Y3owTklYLTJGbGFWYkNFVll4bmtMdXBCcXlvdk9CR0I0OWRUMDhWWTk2ZWxVa2RRc2N0YjlhbHJNanEzTmxwOXpFOVk4SU9MNENvYlJUekF5cHlrNlN2OUdpcUxWUmNmTW44Zw?oc=5",
               "origin": "google"
             },
             {
@@ -2389,39 +2427,6 @@
           "group_label": "중앙부처(콘텐츠)"
         },
         {
-          "title": "콘진원, 방콕서 K-콘텐츠 공동제작 확대…동남아 시장 공략 본격화",
-          "url": "https://www.dongponews.net/news/articleView.html?idxno=59399",
-          "snippet": "한국콘텐츠진흥원(콘진원)이 일본에 이어 태국에서 K-방송영상콘텐츠의 해외 공동제작과 투자 유치 확대에 나선다. 글로벌 콘텐츠 시장에서 K-콘텐츠의 영향력이 커지는 가운데 동남아를 새로운 전략 거점으로 삼아...",
-          "source": "dongponews.net",
-          "sources": [
-            {
-              "name": "dongponews.net",
-              "url": "https://www.dongponews.net/news/articleView.html?idxno=59399",
-              "origin": "naver"
-            },
-            {
-              "name": "siminsori.com",
-              "url": "https://www.siminsori.com/news/articleView.html?idxno=400594",
-              "origin": "naver"
-            },
-            {
-              "name": "newstnt.com",
-              "url": "https://www.newstnt.com/news/articleView.html?idxno=710827",
-              "origin": "naver"
-            },
-            {
-              "name": "재외동포신문",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zcWJ1RTM0aDZZc3NERF9WSXZWdjliekEzUG94czBxUl9kQlBiQzlneXpqRTI0RFJWeGRrRFNSRGs2VDRnUm1PdkRaOWxfWlk1RFNoUC1vd3FmSEV4WjFYWHhrSnVWNGNsSGIw?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 4,
-          "published": "2026-07-21T18:38:00+09:00",
-          "ts": 1784626680.0,
-          "group": "central",
-          "group_label": "중앙부처(콘텐츠)"
-        },
-        {
           "title": "엔제리너스, 콘진원과 K-캐릭터 IP 활성화 협약",
           "url": "https://www.yna.co.kr/view/AKR20260721123900030?input=1195m",
           "snippet": "곰 캐릭터 '빵고미'와 신메뉴·굿즈 출시…팝업 매장 운영 롯데GRS가 운영하는 엔제리너스는 한국콘텐츠진흥원(콘진원)과 국내 캐릭터 지식재산권(IP) 산업 활성화를 위한 업무협약을 체결했다고 21일 밝혔다....",
@@ -2451,6 +2456,34 @@
           "source_count": 4,
           "published": "2026-07-21T15:12:00+09:00",
           "ts": 1784614320.0,
+          "group": "central",
+          "group_label": "중앙부처(콘텐츠)"
+        },
+        {
+          "title": "콘진원, 방콕서 K-콘텐츠 공동제작 확대…동남아 시장 공략 본격화",
+          "url": "https://www.dongponews.net/news/articleView.html?idxno=59399",
+          "snippet": "한국콘텐츠진흥원(콘진원)이 일본에 이어 태국에서 K-방송영상콘텐츠의 해외 공동제작과 투자 유치 확대에 나선다. 글로벌 콘텐츠 시장에서 K-콘텐츠의 영향력이 커지는 가운데 동남아를 새로운 전략 거점으로 삼아...",
+          "source": "dongponews.net",
+          "sources": [
+            {
+              "name": "dongponews.net",
+              "url": "https://www.dongponews.net/news/articleView.html?idxno=59399",
+              "origin": "naver"
+            },
+            {
+              "name": "siminsori.com",
+              "url": "https://www.siminsori.com/news/articleView.html?idxno=400594",
+              "origin": "naver"
+            },
+            {
+              "name": "재외동포신문",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zcWJ1RTM0aDZZc3NERF9WSXZWdjliekEzUG94czBxUl9kQlBiQzlneXpqRTI0RFJWeGRrRFNSRGs2VDRnUm1PdkRaOWxfWlk1RFNoUC1vd3FmSEV4WjFYWHhrSnVWNGNsSGIw?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-07-21T18:38:00+09:00",
+          "ts": 1784626680.0,
           "group": "central",
           "group_label": "중앙부처(콘텐츠)"
         },
@@ -2599,6 +2632,24 @@
           "source_count": 2,
           "published": "2026-07-21T11:22:00+09:00",
           "ts": 1784600520.0,
+          "group": "central",
+          "group_label": "중앙부처(콘텐츠)"
+        },
+        {
+          "title": "문체부-게임위, 숙박업소 내 무등록 게임영업 근절 나선다",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5TFI5R09ndndiSEVXbjRQUmVydkRLUWJURGNlUThRYVpmVXhMSE5mUnhJeTlYd1pYWjYzYldjcVZwRWRZaHEtTHJzWm5xT3hqOTVlNnV0eXNqaHVYT0xDV050MWRPX0RrSWE4eQ?oc=5",
+          "snippet": "",
+          "source": "인벤",
+          "sources": [
+            {
+              "name": "인벤",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5TFI5R09ndndiSEVXbjRQUmVydkRLUWJURGNlUThRYVpmVXhMSE5mUnhJeTlYd1pYWjYzYldjcVZwRWRZaHEtTHJzWm5xT3hqOTVlNnV0eXNqaHVYT0xDV050MWRPX0RrSWE4eQ?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-21T17:19:51+09:00",
+          "ts": 1784621991.0,
           "group": "central",
           "group_label": "중앙부처(콘텐츠)"
         },
