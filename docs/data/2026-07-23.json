@@ -1,6 +1,6 @@
 {
   "date": "2026-07-23",
-  "generated_at": "2026-07-23T18:15:26.540013+09:00",
+  "generated_at": "2026-07-23T20:23:46.455015+09:00",
   "window_hours": 30,
   "sources": [
     "네이버뉴스",
@@ -9,18 +9,18 @@
   "use_naver": true,
   "preview_items": 5,
   "counts": {
-    "collected": 2043,
-    "kept": 378,
-    "excluded": 1665,
-    "consolidated": 132,
-    "multi": 45
+    "collected": 1961,
+    "kept": 349,
+    "excluded": 1612,
+    "consolidated": 123,
+    "multi": 35
   },
   "groups": [
     {
       "id": "gca",
       "label": "경기콘텐츠진흥원",
       "priority": 1,
-      "count": 13,
+      "count": 6,
       "items": [
         {
           "title": "경기콘텐츠진흥원, '경기 레벨업 프로그램' 하반기 15개사 모집",
@@ -32,6 +32,11 @@
               "name": "platum.kr",
               "url": "https://platum.kr/archives/291311",
               "origin": "naver"
+            },
+            {
+              "name": "경인종합일보",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SMmRJc183SkhwY2cwYUs1Rm14MEFzMUlKRmNEMFdBbk9kcXJSYzRyaG5XRXZoU25CdDQ4aEx0ZWhra3k2bVRLOHJtbVFmbEUwbk1hVDNqRjhtVEp2c1ktUVM4a3ktOVJBWEVfemVzdFJTUdIBckFVX3lxTE5SMmRJc183SkhwY2cwYUs1Rm14MEFzMUlKRmNEMFdBbk9kcXJSYzRyaG5XRXZoU25CdDQ4aEx0ZWhra3k2bVRLOHJtbVFmbEUwbk1hVDNqRjhtVEp2c1ktUVM4a3ktOVJBWEVfemVzdFJTUQ?oc=5",
+              "origin": "google"
             },
             {
               "name": "산경일보",
@@ -54,42 +59,37 @@
               "origin": "google"
             },
             {
-              "name": "부천포커스",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3QXYxajNFMWhjUkItV0tRX1UxbDAwbGY3dm1BTXBKZWlNU0FuTFJpaGU5Z3VEUXVVQmU4ZXlNMUYyS1hXOU1HSklkRlREWWRtVVM1cmZOcjVqb1g1NVVtNHdtYzRxZkFQOWc?oc=5",
+              "name": "플래텀(Platum)",
+              "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VVDZHZXFUZ2loR0FYSzl1a2tWMmN4ejJvcDFWNUplVVFhVUNGU1RPQUtOTF8zWXZsaWtLcFJ2bW1XNFlvRUtXUw?oc=5",
               "origin": "google"
             }
           ],
-          "source_count": 6,
+          "source_count": 7,
           "published": "2026-07-23T13:26:00+09:00",
           "ts": 1784780760.0,
           "group": "gca",
           "group_label": "경기콘텐츠진흥원"
         },
         {
-          "title": "'경기게임오디션' 참가자 모집",
-          "url": "https://www.hankyung.com/article/2026072200721",
-          "snippet": "경기도와 경기콘텐츠진흥원은 다음달 20일까지 ‘2026년 제21회 경기게임오디션’ 참가자를 모집한다. 이 오디션은 출시 전 게임을 보유한 개발사와 예비 창업자를 발굴해 사업화와 시장 진출을 돕는 경기도 대표 게임...",
-          "source": "한국경제",
+          "title": "경콘진, 콘텐츠·IP 스타트업 15곳 성장·투자 지원",
+          "url": "http://www.bizwnews.com/news/articleView.html?idxno=141287",
+          "snippet": "경기콘텐츠진흥원(이하 경콘진)은 콘텐츠와 지식재산권(IP) 분야 스타트업을 대상으로 '2026 경기 레벨업 프로그램' 하반기 참여 기업 15곳을 오는 8월 10일 오후 3시까지 모집한다고 23일 밝혔다. 모집 분야는 초기 기업을...",
+          "source": "bizwnews.com",
           "sources": [
             {
-              "name": "한국경제",
-              "url": "https://www.hankyung.com/article/2026072200721",
+              "name": "bizwnews.com",
+              "url": "http://www.bizwnews.com/news/articleView.html?idxno=141287",
               "origin": "naver"
             },
             {
-              "name": "daily.hankooki.com",
-              "url": "https://daily.hankooki.com/news/articleView.html?idxno=1388116",
-              "origin": "naver"
-            },
-            {
-              "name": "경인종합일보",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CSE9XbGFJVjd5REdvWmFIRWtpTnJ5RzdtR0FzdS1JeTZrTFJ6WHdSaXljamo4X2RoS09lTUJfVnJaSDBGakhMNzVZYjlFYTBXbERhMkJ6YWlkSUJWc3NIYVJUWkVnUk5MUXhpNTkyTnZtZ9IBckFVX3lxTE1CSE9XbGFJVjd5REdvWmFIRWtpTnJ5RzdtR0FzdS1JeTZrTFJ6WHdSaXljamo4X2RoS09lTUJfVnJaSDBGakhMNzVZYjlFYTBXbERhMkJ6YWlkSUJWc3NIYVJUWkVnUk5MUXhpNTkyTnZtZw?oc=5",
+              "name": "비즈월드",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tb2Y4V3ppeUxTOVE2LTljckw5bjdRbWs4MmNlbVBFYVMzZWFDczhEZklzcjV3YTduNnFyN3JHRFRnMXJwN3FkVnNkQVNiWjE0Z1Q3bkItSDg3TnRsR0xhXzJGM2c4T3U5VEE?oc=5",
               "origin": "google"
             }
           ],
-          "source_count": 3,
-          "published": "2026-07-22T17:53:00+09:00",
-          "ts": 1784710380.0,
+          "source_count": 2,
+          "published": "2026-07-23T10:04:00+09:00",
+          "ts": 1784768640.0,
           "group": "gca",
           "group_label": "경기콘텐츠진흥원"
         },
@@ -117,6 +117,29 @@
           "group_label": "경기콘텐츠진흥원"
         },
         {
+          "title": "'경기게임오디션' 참가자 모집",
+          "url": "https://www.hankyung.com/article/2026072200721",
+          "snippet": "경기도와 경기콘텐츠진흥원은 다음달 20일까지 ‘2026년 제21회 경기게임오디션’ 참가자를 모집한다. 이 오디션은 출시 전 게임을 보유한 개발사와 예비 창업자를 발굴해 사업화와 시장 진출을 돕는 경기도 대표 게임...",
+          "source": "한국경제",
+          "sources": [
+            {
+              "name": "한국경제",
+              "url": "https://www.hankyung.com/article/2026072200721",
+              "origin": "naver"
+            },
+            {
+              "name": "weeklytoday.com",
+              "url": "http://www.weeklytoday.com/news/articleView.html?idxno=786581",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-07-22T17:53:00+09:00",
+          "ts": 1784710380.0,
+          "group": "gca",
+          "group_label": "경기콘텐츠진흥원"
+        },
+        {
           "title": "772팀이 도전한 ‘인디 등용문’… 경콘진 ‘인디스땅스’ 본선 10팀 확...",
           "url": "https://www.venturesquare.net/1100432/",
           "snippet": "경기콘텐츠진흥원은 ‘2026 인디스땅스’ 본선에 진출할 최종 10개 팀을 확정하고 오는 8월 7일 본선 경연을 개최한다. 2026 인디스땅스 Top10 (자료 제공...",
@@ -126,121 +149,11 @@
               "name": "venturesquare.net",
               "url": "https://www.venturesquare.net/1100432/",
               "origin": "naver"
-            },
-            {
-              "name": "경인종합일보",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zc1FvRUJucXAyS3NId1dFN2R5bVJfY3BXak4yeXgybVJNRF9JcW9FWVZYM2NfdmV4VktNRTYwVlkxR0llUmE1c2VzeVRndWFLYm5KR3lyRVQ2SUZzWVdaUExIS1Z1NWRsYVpFSF94MHl0d9IBckFVX3lxTE1zc1FvRUJucXAyS3NId1dFN2R5bVJfY3BXak4yeXgybVJNRF9JcW9FWVZYM2NfdmV4VktNRTYwVlkxR0llUmE1c2VzeVRndWFLYm5KR3lyRVQ2SUZzWVdaUExIS1Z1NWRsYVpFSF94MHl0dw?oc=5",
-              "origin": "google"
             }
           ],
-          "source_count": 2,
+          "source_count": 1,
           "published": "2026-07-22T23:00:00+09:00",
           "ts": 1784728800.0,
-          "group": "gca",
-          "group_label": "경기콘텐츠진흥원"
-        },
-        {
-          "title": "[위클리오늘] 경기도, 제21회 경기게임오디션 참가자 모집…미래 게임 ...",
-          "url": "http://www.weeklytoday.com/news/articleView.html?idxno=786581",
-          "snippet": "경기도와 경기콘텐츠진흥원(이하 경콘진)은 '2026년 제21회 경기게임오디션' 참가자를 오는 8월 20일까지 모집한다. 경기게임오디션은 국내 미출시 게임을 보유한 개발사와 예비 창업자를 발굴·육성하는 명실상부한...",
-          "source": "weeklytoday.com",
-          "sources": [
-            {
-              "name": "weeklytoday.com",
-              "url": "http://www.weeklytoday.com/news/articleView.html?idxno=786917",
-              "origin": "naver"
-            },
-            {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VRUNLaWxnRkZTS09ZQTA1emxuRUFRRmZZRXh3bGpRVkh3QWRsSERQek9hdUZxem42SFV6My1MQmJHYlk5bGFzbHpBNVp2N0xXWWY0?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-07-22T15:38:00+09:00",
-          "ts": 1784702280.0,
-          "group": "gca",
-          "group_label": "경기콘텐츠진흥원"
-        },
-        {
-          "title": "경기도, 제21회 경기게임오디션 참가자 모집",
-          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5043310",
-          "snippet": "경기도와 경기콘텐츠진흥원은 '2026년 제21회 경기게임오디션' 참가자를 다음달 20일까지 모집한다고 22일 밝혔다. 경기게임오디션은 국내 출시 전 게임을 보유한 개발사와 예비 창업자를 발굴·육성하는 경기도 대표 게임...",
-          "source": "shinailbo.co.kr",
-          "sources": [
-            {
-              "name": "shinailbo.co.kr",
-              "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5043516",
-              "origin": "naver"
-            },
-            {
-              "name": "신아일보",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TYm1JN2ZvT2diaGh2R2VJY0xyUWVNNld5Tzh1RmtIYjdieEZKODlSMkhVSkU5Mk1sdUlrNFVEa0dobEF4MFY5U2JQeVVubUd1dDlMNDVDVVI0c2VTUXhZMnFaRWVSM0NmNEdtU0RCY1o?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-07-22T12:56:00+09:00",
-          "ts": 1784692560.0,
-          "group": "gca",
-          "group_label": "경기콘텐츠진흥원"
-        },
-        {
-          "title": "'산나비 신화' 다시 쓴다…경기도, 차세대 게임스타 발굴 프로젝트 시동",
-          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7175299",
-          "snippet": "그래픽=경기콘텐츠진흥원 세계 게임 시장에서 한국 게임의 영향력이 커지는 가운데, 차세대 흥행작을 발굴하기 위한 경기도의 대표 인디 게임 육성 프로젝트가 다시 막을 올린다. 특히 올해는 처음으로 학생 부문을 별도...",
-          "source": "weekly.hankooki.com",
-          "sources": [
-            {
-              "name": "weekly.hankooki.com",
-              "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7175299",
-              "origin": "naver"
-            },
-            {
-              "name": "주간한국",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xVlRpZ2ZLOEhlQXpfSmtUUU1tLWlrWWxPbU1lbDdaUngyWEtOOVlMVWpQNkVFdmE0TUVVV29oZk5CYlNBWDF3NURIS3V0Y2hjZzhHal9HTVg5Qkp6WXY4bDF0dVZzTXd1R0V4NWtYNXhXRkFX0gF0QVVfeXFMTzFWVGlnZks4SGVBel9Ka1RRTW0taWtZbE9tTWVsN1pSeDJYS045WUxValA2RUV2YTRNRVVXb2hmTkJiU0FYMXc1REhLdXRjaGNnOEdqX0dNWDlCSnpZdjhsMXR1VnNNd3VHRXg1a1g1eFdGQVc?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-07-22T12:42:00+09:00",
-          "ts": 1784691720.0,
-          "group": "gca",
-          "group_label": "경기콘텐츠진흥원"
-        },
-        {
-          "title": "경콘진, 콘텐츠·IP 스타트업 15곳 성장·투자 지원",
-          "url": "http://www.bizwnews.com/news/articleView.html?idxno=141287",
-          "snippet": "경기콘텐츠진흥원(이하 경콘진)은 콘텐츠와 지식재산권(IP) 분야 스타트업을 대상으로 '2026 경기 레벨업 프로그램' 하반기 참여 기업 15곳을 오는 8월 10일 오후 3시까지 모집한다고 23일 밝혔다. 모집 분야는 초기 기업을...",
-          "source": "bizwnews.com",
-          "sources": [
-            {
-              "name": "bizwnews.com",
-              "url": "http://www.bizwnews.com/news/articleView.html?idxno=141280",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-23T10:04:00+09:00",
-          "ts": 1784768640.0,
-          "group": "gca",
-          "group_label": "경기콘텐츠진흥원"
-        },
-        {
-          "title": "경콘진, 콘텐츠·IP 스타트업 15곳 성장·투자 지원",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tb2Y4V3ppeUxTOVE2LTljckw5bjdRbWs4MmNlbVBFYVMzZWFDczhEZklzcjV3YTduNnFyN3JHRFRnMXJwN3FkVnNkQVNiWjE0Z1Q3bkItSDg3TnRsR0xhXzJGM2c4T3U5VEE?oc=5",
-          "snippet": "",
-          "source": "비즈월드",
-          "sources": [
-            {
-              "name": "비즈월드",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tb2Y4V3ppeUxTOVE2LTljckw5bjdRbWs4MmNlbVBFYVMzZWFDczhEZklzcjV3YTduNnFyN3JHRFRnMXJwN3FkVnNkQVNiWjE0Z1Q3bkItSDg3TnRsR0xhXzJGM2c4T3U5VEE?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-23T08:37:00+09:00",
-          "ts": 1784763420.0,
           "group": "gca",
           "group_label": "경기콘텐츠진흥원"
         },
@@ -261,60 +174,6 @@
           "ts": 1784706960.0,
           "group": "gca",
           "group_label": "경기콘텐츠진흥원"
-        },
-        {
-          "title": "전통에 현대를 입힌 'K-헤리티지'展",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1327804",
-          "snippet": "/사진제공=경기콘텐츠진흥원 전통의 예스러움과 현대적인 감각이 절묘하게 접목된 K-헤리티지 콘텐츠의 정수를 한자리에서 만날 수 있는 기획 전시가 펼쳐진다. 경기콘텐츠진흥원과 크라우드 펀딩 플랫폼 텀블벅이...",
-          "source": "인천일보",
-          "sources": [
-            {
-              "name": "인천일보",
-              "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1327804",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-22T14:20:00+09:00",
-          "ts": 1784697600.0,
-          "group": "gca",
-          "group_label": "경기콘텐츠진흥원"
-        },
-        {
-          "title": "경기도, '게임 인재를 찾습니다!.. '2026년 제21회 경기게임오디션' 참가...",
-          "url": "http://www.queen.co.kr/news/articleView.html?idxno=460655",
-          "snippet": "자세한 내용은 경콘진 누리집에서 확인 가능하며, 문의는 경콘진 게임산업팀으로 한다. 그동안 '산나비', '셰이프 오브 드림즈', '데블위딘: 삿갓' 등 흥행작을 배출하며 스타트업의 등용문 역할을 해온 만큼, 올해도...",
-          "source": "queen.co.kr",
-          "sources": [
-            {
-              "name": "queen.co.kr",
-              "url": "http://www.queen.co.kr/news/articleView.html?idxno=460655",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-22T14:06:00+09:00",
-          "ts": 1784696760.0,
-          "group": "gca",
-          "group_label": "경기콘텐츠진흥원"
-        },
-        {
-          "title": "아이디어보다 실증… 경기콘텐츠진흥원, 공공 PoC 스타트업 찾는다",
-          "url": "https://www.venturesquare.net/1100168/",
-          "snippet": "경기콘텐츠진흥원과 의정부시는 경기북부 지역 기반의 콘텐츠 융복합 스타트업을 발굴하고 공공 실증을 지원하는 ‘2026 로컬 스타트업 챌린지-시티온(city:on) 트랙’ 참가기업을 오는 8월 17일까지 모집한다고 22일...",
-          "source": "venturesquare.net",
-          "sources": [
-            {
-              "name": "venturesquare.net",
-              "url": "https://www.venturesquare.net/1100168/",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-22T13:27:00+09:00",
-          "ts": 1784694420.0,
-          "group": "gca",
-          "group_label": "경기콘텐츠진흥원"
         }
       ]
     },
@@ -322,7 +181,7 @@
       "id": "province",
       "label": "경기도(콘텐츠 관련)",
       "priority": 2,
-      "count": 9,
+      "count": 8,
       "items": [
         {
           "title": "[영상] 경기도·31개 시군, 민선 9기 첫 간담회…상생 협력 본격화",
@@ -389,24 +248,6 @@
           "group_label": "경기도(콘텐츠 관련)"
         },
         {
-          "title": "경기도박물관, 여름방학 맞아 체험형 교육 및 모바일 미션 콘텐츠 선보여",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE04UnpSbDdNVU9BUEJHeHBKUHBNbFByVEVNa2hYWFpxMEpiZTVIWnplbmJBVExNclowMnBqVnNnbzBUMExuVFB2SkE1T1M?oc=5",
-          "snippet": "",
-          "source": "모닝투데이",
-          "sources": [
-            {
-              "name": "모닝투데이",
-              "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE04UnpSbDdNVU9BUEJHeHBKUHBNbFByVEVNa2hYWFpxMEpiZTVIWnplbmJBVExNclowMnBqVnNnbzBUMExuVFB2SkE1T1M?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-23T14:29:00+09:00",
-          "ts": 1784784540.0,
-          "group": "province",
-          "group_label": "경기도(콘텐츠 관련)"
-        },
-        {
           "title": "경기도박물관, 기증전 연계 체험교육·모바일 추리 콘텐츠 동시 운영",
           "url": "https://www.asiatime.co.kr/article/20260723500067",
           "snippet": "기증특별전과 연계한 교육 프로그램과 박물관 곳곳을 탐험하며 사건을 해결하는 모바일 미션 콘텐츠를 함께 운영해 전시 관람과 체험을 결합한 새로운 문화교육 프로그램을 선보인다. 경기도박물관은 오는 30일부터...",
@@ -461,6 +302,24 @@
           "group_label": "경기도(콘텐츠 관련)"
         },
         {
+          "title": "‘산나비 신화’ 다시 쓴다…경기도, 차세대 게임스타 발굴 프로젝트 시동",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xVlRpZ2ZLOEhlQXpfSmtUUU1tLWlrWWxPbU1lbDdaUngyWEtOOVlMVWpQNkVFdmE0TUVVV29oZk5CYlNBWDF3NURIS3V0Y2hjZzhHal9HTVg5Qkp6WXY4bDF0dVZzTXd1R0V4NWtYNXhXRkFX0gF0QVVfeXFMTzFWVGlnZks4SGVBel9Ka1RRTW0taWtZbE9tTWVsN1pSeDJYS045WUxValA2RUV2YTRNRVVXb2hmTkJiU0FYMXc1REhLdXRjaGNnOEdqX0dNWDlCSnpZdjhsMXR1VnNNd3VHRXg1a1g1eFdGQVc?oc=5",
+          "snippet": "",
+          "source": "주간한국",
+          "sources": [
+            {
+              "name": "주간한국",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xVlRpZ2ZLOEhlQXpfSmtUUU1tLWlrWWxPbU1lbDdaUngyWEtOOVlMVWpQNkVFdmE0TUVVV29oZk5CYlNBWDF3NURIS3V0Y2hjZzhHal9HTVg5Qkp6WXY4bDF0dVZzTXd1R0V4NWtYNXhXRkFX0gF0QVVfeXFMTzFWVGlnZks4SGVBel9Ka1RRTW0taWtZbE9tTWVsN1pSeDJYS045WUxValA2RUV2YTRNRVVXb2hmTkJiU0FYMXc1REhLdXRjaGNnOEdqX0dNWDlCSnpZdjhsMXR1VnNNd3VHRXg1a1g1eFdGQVc?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-23T00:20:32+09:00",
+          "ts": 1784733632.0,
+          "group": "province",
+          "group_label": "경기도(콘텐츠 관련)"
+        },
+        {
           "title": "고양문화재단, 내달 21∼22일 '2026년 고양돗자리영화제'",
           "url": "https://www.yna.co.kr/view/AKR20260722117200060?input=1195m",
           "snippet": "경기 고양시 산하 고양문화재단은 다음 달 21∼22일 고양어울림누리 어울림광장에서 '2026년... 첫날인 내달 21일 오후 7시 15분에는 전 세계의 사랑을 받은 뮤지컬 애니메이션 시리즈 '트롤 밴드 투게더'가 상영된다. 다음...",
@@ -477,24 +336,6 @@
           "ts": 1784699880.0,
           "group": "province",
           "group_label": "경기도(콘텐츠 관련)"
-        },
-        {
-          "title": "콘텐츠산업 체감 경기 온도차…음악 '맑음'·방송 '흐림'",
-          "url": "https://www.etnews.com/20260722000234",
-          "snippet": "내수 경기 위축에 따른 소비 감소와 함께, 캐릭터산업 특유의 초저마진 유통 구조 한계가 발목을 잡았다는 분석이다. 만화산업도 98.0점에 그쳤는데, 웹툰엔터테인먼트·카카오픽코마 등 글로벌 웹툰 플랫폼의 실적...",
-          "source": "전자신문",
-          "sources": [
-            {
-              "name": "전자신문",
-              "url": "https://www.etnews.com/20260722000234",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-22T14:03:00+09:00",
-          "ts": 1784696580.0,
-          "group": "province",
-          "group_label": "경기도(콘텐츠 관련)"
         }
       ]
     },
@@ -502,8 +343,146 @@
       "id": "governor",
       "label": "경기도지사",
       "priority": 3,
-      "count": 56,
+      "count": 53,
       "items": [
+        {
+          "title": "경기도, 신임 경제부지사 주형철 전 경기연구원장 내정",
+          "url": "https://www.sportsseoul.com/news/read/1624355?ref=naver",
+          "snippet": "추미애 지사는“대한민국의 혁신 경제성장을 위해서는 경기도의 선도적인 역할이 무엇보다 중요하다”면서, “경기도의 첨단산업 발전과 민생 경제 활성화를 위해 주요 경제 정책을 신속하고 과감하게 추진할 것을...",
+          "source": "sportsseoul.com",
+          "sources": [
+            {
+              "name": "sportsseoul.com",
+              "url": "https://www.sportsseoul.com/news/read/1624355?ref=naver",
+              "origin": "naver"
+            },
+            {
+              "name": "ttlnews.com",
+              "url": "http://www.ttlnews.com/news/articleView.html?idxno=3128236",
+              "origin": "naver"
+            },
+            {
+              "name": "etoday.co.kr",
+              "url": "https://www.etoday.co.kr/news/view/2606873",
+              "origin": "naver"
+            },
+            {
+              "name": "discoverynews.kr",
+              "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1096866",
+              "origin": "naver"
+            },
+            {
+              "name": "서울경제",
+              "url": "https://www.sedaily.com/article/20071204?ref=naver",
+              "origin": "naver"
+            },
+            {
+              "name": "헤럴드경제",
+              "url": "https://biz.heraldcorp.com/article/10818381?ref=naver",
+              "origin": "naver"
+            },
+            {
+              "name": "뉴스핌",
+              "url": "https://www.newspim.com/news/view/20260723001266",
+              "origin": "naver"
+            },
+            {
+              "name": "뉴스1",
+              "url": "https://www.news1.kr/local/gyeonggi/6237303",
+              "origin": "naver"
+            },
+            {
+              "name": "news.tf.co.kr",
+              "url": "https://news.tf.co.kr/read/national/2346508.htm",
+              "origin": "naver"
+            },
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260723180400061?input=1195m",
+              "origin": "naver"
+            },
+            {
+              "name": "기호일보",
+              "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3029787",
+              "origin": "naver"
+            },
+            {
+              "name": "노컷뉴스",
+              "url": "https://www.nocutnews.co.kr/news/6552565?utm_source=naver&utm_medium=article&utm_campaign=20260723055114",
+              "origin": "naver"
+            },
+            {
+              "name": "suwonilbo.kr",
+              "url": "http://www.suwonilbo.kr/news/articleView.html?idxno=316918",
+              "origin": "naver"
+            },
+            {
+              "name": "beyondpost.co.kr",
+              "url": "http://www.beyondpost.co.kr/view.php?ud=202607231726213514c878f8fa1_30",
+              "origin": "naver"
+            },
+            {
+              "name": "news.ifm.kr",
+              "url": "https://news.ifm.kr/news/articleView.html?idxno=475664",
+              "origin": "naver"
+            },
+            {
+              "name": "sidae.com",
+              "url": "https://www.sidae.com/article/2026072317115113966",
+              "origin": "naver"
+            },
+            {
+              "name": "뉴시스",
+              "url": "https://www.newsis.com/view/NISX20260723_0003721031",
+              "origin": "naver"
+            },
+            {
+              "name": "한국경제TV",
+              "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607230500&t=NN",
+              "origin": "naver"
+            },
+            {
+              "name": "econonews.co.kr",
+              "url": "http://www.econonews.co.kr/news/articleView.html?idxno=441697",
+              "origin": "naver"
+            },
+            {
+              "name": "머니투데이",
+              "url": "https://www.mt.co.kr/policy/2026/07/23/2026072316572378470",
+              "origin": "naver"
+            },
+            {
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/area/capital/1269642.html",
+              "origin": "naver"
+            },
+            {
+              "name": "서울신문",
+              "url": "https://www.seoul.co.kr/news/publicnews/local_govern/2026/07/23/20260723500247?wlog_tag3=naver",
+              "origin": "naver"
+            },
+            {
+              "name": "중부일보",
+              "url": "https://www.joongboo.com/news/articleView.html?idxno=363732196",
+              "origin": "naver"
+            },
+            {
+              "name": "경기일보",
+              "url": "https://www.kyeonggi.com/article/20260723580481",
+              "origin": "naver"
+            },
+            {
+              "name": "비욘드포스트",
+              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MTl9mM1E0ZGlDaDNXTURnaU4zd0llYUZEdFRyeGRFOWoyQmJrSUpCRlctR3JWSGxJSERGT1B3cEtsVktRMS1Cckp6b3VJWlRrNEhwdDlCcXpQeWNBSjFtSDljQzN1X25hWlROeTh6RnFjX09HcXFJTVpNaw?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 25,
+          "published": "2026-07-23T20:11:00+09:00",
+          "ts": 1784805060.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
         {
           "title": "경기도, 인천 물류센터 화재 계기 긴급 대책회의 개최",
           "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1531637",
@@ -526,21 +505,6 @@
               "origin": "naver"
             },
             {
-              "name": "dnews.co.kr",
-              "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607231358433730286",
-              "origin": "naver"
-            },
-            {
-              "name": "weeklytoday.com",
-              "url": "http://www.weeklytoday.com/news/articleView.html?idxno=786877",
-              "origin": "naver"
-            },
-            {
-              "name": "헤럴드경제",
-              "url": "https://biz.heraldcorp.com/article/10818134?ref=naver",
-              "origin": "naver"
-            },
-            {
               "name": "서울파이낸스",
               "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vem5IUE1nMm1TVHRtY3V6U05CZ1M2QS16X2NDSG04TUROd1kxQWlrSWNlcjZ0UlZBZW1Odk43OEY5bUt3Nl9UM3BzbF9uMkhWSVNwOVdIWVpmSTVuaUlUM1pLOEVMRlN6M2c?oc=5",
               "origin": "google"
@@ -551,8 +515,8 @@
               "origin": "google"
             },
             {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tTE9EQWhBNlBYcFF3eUx0dml2QkZHanBldVhRMFlSSHFmX1VVVjF0U0s2dDB5Z3FRaTUxUXZtZXF0UjlWZ1VHR1NTNzBuazh1ejdz?oc=5",
+              "name": "㈜한국탑뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBybkFvdXhwNUl2ZEozTG44cjdVTUFTazZhYnQ1Q2o3OWZOa3Y2S0RueHZMNi14NkJ0SHp4Rl9CMi11STNHdVpqQjI1VmF2MVE5LVgwUlo1ajlhWVlZaWljTUt3?oc=5",
               "origin": "google"
             },
             {
@@ -566,9 +530,133 @@
               "origin": "google"
             }
           ],
-          "source_count": 11,
+          "source_count": 8,
           "published": "2026-07-23T18:10:00+09:00",
           "ts": 1784797800.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "중국 장쑤성 대표단 경기도 방문...추미애 지사 취임 축하 친서 전달",
+          "url": "https://www.newspim.com/news/view/20260723001271",
+          "snippet": "경기도와 자매결연 관계인 중국 장쑤성(江蘇省) 대표단이 추미애 경기도지사의 취임을 축하하는 성장의 친서를 전달하고 양 지역 간 실질적 협력 방안을 논의하기 위해 경기도를 방문했다. 경기도는 '경기도-장쑤성...",
+          "source": "뉴스핌",
+          "sources": [
+            {
+              "name": "뉴스핌",
+              "url": "https://www.newspim.com/news/view/20260723001271",
+              "origin": "naver"
+            },
+            {
+              "name": "뉴스1",
+              "url": "https://www.news1.kr/local/gyeonggi/6237314",
+              "origin": "naver"
+            },
+            {
+              "name": "뉴시스",
+              "url": "https://www.newsis.com/view/NISX20260723_0003721080",
+              "origin": "naver"
+            },
+            {
+              "name": "enewstoday.co.kr",
+              "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2451883",
+              "origin": "naver"
+            },
+            {
+              "name": "네이트",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBacTBiLU8tWDdxVnNCZS1PRko5SVhXMHRoSmREeU15VFVya1FTOC1RM2h0cDFIaU1oTTh6VEU2Zjc0Nmx4bWpOc0xmd0xXUkY2bEdv?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "v.daum.net",
+              "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5CSFp5UnpYbC1ZRTNVQWpKNVJVQVVYVnNLeG1NajVMTUxsaW9nbkRkSXZQSVdqSXllNDdMUDFQUEpBdmU3Q0E?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "연합뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yTnVOXzBtZ2kzLVd6TzAxVUZQUVNFYlNFOS12eU5uTWl1NVpSWGoxY1JUNXhYcGRNUWtpREc4S0JDVUEzVDNaM1ZhSF96Rll0azZTX0NrNnQ2eUs4Rk1vY9IBYEFVX3lxTE0yTnVOXzBtZ2kzLVd6TzAxVUZQUVNFYlNFOS12eU5uTWl1NVpSWGoxY1JUNXhYcGRNUWtpREc4S0JDVUEzVDNaM1ZhSF96Rll0azZTX0NrNnQ2eUs4Rk1vYw?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 7,
+          "published": "2026-07-23T18:58:00+09:00",
+          "ts": 1784800680.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "추미애, 경기미래투자공사 설립 속도전 주문",
+          "url": "https://www.sedaily.com/article/20071218?ref=naver",
+          "snippet": "추미애 경기도지사가 반도체·인공지능(AI) 등 미래전략산업에 대한 장기 투자 기반을 마련하기 위해 가칭 ‘경기미래투자공사’ 설립에 속도를 내라고 주문했다. 23일 경기도에 따르면 추 지사는 이날 오후 경기도청...",
+          "source": "서울경제",
+          "sources": [
+            {
+              "name": "서울경제",
+              "url": "https://www.sedaily.com/article/20071218?ref=naver",
+              "origin": "naver"
+            },
+            {
+              "name": "discoverynews.kr",
+              "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1096868",
+              "origin": "naver"
+            },
+            {
+              "name": "경기신문",
+              "url": "https://www.kgnews.co.kr/news/article.html?no=905037",
+              "origin": "naver"
+            },
+            {
+              "name": "뉴스핌",
+              "url": "https://www.newspim.com/news/view/20260723001254",
+              "origin": "naver"
+            },
+            {
+              "name": "suwonilbo.kr",
+              "url": "http://www.suwonilbo.kr/news/articleView.html?idxno=316916",
+              "origin": "naver"
+            },
+            {
+              "name": "weeklytoday.com",
+              "url": "http://www.weeklytoday.com/news/articleView.html?idxno=786917",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 6,
+          "published": "2026-07-23T19:24:00+09:00",
+          "ts": 1784802240.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "추미애, 경기미래투자공사 설립 속도전…\"10월 초 공동출자 협약\"",
+          "url": "https://news.tf.co.kr/read/national/2346510.htm",
+          "snippet": "반도체 산업 거점 시군과 기반 마련 추미애 경기도지사가 10월 초까지 경기미래투자공사 설립을 위한 관련 시군과의 공동출자 기반 마련 업무협약(MOU)을 주문했다. 추 지사는 23일 열린 제3차 경기미래투자공사 TF...",
+          "source": "news.tf.co.kr",
+          "sources": [
+            {
+              "name": "news.tf.co.kr",
+              "url": "https://news.tf.co.kr/read/national/2346510.htm",
+              "origin": "naver"
+            },
+            {
+              "name": "뉴스1",
+              "url": "https://www.news1.kr/local/gyeonggi/6237292",
+              "origin": "naver"
+            },
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260723176400061?input=1195m",
+              "origin": "naver"
+            },
+            {
+              "name": "KPI뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aS0ZuSGR5SVB0VzlYQVlFVDU4RGdFdTBoNzdjd1B1Zm1JQjQ3WHlUc1lDZEt0UUxlZ2pzcE93OTB2Mks5dDl1c2hlZ0ItbWNhQzAw0gFTQVVfeXFMTlpLRm5IZHlJUHRXOVhBWUVUNThEZ0V1MGg3N2N3UHVmbUlCNDdYeVRzWUNkS3RRTGVnanNwT3c5MHYySzl0OXVzaGVnQi1tY2FDMDA?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 4,
+          "published": "2026-07-23T18:34:00+09:00",
+          "ts": 1784799240.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -581,11 +669,6 @@
             {
               "name": "hbnpress.com",
               "url": "https://hbnpress.com/news/view/1065602925086504",
-              "origin": "naver"
-            },
-            {
-              "name": "jeonmae.co.kr",
-              "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1277294",
               "origin": "naver"
             },
             {
@@ -604,7 +687,7 @@
               "origin": "google"
             }
           ],
-          "source_count": 5,
+          "source_count": 4,
           "published": "2026-07-23T18:00:00+09:00",
           "ts": 1784797200.0,
           "group": "governor",
@@ -619,11 +702,6 @@
             {
               "name": "fntoday.co.kr",
               "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=388745",
-              "origin": "naver"
-            },
-            {
-              "name": "beyondpost.co.kr",
-              "url": "http://www.beyondpost.co.kr/view.php?ud=2026072317364622954c878f8fa1_30",
               "origin": "naver"
             },
             {
@@ -642,136 +720,9 @@
               "origin": "google"
             }
           ],
-          "source_count": 5,
+          "source_count": 4,
           "published": "2026-07-23T18:00:00+09:00",
           "ts": 1784797200.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "경기도 찾은 중국 장쑤성 대표단 \"추미애 취임 축하\"",
-          "url": "https://www.newsis.com/view/NISX20260723_0003721080",
-          "snippet": "찾아 추미애 경기도지사의 취임을 축하했다. '경기도-장쑤성 공동협의체' 제2차 회의 참석을 위해 경기도를 방문한 진샹쥔(金尙軍) 장쑤성 외사판공실 부주임은 이날 도청에서 류샤오타오(刘小涛) 장쑤성 성장이 추미애...",
-          "source": "뉴시스",
-          "sources": [
-            {
-              "name": "뉴시스",
-              "url": "https://www.newsis.com/view/NISX20260723_0003721080",
-              "origin": "naver"
-            },
-            {
-              "name": "enewstoday.co.kr",
-              "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2451883",
-              "origin": "naver"
-            },
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260723156300061?input=1195m",
-              "origin": "naver"
-            },
-            {
-              "name": "econonews.co.kr",
-              "url": "http://www.econonews.co.kr/news/articleView.html?idxno=441692",
-              "origin": "naver"
-            },
-            {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xd2VtM0t6Rkd0WS1Vbk92enZDekpCdzl4WjdRWFNEMU5Qb1lacmI3cjczNFE1RGpVTHl1cXJMUlBwWWRYMEZrbVJuYVhCYjhueHBF?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 5,
-          "published": "2026-07-23T17:41:00+09:00",
-          "ts": 1784796060.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "추미애 경기도지사 \"31개 시군과 소통⋯ 공정·혁신·포용 경기도 만들겠다\"",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BaFY3LVo5aDBPZVRYNENOcHZHbTZSOE1pSU9KZGNwUU5rX3UtZWRaT1RFeld6OEEwZFRrZ0dOdV90cHdsdmtraUhMaHc3WGJ1eEJJSmNlVE5kWmdjelE?oc=5",
-          "snippet": "",
-          "source": "아시아타임즈",
-          "sources": [
-            {
-              "name": "아시아타임즈",
-              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BaFY3LVo5aDBPZVRYNENOcHZHbTZSOE1pSU9KZGNwUU5rX3UtZWRaT1RFeld6OEEwZFRrZ0dOdV90cHdsdmtraUhMaHc3WGJ1eEJJSmNlVE5kWmdjelE?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "새수원신문",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Yd3BQMFVXVUZkVWpyWWhwQzZrc0ljXzJnN2dEZC01Mnk5R09OVWxGTjU0bFRUSWVkTFVwWXJSVU0wVU5DTm9FZUpzVF85OVVzdjZ4VVJycDJnel85V1luYzhzTDFaOHJ3Qnc?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "자치안성신문",
-              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE54YzU0aS1ER2Y5dUY3OVFMNjR6WGg0TTBZcnNPd0d6SnVHTHJGeGI0SER1TDlyVElpc0U4eWtGSTctZXN6UnRLZXQ4M0VrSFpLdDFDdmd5em1JX1RKMml3cXB0WkkyVXp5RnFPMGlMejFfMkF6T2VXV2sxZ2s?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "경인일보",
-              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wZFJ3QnpNZk43UUZ2NW9GeDBYdm02RnoyYXBKSU10U3VPdGFKQ0h6aTROR2tHUXVvTWxWZE15dHBtUi1pZW01OVFEeDBCZHJYZ0E?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 4,
-          "published": "2026-07-23T11:20:00+09:00",
-          "ts": 1784773200.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "신동화 구리시장, 'GH 구리 이전' 조속 재개 건의.. '1년 내 성과' 증명",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3644543",
-          "snippet": "신 시장은 추미애 경기도지사에게, \"제1호 공약인 'GH 구리 이전'을 임기 내 최우선 과제로 삼아 1년 안에... 한편, 이날 간담회에는 추미애 경기도지사와 도내 31개 시군 단체장이 참석해 민선 9기 도정 방향을 공유하고...",
-          "source": "국제뉴스",
-          "sources": [
-            {
-              "name": "국제뉴스",
-              "url": "https://www.gukjenews.com/news/articleView.html?idxno=3644543",
-              "origin": "naver"
-            },
-            {
-              "name": "tournews21.com",
-              "url": "https://www.tournews21.com/news/articleView.html?idxno=139231",
-              "origin": "naver"
-            },
-            {
-              "name": "m-i.kr",
-              "url": "https://www.m-i.kr/news/articleView.html?idxno=1394720",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 3,
-          "published": "2026-07-23T18:10:00+09:00",
-          "ts": 1784797800.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "추미애 지사, 경기미래투자공사 공동출자 협약 추진 지시",
-          "url": "https://www.yna.co.kr/view/AKR20260723176400061?input=1195m",
-          "snippet": "10월 초까지 반도체 관련 9개 시와 협약…소부장·R&D 기업 장기투자 지원 추미애 경기도지사는 23일 경기미래투자공사 TF 전략회의를 주재하고 오는 10월 초까지 반도체 관련 9개 시와 '공동출자 업무협약(MOU)' 체결을...",
-          "source": "연합뉴스",
-          "sources": [
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260723176400061?input=1195m",
-              "origin": "naver"
-            },
-            {
-              "name": "뉴시스",
-              "url": "https://www.newsis.com/view/NISX20260723_0003721016",
-              "origin": "naver"
-            },
-            {
-              "name": "suwonilbo.kr",
-              "url": "http://www.suwonilbo.kr/news/articleView.html?idxno=316916",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 3,
-          "published": "2026-07-23T17:55:00+09:00",
-          "ts": 1784796900.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -804,6 +755,52 @@
           "group_label": "경기도지사"
         },
         {
+          "title": "추미애, “주거권은 기본권…청년 주거 지원 확대·3기 신도시 속도” ...",
+          "url": "http://www.beyondpost.co.kr/view.php?ud=2026072319510369474c878f8fa1_30",
+          "snippet": "경기=비욘드포스트 송인호 기자 추미애 경기도지사가 주거 취약계층 보호와 청년 주거 지원 확대, 3기 신도시 개발 가속화를 주문하며 도시·주택 정책 전반에 대한 점검에 나섰다. 추 지사는 23일 오후 도청 서희홀에서...",
+          "source": "beyondpost.co.kr",
+          "sources": [
+            {
+              "name": "beyondpost.co.kr",
+              "url": "http://www.beyondpost.co.kr/view.php?ud=2026072319510369474c878f8fa1_30",
+              "origin": "naver"
+            },
+            {
+              "name": "중부일보",
+              "url": "https://www.joongboo.com/news/articleView.html?idxno=363732240",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-07-23T20:02:00+09:00",
+          "ts": 1784804520.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "신동화 구리시장, 'GH 구리 이전' 조속 재개 건의.. '1년 내 성과' 증명",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3644543",
+          "snippet": "신 시장은 추미애 경기도지사에게, \"제1호 공약인 'GH 구리 이전'을 임기 내 최우선 과제로 삼아 1년 안에... 한편, 이날 간담회에는 추미애 경기도지사와 도내 31개 시군 단체장이 참석해 민선 9기 도정 방향을 공유하고...",
+          "source": "국제뉴스",
+          "sources": [
+            {
+              "name": "국제뉴스",
+              "url": "https://www.gukjenews.com/news/articleView.html?idxno=3644543",
+              "origin": "naver"
+            },
+            {
+              "name": "tournews21.com",
+              "url": "https://www.tournews21.com/news/articleView.html?idxno=139231",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-07-23T18:10:00+09:00",
+          "ts": 1784797800.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
           "title": "추미애 \"미래산업 투자 플랫폼 필요\"…경기미래투자공사 설립 속도",
           "url": "https://www.pressian.com/pages/articles/2026072317003541931?utm_source=naver&utm_medium=search",
           "snippet": "추미애 경기도지사가 반도체와 인공지능(AI) 등 미래전략산업에 대한 장기 투자를 지원할 ‘경기미래투자공사’ 설립 추진 의지를 공식화했다. 23일 경기도에 따르면 추 지사는 이날 도청사 집무실에서 열린 제3차...",
@@ -827,29 +824,6 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "추미애, 경기도 신임 경제부지사에 주형철 내정…AI·스타트업 정책 전...",
-          "url": "http://www.beyondpost.co.kr/view.php?ud=202607231726213514c878f8fa1_30",
-          "snippet": "경기=비욘드포스트 송인호 기자 경기도가 민선 9기 초대 경제부지사로 주형철 전 경기연구원장을 내정했다. 도는 23일 신임 경제부지사에 주형철 전 원장을 내정하고 오는 27일 공식 임용할 예정이라고 밝혔다. 주...",
-          "source": "beyondpost.co.kr",
-          "sources": [
-            {
-              "name": "beyondpost.co.kr",
-              "url": "http://www.beyondpost.co.kr/view.php?ud=202607231726213514c878f8fa1_30",
-              "origin": "naver"
-            },
-            {
-              "name": "비욘드포스트",
-              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MTl9mM1E0ZGlDaDNXTURnaU4zd0llYUZEdFRyeGRFOWoyQmJrSUpCRlctR3JWSGxJSERGT1B3cEtsVktRMS1Cckp6b3VJWlRrNEhwdDlCcXpQeWNBSjFtSDljQzN1X25hWlROeTh6RnFjX09HcXFJTVpNaw?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-07-23T17:32:00+09:00",
-          "ts": 1784795520.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
           "title": "민경선 고양시장, 경기도 상대 설득전…추미애 지사·남종섭 의장에 정...",
           "url": "https://www.kyeonggi.com/article/20260723580354",
           "snippet": "참석해 추미애 지사에게 고양시 5대 핵심 정책건의서를 전달한 데 이어 오후에는 경기도의회와 도 관련 실·국을 방문해 적극적인 행정 지원을 요청했다고 밝혔다. 이날 민 시장이 추미애 지사에게 전달한 건의서에는...",
@@ -862,36 +836,13 @@
             },
             {
               "name": "v.daum.net",
-              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFRmdZT3oyTEZCRWliSGgwMWpWUjJiN0xTQUZlSnVQczg2ZVF2SmRQUHpLWnNpZFl0Q05NTklfNGVobjdhS0MtUG5TdmJQek0?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9TQVljTEJUOUNWa3FVallMNzZjVkdfOHZYSmZ4Wm5jVUlOOXQ4bGNSb2Ryd0N6cXFUWjlJbE9iMVVuUkxPaHc?oc=5",
               "origin": "google"
             }
           ],
           "source_count": 2,
           "published": "2026-07-23T17:32:00+09:00",
           "ts": 1784795520.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "추미애, 경기도내 쿠팡 물류창고 등 긴급화재점검 지시",
-          "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=05349686645517472",
-          "snippet": "추미애 경기도지사가 인천 쿠팡 물류센터 화재와 유사한 사고 발생을 방지하기 위해 도내 대형 물류창고를... 22일 오후 경기도청 집무실에서 진행된 물류창고 화재안전 강화 전략 회의에서 추미애 경기도지사가 발언을...",
-          "source": "이데일리",
-          "sources": [
-            {
-              "name": "이데일리",
-              "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=05349686645517472",
-              "origin": "naver"
-            },
-            {
-              "name": "edaily.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcjdKcEFiSmMzbmxNZ2t3RUxzM2JuUjFQcVFnUFVlc05tbHJXSUZRNjFJd2Q5UUUzanV2RU0wZ0RIRFptWERuMHZyTjM3S3d1TlR5cFQzckpBbEpMMXo0dlAyUTB2X1BxUGo2QnVfNzdzMWp4c3prWE1rd21mUGE1Ng?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-07-23T17:14:00+09:00",
-          "ts": 1784794440.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -919,140 +870,182 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "추미애 지사, 대형 물류창고 대대적 안전 점검과 제도 개선 강화 지시",
-          "url": "http://www.iminju.net/news/articleView.html?idxno=167031",
-          "snippet": "경기도는 지난 22일 추미애 경기도지사 주재로 긴급 대책회의를 열고, 도내 화재 위험요인 전반에 대한... 추미애 지사는 대책회의에서 \"이 사안은 생명, 안전과 관련된 사항으로 화재 안전을 위해 필수적인 사항에 대해서는...",
-          "source": "iminju.net",
+          "title": "경기도의회 양당 교섭단체 대표연설 '견제와 균형' 다른 곳을 봤다",
+          "url": "https://www.onews.tv/news/articleView.html?idxno=283589",
+          "snippet": "그는 \"국민의힘은 추미애 도지사의 현명하고 책임 있는 결단을 강력히 촉구한다\"며 \"중앙정부를 상대로 당당히 재정 자주권을 확보하고, 보편적 복지에서 선별적·선택적 복지로의 전환을 이끌어내며, 무너진 재정 기틀을...",
+          "source": "onews.tv",
           "sources": [
             {
-              "name": "iminju.net",
-              "url": "http://www.iminju.net/news/articleView.html?idxno=167031",
-              "origin": "naver"
-            },
-            {
-              "name": "오마이뉴스",
-              "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003253677&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+              "name": "onews.tv",
+              "url": "https://www.onews.tv/news/articleView.html?idxno=283589",
               "origin": "naver"
             }
           ],
-          "source_count": 2,
-          "published": "2026-07-23T16:34:00+09:00",
-          "ts": 1784792040.0,
+          "source_count": 1,
+          "published": "2026-07-23T20:22:00+09:00",
+          "ts": 1784805720.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
         {
-          "title": "추미애 \"경기도서 노동존중사회 완성\" 천명…경기도-고용노동부 노동감...",
-          "url": "http://www.inews24.com/view/1988204",
-          "snippet": "추미애 경기도지사가 노동존중사회를 경기도에서 완성할 것을 천명했다. 23일 도에 따르면 추미애 경기도지사와 김영훈 고용노동부 장관은 지난 22일 경기지방노동청에서 ‘중앙-지방 노동감독 협업체계 마련을 위한...",
-          "source": "아이뉴스24",
+          "title": "추미애“재정여건 어렵더라도 미래를 포기할 수는 없다”",
+          "url": "https://www.sportsseoul.com/news/read/1624357?ref=naver",
+          "snippet": "10월 초까지 반도체 거점 시․군과 MOU체결 지시 -기존 G-펀드 한계 보완, 소부장․연구개발 기업 등 장기투자 지원 필요성 강조 〔스포츠서울│수원=좌승훈기자〕추미애 경기도지사는 10월 초까지 관련 시·군과...",
+          "source": "sportsseoul.com",
           "sources": [
             {
-              "name": "아이뉴스24",
-              "url": "http://www.inews24.com/view/1988204",
+              "name": "sportsseoul.com",
+              "url": "https://www.sportsseoul.com/news/read/1624357?ref=naver",
               "origin": "naver"
-            },
-            {
-              "name": "v.daum.net",
-              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rSWZaeDJESUJUME5HTDF5NkUtdHRvOWZ2aHBPeG5VdGVOcDA3WjF4c0Zmc0ZGcDhEalZtT0l0RW5xcE92NHRJTkQ0TjM3RWFLNWdoUQ?oc=5",
-              "origin": "google"
             }
           ],
-          "source_count": 2,
-          "published": "2026-07-23T16:24:00+09:00",
-          "ts": 1784791440.0,
+          "source_count": 1,
+          "published": "2026-07-23T20:19:00+09:00",
+          "ts": 1784805540.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
         {
-          "title": "경기도, 쿠팡 물류 창고 화재 대응…대형 물류창고 473곳 화재안전점검...",
-          "url": "http://www.ttlnews.com/news/articleView.html?idxno=3128111",
-          "snippet": "경기도는 22일 추미애 경기도지사 주재로 긴급 대책회의를 열고 대형 물류창고의 화재 위험 요인을 사전... 추미애 경기도지사는 이번 인천 물류창고 화재가 인명 피해로 이어지지는 않았으나 지역 주민에게 큰 불안을...",
-          "source": "ttlnews.com",
+          "title": "“세수 탓” vs “운용 탓” 경기도 재정위기 원인·해법 이견",
+          "url": "https://www.kyeongin.com/article/1767828",
+          "snippet": "채무로 추미애 경기도지사가 연일 재정 위기와 긴축 재정 기조를 강조중인 가운데, 12대 경기도의회 첫... 둘러싼 추미애 지사의 고민과 고충에 충분히 공감한다”며 이를 해결하기 위해 협치 하겠다는 입장을 밝혔다. 안...",
+          "source": "kyeongin.com",
           "sources": [
             {
-              "name": "ttlnews.com",
-              "url": "http://www.ttlnews.com/news/articleView.html?idxno=3128111",
-              "origin": "naver"
-            },
-            {
-              "name": "YTN",
-              "url": "https://www.ytn.co.kr/_ln/0115_202607231558427158",
+              "name": "kyeongin.com",
+              "url": "https://www.kyeongin.com/article/1767828",
               "origin": "naver"
             }
           ],
-          "source_count": 2,
-          "published": "2026-07-23T16:00:00+09:00",
-          "ts": 1784790000.0,
+          "source_count": 1,
+          "published": "2026-07-23T19:58:00+09:00",
+          "ts": 1784804280.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
         {
-          "title": "[강대웅의 정문일침(頂門一鍼)] 추미애 경기지사, 31개 시군과 함께 새로운 변화의 중심에 서다",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6ZW1XOU5OUDZ6R2dnZC1SMF9LZ0w5WEpKS0N4MlozekhEQnpaV2V0QnhhYmJlME9uaGpxZW9CU18zOUJUeGtVNkFRVVVyRnQyOUhvN3VVUWtwZGpVTFdEQQ?oc=5",
+          "title": "추미애, “민선 7기 경기도가 시작한 노동혁신 완성한다”",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJVFBvdHFFUWx0SU1UblhYbXFCLUJVVDVwNGNKX3ZUcm16bHQ0OVMyWVAyTU44SzhueV9qcHhkMlBPejItcTlZTFdnV1I3LU5DQXdpUmNGRXRiWV9LMWU3XzlqU0R5MUhOMzZR0gFrQVVfeXFMUElUUG90cUVRbHRJTVRuWFhtcUItQlVUNXA0Y0pfdlRybXpsdDQ5UzJZUDJNTjhLOG55X2pweGQyUE96Mi1xOVlMV2dXUjctTkNBd2lSY0ZFdGJZX0sxZTdfOWpTRHkxSE4zNlE?oc=5",
           "snippet": "",
-          "source": "네이트",
+          "source": "전국도민일보",
           "sources": [
             {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6ZW1XOU5OUDZ6R2dnZC1SMF9LZ0w5WEpKS0N4MlozekhEQnpaV2V0QnhhYmJlME9uaGpxZW9CU18zOUJUeGtVNkFRVVVyRnQyOUhvN3VVUWtwZGpVTFdEQQ?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "아주경제",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMY0NLZ1BXRE95OEVpU3VPNFBMOTkwY0lqR3EyTTItVTY4X0dpUk1DcVo0V01EN29ZNDFWTUhFR3JrY0tEdmJGUV9LaUcyUW1tczlLd3hHaHplQdIBWEFVX3lxTE9NYThteVo3aEdIa1F2TWJ4Y21PUTN2NnE1Vll3QURJRFF0VTF2ZUI0U2NwSkdha21iY0tNa2V4UEU3VWh1SGU3UV9hem5FaDJzVTA1ZWx2Rjc?oc=5",
+              "name": "전국도민일보",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJVFBvdHFFUWx0SU1UblhYbXFCLUJVVDVwNGNKX3ZUcm16bHQ0OVMyWVAyTU44SzhueV9qcHhkMlBPejItcTlZTFdnV1I3LU5DQXdpUmNGRXRiWV9LMWU3XzlqU0R5MUhOMzZR0gFrQVVfeXFMUElUUG90cUVRbHRJTVRuWFhtcUItQlVUNXA0Y0pfdlRybXpsdDQ5UzJZUDJNTjhLOG55X2pweGQyUE96Mi1xOVlMV2dXUjctTkNBd2lSY0ZFdGJZX0sxZTdfOWpTRHkxSE4zNlE?oc=5",
               "origin": "google"
             }
           ],
-          "source_count": 2,
-          "published": "2026-07-23T14:43:00+09:00",
-          "ts": 1784785380.0,
+          "source_count": 1,
+          "published": "2026-07-23T19:19:28+09:00",
+          "ts": 1784801968.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
         {
-          "title": "추미애 신임 경기도지사 1호 결재는 ‘K-반도체 혁신 대책’",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05N0VSaE9CLWtTSDZFRE91YTVqdnFUTmtubnM1S2drbGtJU1ZsM1dGczhXS2JRQm5tb1d1N0FtNnI4Sm5yOTJOcF9jMXlDYXZrVmp1NC1FQ3dlVGxmZWJCYUc2R1BROGxfdUtQdVNn?oc=5",
-          "snippet": "",
-          "source": "월간중앙",
+          "title": "반도체 거점 6개 도시 모인다...경기도, 미래투자공사 설립에 속도내는...",
+          "url": "https://www.kyeonggi.com/article/20260723580533",
+          "snippet": "추미애 경기도지사는 23일 도청 집무실에서 ‘제3차 경기미래투자공사 태스크포스(TF) 전략회의’를 열고 사업 추진 현황을 점검했다. 이 자리에서 추 지사는 주요 반도체 거점 지자체들과의 업무협약(MOU) 체결 일정을...",
+          "source": "경기일보",
           "sources": [
             {
-              "name": "월간중앙",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05N0VSaE9CLWtTSDZFRE91YTVqdnFUTmtubnM1S2drbGtJU1ZsM1dGczhXS2JRQm5tb1d1N0FtNnI4Sm5yOTJOcF9jMXlDYXZrVmp1NC1FQ3dlVGxmZWJCYUc2R1BROGxfdUtQdVNn?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "주간한국",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB6clZoaW4xampYSWtOSXBlT0RSRjRrcXlGOUYta1JCRXZ6Q2ZTSVgwMmQtaU1vWFJsUXlfZlVJRUxqTTVzT2VnRGRGZFVsc2xPWS1Hd1lHUW4tbnUzR1gyRjR1dGNBa3MtcEtRbVpfdGJYY3ot0gF0QVVfeXFMUHpyVmhpbjFqalhJa05JcGVPRFJGNGtxeUY5Ri1rUkJFdnpDZlNJWDAyZC1pTW9YUmxReV9mVUlFTGpNNXNPZWdEZEZkVWxzbE9ZLUd3WUdRbi1udTNHWDJGNHV0Y0Frcy1wS1FtWl90Ylhjei0?oc=5",
-              "origin": "google"
+              "name": "경기일보",
+              "url": "https://www.kyeonggi.com/article/20260723580533",
+              "origin": "naver"
             }
           ],
-          "source_count": 2,
-          "published": "2026-07-23T14:08:33+09:00",
-          "ts": 1784783313.0,
+          "source_count": 1,
+          "published": "2026-07-23T19:19:00+09:00",
+          "ts": 1784801940.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
         {
-          "title": "추미애 경기지사 \"창고 화재 위험 요인 신속 개선\"",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55Y1ZKNlcxM1EzWjNTR3ZCWmJkdlJpUDEtT1ZtYWhZbndxcl94bWpDTV90aVBwdTR5c2NqYTFVdVlDRUFrWmtoV3ZxVlFZbW9ldjRN?oc=5",
-          "snippet": "",
-          "source": "네이트",
+          "title": "추미애 \"여야 경계 허물자\"… 31개 시군과 상생 선언",
+          "url": "https://www.mk.co.kr/article/12105876",
+          "snippet": "시장·군수와 정책협의체 구성 교통·복지 등 현안 정례 논의 도민 타운홀 미팅도 정기 개최 추미애 경기도지사가 도내 31개 시군과 협치 체계 구축에 나섰다. 여야를 아우르는 시장·군수들과 정례 협의기구를 만들고...",
+          "source": "매일경제",
           "sources": [
             {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55Y1ZKNlcxM1EzWjNTR3ZCWmJkdlJpUDEtT1ZtYWhZbndxcl94bWpDTV90aVBwdTR5c2NqYTFVdVlDRUFrWmtoV3ZxVlFZbW9ldjRN?oc=5",
-              "origin": "google"
-            },
+              "name": "매일경제",
+              "url": "https://www.mk.co.kr/article/12105876",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-23T19:11:00+09:00",
+          "ts": 1784801460.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "‘(가칭)경기미래투자공사’가 뭐길래… 추미애 “10월초까지 협약 끝내...",
+          "url": "https://biz.heraldcorp.com/article/10818383?ref=naver",
+          "snippet": "추미애 경기지사는 오는 10월 초까지 관련 시·군과 경기미래투자공사 설립 및 공동출자 기반 마련을 위한 업무협약 체결을 추진하라고 지시했다. 추 지사는 23일 도청사 집무실에서 제3차 경기미래투자공사 TF 전략회의를...",
+          "source": "헤럴드경제",
+          "sources": [
             {
-              "name": "파이낸셜뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WMnotSDN2dHNyc3BFbk94b0FHTS1wUDN6Rm9rUXJZTy1sRGtCMldnSHBQY3ZWbGRFRWQ5N3JJdGw2MGpBeTlLM0tvNGZKR2dobGpTVVNUTmR6dw?oc=5",
+              "name": "헤럴드경제",
+              "url": "https://biz.heraldcorp.com/article/10818383?ref=naver",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-23T18:47:00+09:00",
+          "ts": 1784800020.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "이상일 용인특례시장, 추미애 지사에 반도체 국가산단 전력·용수 공급...",
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=312358",
+          "snippet": "이상일 용인특례시장이 22일 추미애 경기도지사와 만나 용인 첨단시스템반도체 국가산업단지의 조기 가동을 위한 전력·용수 공급 문제와 지역 교통망 확충에 경기도가 힘을 보태 달라고 요청했다. 이날 수원...",
+          "source": "thepublic.kr",
+          "sources": [
+            {
+              "name": "thepublic.kr",
+              "url": "https://www.thepublic.kr/news/articleView.html?idxno=312358",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-23T18:44:00+09:00",
+          "ts": 1784799840.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "추미애 \"10월까지 결론 내라\"...재정 확보 속도전",
+          "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=61921",
+          "snippet": "추미애 경기도지사가 경기미래투자공사 설립에 명확한 데드라인을 제시했다. 관련 시·군과의 업무협약(MOU) 체결 시한을 10월 초로 못박은 것이다. 앞서 경기도는 국회를 찾아 3조9481억 원 규모의 국비 확보를 요청했다....",
+          "source": "newsroad.co.kr",
+          "sources": [
+            {
+              "name": "newsroad.co.kr",
+              "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=61921",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-23T18:42:00+09:00",
+          "ts": 1784799720.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "유호준 경기도의원 “추미애 지사 공약 ‘경기동북부 로봇산업 거점 육성’ 지원책 나와야”",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EMnRuQUFnOG5tSGwwYWlyU2VESW9BM0E0aVgyTFdXZXJmNWh0bW5KeU9KUXlJLUd2dEp4Qnp3cEZqdmVjS1BERlZuWFBQWEtDV011YUdtZ0hCdDF2Z1Vfd0FZLW9FREZT?oc=5",
+          "snippet": "",
+          "source": "newspeak.kr",
+          "sources": [
+            {
+              "name": "newspeak.kr",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EMnRuQUFnOG5tSGwwYWlyU2VESW9BM0E0aVgyTFdXZXJmNWh0bW5KeU9KUXlJLUd2dEp4Qnp3cEZqdmVjS1BERlZuWFBQWEtDV011YUdtZ0hCdDF2Z1Vfd0FZLW9FREZT?oc=5",
               "origin": "google"
             }
           ],
-          "source_count": 2,
-          "published": "2026-07-23T14:05:00+09:00",
-          "ts": 1784783100.0,
+          "source_count": 1,
+          "published": "2026-07-23T18:35:01+09:00",
+          "ts": 1784799301.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -1093,14 +1086,14 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "[ㄱㄱㄷ 의정 Pick!] 남종섭 의장, 광폭행보...\"사람·민생 중심 의정활...",
-          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=759918",
-          "snippet": "이어 추미애 경기도지사와 안민석 경기도교육감을 향해 \"각자 역할을 다르지만 바라봐야 할 곳은 1420만... 이들은 지난 20일에도 추미애 경기도지사가 '경기 편하G버스' 신규 노선 5개 확대를 발표한 성남 분당구...",
+          "title": "추미애 지사, 도내 대형 물류창고 안전 점검 강화...경기미래투자공사 ...",
+          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=759890",
+          "snippet": "추미애 경기도지사가 인천 쿠팡 물류센터 화재와 관련해 긴급 대책회의를 열었다. 추 지사는 23일 이번... ▲추미애 경기도지사가 23일 인천 쿠팡 물류센터 화재와 관련해 긴급 대책회의를 열었다. 사진=경기도 점검...",
           "source": "consumernews.co.kr",
           "sources": [
             {
               "name": "consumernews.co.kr",
-              "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=759918",
+              "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=759890",
               "origin": "naver"
             }
           ],
@@ -1183,6 +1176,24 @@
           "group_label": "경기도지사"
         },
         {
+          "title": "추미애표 경제정책 이끌 주형철…경기도 첫 경제부지사에 내정",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51bElnVWxzemdJOGx5Q0xTYnZOWHNQckNzUWVnQ1lUeHJZeVdOaUU4NklheDUzaXBqNVFCYTl6U01ONW11ZW5Eay1qdkx1N1N0Q0hzNVptekRURlFjUmZWeWE4Z1QtU2s?oc=5",
+          "snippet": "",
+          "source": "쓰담미디어",
+          "sources": [
+            {
+              "name": "쓰담미디어",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51bElnVWxzemdJOGx5Q0xTYnZOWHNQckNzUWVnQ1lUeHJZeVdOaUU4NklheDUzaXBqNVFCYTl6U01ONW11ZW5Eay1qdkx1N1N0Q0hzNVptekRURlFjUmZWeWE4Z1QtU2s?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-23T17:15:06+09:00",
+          "ts": 1784794506.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
           "title": "[시티&로컬] 24시간 한강에 머문다…'야간경제 1호' 프로젝트 外",
           "url": "http://www.yonhapnewstv.co.kr/news/MYH20260723171431anJ",
           "snippet": "추미애 경기도지사는 \"위험 요인을 신속히 개선하고 필요한 제도 보완도 추진해 화재 안전 체계를 더욱 강화하겠다\"고 밝혔습니다. ▶ 반도체 부품기업 월덱스, 구미에 2천600억 투자 반도체 부품기업 월덱스가 경북...",
@@ -1197,6 +1208,42 @@
           "source_count": 1,
           "published": "2026-07-23T17:15:00+09:00",
           "ts": 1784794500.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "추미애, 경기도내 쿠팡 물류창고 등 긴급화재점검 지시",
+          "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=05349686645517472",
+          "snippet": "추미애 경기도지사가 인천 쿠팡 물류센터 화재와 유사한 사고 발생을 방지하기 위해 도내 대형 물류창고를... 22일 오후 경기도청 집무실에서 진행된 물류창고 화재안전 강화 전략 회의에서 추미애 경기도지사가 발언을...",
+          "source": "이데일리",
+          "sources": [
+            {
+              "name": "이데일리",
+              "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=05349686645517472",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-23T17:14:00+09:00",
+          "ts": 1784794440.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "추미애 \"반도체 지자체와 경기미래투자공사 출자 협약 10월초까지\"",
+          "url": "https://www.newsis.com/view/NISX20260723_0003721016",
+          "snippet": "추미애 경기도지사는 23일 반도체 관련 시군과 가칭 '경기미래투자공사' 설립 및 공동출자 기반 마련을 위한 업무협약을 10월 초까지 속도감 있게 추진하라고 지시했다. 추미애 지사는 이날 오후 도청사 집무실에서 제3차...",
+          "source": "뉴시스",
+          "sources": [
+            {
+              "name": "뉴시스",
+              "url": "https://www.newsis.com/view/NISX20260723_0003721016",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-23T17:13:00+09:00",
+          "ts": 1784794380.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -1255,146 +1302,20 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "'곳간 빈' 경기도 \"내년 국비 3.9조 필요…국회 협력 절실\"",
-          "url": "https://www.news1.kr/local/gyeonggi/6237078",
-          "snippet": "추미애 경기도지사는 지난 1일 취임식에서 \"민선 9기 경기도는 7조 원이 넘는 채무를 안고 출발한다\"며 \"예산 부족으로 약 3000억 원 규모 사업은 예산조차 반영하지 못한 엄중한 상황\"이라고 진단했다. 그러면서 \"뼈를...",
-          "source": "뉴스1",
+          "title": "추미애 \"경기도서 노동존중사회 완성\" 천명…경기도-고용노동부 노동감독협업 공동협약",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2dzRnR3c1Ykl2S1RpY1JUUDlMUVhiN0JaYXMyeTdsblFpOGVia3pBOTUwRmtZQUJad20tUHBnT0RMSWVQT3BsczgxZUo?oc=5",
+          "snippet": "",
+          "source": "아이뉴스24",
           "sources": [
             {
-              "name": "뉴스1",
-              "url": "https://www.news1.kr/local/gyeonggi/6237078",
-              "origin": "naver"
+              "name": "아이뉴스24",
+              "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2dzRnR3c1Ykl2S1RpY1JUUDlMUVhiN0JaYXMyeTdsblFpOGVia3pBOTUwRmtZQUJad20tUHBnT0RMSWVQT3BsczgxZUo?oc=5",
+              "origin": "google"
             }
           ],
           "source_count": 1,
-          "published": "2026-07-23T16:31:00+09:00",
-          "ts": 1784791860.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "中 장쑤성 대표단, 추미애 지사에 보내는 장쑤성장 친서 들고 방한",
-          "url": "https://biz.heraldcorp.com/article/10818160?ref=naver",
-          "snippet": "대표단이 추미애 경기지사의 취임을 축하했다. 제2차 회의 참석차 경기도를 방문한 진샹쥔(金尙軍) 장쑤성 외사판공실 부주임은 23일 경기도청사를 찾아 류샤오타오(刘小涛) 장쑤성 성장이 추미애 경기도지사의 취임을...",
-          "source": "헤럴드경제",
-          "sources": [
-            {
-              "name": "헤럴드경제",
-              "url": "https://biz.heraldcorp.com/article/10818160?ref=naver",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-23T16:23:00+09:00",
-          "ts": 1784791380.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "“쿠팡 화재는 이제 그만”···추 지사, ‘화재 안전 점검’ 긴급 대책...",
-          "url": "https://www.viva100.com/article/20260723501140",
-          "snippet": "경기도는 22일 추미애 경기도지사 주재로 긴급 대책회의를 열고 예방부터 현장 대응에 이르는 물류창고... 추미애 지사는 “생명, 안전과 관련된 필수 사항은 합리적 기준을 마련해 기존 건축물에도 소급 적용하고, 이를...",
-          "source": "viva100.com",
-          "sources": [
-            {
-              "name": "viva100.com",
-              "url": "https://www.viva100.com/article/20260723501140",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-23T16:20:00+09:00",
-          "ts": 1784791200.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "추미애, 인천 쿠팡 화재 긴급회의서 \"화재 취약성 제도 개선\" 주문",
-          "url": "https://www.kpinews.kr/newsView/1065596092798001",
-          "snippet": "추미애 경기도지사가 지난 22일 인천 쿠팡 물류센터 화재 관련 긴급 대책회의를 열고, 도내 대형 물류창고를... ▲ 22일 오후 경기도청 집무실에서 진행된 물류창고 화재안전 강화 전략 회의에서 추미애 경기도지사가...",
-          "source": "kpinews.kr",
-          "sources": [
-            {
-              "name": "kpinews.kr",
-              "url": "https://www.kpinews.kr/newsView/1065596092798001",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-23T16:09:00+09:00",
-          "ts": 1784790540.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "경기도의회 민주당 '재정건전성 TF' 구성…\"위기 진단\"",
-          "url": "https://www.newsis.com/view/NISX20260723_0003720851",
-          "snippet": "이는 추미애 경기도지사가 취임 전부터 \"민선 9기 경기도는 7조원이 넘는 채무를 안고 출발했다\"며 어려운... 민주당 관계자는 \"추미애 지사께서 경기도 재정의 심각성을 언급하시며 긴축 재정과 감액 추경에 대한...",
-          "source": "뉴시스",
-          "sources": [
-            {
-              "name": "뉴시스",
-              "url": "https://www.newsis.com/view/NISX20260723_0003720851",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-23T16:07:00+09:00",
-          "ts": 1784790420.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "방성환 경기도의회 국힘 대표 “7조원 채무는 잃어버린 8년”… 민선 7·...",
-          "url": "https://www.kyeongin.com/article/1767795",
-          "snippet": "또한 추미애 경기도지사가 중앙정부에 도의 불교부단체 제외를 요청한 것을 두곤 “지방재정법상 자동 산정되는 불교부단체 제외를 마치 재정 대안인 양 거론하는 것 대신 법인세 일부를 국세에서 도세로 전환하는...",
-          "source": "kyeongin.com",
-          "sources": [
-            {
-              "name": "kyeongin.com",
-              "url": "https://www.kyeongin.com/article/1767795",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-23T16:06:00+09:00",
-          "ts": 1784790360.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "방성환 \"경기도 '잃어버린 8년', 채무 7조원 시대 불렀다\"",
-          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=724922",
-          "snippet": "추미애 경기도지사와 안민석 경기도교육감에게는 정책과 예산을 결정하기 전에 의회와 충분히 협의하라고 요구했다. 방 대표는 \"진정한 소통과 협치는 정책을 결정하기 전에 머리를 맞대는 것\"이라며 \"집행부가 독주하기...",
-          "source": "the-biz.co.kr",
-          "sources": [
-            {
-              "name": "the-biz.co.kr",
-              "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=724922",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-23T15:56:00+09:00",
-          "ts": 1784789760.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "경기도의회, 경기도 7조 채무 직격… \"채무 상황 기준점 다시 고려해야...",
-          "url": "https://gg.newdaily.co.kr/site/data/html/2026/07/23/2026072300250.html",
-          "snippet": "추미애 경기도지사는 취임식에서 \"민선9기 경기도는 7조 원이 넘는 채무를 안고 출발한다\"면서 \"2026년 7월 현재, 예산이 부족해 약 3000억 원 규모의 사업은 예산 반영조차 되지 못한 엄중한 상황\"이라고 설명했다. 장한별...",
-          "source": "gg.newdaily.co.kr",
-          "sources": [
-            {
-              "name": "gg.newdaily.co.kr",
-              "url": "https://gg.newdaily.co.kr/site/data/html/2026/07/23/2026072300250.html",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-23T15:56:00+09:00",
-          "ts": 1784789760.0,
+          "published": "2026-07-23T16:23:31+09:00",
+          "ts": 1784791411.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -1417,20 +1338,20 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "추미애, 경기도미래투자공사 ′드라이브′…＂10월까지 9개시와 협약＂",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aS0ZuSGR5SVB0VzlYQVlFVDU4RGdFdTBoNzdjd1B1Zm1JQjQ3WHlUc1lDZEt0UUxlZ2pzcE93OTB2Mks5dDl1c2hlZ0ItbWNhQzAw0gFTQVVfeXFMTlpLRm5IZHlJUHRXOVhBWUVUNThEZ0V1MGg3N2N3UHVmbUlCNDdYeVRzWUNkS3RRTGVnanNwT3c5MHYySzl0OXVzaGVnQi1tY2FDMDA?oc=5",
+          "title": "공업물량 찾아 경기도까지 달려간 민경선…추미애 지사에 두 번 건넨 ‘고양의 절박함’",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlY3Bad2RuTUY5ZTRGamFTd0lVU2V1N2gwQ3ZiU3RNMFBiWXBnZ1pwb2JWTWV1WFh6OENwRkItRWlqWVM4VHRxRDduZGplR2s?oc=5",
           "snippet": "",
-          "source": "KPI뉴스",
+          "source": "v.daum.net",
           "sources": [
             {
-              "name": "KPI뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aS0ZuSGR5SVB0VzlYQVlFVDU4RGdFdTBoNzdjd1B1Zm1JQjQ3WHlUc1lDZEt0UUxlZ2pzcE93OTB2Mks5dDl1c2hlZ0ItbWNhQzAw0gFTQVVfeXFMTlpLRm5IZHlJUHRXOVhBWUVUNThEZ0V1MGg3N2N3UHVmbUlCNDdYeVRzWUNkS3RRTGVnanNwT3c5MHYySzl0OXVzaGVnQi1tY2FDMDA?oc=5",
+              "name": "v.daum.net",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlY3Bad2RuTUY5ZTRGamFTd0lVU2V1N2gwQ3ZiU3RNMFBiWXBnZ1pwb2JWTWV1WFh6OENwRkItRWlqWVM4VHRxRDduZGplR2s?oc=5",
               "origin": "google"
             }
           ],
           "source_count": 1,
-          "published": "2026-07-23T15:33:33+09:00",
-          "ts": 1784788413.0,
+          "published": "2026-07-23T15:32:01+09:00",
+          "ts": 1784788321.0,
           "group": "governor",
           "group_label": "경기도지사"
         }
@@ -1440,86 +1361,8 @@
       "id": "gg_council",
       "label": "경기도의회(문체·미래위)",
       "priority": 4,
-      "count": 40,
+      "count": 42,
       "items": [
-        {
-          "title": "경기도의회, 도·도교육청 예결특위원장 백승기·이채명 의원…원구성 ...",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3029769",
-          "snippet": "기호일보, KIHOILBO 경기도의회 전경 제12대 경기도의회가 도청·도교육청 예산결산특별위원회와... (화성1), 미래과학협력위 김태형(화성5), 여성가족평생교육위 김용성(광명4), 교육기획위 국중범(성남4), 교육행정위...",
-          "source": "기호일보",
-          "sources": [
-            {
-              "name": "기호일보",
-              "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3029787",
-              "origin": "naver"
-            },
-            {
-              "name": "노컷뉴스",
-              "url": "https://www.nocutnews.co.kr/news/6552565?utm_source=naver&utm_medium=article&utm_campaign=20260723055114",
-              "origin": "naver"
-            },
-            {
-              "name": "suwonilbo.kr",
-              "url": "http://www.suwonilbo.kr/news/articleView.html?idxno=316918",
-              "origin": "naver"
-            },
-            {
-              "name": "news.ifm.kr",
-              "url": "https://news.ifm.kr/news/articleView.html?idxno=475664",
-              "origin": "naver"
-            },
-            {
-              "name": "sidae.com",
-              "url": "https://www.sidae.com/article/2026072317115113966",
-              "origin": "naver"
-            },
-            {
-              "name": "한국경제TV",
-              "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607230500&t=NN",
-              "origin": "naver"
-            },
-            {
-              "name": "econonews.co.kr",
-              "url": "http://www.econonews.co.kr/news/articleView.html?idxno=441697",
-              "origin": "naver"
-            },
-            {
-              "name": "뉴시스",
-              "url": "https://www.newsis.com/view/NISX20260723_0003721031",
-              "origin": "naver"
-            },
-            {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/area/capital/1269642.html",
-              "origin": "naver"
-            },
-            {
-              "name": "머니투데이",
-              "url": "https://www.mt.co.kr/policy/2026/07/23/2026072316572378470",
-              "origin": "naver"
-            },
-            {
-              "name": "중부일보",
-              "url": "https://www.joongboo.com/news/articleView.html?idxno=363732196",
-              "origin": "naver"
-            },
-            {
-              "name": "서울신문",
-              "url": "https://www.seoul.co.kr/news/publicnews/local_govern/2026/07/23/20260723500247?wlog_tag3=naver",
-              "origin": "naver"
-            },
-            {
-              "name": "경기일보",
-              "url": "https://www.kyeonggi.com/article/20260723580481",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 13,
-          "published": "2026-07-23T16:30:00+09:00",
-          "ts": 1784791800.0,
-          "group": "gg_council",
-          "group_label": "경기도의회(문체·미래위)"
-        },
         {
           "title": "경기도의회 미래과학협력위원회, 경기 AI 혁신클러스터 기업 교류회 ‘...",
           "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/23/20260723500251?wlog_tag3=naver",
@@ -1648,6 +1491,29 @@
           "group_label": "경기도의회(문체·미래위)"
         },
         {
+          "title": "이영봉 경기도의원 “경과원 북부 이전, 실질적 기능 이전으로 완성해야...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/23/20260723500073?wlog_tag3=naver",
+          "snippet": "경기도의회 미래과학협력위원회 이영봉 의원(더불어민주당, 의정부2)은 지난 21일 열린 경기도경제과학진흥원(이하 경과원) 업무보고에서 경기 북부 이전의 취지에 공감을 표하면서도, 단순한 물리적 거점 이동을 넘어선...",
+          "source": "서울신문",
+          "sources": [
+            {
+              "name": "서울신문",
+              "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/23/20260723500073?wlog_tag3=naver",
+              "origin": "naver"
+            },
+            {
+              "name": "weeklytoday.com",
+              "url": "http://www.weeklytoday.com/news/articleView.html?idxno=786551",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-07-23T10:38:00+09:00",
+          "ts": 1784770680.0,
+          "group": "gg_council",
+          "group_label": "경기도의회(문체·미래위)"
+        },
+        {
           "title": "이종춘 경기도의원, 첫 업무보고서 수원월드컵재단 조직 쇄신·파주 임...",
           "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/23/20260723500067?wlog_tag3=naver",
           "snippet": "경기도의회 문화체육관광위원회 이종춘 의원(더불어민주당, 파주5)이 지난 21일 열린 상임위 업무보고에서 도내 산하기관의 쇄신과 정책 현안 대응을 강력히 주문했다. 이 의원은 경기도수원월드컵경기장관리재단에...",
@@ -1671,25 +1537,25 @@
           "group_label": "경기도의회(문체·미래위)"
         },
         {
-          "title": "윤도희 경기도의원, 청소년 게임 과몰입 치유, 경기 북부 사각지대 해소...",
-          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/22/20260722500293?wlog_tag3=naver",
-          "snippet": "경기도의회 미래과학협력위원회 윤도희 의원(더불어민주당, 안양 3)은 지난 21일 열린 경기콘텐츠진흥원 업무보고에서 도내 30만여 명의 청소년을 대상으로 하는 ‘건전 게임 문화 조성 사업’이 일부 지역에 편중되어...",
-          "source": "서울신문",
+          "title": "전예슬 경기도의원, '2027 오산 경기도체육대회' 지원 확대 촉구",
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5043511",
+          "snippet": "경기도의회 문화체육관광위원회 전예슬 의원(더불어민주당·오산2)이 2027년 오산에서 열리는 경기도체육대회의 안정적인 개최를 위해 경기도 차원의 지원 강화를 요청했다. 전 의원은 지난 20일부터 21일까지 진행된...",
+          "source": "shinailbo.co.kr",
           "sources": [
             {
-              "name": "서울신문",
-              "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/22/20260722500293?wlog_tag3=naver",
+              "name": "shinailbo.co.kr",
+              "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5043516",
               "origin": "naver"
             },
             {
-              "name": "웹이코노미",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lelZ2S00taDRjb0dNZlRrS1VjLUVnUUhMbWNCUENjTjN4TndlSThkb3FOdVRUakdRZEtNS2Z0Vm44eWFfeVBZYmI2aVlSdXFzMGdVZWNqMFdzakZLOXJZRUY1WlR0UDRKNWhDaTRRalBsdw?oc=5",
+              "name": "신아일보",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TYm1JN2ZvT2diaGh2R2VJY0xyUWVNNld5Tzh1RmtIYjdieEZKODlSMkhVSkU5Mk1sdUlrNFVEa0dobEF4MFY5U2JQeVVubUd1dDlMNDVDVVI0c2VTUXhZMnFaRWVSM0NmNEdtU0RCY1o?oc=5",
               "origin": "google"
             }
           ],
           "source_count": 2,
-          "published": "2026-07-22T16:37:00+09:00",
-          "ts": 1784705820.0,
+          "published": "2026-07-22T16:46:00+09:00",
+          "ts": 1784706360.0,
           "group": "gg_council",
           "group_label": "경기도의회(문체·미래위)"
         },
@@ -1740,25 +1606,20 @@
           "group_label": "경기도의회(문체·미래위)"
         },
         {
-          "title": "\"세계경제포럼 회비만큼 성과 보여야\"…전석훈 경기도의원, 글로벌 스타...",
-          "url": "https://www.g-enews.com/view.php?ud=2026072213380152558fbfc802b3_1",
-          "snippet": "22일 경기도의회에 따르면, 미래과학협력위원회 전석훈 의원(더불어민주당·성남3)은 지난 21일 열린 제392회 임시회 업무보고에서 경기도 4차산업혁명센터 운영 성과와 예산 효율성을 집중 점검하며 지원체계 개선을...",
-          "source": "g-enews.com",
+          "title": "경기도의회, 3개 특위 위원장 선출… ‘제12대 전반기 원 구성’ 마무리",
+          "url": "https://www.pressian.com/pages/articles/2026072318153688698?utm_source=naver&utm_medium=search",
+          "snippet": "제12대 경기도의회가 3개 특별위원회의 위원장을 선출을 끝으로 전반기 원 구성을 완료했다. 23일 도의회에... (민·평택1) △문화체육관광위원회 채신덕(민·김포2) △보건복지위원회 김동규(민·안산1)...",
+          "source": "프레시안",
           "sources": [
             {
-              "name": "g-enews.com",
-              "url": "https://www.g-enews.com/view.php?ud=202607231418346117a9fc143920_1",
+              "name": "프레시안",
+              "url": "https://www.pressian.com/pages/articles/2026072318153688698?utm_source=naver&utm_medium=search",
               "origin": "naver"
-            },
-            {
-              "name": "글로벌이코노믹",
-              "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUXdxMXdscDlna1lxc1BqeG9SNnctRHNIYWVSMVNIUkk1eGR4SW93Mm9OaGxUbmdIemZoazFta2tlSkpOSGo4eG14QklXbW9iUTRfREQ1cVBHV2VTSXgwazF1YVhiMEF3M2hvZldSUEQ0X1F0ZXhjOUJVZlNfQTZ3Qm5SV0sxRThZSWc?oc=5",
-              "origin": "google"
             }
           ],
-          "source_count": 2,
-          "published": "2026-07-22T14:14:00+09:00",
-          "ts": 1784697240.0,
+          "source_count": 1,
+          "published": "2026-07-23T18:17:00+09:00",
+          "ts": 1784798220.0,
           "group": "gg_council",
           "group_label": "경기도의회(문체·미래위)"
         },
@@ -1777,6 +1638,24 @@
           "source_count": 1,
           "published": "2026-07-23T17:34:00+09:00",
           "ts": 1784795640.0,
+          "group": "gg_council",
+          "group_label": "경기도의회(문체·미래위)"
+        },
+        {
+          "title": "경기도의회, 도·도교육청 예결특위원장 백승기·이채명 의원…원구성 ...",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3029769",
+          "snippet": "기호일보, KIHOILBO 경기도의회 전경 제12대 경기도의회가 도청·도교육청 예산결산특별위원회와... (화성1), 미래과학협력위 김태형(화성5), 여성가족평생교육위 김용성(광명4), 교육기획위 국중범(성남4), 교육행정위...",
+          "source": "기호일보",
+          "sources": [
+            {
+              "name": "기호일보",
+              "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3029769",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-23T16:30:00+09:00",
+          "ts": 1784791800.0,
           "group": "gg_council",
           "group_label": "경기도의회(문체·미래위)"
         },
@@ -1907,6 +1786,24 @@
           "group_label": "경기도의회(문체·미래위)"
         },
         {
+          "title": "경기도의회 미래과학협력위, 출범 첫 현장 행보로 AI 기업 만났다",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Ta1cteGRuT2JlQzVDcTFIN0FLOHpUM3dndXZaWl9LNHJBaTRYZXNVRjZHTGtGVEFtTWdFVTZiTXJuMENyZGQ5SG1zYmVESXg5U19mbGpxOGJFTDhaWmIyd2hxQUROWnYxM0lZ0gFvQVVfeXFMTzFxN0NiRVhkcWdFeGNSNnh0Ym5JTkMyVUZkQXFRMTZoM3FIc2xlWTNJMFNPeF9UeV91aEhrTkpkZmlFbWczR3VQdU51Vmt3aHFZelpMZHVmbzZ5RXZpZllUb2k5ckc4eE4zeVZ4NVc0?oc=5",
+          "snippet": "",
+          "source": "the-news.co.kr",
+          "sources": [
+            {
+              "name": "the-news.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Ta1cteGRuT2JlQzVDcTFIN0FLOHpUM3dndXZaWl9LNHJBaTRYZXNVRjZHTGtGVEFtTWdFVTZiTXJuMENyZGQ5SG1zYmVESXg5U19mbGpxOGJFTDhaWmIyd2hxQUROWnYxM0lZ0gFvQVVfeXFMTzFxN0NiRVhkcWdFeGNSNnh0Ym5JTkMyVUZkQXFRMTZoM3FIc2xlWTNJMFNPeF9UeV91aEhrTkpkZmlFbWczR3VQdU51Vmt3aHFZelpMZHVmbzZ5RXZpZllUb2k5ckc4eE4zeVZ4NVc0?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-23T11:31:46+09:00",
+          "ts": 1784773906.0,
+          "group": "gg_council",
+          "group_label": "경기도의회(문체·미래위)"
+        },
+        {
           "title": "방성환 경기도의원, 기관 경쟁력은 조직에서 시작…정체성에 맞는 조직...",
           "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/23/20260723500102?wlog_tag3=naver",
           "snippet": "경기도의회 미래과학협력위원회 방성환 의원(국민의힘, 성남 5)은 21일 열린 상임위원회 업무보고에서 차세대융합기술연구원과 경기테크노파크의 조직 구조를 점검하고, 기관의 정체성에 부합하는 조직 개편을 강력히...",
@@ -1961,24 +1858,6 @@
           "group_label": "경기도의회(문체·미래위)"
         },
         {
-          "title": "이영봉 경기도의원 “경과원 북부 이전, 실질적 기능 이전으로 완성해야...",
-          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/23/20260723500073?wlog_tag3=naver",
-          "snippet": "경기도의회 미래과학협력위원회 이영봉 의원(더불어민주당, 의정부2)은 지난 21일 열린 경기도경제과학진흥원(이하 경과원) 업무보고에서 경기 북부 이전의 취지에 공감을 표하면서도, 단순한 물리적 거점 이동을 넘어선...",
-          "source": "서울신문",
-          "sources": [
-            {
-              "name": "서울신문",
-              "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/23/20260723500073?wlog_tag3=naver",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-23T10:38:00+09:00",
-          "ts": 1784770680.0,
-          "group": "gg_council",
-          "group_label": "경기도의회(문체·미래위)"
-        },
-        {
           "title": "임창휘 경기도의원 “행정 AI 도입으로 공직 과부하 줄이고, 확보된 시...",
           "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/23/20260723500033?wlog_tag3=naver",
           "snippet": "경기도의회 미래과학협력위원회 임창휘 의원(더불어민주당, 광주 2)은 지난 20일 열린 AI국 업무 보고 자리에서 생성형 AI 기반 행정 혁신의 필요성을 강조하며 이같이 밝혔다. 임창휘 의원은 “현장 공무원들이 겪는...",
@@ -2022,7 +1901,7 @@
           "sources": [
             {
               "name": "m-i.kr",
-              "url": "https://www.m-i.kr/news/articleView.html?idxno=1394770",
+              "url": "https://www.m-i.kr/news/articleView.html?idxno=1394782",
               "origin": "naver"
             }
           ],
@@ -2195,6 +2074,24 @@
           "group_label": "경기도의회(문체·미래위)"
         },
         {
+          "title": "윤도희 경기도의원, 청소년 게임 과몰입 치유, 경기 북부 사각지대 해소...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/22/20260722500293?wlog_tag3=naver",
+          "snippet": "경기도의회 미래과학협력위원회 윤도희 의원(더불어민주당, 안양 3)은 지난 21일 열린 경기콘텐츠진흥원 업무보고에서 도내 30만여 명의 청소년을 대상으로 하는 ‘건전 게임 문화 조성 사업’이 일부 지역에 편중되어...",
+          "source": "서울신문",
+          "sources": [
+            {
+              "name": "서울신문",
+              "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/22/20260722500293?wlog_tag3=naver",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-22T16:37:00+09:00",
+          "ts": 1784705820.0,
+          "group": "gg_council",
+          "group_label": "경기도의회(문체·미래위)"
+        },
+        {
           "title": "채명신 경기도의원 “개별 문화시설을 넘어 문화클러스트 정책으로 전환...",
           "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/22/20260722500265?wlog_tag3=naver",
           "snippet": "경기도의회 문화체육관광위원회 채명신 의원(더불어민주당, 용인5)이 지난 21일 열린 제392회 임시회 문화체육관광국 업무보고에서 도내 문화 인프라 확충과 도민 문화 향유권 확대를 강조했다. 이날 채 의원은...",
@@ -2265,42 +2162,6 @@
           "ts": 1784701920.0,
           "group": "gg_council",
           "group_label": "경기도의회(문체·미래위)"
-        },
-        {
-          "title": "채신덕 경기도의원, 유아체육·G-스포츠클럽 점검… 미래 체육 생태계 ...",
-          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/22/20260722500176?wlog_tag3=naver",
-          "snippet": "경기도의회 문화체육관광위원회 채신덕 위원장(더불어민주당, 김포2)이 도내 유아체육지도자 육성 지원사업의 개편 경위를 면밀히 점검하고, G-스포츠클럽 활성화를 통한 미래 체육 생태계 조성 방안 마련을 촉구했다....",
-          "source": "서울신문",
-          "sources": [
-            {
-              "name": "서울신문",
-              "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/22/20260722500176?wlog_tag3=naver",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-22T14:30:00+09:00",
-          "ts": 1784698200.0,
-          "group": "gg_council",
-          "group_label": "경기도의회(문체·미래위)"
-        },
-        {
-          "title": "이병숙 경기도의원 \"경기컬처패스, 노인은 못 쓴다\"…디지털 소외 정조...",
-          "url": "https://www.etoday.co.kr/news/view/2606161",
-          "snippet": "이병숙 경기도의회 의원(더불어민주당·수원 12)이 경기도의 대표 문화사업인 '경기컬처패스'를 향해... 22일 이투데이 취재를 종합하면 이병숙 의원은 제392회 임시회 문화체육관광위원회 제2차 업무보고에서...",
-          "source": "etoday.co.kr",
-          "sources": [
-            {
-              "name": "etoday.co.kr",
-              "url": "https://www.etoday.co.kr/news/view/2606161",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-22T13:36:00+09:00",
-          "ts": 1784694960.0,
-          "group": "gg_council",
-          "group_label": "경기도의회(문체·미래위)"
         }
       ]
     },
@@ -2358,13 +2219,23 @@
               "origin": "naver"
             },
             {
+              "name": "m-i.kr",
+              "url": "https://www.m-i.kr/news/articleView.html?idxno=1394510",
+              "origin": "naver"
+            },
+            {
               "name": "jeonmae.co.kr",
               "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1277164",
               "origin": "naver"
             },
             {
-              "name": "경기매일",
-              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tVDNUZ3VjSTZYNXYtWE95TTN1VGt6SVdRMFNBZWhOTU8wNnV5RmdBYl9QckpoWG8yTGlBc09jelB2NEpWMDJWYVdKSDZWbi0zb1FudDYwa2gtUDFGRUFOVVFoYlEybGc?oc=5",
+              "name": "동방일보",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xb3loWnlwVjhMbU9rSGVCalhYNWI1R182SVZCQ1dieE4xTTV2LTlxZHhuZFB5UEx5VkhYUWVYamFidElPcGpYUlZ2TEc3bHh6YTc1bmJfeVBzQXZER2RKVjJSdEpZeThkdVBLTjcyVVE5Zw?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "한국사회복지저널",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNTHZwaHRacnZLWGwxWjJHWGI0enFyQ0FPVkd6bkxDVDJJRmtjbGxBenF6UHdFcmJ2U2FkbS1FbV9RaHQ4dVg4V1A3ZHdzcTQyZ2hIeXRhMUo1cFRHZTV4b2JVdHhNX05GdS1j?oc=5",
               "origin": "google"
             },
             {
@@ -2388,7 +2259,7 @@
               "origin": "google"
             }
           ],
-          "source_count": 9,
+          "source_count": 11,
           "published": "2026-07-23T17:22:00+09:00",
           "ts": 1784794920.0,
           "group": "bucheon_council",
@@ -2556,13 +2427,8 @@
               "origin": "naver"
             },
             {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HLWVuRzdBZjR0eWJpTmxoMmIxeFhlbU9BSzA0eE9HN1VXdmtYLUZhbWdBMmRpb09mUzgtN0V5NW9VdEdOTUdDb2xfUmU0VTNfMXBj?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "이투데이",
-              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GTUJiekhSNjFXZ1RwNWluUGNZUE9LaFJBLVJjQldXZFlQM0tNNFN0U2ZRVjlyN0c1aUdsZDJyYVFvX0pmT1pxMWlWSW5sQ19sZ1dHaQ?oc=5",
+              "name": "v.daum.net",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BUUcwVWl6U25CLVF3STQtZVVranBlTU9hS3lCMkhnUl9fNFpTaDdiWWRmQzZUU0QwcEZyN0ZIWTBaQW8tR3U1TnVha2NMR0ctVHVWbQ?oc=5",
               "origin": "google"
             },
             {
@@ -2571,32 +2437,9 @@
               "origin": "google"
             }
           ],
-          "source_count": 4,
+          "source_count": 3,
           "published": "2026-07-23T09:32:00+09:00",
           "ts": 1784766720.0,
-          "group": "central",
-          "group_label": "중앙부처(콘텐츠)"
-        },
-        {
-          "title": "최휘영 문체부 장관 \"한국, AI 늦었지만…콘텐츠 시장은 선도\"",
-          "url": "https://www.mt.co.kr/culture/2026/07/23/2026072315393126661",
-          "snippet": "문화체육관광부는 최휘영 장관이 23일 CJ 4D(4차원) 플렉스를 방문해 영상 분야 AI(인공지능) 기술 도입... 기법) 콘텐츠 등 다양한 AI 기술을 점검했다. 이후 영화와 드라마, 방송, 애니메이션 등 주요 기업 관계자들과 AI...",
-          "source": "머니투데이",
-          "sources": [
-            {
-              "name": "머니투데이",
-              "url": "https://www.mt.co.kr/culture/2026/07/23/2026072315393126661",
-              "origin": "naver"
-            },
-            {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkY2wzeDJrbWl5RVFJOUVsWUNIV3RTU2w4OUJva1U1OEUyZGRCSDV6eDUxS1ZiaFUzRzhXTW5oZDFqWlFEUGNvQUpvZlpXYU9yYlQtUWlPN0tnV1VxbkYwbg?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-07-23T17:03:00+09:00",
-          "ts": 1784793780.0,
           "group": "central",
           "group_label": "중앙부처(콘텐츠)"
         },
@@ -2624,6 +2467,29 @@
           "group_label": "중앙부처(콘텐츠)"
         },
         {
+          "title": "K-콘텐츠 IP 영토 넓힌 '캐릭터 라이선싱 페어 2026'…콘진원, 367억 비즈...",
+          "url": "https://www.g-enews.com/view.php?ud=202607231418346117a9fc143920_1",
+          "snippet": "한국콘텐츠진흥원과 코엑스가 공동 주관한 이번 행사는 지난 16일부터 4일간 서울 삼성동 코엑스에서 열렸다. 올해 25회째를 맞이한 전시는 ‘넓히다 : 콘텐츠 IP’를 주제로 애니메이션, 게임, 브랜드 협업 등 산업 간...",
+          "source": "g-enews.com",
+          "sources": [
+            {
+              "name": "g-enews.com",
+              "url": "https://www.g-enews.com/view.php?ud=202607231418346117a9fc143920_1",
+              "origin": "naver"
+            },
+            {
+              "name": "글로벌이코노믹",
+              "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUXdxMXdscDlna1lxc1BqeG9SNnctRHNIYWVSMVNIUkk1eGR4SW93Mm9OaGxUbmdIemZoazFta2tlSkpOSGo4eG14QklXbW9iUTRfREQ1cVBHV2VTSXgwazF1YVhiMEF3M2hvZldSUEQ0X1F0ZXhjOUJVZlNfQTZ3Qm5SV0sxRThZSWc?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-07-23T15:42:00+09:00",
+          "ts": 1784788920.0,
+          "group": "central",
+          "group_label": "중앙부처(콘텐츠)"
+        },
+        {
           "title": "“15분 AI 영화에 토큰비 1500만원”…영상업계, 문체부에 지원 확대 요...",
           "url": "https://www.etnews.com/20260723000384",
           "snippet": "최휘영 문화체육관광부 장관은 23일 서울 마포구 한국문화정보원에서 영화·드라마·방송·애니메이션·VFX 업계 관계자들과 AI 시대 K-콘텐츠 경쟁력 강화 방안을 논의하는 간담회를 열었다. 이 자리에서 양윤호...",
@@ -2638,6 +2504,24 @@
           "source_count": 1,
           "published": "2026-07-23T17:31:00+09:00",
           "ts": 1784795460.0,
+          "group": "central",
+          "group_label": "중앙부처(콘텐츠)"
+        },
+        {
+          "title": "최휘영 문체부 장관 \"한국, AI 늦었지만…콘텐츠 시장은 선도\"",
+          "url": "https://www.mt.co.kr/culture/2026/07/23/2026072315393126661",
+          "snippet": "문화체육관광부는 최휘영 장관이 23일 CJ 4D(4차원) 플렉스를 방문해 영상 분야 AI(인공지능) 기술 도입... 기법) 콘텐츠 등 다양한 AI 기술을 점검했다. 이후 영화와 드라마, 방송, 애니메이션 등 주요 기업 관계자들과 AI...",
+          "source": "머니투데이",
+          "sources": [
+            {
+              "name": "머니투데이",
+              "url": "https://www.mt.co.kr/culture/2026/07/23/2026072315393126661",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-23T17:03:00+09:00",
+          "ts": 1784793780.0,
           "group": "central",
           "group_label": "중앙부처(콘텐츠)"
         },
@@ -2692,24 +2576,6 @@
           "source_count": 1,
           "published": "2026-07-23T00:18:59+09:00",
           "ts": 1784733539.0,
-          "group": "central",
-          "group_label": "중앙부처(콘텐츠)"
-        },
-        {
-          "title": "콘진원, 게임사 프로젝트 현장교육 참여기업 2차 모집",
-          "url": "http://game.dailyesports.com/view.php?ud=20260722105447821443da15d9d2_26",
-          "snippet": "한국콘텐츠진흥원이 게임사의 신규 인력 채용을 지원하는 '게임사 프로젝트 현장교육 프로그램' 참여기업을 추가 모집한다. 한국콘텐츠진흥원은 오는 28일까지 '2026 게임사 프로젝트 현장교육 프로그램'에 참여할...",
-          "source": "game.dailyesports.com",
-          "sources": [
-            {
-              "name": "game.dailyesports.com",
-              "url": "http://game.dailyesports.com/view.php?ud=20260722105447821443da15d9d2_26",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-22T13:25:00+09:00",
-          "ts": 1784694300.0,
           "group": "central",
           "group_label": "중앙부처(콘텐츠)"
         }
