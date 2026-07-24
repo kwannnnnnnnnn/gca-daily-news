@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generated_at": "2026-07-24T20:58:22.156377+09:00",
+  "generated_at": "2026-07-24T22:06:12.121372+09:00",
   "window_hours": 30,
   "sources": [
     "네이버뉴스",
@@ -9,11 +9,11 @@
   "use_naver": true,
   "preview_items": 5,
   "counts": {
-    "collected": 1852,
-    "kept": 330,
-    "excluded": 1522,
-    "consolidated": 109,
-    "multi": 42
+    "collected": 1805,
+    "kept": 319,
+    "excluded": 1486,
+    "consolidated": 111,
+    "multi": 44
   },
   "groups": [
     {
@@ -344,7 +344,7 @@
       "id": "governor",
       "label": "경기도지사",
       "priority": 3,
-      "count": 57,
+      "count": 62,
       "items": [
         {
           "title": "추미애, 기획예산처 장관 만나 재정분권·국비 지원 건의",
@@ -378,11 +378,6 @@
               "origin": "naver"
             },
             {
-              "name": "vop.co.kr",
-              "url": "https://vop.co.kr/A00001695951.html",
-              "origin": "naver"
-            },
-            {
               "name": "news.ifm.kr",
               "url": "https://news.ifm.kr/news/articleView.html?idxno=475745",
               "origin": "naver"
@@ -408,26 +403,79 @@
               "origin": "google"
             }
           ],
-          "source_count": 11,
+          "source_count": 10,
           "published": "2026-07-24T20:52:00+09:00",
           "ts": 1784893920.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
         {
-          "title": "\"성적인 요구 거절하자 업무배제 보복\"…경기도청 익명 폭로 논란",
-          "url": "https://www.mt.co.kr/society/2026/07/24/2026072420142688220",
-          "snippet": "추미애 경기도지사는 피해자 보호를 최우선으로 하라는 특별지시를 내렸다. 24일 뉴스1에 따르면 경기도청... 논란이 커지자 추미애 지사는 이날 특별지시를 통해 \"최근 도청 내부에서 제기된 성 비위 사안과 관련해...",
-          "source": "머니투데이",
+          "title": "추미애, 기재예산처 장관 만나 지방재정·국비 지원 요청",
+          "url": "https://www.thepowernews.co.kr/view.php?ud=2026072421122986461d72a7352_7",
+          "snippet": "추미애 경기도지사가 지방재정의 구조적 한계를 개선하고 도민 삶과 직결된 핵심 사업의 국비 확보를 위해 정부에 적극적인 협조를 요청했다. 추 지사는 24일 자신의 사회관계망서비스(SNS)를 통해 박홍근 기획예산처...",
+          "source": "thepowernews.co.kr",
           "sources": [
             {
-              "name": "머니투데이",
-              "url": "https://www.mt.co.kr/society/2026/07/24/2026072420142688220",
+              "name": "thepowernews.co.kr",
+              "url": "https://www.thepowernews.co.kr/view.php?ud=2026072421122986461d72a7352_7",
               "origin": "naver"
             },
             {
-              "name": "문화일보",
-              "url": "https://www.munhwa.com/article/11604889?ref=naver",
+              "name": "뉴스핌",
+              "url": "https://www.newspim.com/news/view/20260724001167",
+              "origin": "naver"
+            },
+            {
+              "name": "기호일보",
+              "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3029837",
+              "origin": "naver"
+            },
+            {
+              "name": "vop.co.kr",
+              "url": "https://vop.co.kr/A00001695951.html",
+              "origin": "naver"
+            },
+            {
+              "name": "econonews.co.kr",
+              "url": "http://www.econonews.co.kr/news/articleView.html?idxno=441769",
+              "origin": "naver"
+            },
+            {
+              "name": "hbnpress.com",
+              "url": "https://hbnpress.com/news/view/1065597510252072",
+              "origin": "naver"
+            },
+            {
+              "name": "우리일보",
+              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kdGVwUV9tNThjYWt5Q0FncllNN1BMT3diRDVFZ2M1TllOQ1hkUXY3aVlTV2llbGJpb0FLekg0eHJsbUZiUnR2UHVNM25EMWZEY2JQZHBtTWR4V3NEdjNCMUNlcw?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "경기인저널",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kTzU1UXJZQjg1OGhMYUNVejNHOVJrTXp4VDhpbGlrRGZYS1V2V0o5eFM2UDlCMkhaVmdfVEdkSlVTdC1rdmVGM0hLLUFUa2V3eVp4UVpCbDZZeG4yYVU3OENhX3I?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 8,
+          "published": "2026-07-24T21:18:00+09:00",
+          "ts": 1784895480.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "“성적 요구 거절했더니 업무 배제”…경기도청 발칵, 익명 글 조사",
+          "url": "https://www.joongang.co.kr/article/25447949",
+          "snippet": "이에 추미애 경기도지사는 이날 피해자 보호와 2차 피해 차단, 인권담당관 직속 보고 체계 가동, 성평등 조직문화 정착 등을 특별 지시했다. 추 지사는 “최근 도청 내부에서 제기된 성 비위 사안과 관련해 무엇보다...",
+          "source": "중앙일보",
+          "sources": [
+            {
+              "name": "중앙일보",
+              "url": "https://www.joongang.co.kr/article/25447949",
+              "origin": "naver"
+            },
+            {
+              "name": "머니투데이",
+              "url": "https://www.mt.co.kr/society/2026/07/24/2026072420142688220",
               "origin": "naver"
             },
             {
@@ -452,8 +500,8 @@
             }
           ],
           "source_count": 6,
-          "published": "2026-07-24T20:23:00+09:00",
-          "ts": 1784892180.0,
+          "published": "2026-07-24T21:33:00+09:00",
+          "ts": 1784896380.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -492,72 +540,6 @@
           "source_count": 5,
           "published": "2026-07-24T18:40:00+09:00",
           "ts": 1784886000.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "추미애“경기남부광역철도 ‘예타’ 경제성 가장 높을 것”",
-          "url": "https://www.sportsseoul.com/news/read/1624485?ref=naver",
-          "snippet": "〔스포츠서울│수원=좌승훈기자〕추미애 경기도지사는 24일 정부서울청사에서 박홍근 기획예산처 장관을 만나 교통 인프라 확충 등 5개 경기도 주요 현안사업에 대해 설명하고, 4000억 원 규모의 내년도 국비 반영을...",
-          "source": "sportsseoul.com",
-          "sources": [
-            {
-              "name": "sportsseoul.com",
-              "url": "https://www.sportsseoul.com/news/read/1624485?ref=naver",
-              "origin": "naver"
-            },
-            {
-              "name": "dailian.co.kr",
-              "url": "https://www.dailian.co.kr/news/view/1670712/?sc=Naver",
-              "origin": "naver"
-            },
-            {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxRVpENDhPUndDVnBBOTIyRTdzQi1nejdKQ0RjeGduTWpwNnZMM3g2U1hQb1NTejRNUVNiN0F4em5RTk1TU0ZCWVFPVmpSUnpOSExV?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "이투데이",
-              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TWDV1X21iZmtvVXpJRXBuaEt6cEduaU5wRzZ2WWc0aS0xWHdFRjFoaGhVOHRRMzgwLUFtenBYWkpzb0ZrZnFhRkZJbFFlYWpRc3p0aA?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 4,
-          "published": "2026-07-24T20:12:00+09:00",
-          "ts": 1784891520.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "추미애, 박홍근 장관 만나 경기남부광역철도 등 현안사업 국비 4천억 요...",
-          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2452398",
-          "snippet": "추미애 경기도지사가 정부의 2027년도 예산안 편성을 앞두고 박홍근 기획예산처 장관을 만나 경기남부광역철도를 비롯한 주요 현안사업 지원과 지방재정 제도 개선을 요청했다. 추미애 지사는 24일 정부서울청사에서 박...",
-          "source": "enewstoday.co.kr",
-          "sources": [
-            {
-              "name": "enewstoday.co.kr",
-              "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2452398",
-              "origin": "naver"
-            },
-            {
-              "name": "뉴스핌",
-              "url": "https://www.newspim.com/news/view/20260724001167",
-              "origin": "naver"
-            },
-            {
-              "name": "newstnt.com",
-              "url": "https://www.newstnt.com/news/articleView.html?idxno=711566",
-              "origin": "naver"
-            },
-            {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6ZXJDd1o1M2J6bllrVG0wcjdrUC1nMXMwNmlJcG1tNldaMXQ3c2FIdjlEVkw0T3RqUzhvWDZEa0VoZTd6MUNRUzBkZHNDUE94ZmE5Z1lwUXpUamw3bl9saQ?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 4,
-          "published": "2026-07-24T19:31:00+09:00",
-          "ts": 1784889060.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -616,108 +598,14 @@
               "origin": "naver"
             },
             {
-              "name": "뉴시스",
-              "url": "https://www.newsis.com/view/NISX20260724_0003722468",
-              "origin": "naver"
+              "name": "뉴데일리 경기",
+              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FSlJHbk14OWJiQVVOc2U5SzRmQ0c5WEl0QVVQWmJWUDVWdUlxRzBBYi1MZnB5MkNuTFBNTk1sZC1PNTVkUFV2Y1dUNncyTldoUUdrZUZVaVRTTW9HaXA4M01ONGh1VjlRcl9IOVU1Y2tQemhGTmZEZjJn0gF_QVVfeXFMTnBVN2V5aG5RTFZubnhwUy1PUnJBemJENmp4eUdOdjdsbjlWbEhNZnBoS0ZqYzdiY2tlZEtCNzZBVm1sNUxqbnNzcWNEeDVrUnN6cDEtanJBeDNKOEY3SG5udXBTVGtUcmdELWw2MjVmUEVyODdjUDREbllHTE5TOA?oc=5",
+              "origin": "google"
             }
           ],
           "source_count": 4,
           "published": "2026-07-24T18:15:00+09:00",
           "ts": 1784884500.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "경기도청 익명게시판 ‘성비위’ 폭로 논란…“가해·피해 신원 특정 안...",
-          "url": "https://www.donga.com/news/Society/article/all/20260724/134359989/2",
-          "snippet": "논란이 일자 추미애 경기도지사는 이날 피해자 보호와 엄중한 대응을 주문했다. 도청 측은 글을 쓴 직원을 특정할 수 없는 상태여서 피해자의 신고를 기다리고 있다고 밝혔다. 도청 관계자는 동아닷컴에 “피해·가해 직원...",
-          "source": "동아일보",
-          "sources": [
-            {
-              "name": "동아일보",
-              "url": "https://www.donga.com/news/Society/article/all/20260724/134359989/2",
-              "origin": "naver"
-            },
-            {
-              "name": "sidae.com",
-              "url": "https://www.sidae.com/article/2026072415364068156",
-              "origin": "naver"
-            },
-            {
-              "name": "중부일보",
-              "url": "https://www.joongboo.com/news/articleView.html?idxno=363732274",
-              "origin": "naver"
-            },
-            {
-              "name": "v.daum.net",
-              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96NnRpNElyb3hnajBTbmNhNk03RE9remxGc0ZUbEluaVYtc2JUUzBOSHl3aGRHYkI1Tm5IMm5OdUw5N0I2MkJZamk1VUlpamc?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 4,
-          "published": "2026-07-24T18:13:00+09:00",
-          "ts": 1784884380.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "추미애, 中장쑤성장 친서에 답신…“한중 지방정부 협력의 이정표 세우...",
-          "url": "https://www.kyeonggi.com/article/20260724580212",
-          "snippet": "추미애 경기도지사가 중국내 경제규모 2위이자 우리의 최대 교역·투자 대상 지역인 장쑤성(江蘇省)과의 우호 협력을 대폭 강화하겠다는 의지를 밝혔다. 추 지사는 취임 축하 서한을 직접 들고 찾아온 장쑤성 대표단을...",
-          "source": "경기일보",
-          "sources": [
-            {
-              "name": "경기일보",
-              "url": "https://www.kyeonggi.com/article/20260724580212",
-              "origin": "naver"
-            },
-            {
-              "name": "weeklytoday.com",
-              "url": "http://www.weeklytoday.com/news/articleView.html?idxno=787165",
-              "origin": "naver"
-            },
-            {
-              "name": "iminju.net",
-              "url": "http://www.iminju.net/news/articleView.html?idxno=167114",
-              "origin": "naver"
-            },
-            {
-              "name": "아주경제",
-              "url": "https://www.ajunews.com/view/20260724155914819",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 4,
-          "published": "2026-07-24T17:15:00+09:00",
-          "ts": 1784880900.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "[오늘의 행정 일기]추미애 경기지사, 기획예산처 찾아 ‘지방재정 제도...",
-          "url": "https://www.nspna.com/news/?mode=view&newsid=821970",
-          "snippet": "박홍근 장관 면담서 취득세 감소 및 복지예산 급증에 따른 구조적 재정 위기 타개책 건의 지방소비세율 인상 및 광역버스 준공영제·소각시설 설치 등 핵심 현안 예산 지원 협조 당부 추미애 경기도지사가 구조적인...",
-          "source": "nspna.com",
-          "sources": [
-            {
-              "name": "nspna.com",
-              "url": "https://www.nspna.com/news/?mode=view&newsid=821970",
-              "origin": "naver"
-            },
-            {
-              "name": "hbnpress.com",
-              "url": "https://hbnpress.com/news/view/1065597510252072",
-              "origin": "naver"
-            },
-            {
-              "name": "NSP통신",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VcGhKVjRETlZCYVdnZXdLaVlOcGxfVWdNQ3pDVGZpMWs2RHA3QkVDVTdjTFUxTkZINzRrVjEwM3pOem5ES3NUZlF2bFlvWDNpbWFudGhZQngtYUFXZjJ6Tg?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 3,
-          "published": "2026-07-24T19:32:00+09:00",
-          "ts": 1784889120.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -741,67 +629,100 @@
               "name": "한스경제",
               "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0RjdMd05tQXZlbUp0Q1NsLVBISFdMM3IwbW9tUmFZcXNqanBNandTWVoxczR0dHNkRUdXSDNYYk5GZkNhNGczY0I4eGRuMS1TSEl0d2UzV1gyQThVc01qaEFfZmN3ejNlV3MwTQ?oc=5",
               "origin": "google"
+            },
+            {
+              "name": "경인일보",
+              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoeEY1cXBjcFFSY01qdl9ZSnlHYVp5N2R1Y1JSWkpsZzlIXzNNdzIyRFl2TjY4N1dqLWhxdERTeWVNOHdjMEFPdlNWUDVUWUdsN3c?oc=5",
+              "origin": "google"
             }
           ],
-          "source_count": 3,
+          "source_count": 4,
           "published": "2026-07-24T16:46:00+09:00",
           "ts": 1784879160.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
         {
-          "title": "장쑤성 대표단 방한…추미애 도지사 취임 축하·교류협력 강화",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1b0xHNk4yNjRjdFRkNThVbFlER0tERVN0Y0IteTc2ZkhqT05MTHhwOUMyU1NzV05LOTY0R1REUWRlQnF6SEdNOUJPT1QxV3JvcmxtOGRnUjA0M2NYazJVRW0tUnB0V2M?oc=5",
-          "snippet": "",
-          "source": "팍스경제TV",
+          "title": "추미애“경기남부광역철도 ‘예타’ 경제성 가장 높을 것”",
+          "url": "https://www.sportsseoul.com/news/read/1624485?ref=naver",
+          "snippet": "〔스포츠서울│수원=좌승훈기자〕추미애 경기도지사는 24일 정부서울청사에서 박홍근 기획예산처 장관을 만나 교통 인프라 확충 등 5개 경기도 주요 현안사업에 대해 설명하고, 4000억 원 규모의 내년도 국비 반영을...",
+          "source": "sportsseoul.com",
           "sources": [
             {
-              "name": "팍스경제TV",
-              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1b0xHNk4yNjRjdFRkNThVbFlER0tERVN0Y0IteTc2ZkhqT05MTHhwOUMyU1NzV05LOTY0R1REUWRlQnF6SEdNOUJPT1QxV3JvcmxtOGRnUjA0M2NYazJVRW0tUnB0V2M?oc=5",
-              "origin": "google"
+              "name": "sportsseoul.com",
+              "url": "https://www.sportsseoul.com/news/read/1624485?ref=naver",
+              "origin": "naver"
             },
             {
-              "name": "비즈월드",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03akVFZW1TSTNybXVXeHFyQUZzRjV0bGsyYUF2SW9RM1Fnbm5PYnJoTGRlc1V6eWl0WlFuMTRxT0hzb1BxYUpPamtwNjBWZ0Zab00za3lXVHYwMk9RT1EtQjdmS01fQ2FjbmhZ?oc=5",
-              "origin": "google"
+              "name": "dailian.co.kr",
+              "url": "https://www.dailian.co.kr/news/view/1670712/?sc=Naver",
+              "origin": "naver"
             },
             {
-              "name": "파주에서신문",
-              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrMEtreHBjNUpZRlFrMDN6LWRiWGRSc3NwZHBPeTNMLXJQaXFtbHBUdjlyYUpBNUVRNE1fb091MFkxejBhcnU3NGdtWEk0MHUwb3REcmh0WmZhMHBkOTNoQ2dfMGluV1U?oc=5",
+              "name": "이투데이",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TWDV1X21iZmtvVXpJRXBuaEt6cEduaU5wRzZ2WWc0aS0xWHdFRjFoaGhVOHRRMzgwLUFtenBYWkpzb0ZrZnFhRkZJbFFlYWpRc3p0aA?oc=5",
               "origin": "google"
             }
           ],
           "source_count": 3,
-          "published": "2026-07-24T15:02:35+09:00",
-          "ts": 1784872955.0,
+          "published": "2026-07-24T20:12:00+09:00",
+          "ts": 1784891520.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
         {
-          "title": "추미애 \"재난 사각지대 없어야\"…경기도, 이주노동자 숙소 4420곳 전수조사",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hN21GNXpneGhhX21VSGhGZjlVSzhDMWJ1TXl1bEZxa2FMV0VSN1QzY2FvaHdSTF9NZTV3clFvT1QwS1NSZjVOZS12YkN3Y2xkbjhkWg?oc=5",
-          "snippet": "",
-          "source": "v.daum.net",
+          "title": "[위클리오늘] 추미애 경기도지사, 장쑤성장에 친서 답신…'한중 지방정...",
+          "url": "http://www.weeklytoday.com/news/articleView.html?idxno=787165",
+          "snippet": "추미애 경기도지사가 '한중 지방정부 협력의 모범'이 되자는 내용의 친서를 24일 류샤오타오(刘小涛)... 추미애 지사는 '경기도-장쑤성 공동협의체' 제2차 회의 참석차 경기도를 방문하고 24일 귀국길에 오르는 중국...",
+          "source": "weeklytoday.com",
           "sources": [
             {
-              "name": "v.daum.net",
-              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hN21GNXpneGhhX21VSGhGZjlVSzhDMWJ1TXl1bEZxa2FMV0VSN1QzY2FvaHdSTF9NZTV3clFvT1QwS1NSZjVOZS12YkN3Y2xkbjhkWg?oc=5",
-              "origin": "google"
+              "name": "weeklytoday.com",
+              "url": "http://www.weeklytoday.com/news/articleView.html?idxno=787165",
+              "origin": "naver"
             },
             {
-              "name": "더팩트",
-              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GOENDU2Q0d3p3RHFveVkyeEE1c0R2T3dsMzJJOU5HclgxUXd0VWhzMGJqbnpJWXdEM3Y3TGFUZDd3Rnh1Q0FhaERBQXp2cjhMMy1hMkpB0gFWQVVfeXFMTUY4Q0NTZDR3endEcW95WTJ4QTVzRHZPd2wzMkk5TkdyWDFRd3RVaHMwYmpueklZd0QzdjdMYVRkN3dGeHVDQWFoREFBenZyOEwzLWEySkE?oc=5",
-              "origin": "google"
+              "name": "아주경제",
+              "url": "https://www.ajunews.com/view/20260724155914819",
+              "origin": "naver"
             },
             {
-              "name": "아시아경제",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83Q2pkNXYwcElmdy0ya2JSOEJjSGRuRnByTkxTNWZSeFFuTTRqVS16enNEdTFGMUV4c3I4WXR6ZmIwWjJDaFdJV1VMUmV3aGZQbmxtZ1gzelVXQ3lPZGtvaA?oc=5",
+              "name": "NSP통신",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yUjdCSC1iMk1IMGQzTk1tWnFWODA3Sk91UkVVU1o0V1dGU1BTTldKNFpQdlZCQ3RiWGd2N0wwUl8tOXpuUDNKRlB2NHJBVWRSYVJvdlg2al9yMVFEOE9sZw?oc=5",
               "origin": "google"
             }
           ],
           "source_count": 3,
-          "published": "2026-07-24T11:13:37+09:00",
-          "ts": 1784859217.0,
+          "published": "2026-07-24T16:58:00+09:00",
+          "ts": 1784879880.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "추미애 경기도지사, 국비 4천억 지원",
+          "url": "https://www.sentv.co.kr/article/view/sentv202607240158",
+          "snippet": "추미애 경기도지사가 정부서울청사에서 박홍근 기획예산처 장관을 만나 내년도 국비 4천억 원 반영과 지방재정 제도 개선을 요청했습니다. 추 지사는 취득세 감소와 복지예산 증가로 재정 부담이 커지고 있다며...",
+          "source": "sentv.co.kr",
+          "sources": [
+            {
+              "name": "sentv.co.kr",
+              "url": "https://www.sentv.co.kr/article/view/sentv202607240158",
+              "origin": "naver"
+            },
+            {
+              "name": "월드장애인사랑뉴스",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lTEY4aTRQMWpZaVRtbW9DcFZQNC1nT29nYWhqSXg4NXh6N0RtSXFra2VxN1NWUzdOZ2pUUGg4eUhJWmpEcGFFVldfMEhVaUN0LW53WkdUU09vd0xlQzZaMGRvY3hGd1I4b2VydTF0bw?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "서울경제TV",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80aklYMEx0eHlJOTV5QV9PUGQtemZTdkpzZVFvWmM5bDFaalBudW41VW9GTDI5dzU3bWRuMko1Um1Sb2VMeTNUSGM2Rm5Vc016N2pfd1Z2UDNVSmdnMVkxV1pudzQ?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-07-24T16:24:00+09:00",
+          "ts": 1784877840.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -830,6 +751,75 @@
           "source_count": 3,
           "published": "2026-07-24T10:29:34+09:00",
           "ts": 1784856574.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "[오늘의 행정 일기]추미애 경기지사, 기획예산처 찾아 ‘지방재정 제도...",
+          "url": "https://www.nspna.com/news/?mode=view&newsid=821970",
+          "snippet": "박홍근 장관 면담서 취득세 감소 및 복지예산 급증에 따른 구조적 재정 위기 타개책 건의 지방소비세율 인상 및 광역버스 준공영제·소각시설 설치 등 핵심 현안 예산 지원 협조 당부 추미애 경기도지사가 구조적인...",
+          "source": "nspna.com",
+          "sources": [
+            {
+              "name": "nspna.com",
+              "url": "https://www.nspna.com/news/?mode=view&newsid=821970",
+              "origin": "naver"
+            },
+            {
+              "name": "NSP통신",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VcGhKVjRETlZCYVdnZXdLaVlOcGxfVWdNQ3pDVGZpMWs2RHA3QkVDVTdjTFUxTkZINzRrVjEwM3pOem5ES3NUZlF2bFlvWDNpbWFudGhZQngtYUFXZjJ6Tg?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-07-24T19:32:00+09:00",
+          "ts": 1784889120.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "추미애, 박홍근 장관 만나 경기남부광역철도 등 현안사업 국비 4천억 요...",
+          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2452398",
+          "snippet": "추미애 경기도지사가 정부의 2027년도 예산안 편성을 앞두고 박홍근 기획예산처 장관을 만나 경기남부광역철도를 비롯한 주요 현안사업 지원과 지방재정 제도 개선을 요청했다. 추미애 지사는 24일 정부서울청사에서 박...",
+          "source": "enewstoday.co.kr",
+          "sources": [
+            {
+              "name": "enewstoday.co.kr",
+              "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2452398",
+              "origin": "naver"
+            },
+            {
+              "name": "newstnt.com",
+              "url": "https://www.newstnt.com/news/articleView.html?idxno=711566",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-07-24T19:31:00+09:00",
+          "ts": 1784889060.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "경기도청 익명게시판 ‘성비위’ 폭로 논란…“가해·피해 신원 특정 안...",
+          "url": "https://www.donga.com/news/Society/article/all/20260724/134359989/2",
+          "snippet": "논란이 일자 추미애 경기도지사는 이날 피해자 보호와 엄중한 대응을 주문했다. 도청 측은 글을 쓴 직원을 특정할 수 없는 상태여서 피해자의 신고를 기다리고 있다고 밝혔다. 도청 관계자는 동아닷컴에 “피해·가해 직원...",
+          "source": "동아일보",
+          "sources": [
+            {
+              "name": "동아일보",
+              "url": "https://www.donga.com/news/Society/article/all/20260724/134359989/2",
+              "origin": "naver"
+            },
+            {
+              "name": "v.daum.net",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96NnRpNElyb3hnajBTbmNhNk03RE9remxGc0ZUbEluaVYtc2JUUzBOSHl3aGRHYkI1Tm5IMm5OdUw5N0I2MkJZamk1VUlpamc?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-07-24T18:13:00+09:00",
+          "ts": 1784884380.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -869,13 +859,36 @@
             },
             {
               "name": "동양뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xX1Frd3hheHRSZEtrVFVmUFVXZHZ5eXQzTS1ZSW0tbDI4ZV9BWU1iZnNKNkhwYW1mV0NqV2hoQ0RYV3R1b3FPZHlRaXItMUlLMnFabHpJN3haYnNIaUlrWWxrWmJfdDBuaXc?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BVkJweEx3cU9raUFoRFVUbnJFWHhzd01aZU5vbk5DdE5sQ3c4WXlTaGFYaHQzV2JBWEdIQ1lEOUZZY2sxTnI3NW1UcU9zLUZpS0NTM1F0UExkSTg0bjF4elVLdVo?oc=5",
               "origin": "google"
             }
           ],
           "source_count": 2,
           "published": "2026-07-24T17:36:21+09:00",
           "ts": 1784882181.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "추미애, 中장쑤성장 친서에 답신…“한중 지방정부 협력의 이정표 세우...",
+          "url": "https://www.kyeonggi.com/article/20260724580212",
+          "snippet": "추미애 경기도지사가 중국내 경제규모 2위이자 우리의 최대 교역·투자 대상 지역인 장쑤성(江蘇省)과의 우호 협력을 대폭 강화하겠다는 의지를 밝혔다. 추 지사는 취임 축하 서한을 직접 들고 찾아온 장쑤성 대표단을...",
+          "source": "경기일보",
+          "sources": [
+            {
+              "name": "경기일보",
+              "url": "https://www.kyeonggi.com/article/20260724580212",
+              "origin": "naver"
+            },
+            {
+              "name": "iminju.net",
+              "url": "http://www.iminju.net/news/articleView.html?idxno=167114",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-07-24T17:15:00+09:00",
+          "ts": 1784880900.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -926,25 +939,25 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "\"성적 요구 거절 후 불이익\" 경기도청 익명 게시판에…추미애 \"가해자 무관용\"",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xMHBxZXVTSWZZa0lQT2RHdlJ2QmVIM1hrWHIzWHJ0UUFiSXRIRjhNSFZ4bWh2NDJlWE5OVjhFVldJTms0THo1SDRoaU5IS1hrVFVlb2drWXl1SlE?oc=5",
-          "snippet": "",
-          "source": "경기일보",
+          "title": "추미애 경기지사, 정부에 재정분권 개선 건의…국비 확보 행보 본격화",
+          "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1096963",
+          "snippet": "경기도는 24일 추미애 지사가 정부서울청사에서 박홍근 기획예산처 장관을 만나 재정분권 강화 방안과 2027년도 주요 국비사업 지원 필요성을 설명하고 정부 차원의 협조를 요청했다고 밝혔다. 도는 면담에서 지방재정이...",
+          "source": "discoverynews.kr",
           "sources": [
             {
-              "name": "경기일보",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xMHBxZXVTSWZZa0lQT2RHdlJ2QmVIM1hrWHIzWHJ0UUFiSXRIRjhNSFZ4bWh2NDJlWE5OVjhFVldJTms0THo1SDRoaU5IS1hrVFVlb2drWXl1SlE?oc=5",
-              "origin": "google"
+              "name": "discoverynews.kr",
+              "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1096963",
+              "origin": "naver"
             },
             {
-              "name": "파이낸셜뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xOGMxbUdVOUM4X2xXTXJQRzJLbUJPMUpsRVRnUUI3bDVjVWlONi01V3BpTkdpTnc3Y3BER3VfNXVwLXhYSzFhbUtjaGppWXZzM3BGNlJzd0xVdw?oc=5",
+              "name": "디스커버리뉴스(DISCOVERYNEWS)",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KUzNTYUZHdjlPTzFGQnJWMnVSOF9CbElKUmZZYmJNY3V1TW1hTHJFaFRyQUNXNHB2b1RQS1dUZUFkTWx4TlBXREdqVzdXQTdnV3pncFJrdWkzdTBCOUVwdlBGMjdjYXlzdVhpT2R3SFd1UQ?oc=5",
               "origin": "google"
             }
           ],
           "source_count": 2,
-          "published": "2026-07-24T16:57:46+09:00",
-          "ts": 1784879866.0,
+          "published": "2026-07-24T16:42:00+09:00",
+          "ts": 1784878920.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -972,25 +985,25 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "추미애 경기도지사, 국비 4천억 지원",
-          "url": "https://www.sentv.co.kr/article/view/sentv202607240158",
-          "snippet": "추미애 경기도지사가 정부서울청사에서 박홍근 기획예산처 장관을 만나 내년도 국비 4천억 원 반영과 지방재정 제도 개선을 요청했습니다. 추 지사는 취득세 감소와 복지예산 증가로 재정 부담이 커지고 있다며...",
-          "source": "sentv.co.kr",
+          "title": "경기도청 성비위 폭로 파문…추미애 \"피해자보호·엄정 처분\"",
+          "url": "https://www.sidae.com/article/2026072415364068156",
+          "snippet": "추미애 경기도지사가 최근 경기도청 내부에서 성비위 의혹이 제기된 것과 관련해 피해자 보호와 가해자에 대한 엄정 처분을 지시했다. 24일 도에 따르면, 추 지사는 \"최근 도청 내부에서 제기된 성 비위 사안과 관련해...",
+          "source": "sidae.com",
           "sources": [
             {
-              "name": "sentv.co.kr",
-              "url": "https://www.sentv.co.kr/article/view/sentv202607240158",
+              "name": "sidae.com",
+              "url": "https://www.sidae.com/article/2026072415364068156",
               "origin": "naver"
             },
             {
-              "name": "서울경제TV",
-              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80aklYMEx0eHlJOTV5QV9PUGQtemZTdkpzZVFvWmM5bDFaalBudW41VW9GTDI5dzU3bWRuMko1Um1Sb2VMeTNUSGM2Rm5Vc016N2pfd1Z2UDNVSmdnMVkxV1pudzQ?oc=5",
+              "name": "이슈밸리",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xaEhPeTJBNlFqNDlDdkdERk0yTHhOUklaMkhQNWtvbUY2UV9SejJFVXlTSnlMdjRLMkhlTm1XVmpzY0FIUzhnV1JqYmxqT1VJZXpQcWp5TmNHRkVONU9jNEppdndjdVVzR1JMLXFR?oc=5",
               "origin": "google"
             }
           ],
           "source_count": 2,
-          "published": "2026-07-24T16:24:00+09:00",
-          "ts": 1784877840.0,
+          "published": "2026-07-24T16:27:00+09:00",
+          "ts": 1784878020.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -1007,13 +1020,59 @@
             },
             {
               "name": "필드뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85LWVsb3NZTTUyV1Y1VmlDLU92dkp6Wlh3Ukp2MU14MzFBcVhQOFpPa1hham9lSWlLYXZtWF9iOG9ocEM1N1A5Q2FEOHJHbGE3S1R6b19VRWtyNHpXUkJ6ZENRQTRSZF90cGfSAWxBVV95cUxPcXBIb1FyeUtGS0ZuLUtET2ZqVF9ydERNZF9nbFNBeWxxczRZYmNJWHFrbzBuQkVfMzgwb3UxdTNfbndoR2NRQTFtdXZKX0hXcUk4SmRRYWJLUnlDd1NsOWZRZ2xGeEF4MHRqM2M?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HM2l3VWVJekI5QnF6aXNJaF9KelQyWDd3U3NaaW1fSnJnM0g2OWtLSGZsd2xUSTkxQmthaV91cmtjekJvN3VXY21HcFk4Tlh1bUFlYnVBTUFkUk1jeFJqekV0MlJNU2Fu0gFsQVVfeXFMT3FwSG9RcnlLRktGbi1LRE9malRfcnRETWRfZ2xTQXlscXM0WWJjSVhxa28wbkJFXzM4MG91MXUzX253aEdjUUExbXV2Sl9IV3FJOEpkUWFiS1J5Q3dTbDlmUWdsRnhBeDB0ajNj?oc=5",
               "origin": "google"
             }
           ],
           "source_count": 2,
           "published": "2026-07-24T16:10:00+09:00",
           "ts": 1784877000.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "\"성적 요구 거절 후 업무 배제됐다\"…경기도청 내부 게시판 글에 추미애 \"엄정 조치\"",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xOGMxbUdVOUM4X2xXTXJQRzJLbUJPMUpsRVRnUUI3bDVjVWlONi01V3BpTkdpTnc3Y3BER3VfNXVwLXhYSzFhbUtjaGppWXZzM3BGNlJzd0xVdw?oc=5",
+          "snippet": "",
+          "source": "파이낸셜뉴스",
+          "sources": [
+            {
+              "name": "파이낸셜뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xOGMxbUdVOUM4X2xXTXJQRzJLbUJPMUpsRVRnUUI3bDVjVWlONi01V3BpTkdpTnc3Y3BER3VfNXVwLXhYSzFhbUtjaGppWXZzM3BGNlJzd0xVdw?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "경기일보",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xMHBxZXVTSWZZa0lQT2RHdlJ2QmVIM1hrWHIzWHJ0UUFiSXRIRjhNSFZ4bWh2NDJlWE5OVjhFVldJTms0THo1SDRoaU5IS1hrVFVlb2drWXl1SlE?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-07-24T15:38:47+09:00",
+          "ts": 1784875127.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "장쑤성 대표단 방한…추미애 도지사 취임 축하·교류협력 강화",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1b0xHNk4yNjRjdFRkNThVbFlER0tERVN0Y0IteTc2ZkhqT05MTHhwOUMyU1NzV05LOTY0R1REUWRlQnF6SEdNOUJPT1QxV3JvcmxtOGRnUjA0M2NYazJVRW0tUnB0V2M?oc=5",
+          "snippet": "",
+          "source": "팍스경제TV",
+          "sources": [
+            {
+              "name": "팍스경제TV",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1b0xHNk4yNjRjdFRkNThVbFlER0tERVN0Y0IteTc2ZkhqT05MTHhwOUMyU1NzV05LOTY0R1REUWRlQnF6SEdNOUJPT1QxV3JvcmxtOGRnUjA0M2NYazJVRW0tUnB0V2M?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "파주에서신문",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrMEtreHBjNUpZRlFrMDN6LWRiWGRSc3NwZHBPeTNMLXJQaXFtbHBUdjlyYUpBNUVRNE1fb091MFkxejBhcnU3NGdtWEk0MHUwb3REcmh0WmZhMHBkOTNoQ2dfMGluV1U?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-07-24T15:02:35+09:00",
+          "ts": 1784872955.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -1041,6 +1100,29 @@
           "group_label": "경기도지사"
         },
         {
+          "title": "추미애 \"재난 사각지대 없어야\"…경기도, 이주노동자 숙소 4420곳 전수조사",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hN21GNXpneGhhX21VSGhGZjlVSzhDMWJ1TXl1bEZxa2FMV0VSN1QzY2FvaHdSTF9NZTV3clFvT1QwS1NSZjVOZS12YkN3Y2xkbjhkWg?oc=5",
+          "snippet": "",
+          "source": "v.daum.net",
+          "sources": [
+            {
+              "name": "v.daum.net",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hN21GNXpneGhhX21VSGhGZjlVSzhDMWJ1TXl1bEZxa2FMV0VSN1QzY2FvaHdSTF9NZTV3clFvT1QwS1NSZjVOZS12YkN3Y2xkbjhkWg?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "아시아경제",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83Q2pkNXYwcElmdy0ya2JSOEJjSGRuRnByTkxTNWZSeFFuTTRqVS16enNEdTFGMUV4c3I4WXR6ZmIwWjJDaFdJV1VMUmV3aGZQbmxtZ1gzelVXQ3lPZGtvaA?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-07-24T11:13:37+09:00",
+          "ts": 1784859217.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
           "title": "추미애 경기도지사, 첫 기우회서 “도민 참여 펀드 등 미래투자공사 구상”",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByTkVqbHdINDZGSUZGODRIX0pYMC0tUGhoR2ZQbGJ3bV8xWU5uN2R2SDU1cDl3UVpUaTJ4dERFVlZFbGdJbklzNGxkUUNCN3A1bHNVUA?oc=5",
           "snippet": "",
@@ -1060,6 +1142,42 @@
           "source_count": 2,
           "published": "2026-07-24T08:32:25+09:00",
           "ts": 1784849545.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "‘경기도청 성비위 사건’ 성적 요구 거절하자 업무 배제…추미애 “엄...",
+          "url": "https://www.segye.com/newsView/20260724512908?OutUrl=naver",
+          "snippet": "추미애 지사 “피해자 보호 최우선” 특별지시 경기도청 내부 익명 소통게시판 ‘와글와글’에 게시된 직장... 추미애 경기도지사는 이번 ‘경기도청 성비위 사건’에 대해 “피해자 보호를 최우선으로 하겠다”며...",
+          "source": "세계일보",
+          "sources": [
+            {
+              "name": "세계일보",
+              "url": "https://www.segye.com/newsView/20260724512908?OutUrl=naver",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-24T22:02:00+09:00",
+          "ts": 1784898120.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "'성요구 거절에 업무배제 보복'…추미애 \"엄중 조치하라\"",
+          "url": "https://www.kpinews.kr/newsView/1065614243338893",
+          "snippet": "추미애 경기지사가 최근 도청 익명게시판 게시글과 일부 언론 보도 등에서 제기된 성비위 사안에 대해 엄중 조치를 지시했다. ▲ 추미애 경기지사. [경기도 제공] 추 지사는 24일 \"최근 도청 내부에서 제기된 성비위 사안과...",
+          "source": "kpinews.kr",
+          "sources": [
+            {
+              "name": "kpinews.kr",
+              "url": "https://www.kpinews.kr/newsView/1065614243338893",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-24T21:18:00+09:00",
+          "ts": 1784895480.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -1100,7 +1218,7 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "“이주노동자들은 사회 구성원” 청소년단체, 이주노동자 불법 숙소 철...",
+          "title": "“이주노동자들은 사회 구성원”… 청소년단체, 이주노동자 불법 숙소 ...",
           "url": "https://www.kyeongin.com/article/1767878",
           "snippet": "한편 경기도는 추미애 경기도지사의 지시에 따라 이날부터 다음달 14일까지 도내 시·군 농·축산·어업 분야 이주노동자(고용허가제·계절근로제)가 거주하는 숙소 4천420개소를 대상으로 전수조사에 나설 방침이다. 이날...",
           "source": "kyeongin.com",
@@ -1132,6 +1250,24 @@
           "source_count": 1,
           "published": "2026-07-24T20:03:00+09:00",
           "ts": 1784890980.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "“性요구 거절 후 업무배제 보복” 경기도청서 생긴일",
+          "url": "https://www.munhwa.com/article/11604889?ref=naver",
+          "snippet": "이에 대해 추미애 경기도지사는 “무엇보다 피해자의 의사를 최우선으로 존중해 신중하면서도 엄중하게 조치해 달라”고 지시했다. 24일 경기도에 따르면 도청 내부 익명 소통 게시판인 ‘와글와글’에 전날 익명의 한...",
+          "source": "문화일보",
+          "sources": [
+            {
+              "name": "문화일보",
+              "url": "https://www.munhwa.com/article/11604889?ref=naver",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-24T19:33:00+09:00",
+          "ts": 1784889180.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -1190,6 +1326,24 @@
           "group_label": "경기도지사"
         },
         {
+          "title": "추미애, 취임 축하 친서 보낸온 장쑤성 성장에게 \"한중 협력 모범사례 ...",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3645697",
+          "snippet": "추미애 경기도지사. 사진제공=경기도청 추미애 경기도지사가 취임 축하 친서를 보내온 중국 장쑤성 류샤오타오(刘小涛) 서장에게 답장을 보냈다고 24일 도는 전했다. 도에 따르면 추 지사는 전날 도청을 방문해서 성장의...",
+          "source": "국제뉴스",
+          "sources": [
+            {
+              "name": "국제뉴스",
+              "url": "https://www.gukjenews.com/news/articleView.html?idxno=3645697",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-24T18:16:00+09:00",
+          "ts": 1784884560.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
           "title": "추미애 \"재정 이대로 못 간다\"",
           "url": "https://www.hankyung.com/article/202607245039h",
           "snippet": "추미애 경기도지사가 정부에 지방재정 제도 개선과 4000억원 규모의 국비 지원을 요청했다. 경기남부광역철도를 비롯한 주요 철도사업을 국가계획에 반영해 달라고도 촉구했다. 추미애 경기지사는 24일...",
@@ -1206,150 +1360,6 @@
           "ts": 1784884260.0,
           "group": "governor",
           "group_label": "경기도지사"
-        },
-        {
-          "title": "추미애, 기획예산처 장관 만나 ‘국비 요청’… 세제 개편 방안도 건의",
-          "url": "https://www.kyeongin.com/article/1767873",
-          "snippet": "24일 정부서울청사서 박홍근 장관 면담 신규사업 규모 60조→100조 확대 건의 경기남부광역철도 반영 협조 요청하기도 道재정 문제 해결 위해 제도개선안 건의 추미애 경기도지사가 박홍근 기획예산처 장관을 만나...",
-          "source": "kyeongin.com",
-          "sources": [
-            {
-              "name": "kyeongin.com",
-              "url": "https://www.kyeongin.com/article/1767873",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-24T18:08:00+09:00",
-          "ts": 1784884080.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "‘낮엔 찜통, 밤엔 열대야’…경기도, 폭염 비상 1단계 가동",
-          "url": "https://www.kyeonggi.com/article/20260724580238",
-          "snippet": "아울러 추미애 경기도지사는 각 시·군과 관련 기관에 긴급 지시사항을 하달하며 철저한 현장 관리를... 추미애 지사는 “폭염은 도민의 생명을 위협하는 재난”이라며 “취약계층과 현장 근로자에게 피해가 발생하지...",
-          "source": "경기일보",
-          "sources": [
-            {
-              "name": "경기일보",
-              "url": "https://www.kyeonggi.com/article/20260724580238",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-24T18:04:00+09:00",
-          "ts": 1784883840.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "경기도청 내부 성 비위 의혹 제기…추미애 지사 \"피해자 보호 최우선\" 지시",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xaEhPeTJBNlFqNDlDdkdERk0yTHhOUklaMkhQNWtvbUY2UV9SejJFVXlTSnlMdjRLMkhlTm1XVmpzY0FIUzhnV1JqYmxqT1VJZXpQcWp5TmNHRkVONU9jNEppdndjdVVzR1JMLXFR?oc=5",
-          "snippet": "",
-          "source": "이슈밸리",
-          "sources": [
-            {
-              "name": "이슈밸리",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xaEhPeTJBNlFqNDlDdkdERk0yTHhOUklaMkhQNWtvbUY2UV9SejJFVXlTSnlMdjRLMkhlTm1XVmpzY0FIUzhnV1JqYmxqT1VJZXpQcWp5TmNHRkVONU9jNEppdndjdVVzR1JMLXFR?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-24T18:03:31+09:00",
-          "ts": 1784883811.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "추미애, 도청 성비위 의혹 ‘직보체계’ 가동…“피해자 의사 최우선”",
-          "url": "https://www.etoday.co.kr/news/view/2607319",
-          "snippet": "이투데이=경기인천취재본부 김재학 기자 | 내부게시판에 성적 요구 거절 뒤 업무배제 주장…2차 가해 차단·독립 조사·엄정 처분 지시 추미애 경기도지사가 도청 내부에서 제기된 성비위와 보복성 업무배제 의혹을 도지사...",
-          "source": "etoday.co.kr",
-          "sources": [
-            {
-              "name": "etoday.co.kr",
-              "url": "https://www.etoday.co.kr/news/view/2607319",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-24T18:00:00+09:00",
-          "ts": 1784883600.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "추미애 경기도지사, 박홍근 기획예산처 장관 만났다…\"경기남부광역철...",
-          "url": "https://www.etoday.co.kr/news/view/2607315",
-          "snippet": "문제제기 추미애 경기도지사가 정부 예산편성권을 쥔 박홍근 기획예산처 장관을 직접 만나 경기도 재정의... 24일 이투데이 취재를 종합하면 추미애 지사는 이날 정부서울청사에서 박홍근 기획예산처 장관을 만나 교통...",
-          "source": "etoday.co.kr",
-          "sources": [
-            {
-              "name": "etoday.co.kr",
-              "url": "https://www.etoday.co.kr/news/view/2607315",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-24T17:48:00+09:00",
-          "ts": 1784882880.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "추미애, 박홍근 만나 재정 지원 총력전…4000억 원 국비·경기남부광역...",
-          "url": "https://news.tf.co.kr/read/national/2346918.htm",
-          "snippet": "추미애 경기도지사가 24일 정부에 지방재정 제도개선과 함께 4000억 원 규모의 국비 지원을 요청하며 재정 확보전에 나섰다. 특히 경기남부광역철도의 국가철도망 반영과 광역버스 준공영제 등 핵심 현안의 정부...",
-          "source": "news.tf.co.kr",
-          "sources": [
-            {
-              "name": "news.tf.co.kr",
-              "url": "https://news.tf.co.kr/read/national/2346918.htm",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-24T17:38:00+09:00",
-          "ts": 1784882280.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "경기도, 광역버스·특별교통수단 국비 지원 요청…교통 이동권 강화",
-          "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=249736",
-          "snippet": "추미애 경기도지사가 24일 박홍근 기획예산처 장관과 광역버스 준공영제, 특별교통수단 운영, 친환경 2층... 추미애 경기도지사는 24일 박홍근 기획예산처 장관을 만나 2027년도 정부예산안에 경기도 주요 사업을 반영해...",
-          "source": "safetynews.co.kr",
-          "sources": [
-            {
-              "name": "safetynews.co.kr",
-              "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=249736",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-24T17:36:00+09:00",
-          "ts": 1784882160.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "추미애 지사, 정부에 4000억원 규모 내년 국비 사업 반영 요청",
-          "url": "https://www.kukinews.com/article/view/kuk202607240149",
-          "snippet": "추미애 경기도지사가 24일 정부서울청사에서 박홍근 기획예산처 장관을 만나 4000억원 규모 내년 국비 사업의 반영을 요청했다. 이와 함께 지방재정의 안정성과 재정분권 강화를 위한 제도개선을 건의했다. 이번 면담은...",
-          "source": "쿠키뉴스",
-          "sources": [
-            {
-              "name": "쿠키뉴스",
-              "url": "https://www.kukinews.com/article/view/kuk202607240149",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-24T17:30:00+09:00",
-          "ts": 1784881800.0,
-          "group": "governor",
-          "group_label": "경기도지사"
         }
       ]
     },
@@ -1357,7 +1367,7 @@
       "id": "gg_council",
       "label": "경기도의회(문체·미래위)",
       "priority": 4,
-      "count": 13,
+      "count": 11,
       "items": [
         {
           "title": "안시현 경기도의원, 동두천 대표축제 신뢰 높이며 문체위 활동 첫발",
@@ -1371,17 +1381,12 @@
               "origin": "naver"
             },
             {
-              "name": "경기포커스",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0LVVaVzZUVVdpZDNrU3BNcHRJT3pNUTQwRmxCc1NoMDhXdDNSQkRwSFNsejNMcUlHZS1GZnVyUzV2Y1dHX2VscW9YdFNxYmRPX2NKMDNLeUVtSGtJUVlpc2VVbzR2TW1XQnZ5dg?oc=5",
-              "origin": "google"
-            },
-            {
               "name": "네이트",
               "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oZ1NSVGF0LUJOSUdoQUZLOTJVTGdpdUV0cnplSHNESEk1VnNJVHkwdjhYZEhQVzFtaTZyTGFQWURMZW5ZeHJIQVljSldkR0oxd2Fz?oc=5",
               "origin": "google"
             }
           ],
-          "source_count": 3,
+          "source_count": 2,
           "published": "2026-07-24T09:13:00+09:00",
           "ts": 1784851980.0,
           "group": "gg_council",
@@ -1562,49 +1567,13 @@
           "sources": [
             {
               "name": "기호일보",
-              "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3029837",
+              "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3029769",
               "origin": "naver"
             }
           ],
           "source_count": 1,
           "published": "2026-07-23T16:30:00+09:00",
           "ts": 1784791800.0,
-          "group": "gg_council",
-          "group_label": "경기도의회(문체·미래위)"
-        },
-        {
-          "title": "\"연구실 안에 갇힌 성과, 도민에겐 남 얘기\"…임창휘 도의원, 융기원 정...",
-          "url": "https://www.etoday.co.kr/news/view/2606711",
-          "snippet": "경기도 및 유관기관과 적극적으로 협의해 개선책을 마련하겠다\"고 답변했다. 임창휘 의원은 \"경기도 유일의 첨단 R&D 실증기관인 융기원이 도민의 삶을 바꾸는 과학기술 거점으로 거듭날 수 있도록 미래과학협력위원회...",
-          "source": "etoday.co.kr",
-          "sources": [
-            {
-              "name": "etoday.co.kr",
-              "url": "https://www.etoday.co.kr/news/view/2606711",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-23T15:10:00+09:00",
-          "ts": 1784787000.0,
-          "group": "gg_council",
-          "group_label": "경기도의회(문체·미래위)"
-        },
-        {
-          "title": "김영희·전예슬 경기도의원, 오산상담소서 손잡았다…\"교육·문화 두 축...",
-          "url": "https://www.etoday.co.kr/news/view/2606708",
-          "snippet": "김영희·전예슬 경기도의회 의원이 오산상담소를 거점으로 시민 밀착 의정에 나선다. 교육기획위원회와 문화체육관광위원회에 각각 자리 잡은 두 의원이 교육과 문화를 양대 축으로 삼아 시민이 피부로 느끼는 변화를...",
-          "source": "etoday.co.kr",
-          "sources": [
-            {
-              "name": "etoday.co.kr",
-              "url": "https://www.etoday.co.kr/news/view/2606708",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-23T15:06:00+09:00",
-          "ts": 1784786760.0,
           "group": "gg_council",
           "group_label": "경기도의회(문체·미래위)"
         }
@@ -1645,36 +1614,8 @@
       "id": "bucheon_council",
       "label": "부천시의회(재정문화위)",
       "priority": 6,
-      "count": 2,
+      "count": 1,
       "items": [
-        {
-          "title": "부천시의회 ‘부천아트벙커B39’ 점검",
-          "url": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160271370076221",
-          "snippet": "[사진=부천시의회 제공] 부천시의회 재정문화위원회(위원장 윤단비)가 21일 부천아트벙커B39를 방문, 운영 실태를 점검했다. 부천아트벙커B39는 1995년부터 운영되다 2013년 폐쇄된 삼정동 소각장을 리모델링해 조성한...",
-          "source": "siminilbo.co.kr",
-          "sources": [
-            {
-              "name": "siminilbo.co.kr",
-              "url": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160271370076221",
-              "origin": "naver"
-            },
-            {
-              "name": "경기포커스",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ucXdFaW12ZFgyVGtJanJybmxJTklsRU1zVlpTdUxZVkozSDJQdU9ZS3VvRURFdkQ1NmpwMVZLaWxNeGVRTE9fUkZ6d3htaUJJZ0d2WUdERG95TVl2YTI4eHJja2V1cFlXT2xVNQ?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "gukjenews.com",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82MEw5aDZkX3NxNDRjaUZmbTRSTWxweVZuMW90c0tJRHJ5elJCNUxCcjc2Z0NXTHhvMkozbEItdG0wN2RVVHJrS0RSaU0xajFFS3JTOThBUWkxN2dLR2dpN1UtVy1FUHhZX09LdlVB?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 3,
-          "published": "2026-07-23T17:22:00+09:00",
-          "ts": 1784794920.0,
-          "group": "bucheon_council",
-          "group_label": "부천시의회(재정문화위)"
-        },
         {
           "title": "부천시의회 재정문화위, 아트벙커B39 현장점검",
           "url": "https://www.gukjenews.com/news/articleView.html?idxno=3644687",
@@ -1683,11 +1624,21 @@
           "sources": [
             {
               "name": "국제뉴스",
-              "url": "https://www.gukjenews.com/news/articleView.html?idxno=3645697",
+              "url": "https://www.gukjenews.com/news/articleView.html?idxno=3644687",
               "origin": "naver"
+            },
+            {
+              "name": "siminilbo.co.kr",
+              "url": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160271370076221",
+              "origin": "naver"
+            },
+            {
+              "name": "부천타임즈",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hWXhmTS01anJEQ0hJaFdMcGpJNEg4UWpqZDlCTWpYcnFwdG56TkhDdlF4SjVhaEZpNzRhbkladTJtbGxuNGd5WlItbkhTNEF1a2tYb3g0aS1OZnJZbWw0czZTUENDQlN5cTJz?oc=5",
+              "origin": "google"
             }
           ],
-          "source_count": 1,
+          "source_count": 3,
           "published": "2026-07-23T21:54:00+09:00",
           "ts": 1784811240.0,
           "group": "bucheon_council",
@@ -1806,6 +1757,11 @@
               "origin": "naver"
             },
             {
+              "name": "피앤피뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pOVNobTMwQVp5eTF5TkJKLV9EbDBudy1RYW10SlJHQ2dWR1RCSFlkc2JJZHRpcHkyUEwtaWtrQkl2NmhTTkZEb0hXVm9aenBVMldGUHBn0gFWQVVfeXFMTWk5U2htMzBBWnl5MXlOQkotX0RsMG53LVFhbXRKUkdDZ1ZHVEJIWWRzYklkdGlweTJQTC1pa2tCSXY2aFNORkRvSFdWb1p6cFUyV0ZQcGc?oc=5",
+              "origin": "google"
+            },
+            {
               "name": "비욘드포스트",
               "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42SjVXNVVUNGVNZ3JYY2xNRjZDZUNUd0lFeE8tbjJFTXd6QXlUdUhFb0djRnZGYVNjTDlLSjY0dEEtVUZHLWVTaGtTd1p3Z01MZmNLNi13V2liVjlWQzdLZ0hYTWFabHpOZVVZSUVNb29ZY0tqd2NIMzhjU2I?oc=5",
               "origin": "google"
@@ -1821,7 +1777,7 @@
               "origin": "google"
             }
           ],
-          "source_count": 6,
+          "source_count": 7,
           "published": "2026-07-24T11:29:00+09:00",
           "ts": 1784860140.0,
           "group": "central",
@@ -2029,48 +1985,20 @@
           "group_label": "중앙부처(콘텐츠)"
         },
         {
-          "title": "문화체육관광부, 영상·방송업계와 손잡고 '인공지능 문화강국' 도약 준비",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBseDRVLWtvSHBITXdkZERrSFVCSFE0U0pMSmZrbm43enY1aF94WHplYjNVUVIybk9KMXJKV0Y5VjlVOVRpSEo2OWdUNXowNHFwdlM1ZnhUUUxKRkNyZ1VwcEgyRWdzNGFLdUdfTjVn?oc=5",
+          "title": "문체부, AI 콘텐츠 산업 지원 과제 논의",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OS0RDbXpWQy15dGdWLTJMR3JWTVY2M2JtdXg2allMamozRlBnanI2RjNTQ0pCQnh1Tk1QRUtPRjhIUEZXYVpGN09Kb0tmSlF3djJCNFM4OVE4RExDdU1KOXdGVVcyZDjSAWtBVV95cUxQeE1VY2VvTUR5b2pnMEdrb1VxMjBHcGpsc0pyTWNxX0tBWVBMSFpVWUNRb0pXaWFZelQ5SFBDQ1NEbzF4elg1MWZqNkx1WlAtYm5iZTFsRHFzU0RfbUpCa09acWNERmI0ZFFHSQ?oc=5",
           "snippet": "",
-          "source": "시민행정신문",
+          "source": "K뉴스통신",
           "sources": [
             {
-              "name": "시민행정신문",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBseDRVLWtvSHBITXdkZERrSFVCSFE0U0pMSmZrbm43enY1aF94WHplYjNVUVIybk9KMXJKV0Y5VjlVOVRpSEo2OWdUNXowNHFwdlM1ZnhUUUxKRkNyZ1VwcEgyRWdzNGFLdUdfTjVn?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "행정신문",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yWTNCd1hIak1QcnVWd0FCS0ZsYjBIR2J0MUF2eGhXYXAwY0JWNGpvTHVzTmhUZjNubkhtdU1yUVBwRjRzY2ctMm8zMzdmWkJQTlo5M3J4S2FvU2NEVGIzbTNzRkxkZkhFZTc2WA?oc=5",
+              "name": "K뉴스통신",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OS0RDbXpWQy15dGdWLTJMR3JWTVY2M2JtdXg2allMamozRlBnanI2RjNTQ0pCQnh1Tk1QRUtPRjhIUEZXYVpGN09Kb0tmSlF3djJCNFM4OVE4RExDdU1KOXdGVVcyZDjSAWtBVV95cUxQeE1VY2VvTUR5b2pnMEdrb1VxMjBHcGpsc0pyTWNxX0tBWVBMSFpVWUNRb0pXaWFZelQ5SFBDQ1NEbzF4elg1MWZqNkx1WlAtYm5iZTFsRHFzU0RfbUpCa09acWNERmI0ZFFHSQ?oc=5",
               "origin": "google"
             }
           ],
-          "source_count": 2,
-          "published": "2026-07-24T07:11:22+09:00",
-          "ts": 1784844682.0,
-          "group": "central",
-          "group_label": "중앙부처(콘텐츠)"
-        },
-        {
-          "title": "한국저작권위원회 '저작권 문화가 있는 날' 2회차 성료",
-          "url": "https://www.consumuch.com/news/articleView.html?idxno=78619",
-          "snippet": "캠페인에는 사전 신청자와 현장 참여자 등 약 300명이 참여했으며, 영화 관람과 연계해 시민들이 자연스럽게 저작권을 이해하고 올바른 콘텐츠 이용 문화를 체험할 수 있는 기회가 됐다. 영화관 로비에서는 저작권 퀴즈와...",
-          "source": "consumuch.com",
-          "sources": [
-            {
-              "name": "consumuch.com",
-              "url": "https://www.consumuch.com/news/articleView.html?idxno=78619",
-              "origin": "naver"
-            },
-            {
-              "name": "동아일보",
-              "url": "https://www.donga.com/news/Culture/article/all/20260723/134350760/1",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-07-23T15:54:00+09:00",
-          "ts": 1784789640.0,
+          "source_count": 1,
+          "published": "2026-07-24T18:27:18+09:00",
+          "ts": 1784885238.0,
           "group": "central",
           "group_label": "중앙부처(콘텐츠)"
         },
@@ -2143,6 +2071,24 @@
           "source_count": 1,
           "published": "2026-07-24T09:14:05+09:00",
           "ts": 1784852045.0,
+          "group": "central",
+          "group_label": "중앙부처(콘텐츠)"
+        },
+        {
+          "title": "문화체육관광부, 영상·방송업계와 손잡고 '인공지능 문화강국' 도약 준비",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBseDRVLWtvSHBITXdkZERrSFVCSFE0U0pMSmZrbm43enY1aF94WHplYjNVUVIybk9KMXJKV0Y5VjlVOVRpSEo2OWdUNXowNHFwdlM1ZnhUUUxKRkNyZ1VwcEgyRWdzNGFLdUdfTjVn?oc=5",
+          "snippet": "",
+          "source": "시민행정신문",
+          "sources": [
+            {
+              "name": "시민행정신문",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBseDRVLWtvSHBITXdkZERrSFVCSFE0U0pMSmZrbm43enY1aF94WHplYjNVUVIybk9KMXJKV0Y5VjlVOVRpSEo2OWdUNXowNHFwdlM1ZnhUUUxKRkNyZ1VwcEgyRWdzNGFLdUdfTjVn?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-24T07:11:22+09:00",
+          "ts": 1784844682.0,
           "group": "central",
           "group_label": "중앙부처(콘텐츠)"
         },
