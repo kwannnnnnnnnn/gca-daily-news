@@ -1,6 +1,6 @@
 {
   "date": "2026-07-26",
-  "generated_at": "2026-07-26T15:39:00.858381+09:00",
+  "generated_at": "2026-07-26T17:14:43.267876+09:00",
   "window_hours": 30,
   "sources": [
     "네이버뉴스",
@@ -9,10 +9,10 @@
   "use_naver": true,
   "preview_items": 5,
   "counts": {
-    "collected": 724,
-    "kept": 40,
-    "excluded": 684,
-    "consolidated": 22,
+    "collected": 755,
+    "kept": 57,
+    "excluded": 698,
+    "consolidated": 28,
     "multi": 6
   },
   "groups": [
@@ -23,11 +23,16 @@
       "count": 4,
       "items": [
         {
-          "title": "경콘진, OTT처럼 맞춤형 콘텐츠 지원…‘PLAY GCA!’ 가동",
-          "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=01446486645518456",
-          "snippet": "경기콘텐츠진흥원(원장 탁용석, 이하 경콘진)은 콘텐츠 창작자와 예비 창업자, 도민이 필요한 지원 사업을 쉽게 찾고 선택할 수 있도록 맞춤형 성장 지원 캠페인 ‘PLAY GCA!’를 추진한다고 밝혔다. ‘PLAY GCA!’는 OTT...",
-          "source": "이데일리",
+          "title": "경콘진, OTT 콘텐츠 지원 사업 안내 캠페인 ‘PLAY GCA!’로 맞춤형 선택...",
+          "url": "https://www.kgnews.co.kr/news/article.html?no=905214",
+          "snippet": "콘텐츠 창작자와 도민 등 각자 성장 속도 맞춰 수요자 관점에서 재구성한 다양한 지원 사업 경기콘텐츠진흥원(이하 경콘진)이 온라인 동영상 서비스(OTT) 콘텐츠의 지원 사업 안내 캠페인 ‘PLAY GCA!’를 추진한다. 이번...",
+          "source": "경기신문",
           "sources": [
+            {
+              "name": "경기신문",
+              "url": "https://www.kgnews.co.kr/news/article.html?no=905214",
+              "origin": "naver"
+            },
             {
               "name": "이데일리",
               "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=01446486645518456",
@@ -35,13 +40,36 @@
             },
             {
               "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11UEZHVjMtT0ZrMmNva3hQdkZnSVJ5Wi0wT09VRnRSVVZQUnU2b0liVkQzcEN1ekdEYzN4VXdfdDFlZlVyM29MSDkwN29CdGJUYXFv?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rTzBLaGNNYWdDT1lWckJEWlkzNGVpOFctaXg5cHYySWJIX0hlLWxOV2pORG5DbTZMVC1yLXZCX0IxVlRuRnZRWWFXMlRDT2pPbnpab3hXSlBxZTBQUGpRdg?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-07-26T16:06:00+09:00",
+          "ts": 1785049560.0,
+          "group": "gca",
+          "group_label": "경기콘텐츠진흥원"
+        },
+        {
+          "title": "경기콘텐츠진흥원, 수요자 맞춤형 지원 캠페인 ‘PLAY GCA!’ 추진",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuV2c4LWQ4NjJucWRRcHRYRmdhd18wcU1rYlJjTXh3TTRJdG1hSGREVVQydEF0RG1TeS1VQklvMUFQN1V0Y0dVR0dkZmNEUlNnMUNsTC1PTHlGMVNzUjY3dlB4UmlYYXVYN0pXUlF3?oc=5",
+          "snippet": "",
+          "source": "전국매일신문",
+          "sources": [
+            {
+              "name": "전국매일신문",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuV2c4LWQ4NjJucWRRcHRYRmdhd18wcU1rYlJjTXh3TTRJdG1hSGREVVQydEF0RG1TeS1VQklvMUFQN1V0Y0dVR0dkZmNEUlNnMUNsTC1PTHlGMVNzUjY3dlB4UmlYYXVYN0pXUlF3?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "산경일보",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ObnROT2ZoU080Y1kzN2JQdlE4RDh2Wm12T2ttQTBIWk14WUhqcEVLclNDNjVXbU5XaXRac3RqRFA0Q3hvSGtQVGNzeXNKcVl6UjZHM1kxdHAwT1pybmpWM1lGM1BrSTNhWUpKMWx0TXo?oc=5",
               "origin": "google"
             }
           ],
           "source_count": 2,
-          "published": "2026-07-26T10:48:00+09:00",
-          "ts": 1785030480.0,
+          "published": "2026-07-26T16:20:11+09:00",
+          "ts": 1785050411.0,
           "group": "gca",
           "group_label": "경기콘텐츠진흥원"
         },
@@ -65,24 +93,6 @@
           "source_count": 2,
           "published": "2026-07-26T08:44:00+09:00",
           "ts": 1785023040.0,
-          "group": "gca",
-          "group_label": "경기콘텐츠진흥원"
-        },
-        {
-          "title": "경콘진, 맞춤형 성장 캠페인 'PLAY GCA!' 추진…수요자 중심 지원 강화",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ObnROT2ZoU080Y1kzN2JQdlE4RDh2Wm12T2ttQTBIWk14WUhqcEVLclNDNjVXbU5XaXRac3RqRFA0Q3hvSGtQVGNzeXNKcVl6UjZHM1kxdHAwT1pybmpWM1lGM1BrSTNhWUpKMWx0TXo?oc=5",
-          "snippet": "",
-          "source": "산경일보",
-          "sources": [
-            {
-              "name": "산경일보",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ObnROT2ZoU080Y1kzN2JQdlE4RDh2Wm12T2ttQTBIWk14WUhqcEVLclNDNjVXbU5XaXRac3RqRFA0Q3hvSGtQVGNzeXNKcVl6UjZHM1kxdHAwT1pybmpWM1lGM1BrSTNhWUpKMWx0TXo?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-26T14:02:16+09:00",
-          "ts": 1785042136.0,
           "group": "gca",
           "group_label": "경기콘텐츠진흥원"
         },
@@ -172,7 +182,7 @@
       "id": "governor",
       "label": "경기도지사",
       "priority": 3,
-      "count": 13,
+      "count": 18,
       "items": [
         {
           "title": "추미애 경기지사, 박홍근 장관 만나 국비 4000억 현안 반영 건의",
@@ -244,25 +254,110 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "\"성적 요구 거절하자 보복\" 경기도청 성비위 의혹에… 여성단체 \"철저한...",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=345909",
-          "snippet": "논란이 커지자 추미애 경기도지사는 24일 피해자 보호를 최우선으로 하는 특별지시를 내렸다. 추 지사는 \"무엇보다 피해자의 의사를 최우선으로 존중해 신중하면서도 엄중하게 조치해달라\"고 주문했다. 구체적으로는...",
-          "source": "greened.kr",
+          "title": "추미애 경기지사 세제 개편 승부수…반도체 세수 재배분 놓고 '지역 갈...",
+          "url": "https://www.joongboo.com/news/articleView.html?idxno=363732366",
+          "snippet": "추미애 경기도지사가 24일 정부서울청사에서 박홍근 기획예산처 장관을 만나 4천억 원 규모의 내년도 국비 반영을 건의했다. 사진=경기도 추미애 경기도지사가 지방재정 확충을 위한 세제 개편 필요성을 잇따라...",
+          "source": "중부일보",
           "sources": [
             {
-              "name": "greened.kr",
-              "url": "https://www.greened.kr/news/articleView.html?idxno=345909",
-              "origin": "naver"
-            },
-            {
-              "name": "insight.co.kr",
-              "url": "https://www.insight.co.kr/news/564658",
+              "name": "중부일보",
+              "url": "https://www.joongboo.com/news/articleView.html?idxno=363732366",
               "origin": "naver"
             }
           ],
-          "source_count": 2,
-          "published": "2026-07-25T14:20:00+09:00",
-          "ts": 1784956800.0,
+          "source_count": 1,
+          "published": "2026-07-26T16:56:00+09:00",
+          "ts": 1785052560.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "[인터뷰] 강순하 경기도청공무원노조위원장 “추미애 지사, 포용과 소통의 도정 보여주길”",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOM1g3WGU3M09tNmxwRmxyc0x0Q1JJdzAwdDdNdEc0aHA4Q1BiTVVOdnFWM3paZlN3RWJKNkRLektXclJhcVhadURYazg5bk0?oc=5",
+          "snippet": "",
+          "source": "v.daum.net",
+          "sources": [
+            {
+              "name": "v.daum.net",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOM1g3WGU3M09tNmxwRmxyc0x0Q1JJdzAwdDdNdEc0aHA4Q1BiTVVOdnFWM3paZlN3RWJKNkRLektXclJhcVhadURYazg5bk0?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-26T16:43:36+09:00",
+          "ts": 1785051816.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "인사만사(人事萬事)…주형철 경제부지사의 시너지 효과? [오상도의 경기...",
+          "url": "https://www.segye.com/newsView/20260726507965?OutUrl=naver",
+          "snippet": "추미애 경기도지사가 민선 9기 핵심 공약인 ‘반도체 초격차 전략’ 추진에 속도를 내고 기업 투자 확대를... 추미애 경기도지사. 경기도 제공 주 내정자의 이력을 구체적으로 언급한 건 추 지사의 도정 청사진이 이번...",
+          "source": "세계일보",
+          "sources": [
+            {
+              "name": "세계일보",
+              "url": "https://www.segye.com/newsView/20260726507965?OutUrl=naver",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-26T16:26:00+09:00",
+          "ts": 1785050760.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "타 시·도민 여객선 지원 중단…재정난에 경인 민선8기 사업 중단·축소",
+          "url": "https://www.joongang.co.kr/article/25448218",
+          "snippet": "추미애 경기지사 인수위원회는 경기도의 누적 채무를 7조 원으로 분석했다. 이중 올해 상환 목표액은 1조7000여억 원이다. 추 지사도 최근 정부에 4000억원 규모의 내년도 국비 반영을 요청했다. 일각에선 갑작스러운...",
+          "source": "중앙일보",
+          "sources": [
+            {
+              "name": "중앙일보",
+              "url": "https://www.joongang.co.kr/article/25448218",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-26T16:11:00+09:00",
+          "ts": 1785049860.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "추미애 “31개 시군과 충분히 소통하며 공정·혁신·포용의 경기도 만들어 가겠다”",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE54YzU0aS1ER2Y5dUY3OVFMNjR6WGg0TTBZcnNPd0d6SnVHTHJGeGI0SER1TDlyVElpc0U4eWtGSTctZXN6UnRLZXQ4M0VrSFpLdDFDdmd5em1JX1RKMml3cXB0WkkyVXp5RnFPMGlMejFfMkF6T2VXV2sxZ2s?oc=5",
+          "snippet": "",
+          "source": "자치안성신문",
+          "sources": [
+            {
+              "name": "자치안성신문",
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE54YzU0aS1ER2Y5dUY3OVFMNjR6WGg0TTBZcnNPd0d6SnVHTHJGeGI0SER1TDlyVElpc0U4eWtGSTctZXN6UnRLZXQ4M0VrSFpLdDFDdmd5em1JX1RKMml3cXB0WkkyVXp5RnFPMGlMejFfMkF6T2VXV2sxZ2s?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-26T16:06:27+09:00",
+          "ts": 1785049587.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "폐수로 시작된 안성시민 의견 어디까지 반영될까? 추미애 도지사, 용인 삼성·SK 폐수 관련 행정지도 발동",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LeTZHYk9jRGFkbkZ6YlFnSjVnOVQ1RmhuODhYMlBNclZoZTR6aXF4cXR3MmJ0VXVzTmM2RmoxS2lDWVhIeHgwVFFEbmNwTEhFZ0h2dTVKeGFYRDVPSVk1b0NzZDZsOVRVUG5kWlZGZjdyUG9sZTFLZHFJZUI?oc=5",
+          "snippet": "",
+          "source": "자치안성신문",
+          "sources": [
+            {
+              "name": "자치안성신문",
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LeTZHYk9jRGFkbkZ6YlFnSjVnOVQ1RmhuODhYMlBNclZoZTR6aXF4cXR3MmJ0VXVzTmM2RmoxS2lDWVhIeHgwVFFEbmNwTEhFZ0h2dTVKeGFYRDVPSVk1b0NzZDZsOVRVUG5kWlZGZjdyUG9sZTFLZHFJZUI?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-26T16:06:27+09:00",
+          "ts": 1785049587.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -357,24 +452,6 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "가평군, 경기도에 지역 현안사업 지원 건의",
-          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044413",
-          "snippet": "이날 간담회는 추미애 경기도지사와 도내 31개 시·군 시장·군수가 처음 한자리에 모여 지역 현안을 공유하고 협력 방안을 논의하기 위해 마련됐으며, 서태원 가평군수도 참석해 지역 현안 해결의 필요성을 설명했다....",
-          "source": "shinailbo.co.kr",
-          "sources": [
-            {
-              "name": "shinailbo.co.kr",
-              "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044413",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-07-26T08:54:00+09:00",
-          "ts": 1785023640.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
           "title": "경기도 30개 시군 폭염특보…재난안전대책본부 비상근무 돌입",
           "url": "http://www.newstown.co.kr/news/articleView.html?idxno=710338",
           "snippet": "추미애 경기도지사는 폭염 대응 특별지시사항을 도내 시군과 관계 부서에 전파했다. 주요 내용은 취약계층 안부 확인과 현장 예찰 강화, 옥외작업 시간 조정 및 필요시 작업 중지, 근로자 휴식 보장, 무더위쉼터와...",
@@ -427,6 +504,50 @@
           "ts": 1784957580.0,
           "group": "governor",
           "group_label": "경기도지사"
+        },
+        {
+          "title": "\"성적 요구 거절하자 보복\" 경기도청 성비위 의혹에… 여성단체 \"철저한...",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=345909",
+          "snippet": "논란이 커지자 추미애 경기도지사는 24일 피해자 보호를 최우선으로 하는 특별지시를 내렸다. 추 지사는 \"무엇보다 피해자의 의사를 최우선으로 존중해 신중하면서도 엄중하게 조치해달라\"고 주문했다. 구체적으로는...",
+          "source": "greened.kr",
+          "sources": [
+            {
+              "name": "greened.kr",
+              "url": "https://www.greened.kr/news/articleView.html?idxno=345909",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-25T14:20:00+09:00",
+          "ts": 1784956800.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        }
+      ]
+    },
+    {
+      "id": "gg_council",
+      "label": "경기도의회(문체·미래위)",
+      "priority": 4,
+      "count": 1,
+      "items": [
+        {
+          "title": "유호준 경기도의원, 경기도의료원 노조와 긴급 간담회",
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044630",
+          "snippet": "경기도의회는 미래과학협력위원회 유호준 의원(더불어민주당, 남양주 다산1동)이 경기도의회 입구에서 100일 넘게 침묵의 피켓 시위를 이어오던 민주노총 전국보건의료산업노동조합 경기도의료원 지부 조합원들을 만나...",
+          "source": "shinailbo.co.kr",
+          "sources": [
+            {
+              "name": "shinailbo.co.kr",
+              "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044630",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-26T15:46:00+09:00",
+          "ts": 1785048360.0,
+          "group": "gg_council",
+          "group_label": "경기도의회(문체·미래위)"
         }
       ]
     },
