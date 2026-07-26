@@ -168,6 +168,8 @@ def render_html(result: dict, rel: str = "index") -> str:
     return f"""<!doctype html>
 <html lang="ko"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Expires" content="0">
 <title>경기콘텐츠진흥원 일일 언론 모니터링 · {esc(result.get('date'))}</title>
 <style>{CSS}</style></head>
 <body><div class="wrap">
@@ -193,6 +195,8 @@ def _archive_index_html(entries: list) -> str:
     return f"""<!doctype html>
 <html lang="ko"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Expires" content="0">
 <title>지난 기록 · 경기콘텐츠진흥원 언론 모니터링</title>
 <style>{CSS}</style></head>
 <body><div class="wrap">
