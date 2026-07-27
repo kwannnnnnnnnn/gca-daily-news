@@ -94,6 +94,12 @@ def process(articles: list, meta: dict, cfg: dict) -> dict:
     thr = settings.get("min_title_similarity", 0.6)
     maxg = settings.get("max_items_per_group", 40)
 
+    # 선거 표현 필터(경기도지사 그룹 한정): 평상시 옛 선거기사 재발행 차단.
+    # ★선거철엔 keywords.yaml에서 filter_old_election_terms=false 로!★
+    if settings.get("filter_old_election_terms", True) and "governor" in gmap:
+        g = gmap["governor"]
+        g["exclude"] = list(g.get("exclude") or []) + list(settings.get("old_election_terms") or [])
+
     collected = len(articles)
     kept = [a for a in articles
             if a["group"] in gmap and is_relevant(a, gmap[a["group"]], gexcl)]
