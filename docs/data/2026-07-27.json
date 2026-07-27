@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated_at": "2026-07-27T18:39:09.499448+09:00",
+  "generated_at": "2026-07-27T20:12:32.707065+09:00",
   "window_hours": 30,
   "sources": [
     "네이버뉴스",
@@ -9,11 +9,11 @@
   "use_naver": true,
   "preview_items": 5,
   "counts": {
-    "collected": 1862,
-    "kept": 254,
-    "excluded": 1608,
-    "consolidated": 27,
-    "multi": 12
+    "collected": 1866,
+    "kept": 261,
+    "excluded": 1605,
+    "consolidated": 32,
+    "multi": 13
   },
   "groups": [
     {
@@ -26,8 +26,23 @@
           "title": "경콘진, '경기인디뮤직페스티벌' 얼리버드 예매 29일 시작",
           "url": "http://www.bizwnews.com/news/articleView.html?idxno=141567",
           "snippet": "경기콘텐츠진흥원은 오는 10월 17~18일 수원 서호잔디광장에서 '2026 경기인디뮤직페스티벌'을 개최하며, 1차 출연진 공개에 이어 29일 오후 2시부터 'NOL 티켓'을 통해 얼리버드 예매를 시작한다고 27일 밝혔다....",
-          "source": "beyondpost.co.kr",
+          "source": "kpinews.kr",
           "sources": [
+            {
+              "name": "kpinews.kr",
+              "url": "https://www.kpinews.kr/newsView/1065608732332053",
+              "origin": "naver"
+            },
+            {
+              "name": "국제뉴스",
+              "url": "https://www.gukjenews.com/news/articleView.html?idxno=3647707",
+              "origin": "naver"
+            },
+            {
+              "name": "경기일보",
+              "url": "https://www.kyeonggi.com/article/20260727580494",
+              "origin": "naver"
+            },
             {
               "name": "beyondpost.co.kr",
               "url": "http://www.beyondpost.co.kr/view.php?ud=2026072718181074834c878f8fa1_30",
@@ -39,13 +54,13 @@
               "origin": "naver"
             },
             {
-              "name": "discoverynews.kr",
-              "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1097136",
+              "name": "getnews.co.kr",
+              "url": "https://www.getnews.co.kr/news/articleView.html?idxno=876212",
               "origin": "naver"
             },
             {
-              "name": "getnews.co.kr",
-              "url": "https://www.getnews.co.kr/news/articleView.html?idxno=876212",
+              "name": "discoverynews.kr",
+              "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1097136",
               "origin": "naver"
             },
             {
@@ -111,11 +126,6 @@
             {
               "name": "suwonilbo.kr",
               "url": "http://www.suwonilbo.kr/news/articleView.html?idxno=316968",
-              "origin": "naver"
-            },
-            {
-              "name": "경기일보",
-              "url": "https://www.kyeonggi.com/article/20260727580432",
               "origin": "naver"
             },
             {
@@ -209,31 +219,6 @@
               "origin": "naver"
             },
             {
-              "name": "bulkyo21.com",
-              "url": "http://www.bulkyo21.com/news/articleView.html?idxno=64650",
-              "origin": "naver"
-            },
-            {
-              "name": "m-economynews.com",
-              "url": "https://www.m-economynews.com/news/article.html?no=69119",
-              "origin": "naver"
-            },
-            {
-              "name": "파이낸셜뉴스",
-              "url": "http://www.fnnews.com/news/202607271508207857",
-              "origin": "naver"
-            },
-            {
-              "name": "국제뉴스",
-              "url": "https://www.gukjenews.com/news/articleView.html?idxno=3647391",
-              "origin": "naver"
-            },
-            {
-              "name": "매일경제",
-              "url": "https://www.mk.co.kr/article/12108407",
-              "origin": "naver"
-            },
-            {
               "name": "kmaeil.com",
               "url": "https://www.kmaeil.com/news/articleView.html?idxno=646610",
               "origin": "naver"
@@ -249,6 +234,16 @@
               "origin": "naver"
             },
             {
+              "name": "gukjenews.com",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zQXd5NnBwUXRRbVdrZm54cUhIQ3BSZkprSDlJeHkwUUtFel9zdU9sT1BodHNYekZNUVpxOHdTcGNkUWtZem9MbjNwRXNaRWtjMEYzanEzRFRfazA5NXRBZHE4MENZb2xVQTU3QThR?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "서남투데이",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04X2MwOS1yRGozc2ZkVW9YSGoxdkFrQTIyUnZJUjhQbzhETFhrY3o0ejFDZ241ek90MFJJZDB6MU1wOFNwR19xcHpIOEdVUlRkWjA3TjJlWmxGZw?oc=5",
+              "origin": "google"
+            },
+            {
               "name": "경인방송 뉴스",
               "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkWFlOQzgyazA4MEZjSWdGdHZDNEhwc1ppMVo0NzQ4LXhRelphYmc3U0hmcGFwWDJGOS0xZDNHZ1BBSnQzX01YMXo2WXJMYTh0LUtPcTJBSHh5WXBJTmpMZF9JdzY?oc=5",
               "origin": "google"
@@ -256,6 +251,16 @@
             {
               "name": "뉴스투데이",
               "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40Ylg2UjF1S0R5UEZsMTJ3Ul9KYndsMEN3c1IzVDZqcFVtVnN6cjI0d1BlSFJ3eUpjMU1PZjdYLVpwYU5rWHN5cjF2VGZuSmtnMU5BZnFlbGlnMk1vaFE?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "비즈월드",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YdGhRM1JmM2FiMmI3MFNXM2QtVjE1dUcwQ29jZHNRR2c3OTJIWUtGQnlQWjdxV0ItSThzM0RWVjM0X0I5YzdxMW44YlVKa0tsZ2MxRHgtb3RHbzVkMlFVZ3gxYlFJa0c3Q2c?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "경기종합뉴스",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hcjlQT3ppS3h4TTZObGNyMWpILU9YbWNoM194c19HNlJPLXI1TWhibkhBdmxmZUs0NFNHTmJJZk14aEt0SWpFelR6bS0xRzM2TWx4VTNJbU4wa01XZURkRXh1NmhxWXotU1EzWjlQX3BaWU01?oc=5",
               "origin": "google"
             },
             {
@@ -271,6 +276,11 @@
             {
               "name": "글로벌이코노믹",
               "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNzZrdkllM19uZHdjXzBrd1Q4Mnl0Y2ZhbDFXSmRQdlJLdWFxTFZjUS1HNDZZdU9JWTQyUXhhRFVwc2xkeERPaE9JZHlZR2FmaUlTNWxrQlBfMDRiU2JQeW5sSVBLblpodjlkVlF6b3FBbVZTTWdjdEZEdzR1c0F1clEwWUxnNWh4d0Nn?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "매일경제",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1aVQtYmhJT180ck1ScnQ0NW5nVXlSbGdHRGFSVjVsWXUxV2h2NHQwT2hXZHhTWkotVElJczlVRWFzMXBWYmU3ZERFZlJWRmpIdjl5Zg?oc=5",
               "origin": "google"
             },
             {
@@ -327,16 +337,6 @@
               "name": "서울뉴스통신",
               "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uNXd6cFhhb0dLVHhwZmhzZ2hlRXFzQWRRVW02eFNTT1BlaE1lZVg4RWR4V2EtaDJ6MmxPWjZwX19aTjNHeDVxWjhnLUM1bmloNHJZaVktQTBQcXBtUklTYU1uWm9pNXpMNWRn?oc=5",
               "origin": "google"
-            },
-            {
-              "name": "비즈월드",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IbkUzM0tTRXJXcUZxUWlxMHdSdWJFX0hUMHNtX2t5V0FTSzQxdUtDRlRGdXhjN3RteHhEc2VpTU9lN01INmh5R0lUVV9lcXdPQVVPdlFoOFFIVUZrNV9xNy1wcFJ3TC1mOThB?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "gukjenews.com",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EMUZ6bVFPUTlmNG9vb0Nrc1diZFVjMXltSThFVDJkXzdUa0I3UUpzSlhEazFHMVNYdzdpalNVMWRzWUNwYzR2MUZuc1M3bHU4a2l6X19GWjFQeERxSFF5d0c4a0poMF90eEo5Vmdn?oc=5",
-              "origin": "google"
             }
           ],
           "source_count": 62,
@@ -349,8 +349,13 @@
           "title": "[위클리오늘] 경기도, '경기인디뮤직페스티벌' 1차 라인업 공개…29일부...",
           "url": "http://www.weeklytoday.com/news/articleView.html?idxno=787433",
           "snippet": "경기콘텐츠진흥원이 진행한 인디 음악인 발굴 프로젝트 '2025 인디스땅스' 상위 3개 팀인 다다다, 루아멜, 테종도 라인업에 포함됐다. 올해 열리는 '2026 인디스땅스' 최종 결선도 경기인디뮤직페스티벌 주 무대에서...",
-          "source": "obsnews.co.kr",
+          "source": "newsroad.co.kr",
           "sources": [
+            {
+              "name": "newsroad.co.kr",
+              "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=62064",
+              "origin": "naver"
+            },
             {
               "name": "obsnews.co.kr",
               "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1531993",
@@ -387,6 +392,11 @@
               "origin": "naver"
             },
             {
+              "name": "m-i.kr",
+              "url": "https://www.m-i.kr/news/articleView.html?idxno=1395506",
+              "origin": "naver"
+            },
+            {
               "name": "shinailbo.co.kr",
               "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044837",
               "origin": "naver"
@@ -419,6 +429,11 @@
             {
               "name": "경향신문",
               "url": "https://www.khan.co.kr/article/202607271048001",
+              "origin": "naver"
+            },
+            {
+              "name": "이데일리",
+              "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02781446645518784",
               "origin": "naver"
             },
             {
@@ -507,7 +522,7 @@
               "origin": "google"
             }
           ],
-          "source_count": 31,
+          "source_count": 34,
           "published": "2026-07-27T17:00:00+09:00",
           "ts": 1785139200.0,
           "group": "gca",
@@ -619,14 +634,19 @@
       "id": "governor",
       "label": "경기도지사",
       "priority": 3,
-      "count": 12,
+      "count": 15,
       "items": [
         {
-          "title": "추미애 \"도민들과 약속 지키겠단 각오로 제5차 국가철도망 반영에 역량...",
-          "url": "http://www.iminju.net/news/articleView.html?idxno=167187",
-          "snippet": "민주신문=강인범 기자｜추미애 경기도지사가 민선 9기 핵심 현안 중 하나인 교통 체증 해소와 수도권 상생... 넘으면서 추미애 지사 취임 이후 '제1호 경기도 청원'에 선정됐다. 경기도 청원 제도는 도지사가 직접 청원인...",
-          "source": "iminju.net",
+          "title": "추미애 \"봉담~잠실 58분\"…경기남부광역철도 국가철도망 반영 총력",
+          "url": "https://www.etoday.co.kr/news/view/2607995",
+          "snippet": "이투데이=경기인천취재본부 김재학 기자 | 김윤덕 국토부 장관 면담…40개 철도사업 건의, '청원 1호' 남부철도 집중 요청 추미애 경기도지사가 잠실~봉담을 잇는 경기남부광역철도를 국가철도망에 올리기 위해...",
+          "source": "etoday.co.kr",
           "sources": [
+            {
+              "name": "etoday.co.kr",
+              "url": "https://www.etoday.co.kr/news/view/2607995",
+              "origin": "naver"
+            },
             {
               "name": "iminju.net",
               "url": "http://www.iminju.net/news/articleView.html?idxno=167187",
@@ -638,32 +658,32 @@
               "origin": "naver"
             }
           ],
-          "source_count": 2,
-          "published": "2026-07-27T18:30:00+09:00",
-          "ts": 1785144600.0,
+          "source_count": 3,
+          "published": "2026-07-27T18:50:00+09:00",
+          "ts": 1785145800.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
         {
-          "title": "박찬대 인천시장, 시도지사협의회장 '수락' 고심…국무회의 배석 '매력...",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3030042",
-          "snippet": "현재 차기 협의회장 후보로는 추미애 경기도지사가 공식적으로 의사를 밝힌 가운데 허태정 대전시장도 협의회장직에 관심을 갖고 있는 것으로 알려졌다. 여기에 박 시장까지 후보군에 가세할 경우 민선 9기 출범 이후 첫...",
-          "source": "기호일보",
+          "title": "추미애 \"성비위, 도지사가 직접 챙긴다\"…무관용·피해자 최우선 지시",
+          "url": "https://www.etoday.co.kr/news/view/2607993",
+          "snippet": "이투데이=경기인천취재본부 김재학 기자 | 도청 익명게시판 성희롱·보복 의혹에 즉각 대응…여성단체 \"철저 조사·재발방지\" 추미애 경기도지사가 도청 내부에서 제기된 성비위 의혹에 대해 \"도지사가 직접 챙기며...",
+          "source": "etoday.co.kr",
           "sources": [
             {
-              "name": "기호일보",
-              "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3030042",
+              "name": "etoday.co.kr",
+              "url": "https://www.etoday.co.kr/news/view/2607993",
               "origin": "naver"
             },
             {
-              "name": "뉴시스",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43QmNzUFJWcTZOem5va2FfeTZvdzQzTHIzR2VYXzFYUldoVHhFSG1YTVRURGJWdFUwazk5LWt6MkVQYUxLelJBZTdNbXdCNjRCc0gzcURmVG5wcWhkazZ2Wg?oc=5",
+              "name": "이투데이",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Cdl94WjFqa3Y2N3h5U0FfLTZobXdOUnIxWnZ6bngtamlTZ0lrR2YxcTltWjRPN0lYNFoweld5ZWx1NzVQQy1DRURMeFhncnh1NVNQNg?oc=5",
               "origin": "google"
             }
           ],
           "source_count": 2,
-          "published": "2026-07-27T17:50:00+09:00",
-          "ts": 1785142200.0,
+          "published": "2026-07-27T18:46:00+09:00",
+          "ts": 1785145560.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -714,6 +734,42 @@
           "group_label": "경기도지사"
         },
         {
+          "title": "추미애 경기도지사, '청원 1호' 경기남부광역철도 추진 총력",
+          "url": "http://www.bizwnews.com/news/articleView.html?idxno=141631",
+          "snippet": "추미애 경기도지사(좌측)가 27일 서울 국토발전전시관에서 김윤덕 국토교통부 장관(우측)을 만나... 사진=경기도 추미애 경기도지사가 김윤덕 국토교통부 장관에게 경기남부광역철도를 비롯한 도내 주요 철도사업을...",
+          "source": "bizwnews.com",
+          "sources": [
+            {
+              "name": "bizwnews.com",
+              "url": "http://www.bizwnews.com/news/articleView.html?idxno=141631",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-27T19:32:00+09:00",
+          "ts": 1785148320.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "추미애 \"접경지역 이름부터 '평화지대'로\"…평화경제특구 승부수",
+          "url": "https://www.etoday.co.kr/news/view/2607992",
+          "snippet": "이투데이=경기인천취재본부 김재학 기자 | 정전협정 73주년 연석회의서 '남북협력사업' 지정 건의…예타 면제·금융지원 기대 추미애 경기도지사가 경기북부 접경지역을 '평화지대'로 전환하자고 정면으로 제안했다....",
+          "source": "etoday.co.kr",
+          "sources": [
+            {
+              "name": "etoday.co.kr",
+              "url": "https://www.etoday.co.kr/news/view/2607992",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-27T18:42:00+09:00",
+          "ts": 1785145320.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
           "title": "통일부, 유엔사에 ‘평화공로’ 표창… ‘DMZ 갈등’ 관리 돌입",
           "url": "https://www.segye.com/newsView/20260727514576?OutUrl=naver",
           "snippet": "시범지정 추미애, 남북경협사업 대우 건의 정동영, 남북협력기금 활용 추진 정전협정 체결 73주년을 맞아... 정전협정 체결 73주년인 이날 열린 회의에는 추미애 경기도지사, 박찬대 인천시장, 우상호 강원도지사 등...",
@@ -746,6 +802,24 @@
           "source_count": 1,
           "published": "2026-07-27T18:02:00+09:00",
           "ts": 1785142920.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "박찬대 인천시장, 시도지사협의회장 '수락' 고심…국무회의 배석 '매력...",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3030042",
+          "snippet": "현재 차기 협의회장 후보로는 추미애 경기도지사가 공식적으로 의사를 밝힌 가운데 허태정 대전시장도 협의회장직에 관심을 갖고 있는 것으로 알려졌다. 여기에 박 시장까지 후보군에 가세할 경우 민선 9기 출범 이후 첫...",
+          "source": "기호일보",
+          "sources": [
+            {
+              "name": "기호일보",
+              "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3030042",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-27T17:50:00+09:00",
+          "ts": 1785142200.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -863,8 +937,31 @@
       "id": "gg_council",
       "label": "경기도의회(문체·미래위)",
       "priority": 4,
-      "count": 1,
+      "count": 2,
       "items": [
+        {
+          "title": "채명신 경기도의원 \"실적보다 도민 체감\"…기흥 문화벨트 구축 제안",
+          "url": "https://www.etoday.co.kr/news/view/2607997",
+          "snippet": "이투데이=경기인천취재본부 김재학 기자 | 문화체육관광위 첫 업무보고 점검…\"현장의 변화 중심으로 재점검\" 채명신 경기도의원이 제12대 경기도의회 문화체육관광위원회 활동의 첫 초점을 '실적'이 아닌 '도민 체감'에...",
+          "source": "etoday.co.kr",
+          "sources": [
+            {
+              "name": "etoday.co.kr",
+              "url": "https://www.etoday.co.kr/news/view/2607997",
+              "origin": "naver"
+            },
+            {
+              "name": "인천일보",
+              "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1328082",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-07-27T18:56:00+09:00",
+          "ts": 1785146160.0,
+          "group": "gg_council",
+          "group_label": "경기도의회(문체·미래위)"
+        },
         {
           "title": "경기도의회 이병숙 의원, \"원천리천, 주민 휴식공간으로 조성해야\"",
           "url": "http://www.metroseoul.co.kr/article/20260727500482",
@@ -918,32 +1015,12 @@
               "origin": "naver"
             },
             {
-              "name": "kmaeil.com",
-              "url": "https://www.kmaeil.com/news/articleView.html?idxno=646654",
-              "origin": "naver"
-            },
-            {
-              "name": "m-i.kr",
-              "url": "https://www.m-i.kr/news/articleView.html?idxno=1395506",
-              "origin": "naver"
-            },
-            {
               "name": "newstown.co.kr",
               "url": "http://www.newstown.co.kr/news/articleView.html?idxno=710396",
               "origin": "naver"
-            },
-            {
-              "name": "이데일리",
-              "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02781446645518784",
-              "origin": "naver"
-            },
-            {
-              "name": "obsnews.co.kr",
-              "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1531906",
-              "origin": "naver"
             }
           ],
-          "source_count": 9,
+          "source_count": 5,
           "published": "2026-07-27T18:24:00+09:00",
           "ts": 1785144240.0,
           "group": "bucheon",
@@ -955,7 +1032,7 @@
       "id": "central",
       "label": "중앙부처(콘텐츠)",
       "priority": 7,
-      "count": 7,
+      "count": 8,
       "items": [
         {
           "title": "문체부-저작권보호원, '제3회 대한민국 저작권 보호 대상' 후보자 공모",
@@ -1017,16 +1094,39 @@
               "name": "뉴스후플러스",
               "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvcGxSckt4UFJjaEJuZEhZVGJoMENoRjU3WUlDQlgwMy1VUTZ6TEh0MHV1WkV4Mm5LdDdHSmxNZXBwd2drNmF2QmZLbDJyc3VsUHNUVGdoWl9TeXI4aWNCZVp0RkcyQ2lIVTBOM0N3?oc=5",
               "origin": "google"
+            }
+          ],
+          "source_count": 11,
+          "published": "2026-07-27T10:48:00+09:00",
+          "ts": 1785116880.0,
+          "group": "central",
+          "group_label": "중앙부처(콘텐츠)"
+        },
+        {
+          "title": "조정식 의장, 최휘영 문체부 장관 접견…“K-콘텐츠 경쟁력 강화 힘써달...",
+          "url": "https://www.sportsworldi.com/newsView/20260727516745",
+          "snippet": "사진=국회의장실 조정식 국회의장이 최휘영 문화체육관광부 장관을 만나 K-콘텐츠 경쟁력 강화와 문화·체육 정책 현안을 점검하고, '2027 서울 세계청년대회'의 성공 개최를 위한 범정부 협력을 당부했다. 아울러...",
+          "source": "sportsworldi.com",
+          "sources": [
+            {
+              "name": "sportsworldi.com",
+              "url": "https://www.sportsworldi.com/newsView/20260727516745",
+              "origin": "naver"
             },
             {
               "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CSmktMFZoRXFmVFlMbjVfV0R1QTdtUTJTdUVPS2ZXY28xa2ozcXMzeTJNaW43S0tYTFVPdHNtSzUwNDBleWcyUjVHajBOZ2RTUXNj?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vR3NUa3ZYMmluWW04UUlHaVV2QmU2TDFDejJ2Y2ZfbDVDdzlWQ3JTcXZYX0V4OUJucy1ZUnI1TzhlVjRneWhaeTJ4OHktVk50WVk4?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "더뉴스코리아",
+              "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4yMXZzSkdRNUlwUUZZN2lTYkJVYk1wdkNlZVhzekZMLU10bXFYcTdVb191a3VHeHk5VGtrSkNsVDdUNU9XdlZwVnR3?oc=5",
               "origin": "google"
             }
           ],
-          "source_count": 12,
-          "published": "2026-07-27T10:48:00+09:00",
-          "ts": 1785116880.0,
+          "source_count": 3,
+          "published": "2026-07-27T19:36:00+09:00",
+          "ts": 1785148560.0,
           "group": "central",
           "group_label": "중앙부처(콘텐츠)"
         },
@@ -1096,14 +1196,9 @@
               "name": "breaknews.com",
               "url": "http://www.breaknews.com/1224535",
               "origin": "naver"
-            },
-            {
-              "name": "더뉴스코리아",
-              "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4yMXZzSkdRNUlwUUZZN2lTYkJVYk1wdkNlZVhzekZMLU10bXFYcTdVb191a3VHeHk5VGtrSkNsVDdUNU9XdlZwVnR3?oc=5",
-              "origin": "google"
             }
           ],
-          "source_count": 2,
+          "source_count": 1,
           "published": "2026-07-27T13:42:00+09:00",
           "ts": 1785127320.0,
           "group": "central",
