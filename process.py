@@ -7,6 +7,8 @@ from __future__ import annotations
 import glob
 import json
 import os
+import re
+from collections import Counter
 from difflib import SequenceMatcher
 
 from util import load_config, now_kst, press_name, today_str
@@ -47,7 +49,25 @@ def is_relevant(art: dict, group: dict, global_exclude: list,
     return True
 
 
-def same_story(a: dict, b: dict, threshold: float) -> bool:
+# 통합용 토큰: 흔한 단어(고유성 없는)는 제외 — 병합 오작동 방지
+_TOK_RE = re.compile(r"[가-힣A-Za-z0-9]{2,}")
+_BRACKET_RE = re.compile(r"\[[^\]]*\]")
+STOP_TOKENS = set(
+    "추미애 경기 경기도 지사 도지사 경기지사 경기도지사 기자 종합 인터뷰 민선 "
+    "위원장 선출 의원 시장 국힘 민주당 오늘 관련".split())
+
+
+def title_tokens(title: str) -> set:
+    t = _BRACKET_RE.sub("", title or "")
+    return {w for w in _TOK_RE.findall(t) if w not in STOP_TOKENS}
+
+
+def _tok_match(a: str, b: str) -> bool:
+    # 조사 차이 흡수(장관/장관에): 접두 일치 허용
+    return a == b or (min(len(a), len(b)) >= 2 and (a.startswith(b) or b.startswith(a)))
+
+
+def same_story(a: dict, b: dict, threshold: float, df: dict) -> bool:
     if a["norm_url"] and a["norm_url"] == b["norm_url"]:
         return True
     ta, tb = a["norm_title"], b["norm_title"]
@@ -55,7 +75,14 @@ def same_story(a: dict, b: dict, threshold: float) -> bool:
         return False
     if len(ta) >= 10 and len(tb) >= 10 and (ta in tb or tb in ta):
         return True
-    return SequenceMatcher(None, ta, tb).ratio() >= threshold
+    if SequenceMatcher(None, ta, tb).ratio() >= threshold:
+        return True
+    # 드문 단어(전체 3건 이하 등장) 2개 이상 공유 → 같은 사건(표현 달라도)
+    pairs = [(x, y) for x in a["_toks"] for y in b["_toks"] if _tok_match(x, y)]
+    if len(set(x for x, _ in pairs)) >= 2 and \
+            any(min(df.get(x, 1), df.get(y, 1)) <= 3 for x, y in pairs):
+        return True
+    return False
 
 
 def process(articles: list, meta: dict, cfg: dict) -> dict:
@@ -70,11 +97,19 @@ def process(articles: list, meta: dict, cfg: dict) -> dict:
             if a["group"] in gmap and is_relevant(a, gmap[a["group"]], gexcl)]
     kept.sort(key=lambda a: a["ts"], reverse=True)
 
-    # 동일사건 통합
+    # 토큰·DF 준비(드문단어 기반 통합)
+    for a in kept:
+        a["_toks"] = title_tokens(a["title"])
+    df = Counter()
+    for a in kept:
+        for w in a["_toks"]:
+            df[w] += 1
+
+    # 동일사건 통합(클러스터 내 모든 멤버와 비교 → 표현 다른 같은 사건도 연결)
     clusters = []
     for a in kept:
         for c in clusters:
-            if same_story(a, c["rep"], thr):
+            if any(same_story(a, m, thr, df) for m in c["members"]):
                 c["members"].append(a)
                 break
         else:
