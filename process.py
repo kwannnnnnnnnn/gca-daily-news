@@ -77,11 +77,13 @@ def same_story(a: dict, b: dict, threshold: float, df: dict) -> bool:
         return True
     if SequenceMatcher(None, ta, tb).ratio() >= threshold:
         return True
-    # 드문 단어(전체 3건 이하 등장) 2개 이상 공유 → 같은 사건(표현 달라도)
+    # 단어 겹침 기반(조사 무시 접두 매칭)
     pairs = [(x, y) for x in a["_toks"] for y in b["_toks"] if _tok_match(x, y)]
-    if len(set(x for x, _ in pairs)) >= 2 and \
-            any(min(df.get(x, 1), df.get(y, 1)) <= 3 for x, y in pairs):
+    shared = len(set(x for x, _ in pairs))
+    if shared >= 3:                    # 겹치는 핵심어 3개↑ → 같은 사건(캠페인명 등 다수보도)
         return True
+    if shared >= 2 and any(min(df.get(x, 1), df.get(y, 1)) <= 3 for x, y in pairs):
+        return True                    # 겹침 2개 + 그중 드문 단어(≤3건) → 같은 사건(소수보도)
     return False
 
 
