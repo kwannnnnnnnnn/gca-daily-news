@@ -146,32 +146,54 @@ def _section(group: dict, preview: int) -> str:
     )
 
 
-def render_html(result: dict, rel: str = "index") -> str:
+def render_html(result: dict, rel: str = "index", page: str = "main") -> str:
     c = result.get("counts", {})
     pv = result.get("preview_items", 5)
     gen = result.get("generated_at", "")[:16].replace("T", " ")
     srcs = " · ".join(result.get("sources", [])) or "구글뉴스"
     naver_note = "" if result.get("use_naver") else \
         ' · <span title="네이버 키 미설정">네이버 키 추가 시 정확도↑</span>'
-    nav = ('<a href="archive/">지난 기록 &raquo;</a>' if rel == "index"
-           else '<a href="../index.html">&laquo; 오늘</a> · <a href="./">지난 기록</a>')
 
-    body = "".join(_section(g, pv) for g in result.get("groups", []))
+    groups = [g for g in result.get("groups", []) if g.get("page", "main") == page]
+    is_trends = (page == "trends")
+    site_title = "AI·콘텐츠 산업 트렌드" if is_trends else "경기콘텐츠진흥원 일일 언론 모니터링"
+
+    if is_trends:
+        nav = '<a href="index.html">&laquo; 기관 뉴스</a>'
+    elif rel == "index":
+        nav = ('<a href="trends.html">📈 산업 트렌드 &raquo;</a> · '
+               '<a href="archive/">지난 기록 &raquo;</a>')
+    else:
+        nav = ('<a href="../index.html">&laquo; 오늘</a> · '
+               '<a href="../trends.html">📈 트렌드</a> · <a href="./">지난 기록</a>')
+
+    body = "".join(_section(g, pv) for g in groups)
     if body:
         body = f'<div class="book">{body}</div>'
     else:
-        body = ('<div class="empty">해당 시간대에 수집된 관련 기사가 없습니다.<br>'
-                '(수집창·키워드는 keywords.yaml에서 조정)</div>')
+        msg = ('해당 시간대에 수집된 트렌드 기사가 없습니다.' if is_trends
+               else '해당 시간대에 수집된 관련 기사가 없습니다.')
+        body = f'<div class="empty">{msg}<br>(키워드는 keywords.yaml에서 조정)</div>'
 
-    stats = "".join(
-        f'<div class="stat"><b>{c.get(k,0)}</b><span>{lbl}</span></div>'
-        for k, lbl in [("collected", "수집"), ("consolidated", "통합"),
-                       ("excluded", "제외"), ("multi", "복수보도")])
+    if is_trends:
+        n = sum(g.get("count", 0) for g in groups)
+        stats = f'<div class="stats"><div class="stat"><b>{n}</b><span>트렌드 기사</span></div></div>'
+    else:
+        tiles = "".join(
+            f'<div class="stat"><b>{c.get(k,0)}</b><span>{lbl}</span></div>'
+            for k, lbl in [("collected", "수집"), ("consolidated", "통합"),
+                           ("excluded", "제외"), ("multi", "복수보도")])
+        stats = f'<div class="stats">{tiles}</div>'
 
-    if rel == "index":
+    if is_trends:
+        banner = ('<div class="live">📈 <b>AI·콘텐츠 산업 트렌드</b> — 위클리 Gcon 스타일로 '
+                  'AI·콘텐츠·게임·전망·글로벌 동향을 자동수집(하루 4회 갱신). '
+                  '<a href="index.html">« 기관 뉴스로</a></div>')
+    elif rel == "index":
         banner = ('<div class="live">🟢 <b>이 주소가 항상 최신입니다.</b> 북마크해 두고 '
                   '<b>새로고침</b>만 하면 최신 뉴스가 떠요 · 하루 4회(09·13·15·17시) 자동 갱신.'
-                  '<br>※ 끝에 날짜가 붙은 주소는 <a href="archive/">지난 기록</a>(아카이브)입니다.</div>')
+                  '<br>※ 산업 동향은 <a href="trends.html">📈 트렌드</a>, 지난 기록은 '
+                  '<a href="archive/">아카이브</a>.</div>')
     else:
         banner = ('<div class="live">📅 이 페이지는 <b>지난 기록</b>입니다. '
                   '최신 뉴스는 <a href="../index.html">오늘 보기 »</a></div>')
@@ -181,16 +203,16 @@ def render_html(result: dict, rel: str = "index") -> str:
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
 <meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Expires" content="0">
-<title>경기콘텐츠진흥원 일일 언론 모니터링 · {esc(result.get('date'))}</title>
+<title>{esc(site_title)} · {esc(result.get('date'))}</title>
 <style>{CSS}</style></head>
 <body><div class="wrap">
 <header>
-<h1>경기콘텐츠진흥원 일일 언론 모니터링</h1>
+<h1>{esc(site_title)}</h1>
 <div class="sub">{esc(result.get('date'))} · 최근 {esc(result.get('window_hours'))}시간 ·
 소스 {esc(srcs)}{naver_note}<br>생성 {esc(gen)} KST · {nav}</div>
 </header>
 {banner}
-<div class="stats">{stats}</div>
+{stats}
 {body}
 <footer>
 자동 수집·정리(규칙기반, 무료). 저작권상 <b>제목·짧은 요약·원문 링크</b>만 제공하며 기사 전문은 각 언론사 원문을 확인하세요.<br>
@@ -221,10 +243,12 @@ def _archive_index_html(entries: list) -> str:
 def write_outputs(result: dict):
     os.makedirs(ARCHIVE, exist_ok=True)
     with open(os.path.join(DOCS, "index.html"), "w", encoding="utf-8") as f:
-        f.write(render_html(result, rel="index"))
+        f.write(render_html(result, rel="index", page="main"))
+    with open(os.path.join(DOCS, "trends.html"), "w", encoding="utf-8") as f:
+        f.write(render_html(result, rel="index", page="trends"))
     with open(os.path.join(ARCHIVE, f"{result['date']}.html"), "w", encoding="utf-8") as f:
-        f.write(render_html(result, rel="archive"))
-    print(f"[render] index.html + archive/{result['date']}.html 작성")
+        f.write(render_html(result, rel="archive", page="main"))
+    print(f"[render] index.html + trends.html + archive/{result['date']}.html 작성")
 
 
 def build_archive_index():
