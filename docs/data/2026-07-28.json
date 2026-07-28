@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "generated_at": "2026-07-28T10:17:59.998499+09:00",
+  "generated_at": "2026-07-28T10:39:13.323279+09:00",
   "window_hours": 30,
   "sources": [
     "네이버뉴스",
@@ -9,11 +9,11 @@
   "use_naver": true,
   "preview_items": 5,
   "counts": {
-    "collected": 1958,
-    "kept": 275,
-    "excluded": 1683,
+    "collected": 1983,
+    "kept": 280,
+    "excluded": 1703,
     "consolidated": 36,
-    "multi": 16
+    "multi": 15
   },
   "groups": [
     {
@@ -26,8 +26,18 @@
           "title": "경기도, 경기인디뮤직페스티벌 1차 라인업 공개…29일 얼리버드 티켓 판...",
           "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2247198",
           "snippet": "경기콘텐츠진흥원의 인디 음악인 발굴 프로젝트 '2025 인디스땅스' 상위 3개 팀인 다다다, 루아멜, 테종도 출연하며, '2026 인디스땅스' 최종 결선도 축제 주 무대에서 진행될 예정이다. 경기도는 8월 중순 인디스땅스...",
-          "source": "dnews.co.kr",
+          "source": "프레시안",
           "sources": [
+            {
+              "name": "프레시안",
+              "url": "https://www.pressian.com/pages/articles/2026072810341449996?utm_source=naver&utm_medium=search",
+              "origin": "naver"
+            },
+            {
+              "name": "redaily.co.kr",
+              "url": "https://www.redaily.co.kr/news/articleView.html?idxno=17196",
+              "origin": "naver"
+            },
             {
               "name": "dnews.co.kr",
               "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607271924227750729",
@@ -79,11 +89,6 @@
               "origin": "naver"
             },
             {
-              "name": "newsroad.co.kr",
-              "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=62064",
-              "origin": "naver"
-            },
-            {
               "name": "iminju.net",
               "url": "http://www.iminju.net/news/articleView.html?idxno=167187",
               "origin": "naver"
@@ -119,13 +124,13 @@
               "origin": "naver"
             },
             {
-              "name": "dailian.co.kr",
-              "url": "https://www.dailian.co.kr/news/view/1671430/?sc=Naver",
+              "name": "thereport.co.kr",
+              "url": "https://www.thereport.co.kr/news/articleView.html?idxno=89953",
               "origin": "naver"
             },
             {
-              "name": "thereport.co.kr",
-              "url": "https://www.thereport.co.kr/news/articleView.html?idxno=89953",
+              "name": "dailian.co.kr",
+              "url": "https://www.dailian.co.kr/news/view/1671430/?sc=Naver",
               "origin": "naver"
             },
             {
@@ -201,6 +206,11 @@
             {
               "name": "kmaeil.com",
               "url": "https://www.kmaeil.com/news/articleView.html?idxno=646663",
+              "origin": "naver"
+            },
+            {
+              "name": "asiatime.co.kr",
+              "url": "https://www.asiatime.co.kr/article/20260727500255",
               "origin": "naver"
             },
             {
@@ -292,6 +302,11 @@
               "name": "국제뉴스",
               "url": "https://www.gukjenews.com/news/articleView.html?idxno=3646768",
               "origin": "naver"
+            },
+            {
+              "name": "내외뉴스통신",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vWW1JOVdwbEtmWmtZcXBCaTdfOEF1VGJ0eDg4dnRGZHFaSk04akpvR0d1NjZrQXY1STFFRExRQ0hVWDQzLWlYelg2a1pETUpya21HV0dnTDJzVk40YlpiYk1zMl9jeU83emR2UkFQS1XSAXBBVV95cUxOb1ltSTlXcGxLZlprWXFwQmk3XzhBdVRidHg4OHZ0RmRxWkpNOGpKb0dHdTY2a0F2NUkxRURMUUNIVVg0My1pWHpYNmtaRE1KcmttR1dHZ0wyc1ZONGJaYmJNczJfY3lPN3pkdlJBUEtV?oc=5",
+              "origin": "google"
             },
             {
               "name": "팔당유역신문",
@@ -397,14 +412,9 @@
               "name": "메트로신문",
               "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42R0V5NTN1akZiNVUzcTVDT1RKM0owYk1ZbkJITDY5aTdXR01pckZNemdCWFJvdUVxZWlFX3JBNmlSbG1QYTNMbUhlMnFoNWoyX2d4RHJTcnQzT1VzU19nUg?oc=5",
               "origin": "google"
-            },
-            {
-              "name": "스타트업엔(StartupN)",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CTDAxdjNiZ0NPaDlsc2lJMWZmdmVJeUhMTkh5VV9EZmFMOWNWSGQtS0NpenNOVHVIUDktS252VEFRTTRJMHNPeXpZUk1qSEoxcE1GTl9Ia3NPcGdlUlVQcnZmUm56M0RKZ3Q5btIBbEFVX3lxTE1CTDAxdjNiZ0NPaDlsc2lJMWZmdmVJeUhMTkh5VV9EZmFMOWNWSGQtS0NpenNOVHVIUDktS252VEFRTTRJMHNPeXpZUk1qSEoxcE1GTl9Ia3NPcGdlUlVQcnZmUm56M0RKZ3Q5bg?oc=5",
-              "origin": "google"
             }
           ],
-          "source_count": 75,
+          "source_count": 77,
           "published": "2026-07-27T23:28:00+09:00",
           "ts": 1785162480.0,
           "group": "gca",
@@ -493,14 +503,24 @@
       "count": 4,
       "items": [
         {
-          "title": "경기도북부청사, 8월 한 달간 ‘경기평화광장 잔디밭영화제&문화예술공연’ 개최",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wZ1JISWY1dmRIVDFwUi1iaU90Rzd1ZUN0TEVWWHVDTHJBZlZyemkxVmhWNVRXdUptQ216QV9wZk5ObjBIVDFfV0h5RmJYU3hEbUxQcmxNYjhwWEl5ZXQ3OUE3VlRQeWs?oc=5",
-          "snippet": "",
-          "source": "파주에서신문",
+          "title": "경기도, 8월 한 달간 '경기평화광장 잔디밭 영화제 . 문화공연' 개최",
+          "url": "http://www.metroseoul.co.kr/article/20260728500047",
+          "snippet": "행사는 마술, 음악, 퍼포먼스 등 독창적이고 매력적인 문화예술공연이 진행된 뒤, 19시부터 드라마, 액션, 애니메이션 등 다양한 장르의 영화를 상영한다. 누구나 별도 관람료 없이 참여할 수 있다. 행사 관련 사항은 경기...",
+          "source": "metroseoul.co.kr",
           "sources": [
+            {
+              "name": "metroseoul.co.kr",
+              "url": "http://www.metroseoul.co.kr/article/20260728500047",
+              "origin": "naver"
+            },
             {
               "name": "파주에서신문",
               "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wZ1JISWY1dmRIVDFwUi1iaU90Rzd1ZUN0TEVWWHVDTHJBZlZyemkxVmhWNVRXdUptQ216QV9wZk5ObjBIVDFfV0h5RmJYU3hEbUxQcmxNYjhwWEl5ZXQ3OUE3VlRQeWs?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "엔디엔뉴스",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yTDlUSV9UcmxUR1dXTWFxbTNubW1vUWJaV3ZkakJtNjdzT002RGN6NU1yeVBxVnFMWXhlVFFXbjlNQy1nczJLMnRDcy1WSlhQOW9GTUVKanllQnlpY2pVcWdOVy1kbmlBeENNREhuZlg0Z9IBckFVX3lxTE9yTDlUSV9UcmxUR1dXTWFxbTNubW1vUWJaV3ZkakJtNjdzT002RGN6NU1yeVBxVnFMWXhlVFFXbjlNQy1nczJLMnRDcy1WSlhQOW9GTUVKanllQnlpY2pVcWdOVy1kbmlBeENNREhuZlg0Zw?oc=5",
               "origin": "google"
             },
             {
@@ -509,9 +529,9 @@
               "origin": "google"
             }
           ],
-          "source_count": 2,
-          "published": "2026-07-28T09:48:59+09:00",
-          "ts": 1785199739.0,
+          "source_count": 4,
+          "published": "2026-07-28T10:20:00+09:00",
+          "ts": 1785201600.0,
           "group": "province",
           "group_label": "경기도(콘텐츠 관련)"
         },
@@ -670,29 +690,6 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "시도지사협 제주 불참 여파 '연기'",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=840772",
-          "snippet": "현재 추미애 경기도지사가 출마 의사를 공식적으로 밝힌 상황이다. 하지만 민선 9기 초반이다 보니 신임 시도지사들이 지역별 우선 현안을 우선시 하는 등 불참이 잇따랐고, 총회 정족수 9인이 겨우 채워줬지만 위성곤...",
-          "source": "jemin.com",
-          "sources": [
-            {
-              "name": "jemin.com",
-              "url": "https://www.jemin.com/news/articleView.html?idxno=840772",
-              "origin": "naver"
-            },
-            {
-              "name": "경기일보",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fcTBKaldUelFQLVE1NENJNzdMaVJ0bm5TQVB3NzRaeUx2TmpzYWhqSDZLUm5pRlZYclE4bWJQdFFLVmhfU3k0clBWR0pHeFNsUVJGU2xSTi1vRXM?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-07-27T17:32:00+09:00",
-          "ts": 1785141120.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
           "title": "3대 메가프로젝트의 4대 문제점",
           "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=235927",
           "snippet": "최근 추미애 경기도지사가 삼성전자와 SK하이닉스에 물 재활용률을 높이라고 행정지도를 했다고 하는데, 그런 방식으로는 안 된다. 국가 차원에서 법과 정책으로 물 재활용률을 높이도록 강제해야 한다. 넷째...",
@@ -837,6 +834,24 @@
           "group_label": "경기도지사"
         },
         {
+          "title": "시도지사협 제주 불참 여파 '연기'",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=840772",
+          "snippet": "현재 추미애 경기도지사가 출마 의사를 공식적으로 밝힌 상황이다. 하지만 민선 9기 초반이다 보니 신임 시도지사들이 지역별 우선 현안을 우선시 하는 등 불참이 잇따랐고, 총회 정족수 9인이 겨우 채워줬지만 위성곤...",
+          "source": "jemin.com",
+          "sources": [
+            {
+              "name": "jemin.com",
+              "url": "https://www.jemin.com/news/articleView.html?idxno=840772",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-27T17:32:00+09:00",
+          "ts": 1785141120.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
           "title": "[기자의눈] ‘속도보다 성과’…추미애표 인사, 신중함 속 '靜中動'",
           "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260727010009885",
           "snippet": "추미애 경기도지사가 민선 9기 임기를 시작한 지 한 달여 됐지만, 도청 내 정기인사의 시계는 '靜中動(조용한 가운데 움직임이 있다)'의 흐름을 보이고 있다. 추 지사는 취임 직후 경제부지사와 비서실장 등 최소한의...",
@@ -968,6 +983,11 @@
               "origin": "naver"
             },
             {
+              "name": "newsroad.co.kr",
+              "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=62064",
+              "origin": "naver"
+            },
+            {
               "name": "beyondpost.co.kr",
               "url": "http://www.beyondpost.co.kr/view.php?ud=2026072718181074834c878f8fa1_30",
               "origin": "naver"
@@ -978,13 +998,13 @@
               "origin": "naver"
             },
             {
-              "name": "discoverynews.kr",
-              "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1097136",
+              "name": "getnews.co.kr",
+              "url": "https://www.getnews.co.kr/news/articleView.html?idxno=876212",
               "origin": "naver"
             },
             {
-              "name": "getnews.co.kr",
-              "url": "https://www.getnews.co.kr/news/articleView.html?idxno=876212",
+              "name": "discoverynews.kr",
+              "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1097136",
               "origin": "naver"
             },
             {
@@ -1020,11 +1040,6 @@
             {
               "name": "머니투데이",
               "url": "https://www.mt.co.kr/policy/2026/07/27/2026072713430739105",
-              "origin": "naver"
-            },
-            {
-              "name": "asiatime.co.kr",
-              "url": "https://www.asiatime.co.kr/article/20260727500255",
               "origin": "naver"
             }
           ],
@@ -1105,19 +1120,29 @@
       "count": 7,
       "items": [
         {
-          "title": "K콘텐츠의 자산은 ‘인재’… 문체부 - 콘진원, 종사자 보호·소양 교육...",
-          "url": "https://www.munhwa.com/article/11605438?ref=naver",
-          "snippet": "한국콘텐츠진흥원이 발간한 ‘2025년 4분기 및 연간 콘텐츠산업 동향분석 보고서’에 따르면 2025년 콘텐츠산업 매출은 161조 원, 수출 149억 달러로 각각 집계됐다. 산업의 발전에 따라 콘텐츠산업 종사자 수도 2024년...",
-          "source": "문화일보",
+          "title": "와이즈넛, '글로벌 K-콘텐츠' AI로 분석…콘진원 플랫폼 구축",
+          "url": "https://zdnet.co.kr/view/?no=20260728102509",
+          "snippet": "와이즈넛은 한국콘텐츠진흥원이 추진하는 '글로벌 K-콘텐츠 트렌드 분석 플랫폼 구축' 사업을 주관한다고 28일 밝혔다. 데이터 수집 인프라 구축부터 AI 분석 서비스 구현까지 전반적인 기술 영역을 맡는다. 플랫폼은...",
+          "source": "지디넷코리아",
           "sources": [
             {
-              "name": "문화일보",
-              "url": "https://www.munhwa.com/article/11605438?ref=naver",
+              "name": "지디넷코리아",
+              "url": "https://zdnet.co.kr/view/?no=20260728102509",
               "origin": "naver"
             },
             {
-              "name": "지디넷코리아",
-              "url": "https://zdnet.co.kr/view/?no=20260727102828",
+              "name": "datanet.co.kr",
+              "url": "https://www.datanet.co.kr/news/articleView.html?idxno=213358",
+              "origin": "naver"
+            },
+            {
+              "name": "koit.co.kr",
+              "url": "https://www.koit.co.kr/news/articleView.html?idxno=208187",
+              "origin": "naver"
+            },
+            {
+              "name": "이데일리",
+              "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02991366645519112",
               "origin": "naver"
             },
             {
@@ -1141,19 +1166,34 @@
               "origin": "naver"
             },
             {
-              "name": "하나뉴스",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BQUlabG9GTGFMTm5SYVJEaG1JN1F5bEhpeVBLczgtQktyQU4tYVZnb1FVd184ZnBUM0JtSV9WaUZfaFBtQmRWeHJDNnFudV9LZFRCMDYyTXNjWHc0SGhGdVdWMU5TNHgzN2dnU3FR?oc=5",
+              "name": "데이터넷",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84ZGp6REJpeG4tMk9QYVhxNUl0aGg2eTd2c2ZxUWdRck5faW03RUN0cFpKM0dGYUgyaWZaNE9ncnREdG1UdWNnekhqRGgzcWNmSHE0anlCNEpqUmV6UjFZbEE1dW1ZRlRQaTF1aw?oc=5",
               "origin": "google"
             },
             {
-              "name": "글로벌뉴스통신GNA",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KbFB4Nk5hdkd5bE5xb0JVblRiUlBOdS12WFpQNmdnTHlkVUk4WFBia0VCMEc5MWhnMUtNVlhhaFJYRWdTWlRNZGVEWVN0d2s4Ty14cnNza05xQl81d05DVno4V013eXExTERxMW1pMklUanAw?oc=5",
+              "name": "정보통신신문",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JQ2R3ZXZPdFZmbGtISTRTaUFzajFjZFhHeDV3UFNaSERGcUdhbkZWbnVqNE1CQ1pHRnc3Um0zX29ZN1dPRElwQ0ttN3RBVGRKdlpaX0h6YTVheFJBLWkyUlM4ajdwQ3pp0gFsQVVfeXFMTnRLdEdiOWF2OXdfWHd1NmxYeS12MGhnNDE5VlNMajJEcDB1YmxUUnd5MEVVaHZoYzZKWWR2N3V4S1VnQXFpQ0FMUlcxbUFyMFlIMG5RWkZvMUxkVDZsNTM1U0kwMDdFRXA2S2dS?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "네이트",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tN2tlRDlmX0tNVVB5ckxyLWsxOTNRS0lmR1JMUVBVWnJVZ21lbnRraXJCdmxKVGUtcjFwTUQ5LTg5NHZnMGhYcjBONjVhSy1ncTRF?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "edaily.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY3pXRllmTjZOQ0h1UVF1Zm9nWkFOSUNSQVdJd0s3d2dkV0FNSGZzVHFENHE1M29UYWlma3BNS0JBeFdod2lfNDd6bXB0WWtwcWhhcTNPaV9NU2JpT3JHOC1INFMzOTRYbGNkUDJLTDBMUThuTGxvdWNoSy1LTFFqTw?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "파이낸스스코프",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mZHEwbTVJUm94QmhJZlNIZmdPTWZXck9ZbFI1UmRLOXR4UWUtVjZERUtpT2JldWR2QnhzLTRjU0NtLWQ3azdNbjMxM2VhSGVueThKelpwS0NIdFd1N3MtNWg5VHpKckZ2REE?oc=5",
               "origin": "google"
             }
           ],
-          "source_count": 8,
-          "published": "2026-07-28T09:33:00+09:00",
-          "ts": 1785198780.0,
+          "source_count": 13,
+          "published": "2026-07-28T10:26:00+09:00",
+          "ts": 1785201960.0,
           "group": "central",
           "group_label": "중앙부처(콘텐츠)"
         },
@@ -1176,6 +1216,11 @@
             {
               "name": "naeil.com",
               "url": "https://www.naeil.com/news/read/596636?ref=naver",
+              "origin": "naver"
+            },
+            {
+              "name": "news.mtn.co.kr",
+              "url": "https://news.mtn.co.kr/news-detail/2026072710252159255",
               "origin": "naver"
             },
             {
@@ -1204,7 +1249,7 @@
               "origin": "google"
             }
           ],
-          "source_count": 8,
+          "source_count": 9,
           "published": "2026-07-28T06:01:00+09:00",
           "ts": 1785186060.0,
           "group": "central",
@@ -1233,7 +1278,7 @@
             },
             {
               "name": "뉴스케이",
-              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VNkF0emkwTnY0REYxQWtFVmNLRnlIOVlpT19OWTRGeXNGS1ZzX3JuYXA5aFVLNFVlSFFaVmluN2t4STgxTVdvSUFkbV9LSUtsUE9qc2FjRjZ3MGhnR3c?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3Y0lxVFd5SElBaTZNc0lsR3FJYm1wZUF3X2dEOXYwZk9TeUo5NDE4QkpIbkhYb1lkNnZqaDVqaVhCZlUzSlA5MEFoSXBxT3BxVEVfdU1sN0hmM1VCM0tnNTd0RQ?oc=5",
               "origin": "google"
             },
             {
@@ -1242,62 +1287,47 @@
               "origin": "google"
             },
             {
+              "name": "더뉴스코리아",
+              "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4yMXZzSkdRNUlwUUZZN2lTYkJVYk1wdkNlZVhzekZMLU10bXFYcTdVb191a3VHeHk5VGtrSkNsVDdUNU9XdlZwVnR3?oc=5",
+              "origin": "google"
+            },
+            {
               "name": "글로벌뉴스통신GNA",
               "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qRUlMa3lnSmZPUzJTQ0pCTUtiZEJTNUxjR2p4T05sNW93MEtXZExfay1qWU5lNExPRXpIbUVCZzNNVkJZYi1HZFVZQXNzZ2JnYjlMb2tUZkgyMWJQSzk5UHlQbmZyOUtFTzh6Q3IzOXdGYUhL?oc=5",
               "origin": "google"
-            },
-            {
-              "name": "v.daum.net",
-              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zd1QwSU5vWUlZazNvei1hRHVkWkVEOTBVNnM1UWlvbGVzaWNERXBWMno1NzBaei11eHd0QWRybnJnQ0JCWU0ta0taMVg3Vms?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "지디넷코리아",
-              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sXzhxdXg2ZGI0Smo0dkdkRVB5SFI0bEpva1hGcTRXODNWeENoaWY0dUhnbUZockFDOEZXa09HRGVoelA1V0h6R3I3Y2YtNUFob2owWmpB?oc=5",
-              "origin": "google"
             }
           ],
-          "source_count": 8,
+          "source_count": 7,
           "published": "2026-07-27T19:36:00+09:00",
           "ts": 1785148560.0,
           "group": "central",
           "group_label": "중앙부처(콘텐츠)"
         },
         {
-          "title": "와이즈넛, 콘진원 '글로벌 K-콘텐츠 트렌드 분석 플랫폼' 구축 사업 수주",
-          "url": "https://www.koit.co.kr/news/articleView.html?idxno=208187",
-          "snippet": "도메인 특화 AI 에이전트 전문기업 와이즈넛이 한국콘텐츠진흥원의 글로벌 K-콘텐츠 데이터 분석 플랫폼 구축 사업을 수주하며 공공 AI 플랫폼 시장 확대에 나선다. 와이즈넛은 한국콘텐츠진흥원의 '글로벌 K...",
-          "source": "koit.co.kr",
+          "title": "K콘텐츠의 자산은 ‘인재’… 문체부 - 콘진원, 종사자 보호·소양 교육...",
+          "url": "https://www.munhwa.com/article/11605438?ref=naver",
+          "snippet": "한국콘텐츠진흥원이 발간한 ‘2025년 4분기 및 연간 콘텐츠산업 동향분석 보고서’에 따르면 2025년 콘텐츠산업 매출은 161조 원, 수출 149억 달러로 각각 집계됐다. 산업의 발전에 따라 콘텐츠산업 종사자 수도 2024년...",
+          "source": "문화일보",
           "sources": [
             {
-              "name": "koit.co.kr",
-              "url": "https://www.koit.co.kr/news/articleView.html?idxno=208187",
+              "name": "문화일보",
+              "url": "https://www.munhwa.com/article/11605438?ref=naver",
               "origin": "naver"
             },
             {
-              "name": "이데일리",
-              "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02991366645519112",
-              "origin": "naver"
-            },
-            {
-              "name": "정보통신신문",
-              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JQ2R3ZXZPdFZmbGtISTRTaUFzajFjZFhHeDV3UFNaSERGcUdhbkZWbnVqNE1CQ1pHRnc3Um0zX29ZN1dPRElwQ0ttN3RBVGRKdlpaX0h6YTVheFJBLWkyUlM4ajdwQ3pp0gFsQVVfeXFMTnRLdEdiOWF2OXdfWHd1NmxYeS12MGhnNDE5VlNMajJEcDB1YmxUUnd5MEVVaHZoYzZKWWR2N3V4S1VnQXFpQ0FMUlcxbUFyMFlIMG5RWkZvMUxkVDZsNTM1U0kwMDdFRXA2S2dS?oc=5",
+              "name": "하나뉴스",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BQUlabG9GTGFMTm5SYVJEaG1JN1F5bEhpeVBLczgtQktyQU4tYVZnb1FVd184ZnBUM0JtSV9WaUZfaFBtQmRWeHJDNnFudV9LZFRCMDYyTXNjWHc0SGhGdVdWMU5TNHgzN2dnU3FR?oc=5",
               "origin": "google"
             },
             {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tN2tlRDlmX0tNVVB5ckxyLWsxOTNRS0lmR1JMUVBVWnJVZ21lbnRraXJCdmxKVGUtcjFwTUQ5LTg5NHZnMGhYcjBONjVhSy1ncTRF?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "파이낸스스코프",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mZHEwbTVJUm94QmhJZlNIZmdPTWZXck9ZbFI1UmRLOXR4UWUtVjZERUtpT2JldWR2QnhzLTRjU0NtLWQ3azdNbjMxM2VhSGVueThKelpwS0NIdFd1N3MtNWg5VHpKckZ2REE?oc=5",
+              "name": "글로벌뉴스통신GNA",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KbFB4Nk5hdkd5bE5xb0JVblRiUlBOdS12WFpQNmdnTHlkVUk4WFBia0VCMEc5MWhnMUtNVlhhaFJYRWdTWlRNZGVEWVN0d2s4Ty14cnNza05xQl81d05DVno4V013eXExTERxMW1pMklUanAw?oc=5",
               "origin": "google"
             }
           ],
-          "source_count": 5,
-          "published": "2026-07-28T09:36:00+09:00",
-          "ts": 1785198960.0,
+          "source_count": 3,
+          "published": "2026-07-28T09:33:00+09:00",
+          "ts": 1785198780.0,
           "group": "central",
           "group_label": "중앙부처(콘텐츠)"
         },
@@ -1313,11 +1343,6 @@
               "origin": "naver"
             },
             {
-              "name": "breaknews.com",
-              "url": "http://www.breaknews.com/1224535",
-              "origin": "naver"
-            },
-            {
               "name": "한국강사신문",
               "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wNDhWemZYOENmQWs1OHRXMlFvTzNpaTBQRzRsQmF3N0dYXzNNM0sxOXhxcG1XQjU4Y2t1bjVKanRFMFQ2cU12UEJjX29qcVJZUkdFM2R4UDJ5MVpoMi12dzA1aGNFNW1BcW5WRTBSNUI?oc=5",
               "origin": "google"
@@ -1326,14 +1351,9 @@
               "name": "kcemedia.com",
               "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9xRUkxeS1HSlAySVl1X1F1Z0FkNmo0bFdsTlhBeUgyU3lvQ0pPWXhLVDJzZWRtaVl2SGRyRGp1UEc0RHM?oc=5",
               "origin": "google"
-            },
-            {
-              "name": "더뉴스코리아",
-              "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4yMXZzSkdRNUlwUUZZN2lTYkJVYk1wdkNlZVhzekZMLU10bXFYcTdVb191a3VHeHk5VGtrSkNsVDdUNU9XdlZwVnR3?oc=5",
-              "origin": "google"
             }
           ],
-          "source_count": 5,
+          "source_count": 3,
           "published": "2026-07-28T06:46:00+09:00",
           "ts": 1785188760.0,
           "group": "central",
