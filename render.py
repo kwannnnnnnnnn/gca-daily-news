@@ -32,6 +32,9 @@ line-height:1.5;-webkit-text-size-adjust:100%}
 header h1{font-size:1.4rem;margin:0 0 4px;letter-spacing:-.02em}
 .sub{color:var(--muted);font-size:.86rem;margin-bottom:16px}
 .sub a{color:var(--accent);text-decoration:none}
+.live{background:var(--chip);color:var(--chipfg);border:1px solid var(--line);
+border-radius:10px;padding:9px 13px;font-size:.83rem;margin:2px 0 18px;line-height:1.45}
+.live a{color:var(--accent);font-weight:700;text-decoration:none}
 .stats{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0 24px}
 .stat{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:8px 14px;min-width:76px}
 .stat b{display:block;font-size:1.2rem;line-height:1.2}
@@ -165,6 +168,14 @@ def render_html(result: dict, rel: str = "index") -> str:
         for k, lbl in [("collected", "수집"), ("consolidated", "통합"),
                        ("excluded", "제외"), ("multi", "복수보도")])
 
+    if rel == "index":
+        banner = ('<div class="live">🟢 <b>이 주소가 항상 최신입니다.</b> 북마크해 두고 '
+                  '<b>새로고침</b>만 하면 최신 뉴스가 떠요 · 하루 4회(09·13·15·17시) 자동 갱신.'
+                  '<br>※ 끝에 날짜가 붙은 주소는 <a href="archive/">지난 기록</a>(아카이브)입니다.</div>')
+    else:
+        banner = ('<div class="live">📅 이 페이지는 <b>지난 기록</b>입니다. '
+                  '최신 뉴스는 <a href="../index.html">오늘 보기 »</a></div>')
+
     return f"""<!doctype html>
 <html lang="ko"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -178,6 +189,7 @@ def render_html(result: dict, rel: str = "index") -> str:
 <div class="sub">{esc(result.get('date'))} · 최근 {esc(result.get('window_hours'))}시간 ·
 소스 {esc(srcs)}{naver_note}<br>생성 {esc(gen)} KST · {nav}</div>
 </header>
+{banner}
 <div class="stats">{stats}</div>
 {body}
 <footer>
