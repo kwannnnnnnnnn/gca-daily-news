@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "generated_at": "2026-07-28T10:39:13.323279+09:00",
+  "generated_at": "2026-07-28T10:53:30.649996+09:00",
   "window_hours": 30,
   "sources": [
     "네이버뉴스",
@@ -9,11 +9,11 @@
   "use_naver": true,
   "preview_items": 5,
   "counts": {
-    "collected": 1983,
-    "kept": 280,
-    "excluded": 1703,
+    "collected": 1978,
+    "kept": 273,
+    "excluded": 1705,
     "consolidated": 36,
-    "multi": 15
+    "multi": 14
   },
   "groups": [
     {
@@ -89,6 +89,11 @@
               "origin": "naver"
             },
             {
+              "name": "newsroad.co.kr",
+              "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=62064",
+              "origin": "naver"
+            },
+            {
               "name": "iminju.net",
               "url": "http://www.iminju.net/news/articleView.html?idxno=167187",
               "origin": "naver"
@@ -124,13 +129,13 @@
               "origin": "naver"
             },
             {
-              "name": "thereport.co.kr",
-              "url": "https://www.thereport.co.kr/news/articleView.html?idxno=89953",
+              "name": "dailian.co.kr",
+              "url": "https://www.dailian.co.kr/news/view/1671430/?sc=Naver",
               "origin": "naver"
             },
             {
-              "name": "dailian.co.kr",
-              "url": "https://www.dailian.co.kr/news/view/1671430/?sc=Naver",
+              "name": "thereport.co.kr",
+              "url": "https://www.thereport.co.kr/news/articleView.html?idxno=89953",
               "origin": "naver"
             },
             {
@@ -186,11 +191,6 @@
             {
               "name": "newsverse.kr",
               "url": "https://www.newsverse.kr/news/articleView.html?idxno=11036",
-              "origin": "naver"
-            },
-            {
-              "name": "한국경제TV",
-              "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607270239&t=NN",
               "origin": "naver"
             },
             {
@@ -256,11 +256,6 @@
             {
               "name": "경향신문",
               "url": "https://www.khan.co.kr/article/202607271048001",
-              "origin": "naver"
-            },
-            {
-              "name": "이데일리",
-              "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02781446645518784",
               "origin": "naver"
             },
             {
@@ -407,14 +402,9 @@
               "name": "주간한국",
               "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xRzg2eURZTkUwbkdJd2RRSFE4c0dKTjREMURWVUxHQWVPYWREVGlNbkJGWlpXYmNUQncwT1k0MHhrZ1JBeTN5QWFmMmZQc2pQWFdYVDhwRHRnanNDaDYtYzA2akx4em1od091eHJrZHTSAXRBVV95cUxNUldBOXUta3QtYm92aEcyRWgycTFDSFVLTjBObEhkQWVGcU44VnUzT0Q1U2d2bDJpWi1VUVgtTGpWX0RpeHpIMGp0cFFkamtQLWprV3JyZ0J4bW1QeHlDSW1mZHJQZl9RQnlIZ2wxUEJIY0lNdg?oc=5",
               "origin": "google"
-            },
-            {
-              "name": "메트로신문",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42R0V5NTN1akZiNVUzcTVDT1RKM0owYk1ZbkJITDY5aTdXR01pckZNemdCWFJvdUVxZWlFX3JBNmlSbG1QYTNMbUhlMnFoNWoyX2d4RHJTcnQzT1VzU19nUg?oc=5",
-              "origin": "google"
             }
           ],
-          "source_count": 77,
+          "source_count": 75,
           "published": "2026-07-27T23:28:00+09:00",
           "ts": 1785162480.0,
           "group": "gca",
@@ -481,14 +471,9 @@
               "name": "viva100.com",
               "url": "https://www.viva100.com/article/20260727500555",
               "origin": "naver"
-            },
-            {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9udWdoWnVlNkdRZXNlSV95am1ud3l1ektEdmw3WEZuaDlQWU05bFhtT2JRckE2bkZDV1dlR01aREVUMHdYcE1EUFJMcW9XTXlKSG9V?oc=5",
-              "origin": "google"
             }
           ],
-          "source_count": 2,
+          "source_count": 1,
           "published": "2026-07-27T10:54:00+09:00",
           "ts": 1785117240.0,
           "group": "gca",
@@ -500,41 +485,8 @@
       "id": "province",
       "label": "경기도(콘텐츠 관련)",
       "priority": 2,
-      "count": 4,
+      "count": 3,
       "items": [
-        {
-          "title": "경기도, 8월 한 달간 '경기평화광장 잔디밭 영화제 . 문화공연' 개최",
-          "url": "http://www.metroseoul.co.kr/article/20260728500047",
-          "snippet": "행사는 마술, 음악, 퍼포먼스 등 독창적이고 매력적인 문화예술공연이 진행된 뒤, 19시부터 드라마, 액션, 애니메이션 등 다양한 장르의 영화를 상영한다. 누구나 별도 관람료 없이 참여할 수 있다. 행사 관련 사항은 경기...",
-          "source": "metroseoul.co.kr",
-          "sources": [
-            {
-              "name": "metroseoul.co.kr",
-              "url": "http://www.metroseoul.co.kr/article/20260728500047",
-              "origin": "naver"
-            },
-            {
-              "name": "파주에서신문",
-              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wZ1JISWY1dmRIVDFwUi1iaU90Rzd1ZUN0TEVWWHVDTHJBZlZyemkxVmhWNVRXdUptQ216QV9wZk5ObjBIVDFfV0h5RmJYU3hEbUxQcmxNYjhwWEl5ZXQ3OUE3VlRQeWs?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "엔디엔뉴스",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yTDlUSV9UcmxUR1dXTWFxbTNubW1vUWJaV3ZkakJtNjdzT002RGN6NU1yeVBxVnFMWXhlVFFXbjlNQy1nczJLMnRDcy1WSlhQOW9GTUVKanllQnlpY2pVcWdOVy1kbmlBeENNREhuZlg0Z9IBckFVX3lxTE9yTDlUSV9UcmxUR1dXTWFxbTNubW1vUWJaV3ZkakJtNjdzT002RGN6NU1yeVBxVnFMWXhlVFFXbjlNQy1nczJLMnRDcy1WSlhQOW9GTUVKanllQnlpY2pVcWdOVy1kbmlBeENNREhuZlg0Zw?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "헤럴드경제",
-              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tSzQ2LXMzX2pid0FZZDVITWs0THNqcnp4YmpwRHhtU2xDWkNvOE55a294bDlTUXY0U1dabkRSWUJleWhrSnhRbzVpdVRiLTNkdno4azVn?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 4,
-          "published": "2026-07-28T10:20:00+09:00",
-          "ts": 1785201600.0,
-          "group": "province",
-          "group_label": "경기도(콘텐츠 관련)"
-        },
         {
           "title": "경기도, 내달 북부청사 평화광장서 주말마다 영화제·예술공연",
           "url": "https://www.yna.co.kr/view/AKR20260728032100060?input=1195m",
@@ -983,11 +935,6 @@
               "origin": "naver"
             },
             {
-              "name": "newsroad.co.kr",
-              "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=62064",
-              "origin": "naver"
-            },
-            {
               "name": "beyondpost.co.kr",
               "url": "http://www.beyondpost.co.kr/view.php?ud=2026072718181074834c878f8fa1_30",
               "origin": "naver"
@@ -998,13 +945,13 @@
               "origin": "naver"
             },
             {
-              "name": "getnews.co.kr",
-              "url": "https://www.getnews.co.kr/news/articleView.html?idxno=876212",
+              "name": "discoverynews.kr",
+              "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1097136",
               "origin": "naver"
             },
             {
-              "name": "discoverynews.kr",
-              "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1097136",
+              "name": "getnews.co.kr",
+              "url": "https://www.getnews.co.kr/news/articleView.html?idxno=876212",
               "origin": "naver"
             },
             {
@@ -1043,7 +990,7 @@
               "origin": "naver"
             }
           ],
-          "source_count": 21,
+          "source_count": 20,
           "published": "2026-07-27T16:02:00+09:00",
           "ts": 1785135720.0,
           "group": "gg_council",
@@ -1091,8 +1038,61 @@
       "id": "bucheon",
       "label": "부천시(콘텐츠 관련)",
       "priority": 5,
-      "count": 1,
+      "count": 2,
       "items": [
+        {
+          "title": "부천시, 2년 연속 유튜브 홍보 최우수상 수상",
+          "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02781446645518784",
+          "snippet": "조용익(왼쪽서 3번째) 부천시장이 유튜브 홍보 부문 최우수상을 수상하고 직원들과 기념 촬영하고 있다.... 조용익 부천시장은 “앞으로도 부천시만의 특색을 담은 콘텐츠를 지속적으로 발굴해 시민이 쉽고 친근하게...",
+          "source": "이데일리",
+          "sources": [
+            {
+              "name": "이데일리",
+              "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=03565366645519112",
+              "origin": "naver"
+            },
+            {
+              "name": "metroseoul.co.kr",
+              "url": "http://www.metroseoul.co.kr/article/20260728500047",
+              "origin": "naver"
+            },
+            {
+              "name": "obsnews.co.kr",
+              "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1531906",
+              "origin": "naver"
+            },
+            {
+              "name": "네이트",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PNkhBbXV0dGxsNzJYNF9QZzFYMTFQcWlPV2EzbDd6MFRfbXI2VURlTlI1ZU5wSV9OX0swU0NqcmxOVXBNbHZEWUd3ZU40RVZMUWZ5bl9qWGRDSTYxcTkxSA?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "파주에서신문",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wZ1JISWY1dmRIVDFwUi1iaU90Rzd1ZUN0TEVWWHVDTHJBZlZyemkxVmhWNVRXdUptQ216QV9wZk5ObjBIVDFfV0h5RmJYU3hEbUxQcmxNYjhwWEl5ZXQ3OUE3VlRQeWs?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "edaily.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY3pXRllmTjZOQ0h1UVF1Zm9nWkFOSUNSQVdJd0s3d2dkV0FNSGZzVHFENHE1M29UYWlma3BNS0JBeFdod2lfNDd6bXB0WWtwcWhhcTNPaV9NU2JpT3JHOC1INFMzOTRYbGNkUDJLTDBMUThuTGxvdWNoSy1LTFFqTw?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "파이낸스스코프",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mZHEwbTVJUm94QmhJZlNIZmdPTWZXck9ZbFI1UmRLOXR4UWUtVjZERUtpT2JldWR2QnhzLTRjU0NtLWQ3azdNbjMxM2VhSGVueThKelpwS0NIdFd1N3MtNWg5VHpKckZ2REE?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "헤럴드경제",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tSzQ2LXMzX2pid0FZZDVITWs0THNqcnp4YmpwRHhtU2xDWkNvOE55a294bDlTUXY0U1dabkRSWUJleWhrSnhRbzVpdVRiLTNkdno4azVn?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 8,
+          "published": "2026-07-27T10:44:00+09:00",
+          "ts": 1785116640.0,
+          "group": "bucheon",
+          "group_label": "부천시(콘텐츠 관련)"
+        },
         {
           "title": "부천시청 판타스틱큐브에서 열린 BIFAN 후원금 전달식에서 유재영 GS파워 대표이사(왼쪽)가 조용익 부천시장에게 후원금을 전달했다.",
           "url": "https://news.google.com/rss/articles/CBMizwlBVV95cUxNalJPem5FSWVtemVqQ1FNUmI0a2JfQjlIT1VOWk5GVjJFb285c2wyV0xuamVQVVJKZk5PQ3k0WXctZ1dJQ2dXeEtxamVfNXVaNnpiMnhVeWE4b0E5MGZMbW54MzhUNlNXb3BuVk1HMGNYZHlldFhpUVYwbk8xS00wYlFMMl81VGxfeFBPTmE4Q01NM2ZkQWw0b3Z2dXZUeDdUSEM4Qmw5UDdfaTV3ak9tdkJrYmYzdXViYmdNZ0syOHVLS3M0RGw5WF9nUmJLVVJFUjZfM21zUlFhZWo5QXQ3T1BjU01pa0U2a0NuY0ctUkRJSDVScXQzRVdKU1JleHJUMS05R1hod1JsbVJDYzdHQnBZbDk0bjF4dnpnZE5POVgyT0FEZnZBcExqLU0xY0RZN29wSnBsQUphRzNHUG9MS256ZW5PV3JRYWxuYnBYUnVubnh4dkREdlI4ckJPb3p0NzRVOVlRemV0LU1nWGMxalJubzRRZkE2c1JjbmdFQlFKcHpBaEo5VnJNQ1ZSaUx6WGg1dFc5U1lTb1RnY1hjNWh5TEpPOHlRbXcyUFh2RG01NXNjRE84Smlyb3N0Q1NWbEJBZVNhc1RYcUFMMk5Wd0xkYmVHNjQyRFU3UzlWalZmRjU1TjRtclVmcUN0bWtJU05BYm1wc0RiZjZjVkdLM0tjdTBPR2d3ZXZmWE1oUEcwbldKRUVETHNIb2I2TVZRUFBFSWVuLXdVN0lQeF96WVdraEZ4NlNXVFg5RVNqdk5od1BEYlZ6SFNHVFp1NDlzWDlUYjJocEtPdVNUSGViM2taVUFPOUppVXZsTWFfNmpPWkphLTNFdzAtR3paOUVUMDlkV0p1bEVOdUdhc2dYNEk3NWN2djEtWktuV19JNUhlZmZWSHMwY1Z4WWxyRnRBeFROb3FEQ2RROUhVTnZYOGpjVUQ2VHluMlo2TTBMZlJpSmZDV05LNlM0bTZwa2dmUTNJdFNZZC1BWmVwMG5EMWNNemtxV0tiQkRLQnZLcUNMMExWMjE2SnVuU1c0MnlsT3VfeVNETjI4U0xWLVh5N0ZQc2xTa1RTTGJwT0FUcWJoQ3dLNmZ4U1FQN1JzWlZzVjAxeDNZdUI5MXNOTXR0S1dwSmtUSEM2a00tQzBqZkc0bC1RRUJ0RVhHcl92RnlFa2c0a3FKSVR1YU5qZkMzQTZYM3BlMDFFangyVjVPZHd0QXN5LS1ET2k0ckZaQzFmQ3Nra2RXekdEem9adjhfblVPXzVxNUU5ZjY2QllsQ1h4N1oyLWtVSnNkUzNodW1McjVabnJ0NGJGM1pfdWgtZnk5anRpbGpIMWo1MFpfMmFFS2tMclp1czNMenFySzB5RWZKUVZ1cVdOV19oS2wzNDZ5cFg1c1lRVG1EVWNYa0xzRTRneVF6TDltbWZzazNkQ3dkSkYwMGVqX0lzQ0s3dFBFNXRRN0ZNWUxtZGxDTDBQTlNMaGZIMERiZ1JLQW10eGpMQTRiNVloUjUzdGVkVEdZVzZicl9ra2NqUTBIam9wckNDX0I5VDVUdko5MmVzUnZKcVFWVDlxbjhHZHB4eHA2ZW1vUEQ5UFN1MWNkU0g5R3lfMzRZNHhLT3o3clZWSnc2NS1hLTlCbTZaUGk0?oc=5",
@@ -1141,11 +1141,6 @@
               "origin": "naver"
             },
             {
-              "name": "이데일리",
-              "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02991366645519112",
-              "origin": "naver"
-            },
-            {
               "name": "전자신문",
               "url": "https://www.etnews.com/20260727000152",
               "origin": "naver"
@@ -1174,24 +1169,9 @@
               "name": "정보통신신문",
               "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JQ2R3ZXZPdFZmbGtISTRTaUFzajFjZFhHeDV3UFNaSERGcUdhbkZWbnVqNE1CQ1pHRnc3Um0zX29ZN1dPRElwQ0ttN3RBVGRKdlpaX0h6YTVheFJBLWkyUlM4ajdwQ3pp0gFsQVVfeXFMTnRLdEdiOWF2OXdfWHd1NmxYeS12MGhnNDE5VlNMajJEcDB1YmxUUnd5MEVVaHZoYzZKWWR2N3V4S1VnQXFpQ0FMUlcxbUFyMFlIMG5RWkZvMUxkVDZsNTM1U0kwMDdFRXA2S2dS?oc=5",
               "origin": "google"
-            },
-            {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tN2tlRDlmX0tNVVB5ckxyLWsxOTNRS0lmR1JMUVBVWnJVZ21lbnRraXJCdmxKVGUtcjFwTUQ5LTg5NHZnMGhYcjBONjVhSy1ncTRF?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "edaily.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY3pXRllmTjZOQ0h1UVF1Zm9nWkFOSUNSQVdJd0s3d2dkV0FNSGZzVHFENHE1M29UYWlma3BNS0JBeFdod2lfNDd6bXB0WWtwcWhhcTNPaV9NU2JpT3JHOC1INFMzOTRYbGNkUDJLTDBMUThuTGxvdWNoSy1LTFFqTw?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "파이낸스스코프",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mZHEwbTVJUm94QmhJZlNIZmdPTWZXck9ZbFI1UmRLOXR4UWUtVjZERUtpT2JldWR2QnhzLTRjU0NtLWQ3azdNbjMxM2VhSGVueThKelpwS0NIdFd1N3MtNWg5VHpKckZ2REE?oc=5",
-              "origin": "google"
             }
           ],
-          "source_count": 13,
+          "source_count": 9,
           "published": "2026-07-28T10:26:00+09:00",
           "ts": 1785201960.0,
           "group": "central",
@@ -1216,11 +1196,6 @@
             {
               "name": "naeil.com",
               "url": "https://www.naeil.com/news/read/596636?ref=naver",
-              "origin": "naver"
-            },
-            {
-              "name": "news.mtn.co.kr",
-              "url": "https://news.mtn.co.kr/news-detail/2026072710252159255",
               "origin": "naver"
             },
             {
@@ -1249,7 +1224,7 @@
               "origin": "google"
             }
           ],
-          "source_count": 9,
+          "source_count": 8,
           "published": "2026-07-28T06:01:00+09:00",
           "ts": 1785186060.0,
           "group": "central",
@@ -1278,7 +1253,7 @@
             },
             {
               "name": "뉴스케이",
-              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3Y0lxVFd5SElBaTZNc0lsR3FJYm1wZUF3X2dEOXYwZk9TeUo5NDE4QkpIbkhYb1lkNnZqaDVqaVhCZlUzSlA5MEFoSXBxT3BxVEVfdU1sN0hmM1VCM0tnNTd0RQ?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VNkF0emkwTnY0REYxQWtFVmNLRnlIOVlpT19OWTRGeXNGS1ZzX3JuYXA5aFVLNFVlSFFaVmluN2t4STgxTVdvSUFkbV9LSUtsUE9qc2FjRjZ3MGhnR3c?oc=5",
               "origin": "google"
             },
             {
