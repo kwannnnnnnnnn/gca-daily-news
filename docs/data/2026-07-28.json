@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "generated_at": "2026-07-28T15:29:26.080873+09:00",
+  "generated_at": "2026-07-28T17:23:27.241640+09:00",
   "window_hours": 30,
   "sources": [
     "네이버뉴스",
@@ -9,253 +9,65 @@
   "use_naver": true,
   "preview_items": 5,
   "counts": {
-    "collected": 2017,
-    "kept": 277,
-    "excluded": 1740,
-    "consolidated": 41,
-    "multi": 23
+    "collected": 2016,
+    "kept": 257,
+    "excluded": 1759,
+    "consolidated": 44,
+    "multi": 13
   },
   "groups": [
     {
       "id": "gca",
       "label": "경기콘텐츠진흥원",
       "priority": 1,
-      "count": 5,
+      "count": 2,
       "items": [
         {
           "title": "경기도, 경기인디뮤직페스티벌 1차 라인업 공개…29일 얼리버드 티켓 판...",
           "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2247198",
           "snippet": "경기콘텐츠진흥원의 인디 음악인 발굴 프로젝트 '2025 인디스땅스' 상위 3개 팀인 다다다, 루아멜, 테종도 출연하며, '2026 인디스땅스' 최종 결선도 축제 주 무대에서 진행될 예정이다. 경기도는 8월 중순 인디스땅스...",
-          "source": "newsclaim.co.kr",
+          "source": "jeonmae.co.kr",
           "sources": [
             {
-              "name": "newsclaim.co.kr",
-              "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070566",
-              "origin": "naver"
-            },
-            {
-              "name": "paxetv.com",
-              "url": "http://www.paxetv.com/news/articleView.html?idxno=278037",
-              "origin": "naver"
-            },
-            {
-              "name": "asiatime.co.kr",
-              "url": "https://www.asiatime.co.kr/article/20260728500150",
-              "origin": "naver"
-            },
-            {
-              "name": "newswhoplus.com",
-              "url": "https://www.newswhoplus.com/news/articleView.html?idxno=65512",
-              "origin": "naver"
-            },
-            {
-              "name": "한국경제TV",
-              "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607280318&t=NN",
-              "origin": "naver"
-            },
-            {
-              "name": "redaily.co.kr",
-              "url": "https://www.redaily.co.kr/news/articleView.html?idxno=17196",
-              "origin": "naver"
-            },
-            {
-              "name": "dnews.co.kr",
-              "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607271924227750729",
-              "origin": "naver"
-            },
-            {
-              "name": "파이낸셜뉴스",
-              "url": "http://www.fnnews.com/news/202607280910000183",
-              "origin": "naver"
-            },
-            {
-              "name": "m-i.kr",
-              "url": "https://www.m-i.kr/news/articleView.html?idxno=1395897",
-              "origin": "naver"
-            },
-            {
-              "name": "sidae.com",
-              "url": "https://www.sidae.com/article/2026072808162218903",
-              "origin": "naver"
-            },
-            {
-              "name": "경기신문",
-              "url": "https://www.kgnews.co.kr/news/article.html?no=905405",
-              "origin": "naver"
-            },
-            {
-              "name": "siminsori.com",
-              "url": "https://www.siminsori.com/news/articleView.html?idxno=400737",
-              "origin": "naver"
-            },
-            {
-              "name": "webeconomy.co.kr",
-              "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2246907",
-              "origin": "naver"
-            },
-            {
-              "name": "newstown.co.kr",
-              "url": "http://www.newstown.co.kr/news/articleView.html?idxno=710501",
-              "origin": "naver"
-            },
-            {
-              "name": "천지일보",
-              "url": "https://www.newscj.com/news/articleView.html?idxno=3420400",
-              "origin": "naver"
-            },
-            {
-              "name": "sentv.co.kr",
-              "url": "https://www.sentv.co.kr/article/view/sentv202607270163",
-              "origin": "naver"
-            },
-            {
-              "name": "sportsseoul.com",
-              "url": "https://www.sportsseoul.com/news/read/1624981?ref=naver",
-              "origin": "naver"
-            },
-            {
-              "name": "국제뉴스",
-              "url": "https://www.gukjenews.com/news/articleView.html?idxno=3647836",
-              "origin": "naver"
-            },
-            {
-              "name": "obsnews.co.kr",
-              "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1532008",
-              "origin": "naver"
-            },
-            {
-              "name": "kpinews.kr",
-              "url": "https://www.kpinews.kr/newsView/1065608732332053",
-              "origin": "naver"
-            },
-            {
-              "name": "bizwnews.com",
-              "url": "http://www.bizwnews.com/news/articleView.html?idxno=141631",
-              "origin": "naver"
-            },
-            {
-              "name": "etoday.co.kr",
-              "url": "https://www.etoday.co.kr/news/view/2607995",
-              "origin": "naver"
-            },
-            {
-              "name": "경기일보",
-              "url": "https://www.kyeonggi.com/article/20260727580494",
-              "origin": "naver"
-            },
-            {
-              "name": "newsroad.co.kr",
-              "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=62064",
+              "name": "jeonmae.co.kr",
+              "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1278848",
               "origin": "naver"
             },
             {
               "name": "weeklytoday.com",
-              "url": "http://www.weeklytoday.com/news/articleView.html?idxno=787433",
+              "url": "http://www.weeklytoday.com/news/articleView.html?idxno=787711",
               "origin": "naver"
             },
             {
-              "name": "globalepic.co.kr",
-              "url": "http://www.globalepic.co.kr/view.php?ud=2026072714581513495f69d33b22_29",
+              "name": "dailian.co.kr",
+              "url": "https://www.dailian.co.kr/news/view/1671890/?sc=Naver",
               "origin": "naver"
             },
             {
-              "name": "머니투데이",
-              "url": "https://www.mt.co.kr/policy/2026/07/27/2026072713430739105",
+              "name": "bizwnews.com",
+              "url": "http://www.bizwnews.com/news/articleView.html?idxno=141748",
+              "origin": "naver"
+            },
+            {
+              "name": "lawissue.co.kr",
+              "url": "http://www.lawissue.co.kr/view.php?ud=202607281423281936d94aa4ada6_12",
               "origin": "naver"
             },
             {
               "name": "enewstoday.co.kr",
-              "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2452693",
+              "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2453285",
               "origin": "naver"
             },
             {
-              "name": "아이뉴스24",
-              "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA0MDBQZV9ZYy12MEhETkxpc0RXWlV2REEzSjRtNE9PVFhDZ1U2UlE2TmhYQ0NjXy1KR1JUTVZMZ2IydVBIenM0M09UQS0?oc=5",
-              "origin": "google"
+              "name": "기호일보",
+              "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3030123",
+              "origin": "naver"
             },
             {
-              "name": "내외뉴스통신",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vWW1JOVdwbEtmWmtZcXBCaTdfOEF1VGJ0eDg4dnRGZHFaSk04akpvR0d1NjZrQXY1STFFRExRQ0hVWDQzLWlYelg2a1pETUpya21HV0dnTDJzVk40YlpiYk1zMl9jeU83emR2UkFQS1XSAXBBVV95cUxOb1ltSTlXcGxLZlprWXFwQmk3XzhBdVRidHg4OHZ0RmRxWkpNOGpKb0dHdTY2a0F2NUkxRURMUUNIVVg0My1pWHpYNmtaRE1KcmttR1dHZ0wyc1ZONGJaYmJNczJfY3lPN3pkdlJBUEtV?oc=5",
-              "origin": "google"
+              "name": "sidae.com",
+              "url": "https://www.sidae.com/article/2026072815042065833",
+              "origin": "naver"
             },
-            {
-              "name": "팔당유역신문",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZZ1VBVEZteUpmd2JuRFd1YlNfdTcwZkd2ZGtTWUdYcnJGVEFYSHpjMXdHUmFoSUp3QmdoTEZqcTNUaERfQl9scGR6eDVCNlFYcVJsVTdQRHZGeDZDU2s4U0l0T0FGa2hJTUpZ?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "뉴스타운",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRR3ZIdTJ1ZjR6WVhqdWVabWJHbUlJM1lBU2xfenBPTmtyVVBwTzZKalRMZXE1ajJZVDZKcEtYdy1WaDliS2ZZMHI5NGRDZjRPRDlobUdEb2pyTEpTLUpiVVY1U21rX0xqWTVta3J3?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "시민의소리",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nMjFGLU0tNzRFR1RtSUpSTEk2QmJQU3cyakllSllfWWM3RTZyUEx1eXRZZWV1VWhaV2RkZWxOQUw4dVZTa3h6U1lfMFF1eXV6aGtjYW5YNjk2SVhyZ29fbDNOTkxtVklQdEFjMNIBcEFVX3lxTFB1QWhjUlQtazlzeWFZcDdUcUFlWlNGVEtDbTByMlozRDVqcUlZVW1tRnFIWWxRNzItekZoSEdPTFdZMmFIUE5iUEVRLUJndWMtMmEtN1F6SWhWaER5b2VsNEpQZ2FTZ1FseVNmUkhONmc?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "팝콘뉴스",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ucUtYc1RSTERhOWxNekl5QjJJVWlSLTBoQ1dBXzQ4ZE9YT2FPUElKNTFKT1lFSEt4SEhYZmlHbzc2Zzl3Wmg0RThuTzJvdlBQcXNKcGNHTFFGM0J6dnZJaENZZnBtOEhGNHc2ZGlJNHByZ9IBckFVX3lxTE1ucUtYc1RSTERhOWxNekl5QjJJVWlSLTBoQ1dBXzQ4ZE9YT2FPUElKNTFKT1lFSEt4SEhYZmlHbzc2Zzl3Wmg0RThuTzJvdlBQcXNKcGNHTFFGM0J6dnZJaENZZnBtOEhGNHc2ZGlJNHByZw?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "비즈월드",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0dDVpOVVoRUhQcmpIeDBsOXcwUzdVUXZiY1V0UVdERzJlQzVwTTlrenA5a1cybVZlSlhYT1FBejFTSktQTjNkNTNkVzBRaFhXN2wtbWl2dUxHLW1SVVB3bEozcWdtT050bnc?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "뉴시안",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00d3NCell3SkNoMGRuU0FOR1RoQWNiY0NMeFB4dG5IT3JjSTg5TUNmNEp1eTJGcTNObmJTY3BvYUYxQmstNTJpU204dE9WM2dVTDR1VlRBOGszTkVWbkdhbGZYcWQwZVkxUEE0?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "파주에서신문",
-              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xelI4cGJoNVR5bFoyUWt2UjBuMzkzT3R5THlKQmtEX2JJZlVGYVE5OE04eWpKaEMzekdESUpfcGpqNTB2MVRfUmo3clNpUUlxN3ZfSFM3QzFkSGl2cFRPTi1DZmRfbnc?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "로이슈",
-              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qd2xqSE5TcWpQRnhlejMyM0tvY3loSktZZnZ2NUhuSjFuNXJfLUR5LUtGbUJjdWk2dFNIaTVxV1VBbUFWN0xQX3dfdnRPS3JDc0ktUEVxOGdxS3pMaU9qb0JsQlpGUnY2bGozaGxzQVRoSlhPYkZXRDdR?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "서남투데이",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04X2MwOS1yRGozc2ZkVW9YSGoxdkFrQTIyUnZJUjhQbzhETFhrY3o0ejFDZ241ek90MFJJZDB6MU1wOFNwR19xcHpIOEdVUlRkWjA3TjJlWmxGZw?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "경인방송 뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkWFlOQzgyazA4MEZjSWdGdHZDNEhwc1ppMVo0NzQ4LXhRelphYmc3U0hmcGFwWDJGOS0xZDNHZ1BBSnQzX01YMXo2WXJMYTh0LUtPcTJBSHh5WXBJTmpMZF9JdzY?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "뉴스투데이",
-              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40Ylg2UjF1S0R5UEZsMTJ3Ul9KYndsMEN3c1IzVDZqcFVtVnN6cjI0d1BlSFJ3eUpjMU1PZjdYLVpwYU5rWHN5cjF2VGZuSmtnMU5BZnFlbGlnMk1vaFE?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "경기종합뉴스",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hcjlQT3ppS3h4TTZObGNyMWpILU9YbWNoM194c19HNlJPLXI1TWhibkhBdmxmZUs0NFNHTmJJZk14aEt0SWpFelR6bS0xRzM2TWx4VTNJbU4wa01XZURkRXh1NmhxWXotU1EzWjlQX3BaWU01?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "글로벌이코노믹",
-              "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNzZrdkllM19uZHdjXzBrd1Q4Mnl0Y2ZhbDFXSmRQdlJLdWFxTFZjUS1HNDZZdU9JWTQyUXhhRFVwc2xkeERPaE9JZHlZR2FmaUlTNWxrQlBfMDRiU2JQeW5sSVBLblpodjlkVlF6b3FBbVZTTWdjdEZEdzR1c0F1clEwWUxnNWh4d0Nn?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 43,
-          "published": "2026-07-27T23:28:00+09:00",
-          "ts": 1785162480.0,
-          "group": "gca",
-          "group_label": "경기콘텐츠진흥원"
-        },
-        {
-          "title": "경기인디뮤직페스티벌 1차 라인업 공개…29일부터 얼리버드 판매",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1389733",
-          "snippet": "경기콘텐츠진흥원이 진행한 인디 음악인 발굴 프로젝트 '2025 인디스 땅스'상위 3개 팀인 다다다, 루아멜, 테종도 라인업에 포함됐다. 도는 또 8월 중순 '2026인디스땅스' 상위 5개 팀을 포함한 최종 출연진을 추가로...",
-          "source": "뉴시스",
-          "sources": [
             {
               "name": "뉴시스",
               "url": "https://www.newsis.com/view/NISX20260728_0003726634",
@@ -307,6 +119,11 @@
               "origin": "naver"
             },
             {
+              "name": "서울신문",
+              "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/28/20260728500166?wlog_tag3=naver",
+              "origin": "naver"
+            },
+            {
               "name": "아시아경제",
               "url": "https://view.asiae.co.kr/article/2026072814420933304",
               "origin": "naver"
@@ -337,8 +154,88 @@
               "origin": "naver"
             },
             {
+              "name": "gosiweek.com",
+              "url": "https://www.gosiweek.com/article/1065589002097426",
+              "origin": "naver"
+            },
+            {
+              "name": "newstnt.com",
+              "url": "https://www.newstnt.com/news/articleView.html?idxno=711882",
+              "origin": "naver"
+            },
+            {
+              "name": "dnews.co.kr",
+              "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607280953520640771",
+              "origin": "naver"
+            },
+            {
+              "name": "newscammp.co.kr",
+              "url": "https://www.newscammp.co.kr/news/articleView.html?idxno=6640",
+              "origin": "naver"
+            },
+            {
               "name": "경기일보",
               "url": "https://www.kyeonggi.com/article/20260728580147",
+              "origin": "naver"
+            },
+            {
+              "name": "handmk.com",
+              "url": "https://www.handmk.com/news/articleView.html?idxno=41686",
+              "origin": "naver"
+            },
+            {
+              "name": "이데일리",
+              "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=03565366645519112",
+              "origin": "naver"
+            },
+            {
+              "name": "metroseoul.co.kr",
+              "url": "http://www.metroseoul.co.kr/article/20260728500047",
+              "origin": "naver"
+            },
+            {
+              "name": "파이낸셜뉴스",
+              "url": "http://www.fnnews.com/news/202607280910000183",
+              "origin": "naver"
+            },
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260728032100060?input=1195m",
+              "origin": "naver"
+            },
+            {
+              "name": "webeconomy.co.kr",
+              "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2246907",
+              "origin": "naver"
+            },
+            {
+              "name": "천지일보",
+              "url": "https://www.newscj.com/news/articleView.html?idxno=3420400",
+              "origin": "naver"
+            },
+            {
+              "name": "sentv.co.kr",
+              "url": "https://www.sentv.co.kr/article/view/sentv202607270163",
+              "origin": "naver"
+            },
+            {
+              "name": "newstown.co.kr",
+              "url": "http://www.newstown.co.kr/news/articleView.html?idxno=710499",
+              "origin": "naver"
+            },
+            {
+              "name": "siminsori.com",
+              "url": "https://www.siminsori.com/news/articleView.html?idxno=400734",
+              "origin": "naver"
+            },
+            {
+              "name": "게임메카",
+              "url": "https://www.gamemeca.com/mv.php?inflow=naver_s&gid=1778316",
+              "origin": "naver"
+            },
+            {
+              "name": "globalepic.co.kr",
+              "url": "http://www.globalepic.co.kr/view.php?ud=2026072714581513495f69d33b22_29",
               "origin": "naver"
             },
             {
@@ -367,148 +264,107 @@
               "origin": "naver"
             },
             {
-              "name": "newstnt.com",
-              "url": "https://www.newstnt.com/news/articleView.html?idxno=711691",
-              "origin": "naver"
-            },
-            {
-              "name": "천지일보",
-              "url": "https://www.newscj.com/news/articleView.html?idxno=3420114",
-              "origin": "naver"
-            },
-            {
-              "name": "jeonmae.co.kr",
-              "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1278077",
-              "origin": "naver"
-            },
-            {
-              "name": "매일경제",
-              "url": "https://www.mk.co.kr/article/12108174",
-              "origin": "naver"
-            },
-            {
-              "name": "news.mtn.co.kr",
-              "url": "https://news.mtn.co.kr/news-detail/2026072710252159255",
-              "origin": "naver"
-            },
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202607271048001",
-              "origin": "naver"
-            },
-            {
-              "name": "이데일리",
-              "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02781446645518784",
-              "origin": "naver"
-            },
-            {
-              "name": "siminsori.com",
-              "url": "https://www.siminsori.com/news/articleView.html?idxno=400722",
-              "origin": "naver"
-            },
-            {
-              "name": "bizwnews.com",
-              "url": "http://www.bizwnews.com/news/articleView.html?idxno=141567",
-              "origin": "naver"
-            },
-            {
-              "name": "전자신문",
-              "url": "https://www.etnews.com/20260727000167",
-              "origin": "naver"
-            },
-            {
-              "name": "newsworker.co.kr",
-              "url": "http://www.newsworker.co.kr/news/articleView.html?idxno=438319",
-              "origin": "naver"
-            },
-            {
-              "name": "dnews.co.kr",
-              "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607270846115080567",
-              "origin": "naver"
-            },
-            {
-              "name": "handmk.com",
-              "url": "https://www.handmk.com/news/articleView.html?idxno=41645",
-              "origin": "naver"
-            },
-            {
               "name": "비욘드포스트",
               "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uQi0xX3F3Ni1QQWRrY29iU0FyRjJfZ1NaT3Vyekh4cTJuYkFfRzV2U2VoczhfWDJGaGtyTUZtX285Q0lXNHZfQkoxb0Jac01EVTNtTnZob2N3X0x6bk1yVlRpcXVaZUJ5bmxOcU9tdFlrVndaRlhxMUhPQnY?oc=5",
               "origin": "google"
+            },
+            {
+              "name": "edaily.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNVpIVy16LUdCeW56clB6SG9MTnk2TUk2RjlnNi1KZ3I3RVhGdjRJdmdXWkluRUt1dXFrQkZ6UFA2bVRLZFpxbHpOaVp6bnNnTGxqNUtfVk1sTDExeDJ1ZkkzWWZ6ek03S0pROXkwejFFQzJzQmZ1UElIbVViaVc0Rg?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "파주에서신문",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wZ1JISWY1dmRIVDFwUi1iaU90Rzd1ZUN0TEVWWHVDTHJBZlZyemkxVmhWNVRXdUptQ216QV9wZk5ObjBIVDFfV0h5RmJYU3hEbUxQcmxNYjhwWEl5ZXQ3OUE3VlRQeWs?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "더팩트",
+              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OWnR1RVhYWjZGQzEyeGo2WERDSFBBUi1TYXppNEdvazFkSGExMDFsRkY2bDAxVDM2OG1TMEMtOFZzb2d4UWJJYTlLYjRZRFU4Vnd5S3VsUmZmdWtLRzVV?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "하나뉴스",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85X0U4NW1JMlJIbUpkSl9ZdTM0OXQzcDRDdWkxMjNmdHpwZnRObkhBM29DYzhmQnJCaERhb2Z1Qkw3MktLTnlBT3Bwbms0NTZMU3g4am9YQXFiUUxKdmNzUXloc1FHUDlZUGt0Zy13?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "파이낸스스코프",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mZHEwbTVJUm94QmhJZlNIZmdPTWZXck9ZbFI1UmRLOXR4UWUtVjZERUtpT2JldWR2QnhzLTRjU0NtLWQ3azdNbjMxM2VhSGVueThKelpwS0NIdFd1N3MtNWg5VHpKckZ2REE?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "내외뉴스통신",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vWW1JOVdwbEtmWmtZcXBCaTdfOEF1VGJ0eDg4dnRGZHFaSk04akpvR0d1NjZrQXY1STFFRExRQ0hVWDQzLWlYelg2a1pETUpya21HV0dnTDJzVk40YlpiYk1zMl9jeU83emR2UkFQS1XSAXBBVV95cUxOb1ltSTlXcGxLZlprWXFwQmk3XzhBdVRidHg4OHZ0RmRxWkpNOGpKb0dHdTY2a0F2NUkxRURMUUNIVVg0My1pWHpYNmtaRE1KcmttR1dHZ0wyc1ZONGJaYmJNczJfY3lPN3pkdlJBUEtV?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "경기도정신문",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zNXJac3I0ZDhpTTVGdVZINnpXZ3pHa09rYjl3N245YmZGSEM0WGNXby16SmpQYmxBRXhKNXNnV0VXUEdyYThqa1c3ZHdZeGhkYlB5dE5LcVIzZkxQT3I3ci1GbDcyVGM?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "팔당유역신문",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZZ1VBVEZteUpmd2JuRFd1YlNfdTcwZkd2ZGtTWUdYcnJGVEFYSHpjMXdHUmFoSUp3QmdoTEZqcTNUaERfQl9scGR6eDVCNlFYcVJsVTdQRHZGeDZDU2s4U0l0T0FGa2hJTUpZ?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "뉴스타운",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRR3ZIdTJ1ZjR6WVhqdWVabWJHbUlJM1lBU2xfenBPTmtyVVBwTzZKalRMZXE1ajJZVDZKcEtYdy1WaDliS2ZZMHI5NGRDZjRPRDlobUdEb2pyTEpTLUpiVVY1U21rX0xqWTVta3J3?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "시민의소리",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nMjFGLU0tNzRFR1RtSUpSTEk2QmJQU3cyakllSllfWWM3RTZyUEx1eXRZZWV1VWhaV2RkZWxOQUw4dVZTa3h6U1lfMFF1eXV6aGtjYW5YNjk2SVhyZ29fbDNOTkxtVklQdEFjMNIBcEFVX3lxTFB1QWhjUlQtazlzeWFZcDdUcUFlWlNGVEtDbTByMlozRDVqcUlZVW1tRnFIWWxRNzItekZoSEdPTFdZMmFIUE5iUEVRLUJndWMtMmEtN1F6SWhWaER5b2VsNEpQZ2FTZ1FseVNmUkhONmc?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "팝콘뉴스",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ucUtYc1RSTERhOWxNekl5QjJJVWlSLTBoQ1dBXzQ4ZE9YT2FPUElKNTFKT1lFSEt4SEhYZmlHbzc2Zzl3Wmg0RThuTzJvdlBQcXNKcGNHTFFGM0J6dnZJaENZZnBtOEhGNHc2ZGlJNHByZ9IBckFVX3lxTE1ucUtYc1RSTERhOWxNekl5QjJJVWlSLTBoQ1dBXzQ4ZE9YT2FPUElKNTFKT1lFSEt4SEhYZmlHbzc2Zzl3Wmg0RThuTzJvdlBQcXNKcGNHTFFGM0J6dnZJaENZZnBtOEhGNHc2ZGlJNHByZw?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "비즈월드",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0dDVpOVVoRUhQcmpIeDBsOXcwUzdVUXZiY1V0UVdERzJlQzVwTTlrenA5a1cybVZlSlhYT1FBejFTSktQTjNkNTNkVzBRaFhXN2wtbWl2dUxHLW1SVVB3bEozcWdtT050bnc?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "뉴시안",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00d3NCell3SkNoMGRuU0FOR1RoQWNiY0NMeFB4dG5IT3JjSTg5TUNmNEp1eTJGcTNObmJTY3BvYUYxQmstNTJpU204dE9WM2dVTDR1VlRBOGszTkVWbkdhbGZYcWQwZVkxUEE0?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "웹이코노미",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JTTdGY1E3NjZiTVdUSzhQSWhkTDlUUVNiVnhjM056X2M1cE1mZUpLTjlCVE92RVZlRVFZbDJKZi1fRVEyQXNrVzdpWTRUZFRoUFI2aTBzYm1iZWVNMHR6TVVBTUJyMDlGdVdSRlltMHQtZw?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "로이슈",
+              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qd2xqSE5TcWpQRnhlejMyM0tvY3loSktZZnZ2NUhuSjFuNXJfLUR5LUtGbUJjdWk2dFNIaTVxV1VBbUFWN0xQX3dfdnRPS3JDc0ktUEVxOGdxS3pMaU9qb0JsQlpGUnY2bGozaGxzQVRoSlhPYkZXRDdR?oc=5",
+              "origin": "google"
             }
           ],
-          "source_count": 36,
-          "published": "2026-07-27T14:22:00+09:00",
-          "ts": 1785129720.0,
+          "source_count": 63,
+          "published": "2026-07-27T23:28:00+09:00",
+          "ts": 1785162480.0,
           "group": "gca",
           "group_label": "경기콘텐츠진흥원"
         },
         {
-          "title": "AI 지원 포함, 경콘진 지원사업 맞춤형 캠페인 추진",
-          "url": "https://www.gamemeca.com/mv.php?inflow=naver_s&gid=1778316",
-          "snippet": "▲ 경기콘텐츠진흥원 ''PLAY GCA!' 대표 이미지 (사진제공: 경기콘텐츠진흥원) 경기콘텐츠진흥원(이하 경콘진)은 콘텐츠 창작자, 예비 창업자, 도민이 자신의 성장 단계와 관심 분야에 맞는 지원 사업을 주도적으로 선택할...",
-          "source": "게임메카",
+          "title": "지원 사업도 OTT처럼 내 취향으로… 경콘진, 맞춤형 성장 캠페인 'PLAY GCA!' 추진",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLaDNnai1vXzdJSFVzb0N1NzBrYkNCX1hNeTl4NXhkOHE2YjQ0bXRONlc5dGljeWpBWmVmU1p3MkQzQ2N1aTZHWVI2bTRlZEpDX1dGVnpydks4b21hQ0drZWRuR3FDY2t5LWc?oc=5",
+          "snippet": "",
+          "source": "뉴스에이",
           "sources": [
-            {
-              "name": "게임메카",
-              "url": "https://www.gamemeca.com/mv.php?inflow=naver_s&gid=1778316",
-              "origin": "naver"
-            },
             {
               "name": "뉴스에이",
               "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLaDNnai1vXzdJSFVzb0N1NzBrYkNCX1hNeTl4NXhkOHE2YjQ0bXRONlc5dGljeWpBWmVmU1p3MkQzQ2N1aTZHWVI2bTRlZEpDX1dGVnpydks4b21hQ0drZWRuR3FDY2t5LWc?oc=5",
               "origin": "google"
-            },
-            {
-              "name": "이코노믹포스트",
-              "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBneEV5MmJUSW5HSXNPY2RhbmZLTmJTUzM0RzNwOVY2TzM3S1NaTTNFQlZoa016cUJFVHdmeUNDMlQ1NmRuUUNFeDdpSi16UQ?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 3,
-          "published": "2026-07-27T16:16:00+09:00",
-          "ts": 1785136560.0,
-          "group": "gca",
-          "group_label": "경기콘텐츠진흥원"
-        },
-        {
-          "title": "경기도, 경기인디뮤직페스티벌 10월 개최... 국내외 아티스트 한자리에",
-          "url": "http://www.lawissue.co.kr/view.php?ud=202607271449048485d94aa4ada6_12",
-          "snippet": "경기콘텐츠진흥원의 인디 음악인 발굴 프로젝트 '2025 인디스땅스' 상위 3개 팀인 다다다, 루아멜, 테종이 출연하며, '2026 인디스땅스' 최종 결선도 축제 기간 주 무대에서 열린다. 8월 본선을 통과한 상위 5개 팀이...",
-          "source": "lawissue.co.kr",
-          "sources": [
-            {
-              "name": "lawissue.co.kr",
-              "url": "http://www.lawissue.co.kr/view.php?ud=202607271449048485d94aa4ada6_12",
-              "origin": "naver"
-            },
-            {
-              "name": "metroseoul.co.kr",
-              "url": "http://www.metroseoul.co.kr/article/20260727500183",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-07-27T17:52:00+09:00",
-          "ts": 1785142320.0,
-          "group": "gca",
-          "group_label": "경기콘텐츠진흥원"
-        },
-        {
-          "title": "경기인디뮤직페스티벌, 인디음악 새 물결 만나다",
-          "url": "https://www.viva100.com/article/20260727500555",
-          "snippet": "경기콘텐츠진흥원이 진행한 인디 음악인 발굴 프로젝트 ‘2025 인디스땅스’ 상위 3개 팀인 다다다, 루아멜, 테종도 라인업에 포함됐다. 올해 열리는 ‘2026 인디스땅스’ 최종 결선도 경기인디뮤직페스티벌 주 무대에서...",
-          "source": "viva100.com",
-          "sources": [
-            {
-              "name": "viva100.com",
-              "url": "https://www.viva100.com/article/20260727500555",
-              "origin": "naver"
             }
           ],
           "source_count": 1,
-          "published": "2026-07-27T10:54:00+09:00",
-          "ts": 1785117240.0,
+          "published": "2026-07-28T02:08:18+09:00",
+          "ts": 1785172098.0,
           "group": "gca",
           "group_label": "경기콘텐츠진흥원"
         }
@@ -518,8 +374,26 @@
       "id": "province",
       "label": "경기도(콘텐츠 관련)",
       "priority": 2,
-      "count": 1,
+      "count": 2,
       "items": [
+        {
+          "title": "경기평화광장서 8월 한 달간 잔디밭영화제…\"총 11회\"",
+          "url": "https://www.newsis.com/view/NISX20260728_0003726905",
+          "snippet": "액션, 애니메이션 등 다양한 장르의 영화가 상영된다. 경기도 관계자는 \"경기평화광장 운영사업의 하나로 진행되는 이번 행사는 경기도민의 건전한 문화선용과 일상 속 문화 향유를 확대하기 위해 추진하는 문화...",
+          "source": "뉴시스",
+          "sources": [
+            {
+              "name": "뉴시스",
+              "url": "https://www.newsis.com/view/NISX20260728_0003726905",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-28T16:54:00+09:00",
+          "ts": 1785225240.0,
+          "group": "province",
+          "group_label": "경기도(콘텐츠 관련)"
+        },
         {
           "title": "인도네시아와 캄보디아 축구 경기 영상: 19세 '신동'의 해트트릭",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMjJ6aFd1dllYN0xhcVNJcFd1b2F3UDFVN05wRF8yZk0zSVFtelNXblM4aF8zbGd1NEIwYnd3M3JyNVl3QW1KSE5yY19rSERzMnBrUkQ5YUpadm85MWNacGVrUURwbU5qYTZrWTN6bUVFRHo2RDRqaTRSY1lQMFBOMUItQ0hEUHJwaG1OX2ZxQ0lLc2h5TnRlQWx3?oc=5",
@@ -544,134 +418,164 @@
       "id": "governor",
       "label": "경기도지사",
       "priority": 3,
-      "count": 16,
+      "count": 20,
       "items": [
         {
-          "title": "추미애 \"접경을 평화로 바꾸자\"…경기북부 대전환, 중앙정부 협력 본격...",
-          "url": "https://www.newstnt.com/news/articleView.html?idxno=711814",
-          "snippet": "추미애 경기도지사가 경기북부를 군사적 긴장과 규제의 공간인 접경지역이 아닌 미래 산업과 남북 평화를 선도하는 '평화지대'로 전환해야 한다고 제안했다. 추 지사는 27일 자신의 사회관계망서비스(SNS)를 통해 \"이름이 곧...",
-          "source": "gosiweek.com",
+          "title": "주형철 경기도 경제부지사 취임...\"AI와 민생경제 함께 챙기겠다\"",
+          "url": "http://www.paxetv.com/news/articleView.html?idxno=278015",
+          "snippet": "추미애 경기도지사가 27일 주형철 신임 경기도 경제부지사에 임용장을 수여하고 기념촬영을 하고 있다[사진... 도에 따르면 추미애 경기도지사는 이날 임용장을 수여하면서 민생경제와 미래산업을 함께 이끌 경제사령탑...",
+          "source": "paxetv.com",
           "sources": [
             {
-              "name": "gosiweek.com",
-              "url": "https://www.gosiweek.com/article/1065589002097426",
+              "name": "paxetv.com",
+              "url": "http://www.paxetv.com/news/articleView.html?idxno=278015",
               "origin": "naver"
             },
             {
-              "name": "newstnt.com",
-              "url": "https://www.newstnt.com/news/articleView.html?idxno=711882",
+              "name": "한국경제TV",
+              "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607280318&t=NN",
               "origin": "naver"
             },
             {
-              "name": "프레시안",
-              "url": "https://www.pressian.com/pages/articles/2026072811284935097?utm_source=naver&utm_medium=search",
+              "name": "m-i.kr",
+              "url": "https://www.m-i.kr/news/articleView.html?idxno=1395897",
               "origin": "naver"
             },
             {
-              "name": "dnews.co.kr",
-              "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607280953520640771",
+              "name": "sidae.com",
+              "url": "https://www.sidae.com/article/2026072808162218903",
               "origin": "naver"
             },
             {
-              "name": "newscammp.co.kr",
-              "url": "https://www.newscammp.co.kr/news/articleView.html?idxno=6640",
+              "name": "경기신문",
+              "url": "https://www.kgnews.co.kr/news/article.html?no=905405",
               "origin": "naver"
             },
             {
-              "name": "뉴스핌",
-              "url": "https://www.newspim.com/news/view/20260728000412",
+              "name": "siminsori.com",
+              "url": "https://www.siminsori.com/news/articleView.html?idxno=400737",
               "origin": "naver"
             },
             {
-              "name": "아주경제",
-              "url": "https://www.ajunews.com/view/20260728112454865",
+              "name": "newstown.co.kr",
+              "url": "http://www.newstown.co.kr/news/articleView.html?idxno=710501",
               "origin": "naver"
             },
             {
-              "name": "handmk.com",
-              "url": "https://www.handmk.com/news/articleView.html?idxno=41686",
+              "name": "sportsseoul.com",
+              "url": "https://www.sportsseoul.com/news/read/1624981?ref=naver",
               "origin": "naver"
             },
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260728032100060?input=1195m",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 9,
-          "published": "2026-07-28T11:18:00+09:00",
-          "ts": 1785205080.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "재정 '겹중고'에 안민석 '씨앗교육펀드' 숨 고르기",
-          "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=04572326645519112",
-          "snippet": "추미애 경기도지사는 취임 전부터 현재 7조원에 달하는 경기도 채무 상황을 강조하면서 강력한 세출 구조조정을 예고했다. 오는 9월 경기도 추경에서도 감액추경이 예상되고 있다. 안 교육감은 “이 씨앗교육펀드는...",
-          "source": "이데일리",
-          "sources": [
-            {
-              "name": "이데일리",
-              "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=04572326645519112",
+              "name": "국제뉴스",
+              "url": "https://www.gukjenews.com/news/articleView.html?idxno=3647836",
               "origin": "naver"
             },
             {
-              "name": "metroseoul.co.kr",
-              "url": "http://www.metroseoul.co.kr/article/20260728500047",
+              "name": "sentv.co.kr",
+              "url": "https://www.sentv.co.kr/article/view/sentv202607270066",
               "origin": "naver"
             },
             {
-              "name": "edaily.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNVpIVy16LUdCeW56clB6SG9MTnk2TUk2RjlnNi1KZ3I3RVhGdjRJdmdXWkluRUt1dXFrQkZ6UFA2bVRLZFpxbHpOaVp6bnNnTGxqNUtfVk1sTDExeDJ1ZkkzWWZ6ek03S0pROXkwejFFQzJzQmZ1UElIbVViaVc0Rg?oc=5",
+              "name": "머니투데이",
+              "url": "https://www.mt.co.kr/policy/2026/07/27/2026072713430739105",
+              "origin": "naver"
+            },
+            {
+              "name": "asiatime.co.kr",
+              "url": "https://www.asiatime.co.kr/article/20260727500255",
+              "origin": "naver"
+            },
+            {
+              "name": "아이뉴스24",
+              "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA0MDBQZV9ZYy12MEhETkxpc0RXWlV2REEzSjRtNE9PVFhDZ1U2UlE2TmhYQ0NjXy1KR1JUTVZMZ2IydVBIenM0M09UQS0?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "gukjenews.com",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zQXd5NnBwUXRRbVdrZm54cUhIQ3BSZkprSDlJeHkwUUtFel9zdU9sT1BodHNYekZNUVpxOHdTcGNkUWtZem9MbjNwRXNaRWtjMEYzanEzRFRfazA5NXRBZHE4MENZb2xVQTU3QThR?oc=5",
               "origin": "google"
             },
             {
               "name": "파주에서신문",
-              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wZ1JISWY1dmRIVDFwUi1iaU90Rzd1ZUN0TEVWWHVDTHJBZlZyemkxVmhWNVRXdUptQ216QV9wZk5ObjBIVDFfV0h5RmJYU3hEbUxQcmxNYjhwWEl5ZXQ3OUE3VlRQeWs?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "더팩트",
-              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OWnR1RVhYWjZGQzEyeGo2WERDSFBBUi1TYXppNEdvazFkSGExMDFsRkY2bDAxVDM2OG1TMEMtOFZzb2d4UWJJYTlLYjRZRFU4Vnd5S3VsUmZmdWtLRzVV?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "하나뉴스",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85X0U4NW1JMlJIbUpkSl9ZdTM0OXQzcDRDdWkxMjNmdHpwZnRObkhBM29DYzhmQnJCaERhb2Z1Qkw3MktLTnlBT3Bwbms0NTZMU3g4am9YQXFiUUxKdmNzUXloc1FHUDlZUGt0Zy13?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xelI4cGJoNVR5bFoyUWt2UjBuMzkzT3R5THlKQmtEX2JJZlVGYVE5OE04eWpKaEMzekdESUpfcGpqNTB2MVRfUmo3clNpUUlxN3ZfSFM3QzFkSGl2cFRPTi1DZmRfbnc?oc=5",
               "origin": "google"
             }
           ],
-          "source_count": 6,
-          "published": "2026-07-28T15:10:00+09:00",
-          "ts": 1785219000.0,
+          "source_count": 15,
+          "published": "2026-07-28T13:48:00+09:00",
+          "ts": 1785214080.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
         {
-          "title": "박찬대 인천시장, 대한민국시도지사협의회장 출마 고심",
-          "url": "https://www.kyeongin.com/article/1768021",
-          "snippet": "정총 정족수 미달로 내달 총회 ‘선출’ 추미애 공식 선언·허태정 나갈듯 박찬대 인천시장이 민선 9기... 가장 먼저 추미애 경기도지사가 최근 ‘민선 9기 경기도지사 시장군수 간담회’에서 시도지사협의회장 출마를...",
-          "source": "kyeongin.com",
+          "title": "추미애 경기도지사 국토부에 경기남부철도망 반영 건의",
+          "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070566",
+          "snippet": "경기남부광역철도, 국가철도망, 추미애 경기도지사 추미애 경기도지사가 김윤덕 국토교통부 장관을 만나 건의하고 있다. 경기도 제공 추미애 경기도지사가 경기 남부권 교통난을 줄이고 반도체 산업 경쟁력을 높이기...",
+          "source": "newsclaim.co.kr",
           "sources": [
             {
-              "name": "kyeongin.com",
-              "url": "https://www.kyeongin.com/article/1768021",
+              "name": "newsclaim.co.kr",
+              "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070566",
               "origin": "naver"
             },
             {
-              "name": "전자신문",
-              "url": "https://news.google.com/rss/articles/CBMipAxBVV95cUxOSHdtUmFVZElmTkN5WEpscGNEeTVmdEJDZS1mMHlnaTYtLXNFZHR0eENQTGZsVGRLVmFadXJRTFZHWjI5NTdoZ1FnUlhlYUl0c0Q1TFZxVUt4ZHpRUHhSSzVYWDZVRmFWYzhjTE94dXhsNUVXT041T0ItQlB4Y2tUU29jR0xCaE4zMDhLcTFuWk5uT2VkRS03ZlJMUnYyczg0dEhyd2lnMFRQLTZHUXJpWGdpcGpxdEpsWk1mbFZLX2xPeC1fMVZSeThGLTBRQUt2YVdnazRsck9QcklqSFk5bG1IR0M3U0JLSmVwbGNxTGlJSmRZWWxaY3p5RExydld2dk01aGhlYWE2T0ZaUnJtY2phdFdQOUNwV1ZhRUw4Wm5ZX0tyTmhCa1pJcEFsM3Q1ZFZEd2NnNHVFZHVQRlgtTTNWSnp3R2V4djV5NTdZZnUtaXNLZzdYdEpqNG9yRUdrUGFoeUdRNFFuYkJyTG9fREdld0dSOExGQVp6emY5djdvVHNTZWI5TER2MDctNER4TTJtbGtJZGw1ZEJHOUtXaTVHeVBzTXZEWHN3M3BLUHBmblZYR3dMZGtrWHdld3lCa01ZZXdfRVNoYUk5U3A5T0tfN0pEWk52dmI4aS1XbjljZVdkVVFqR21FV084alU4R2R4T1ZqYWxkS3RabW44Q2tUOWVGMWhqanppbkE4dXFlZUJJcE5qb3ZvU0FRbFlPc25kWmJ0eVBOaTliOHB2dzNVS1U5WVZFSktIdWJqT29JYjhua1BjUXRYVUdTd1RGdTBRczV2VFNnUXVKNmUzUDVCZG9QMllEcGFTb0staWIzc1plamwtdnFMNU4xanN3VFF2TDdSb29iZWd6cnJQbUVZZDFZYWVuZnRvclMtMW5PVEhxbWNVbWR3amYyV1BkU3VkWEFBWnN5TDN4RDZXZ2tqa013WG54VXNabmlKS2JiT3NYT3E1NHNvX2FmbXpiR0xIWFphd1dTMzZuZDRIbkd6elJUYmpsN013RW1rV0pqM251T3hRaXg0cjFnck9hLWpibnljQkhlU3lNU3JocUs5d09FRUs0U2Q3SGxUa2J5TnNabG8zR1BZTHJpN0JSY0NpWEk5T1g3QVFTRjVFT0x4QkNCZ2JxSHItSTNnLWNYbmRleFRsUGpTcUZYTzBGZnlaQTkwMVY4QjhWSDdLYTItWjNnTzY4ZVBZNzJ3Ul9QMFd1amRnemZoU1ZlTXVZR3BuZGE1dlpQRUU3UUJqbnJ0ejJtNmdYWUNSU3A5bWFZSV9ZUThYaGt0UlhidVZkYldoTWpibjlhSFFjblZLNHdKb1A2Q3NDV3JyYVRaVHd5V1pSSm1VNk5xaHZGaGxuYlFDR0JNMm1aNHBySjVEbGZqc2VPMms3bURUT0Z0eW53R0pCdVBUZzJWeDlDN29KU3hFRG5uSlZjbmZsYldwVXp1Mm5sS29TTFlrRGpXemVDMk43NjFpUnRWT0ZPd3NyUjJmMDd1cE51MmtqWlFVNzRNdG5hM1Bnd2xOZUFOdGNMeG54VklaZFMtdXJCREY2dk8tMWxmZzlqNXh4c1gzYTFNOHVORGdFZGFYLUlOeDVfTW5lRjMtaHowUVRFYmhGV2dnVGdPc052M20tTTg4RkxUdUhIQzBYbTZaYnlWeW9UNDU0SlFMWWJmbUlxWmVidkV6RGZkam1KNFlRQUtyMk1HM2psYUxlMnhWYm02QURHWjhZQTZNR00ySHFoU0ZsRmo2V3ZkOWRsQmt4SXlkOUxRUmZCQ1VLV2pKbmtqazVUcDhjTjM2QzQzczZnN2o4cTgyb3dyRDNTNENXQzB3dExla190ZFdRd2Q1cXQySUFEVzM4RllkeVNIZXMxclNTQk9jX0NfVzhEMGlQSnBfLXFCWlZWOFo5TlJfbWpDUzE1WDR0RVNHczNjSWFvQVNZNi0tYWJjUEt0dVZZLVZTM2pnbWc2bEh2Y2Nxck1CN1gteHhxTVp2Q3R3ZkpDV3k2NVZEcGlNRGFqUi1DX19pVldqaUZtd29VSkVUeUI5dEpvdk40VEU1cWN2MGI2SEc0LXRaWHdMNVEtVHFOOVo2QkdjemE?oc=5",
+              "name": "paxetv.com",
+              "url": "http://www.paxetv.com/news/articleView.html?idxno=278037",
+              "origin": "naver"
+            },
+            {
+              "name": "asiatime.co.kr",
+              "url": "https://www.asiatime.co.kr/article/20260728500150",
+              "origin": "naver"
+            },
+            {
+              "name": "newswhoplus.com",
+              "url": "https://www.newswhoplus.com/news/articleView.html?idxno=65512",
+              "origin": "naver"
+            },
+            {
+              "name": "redaily.co.kr",
+              "url": "https://www.redaily.co.kr/news/articleView.html?idxno=17196",
+              "origin": "naver"
+            },
+            {
+              "name": "소비자가 만드는 신문",
+              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aTVdFZ0Q4RV9WT0I3VVhhM01sWHFnN1FraFl4OG5pZ2Fxc2FkWngtOWJlYXhJYXRoWmEwUVZmYnIxLWlxUmZEUGFpQ0pnSnFUTjhnS2sybHpJSEpkMld2amN3VHU4SUl6ZFhGTHdvQUdGU0U?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 6,
+          "published": "2026-07-28T14:46:00+09:00",
+          "ts": 1785217560.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "추미애 경기도지사 '평화경제특구 남북협력사업 지정' 공식 제안",
+          "url": "https://www.asiatime.co.kr/article/20260728500156",
+          "snippet": "참석한 추미애 경기도지사, 정동영 통일부장관, 우상호 강원특별자치도지사, 박찬대 인천광역시장이 기념촬영을 하고있다. 사진=경기도 [아시아타임즈 경기취재본부=임성민 기자] 추미애 경기도지사가 정전협정 73주년을...",
+          "source": "asiatime.co.kr",
+          "sources": [
+            {
+              "name": "asiatime.co.kr",
+              "url": "https://www.asiatime.co.kr/article/20260728500156",
+              "origin": "naver"
+            },
+            {
+              "name": "아시아타임즈",
+              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYN01WR1JWUC1TaVp3Sm5TdUpxajAtak45R3dyTFlveVhaSmVMVTV3dFlXZmhxa0lyRnJyTk9KUTJhQXI2TnBoeEltZDVyMGppSEFrN2tIY2J1SS1TY2c?oc=5",
               "origin": "google"
             },
             {
-              "name": "새한일보",
-              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGamQ4eEozVV9ubk1BZzNidDFZNm5UdzhIeENxaWttYS1HMjMxdVc1dEtaSHdSb1dKalBWODYxMmh1UVlxMUJsNjV2THNOR2o3a0ZEQTN1Z2tDTmlCS2hpTXlHaVVFZ9IBakFVX3lxTE9JZTdtY2pSWU1pZGFwbFYtOS1fVU9EaElFb1JXUEptcFU5Tmp1MzI2bk1tdlcyUVUwRkxQRnhsWGlmRnluUng5dkhTVTZBc0g5aEJqcjE5dmJCS01ONkxWbDU3Z3JYTXdkVFE?oc=5",
+              "name": "뉴스타운",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsd0gxOXExRWFIc3M2VldZTEdTWW9HMGtrVUxtT1QxaUhUQld3cGlBYUpLaHpIQVQtOUV1YlJEdmowZ2xHYmhaSHFYRDktLWRmMXpSdXVLSWZBOU1FMWJQcWFZYlRqS01NNE5pR2ZB?oc=5",
               "origin": "google"
             }
           ],
           "source_count": 3,
-          "published": "2026-07-27T20:34:00+09:00",
-          "ts": 1785152040.0,
+          "published": "2026-07-28T13:36:00+09:00",
+          "ts": 1785213360.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -699,29 +603,6 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "추미애 경기도지사 '평화경제특구 남북협력사업 지정' 공식 제안",
-          "url": "https://www.asiatime.co.kr/article/20260728500156",
-          "snippet": "참석한 추미애 경기도지사, 정동영 통일부장관, 우상호 강원특별자치도지사, 박찬대 인천광역시장이 기념촬영을 하고있다. 사진=경기도 [아시아타임즈 경기취재본부=임성민 기자] 추미애 경기도지사가 정전협정 73주년을...",
-          "source": "asiatime.co.kr",
-          "sources": [
-            {
-              "name": "asiatime.co.kr",
-              "url": "https://www.asiatime.co.kr/article/20260728500156",
-              "origin": "naver"
-            },
-            {
-              "name": "뉴스타운",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsd0gxOXExRWFIc3M2VldZTEdTWW9HMGtrVUxtT1QxaUhUQld3cGlBYUpLaHpIQVQtOUV1YlJEdmowZ2xHYmhaSHFYRDktLWRmMXpSdXVLSWZBOU1FMWJQcWFZYlRqS01NNE5pR2ZB?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-07-28T13:36:00+09:00",
-          "ts": 1785213360.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
           "title": "[오늘의 주요일정·28일] 행안부, 국민생명안전위원회 출범식",
           "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=244500",
           "snippet": "시도지사협의회) ▲ 추미애 경기지사 10:30 여름철 도민 물놀이 안전 대비 태세 점검(양평군) ▲ 우상호 강원지사 09:30 강릉시장 면담(통상상담실) 10:30 제27회 의암대상 시상식 (통상상담실) 12:50 강원 앵커...",
@@ -745,71 +626,133 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "[사설] 추미애 경기도지사, 내년 국비 확보 성과내야",
-          "url": "https://www.kyeongin.com/article/1768014",
-          "snippet": "추미애 경기도지사는 연일 건전재정을 강조하며 “뼈를 깎는 각오로 재정 구조를 전면 점검하겠다”고 했다.... 추미애 지사는 이를 반복하지 않기 위해 과감한 혁신에 나선 셈이다. 추 지사는 최근 국비확보 요청을 위해...",
-          "source": "kyeongin.com",
+          "title": "“접경지역 희생, 특별한 보상 응답하라” 이기형 김포시장·추미애 경기지사, 통일부 장관 향해 강력한 ‘원팀 공조’ 시너지",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JZTdtY2pSWU1pZGFwbFYtOS1fVU9EaElFb1JXUEptcFU5Tmp1MzI2bk1tdlcyUVUwRkxQRnhsWGlmRnluUng5dkhTVTZBc0g5aEJqcjE5dmJCS01ONkxWbDU3Z3JYTXdkVFHSAWpBVV95cUxPSWU3bWNqUllNaWRhcGxWLTktX1VPRGhJRW9SV1BKbXBVOU5qdTMyNm5NbXZXMlFVMEZMUEZ4bFhpZkZ5blJ4OXZIU1U2QXNIOWhCanIxOXZiQktNTjZMVmw1N2dyWE13ZFRR?oc=5",
+          "snippet": "",
+          "source": "새한일보",
           "sources": [
             {
-              "name": "kyeongin.com",
-              "url": "https://www.kyeongin.com/article/1768014",
-              "origin": "naver"
+              "name": "새한일보",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JZTdtY2pSWU1pZGFwbFYtOS1fVU9EaElFb1JXUEptcFU5Tmp1MzI2bk1tdlcyUVUwRkxQRnhsWGlmRnluUng5dkhTVTZBc0g5aEJqcjE5dmJCS01ONkxWbDU3Z3JYTXdkVFHSAWpBVV95cUxPSWU3bWNqUllNaWRhcGxWLTktX1VPRGhJRW9SV1BKbXBVOU5qdTMyNm5NbXZXMlFVMEZMUEZ4bFhpZkZ5blJ4OXZIU1U2QXNIOWhCanIxOXZiQktNTjZMVmw1N2dyWE13ZFRR?oc=5",
+              "origin": "google"
             },
             {
-              "name": "경인일보",
-              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2NU1HT0YzaWR0Y0pHYjZtOWtQZDJPWWczWW00OHpqRXNtSGhOd2MzN0VlMFdJSXRuTndBYWlXN0FLaW0zTTRQbUdIZThBRXNTMmc?oc=5",
+              "name": "전자신문",
+              "url": "https://news.google.com/rss/articles/CBMipAxBVV95cUxOSHdtUmFVZElmTkN5WEpscGNEeTVmdEJDZS1mMHlnaTYtLXNFZHR0eENQTGZsVGRLVmFadXJRTFZHWjI5NTdoZ1FnUlhlYUl0c0Q1TFZxVUt4ZHpRUHhSSzVYWDZVRmFWYzhjTE94dXhsNUVXT041T0ItQlB4Y2tUU29jR0xCaE4zMDhLcTFuWk5uT2VkRS03ZlJMUnYyczg0dEhyd2lnMFRQLTZHUXJpWGdpcGpxdEpsWk1mbFZLX2xPeC1fMVZSeThGLTBRQUt2YVdnazRsck9QcklqSFk5bG1IR0M3U0JLSmVwbGNxTGlJSmRZWWxaY3p5RExydld2dk01aGhlYWE2T0ZaUnJtY2phdFdQOUNwV1ZhRUw4Wm5ZX0tyTmhCa1pJcEFsM3Q1ZFZEd2NnNHVFZHVQRlgtTTNWSnp3R2V4djV5NTdZZnUtaXNLZzdYdEpqNG9yRUdrUGFoeUdRNFFuYkJyTG9fREdld0dSOExGQVp6emY5djdvVHNTZWI5TER2MDctNER4TTJtbGtJZGw1ZEJHOUtXaTVHeVBzTXZEWHN3M3BLUHBmblZYR3dMZGtrWHdld3lCa01ZZXdfRVNoYUk5U3A5T0tfN0pEWk52dmI4aS1XbjljZVdkVVFqR21FV084alU4R2R4T1ZqYWxkS3RabW44Q2tUOWVGMWhqanppbkE4dXFlZUJJcE5qb3ZvU0FRbFlPc25kWmJ0eVBOaTliOHB2dzNVS1U5WVZFSktIdWJqT29JYjhua1BjUXRYVUdTd1RGdTBRczV2VFNnUXVKNmUzUDVCZG9QMllEcGFTb0staWIzc1plamwtdnFMNU4xanN3VFF2TDdSb29iZWd6cnJQbUVZZDFZYWVuZnRvclMtMW5PVEhxbWNVbWR3amYyV1BkU3VkWEFBWnN5TDN4RDZXZ2tqa013WG54VXNabmlKS2JiT3NYT3E1NHNvX2FmbXpiR0xIWFphd1dTMzZuZDRIbkd6elJUYmpsN013RW1rV0pqM251T3hRaXg0cjFnck9hLWpibnljQkhlU3lNU3JocUs5d09FRUs0U2Q3SGxUa2J5TnNabG8zR1BZTHJpN0JSY0NpWEk5T1g3QVFTRjVFT0x4QkNCZ2JxSHItSTNnLWNYbmRleFRsUGpTcUZYTzBGZnlaQTkwMVY4QjhWSDdLYTItWjNnTzY4ZVBZNzJ3Ul9QMFd1amRnemZoU1ZlTXVZR3BuZGE1dlpQRUU3UUJqbnJ0ejJtNmdYWUNSU3A5bWFZSV9ZUThYaGt0UlhidVZkYldoTWpibjlhSFFjblZLNHdKb1A2Q3NDV3JyYVRaVHd5V1pSSm1VNk5xaHZGaGxuYlFDR0JNMm1aNHBySjVEbGZqc2VPMms3bURUT0Z0eW53R0pCdVBUZzJWeDlDN29KU3hFRG5uSlZjbmZsYldwVXp1Mm5sS29TTFlrRGpXemVDMk43NjFpUnRWT0ZPd3NyUjJmMDd1cE51MmtqWlFVNzRNdG5hM1Bnd2xOZUFOdGNMeG54VklaZFMtdXJCREY2dk8tMWxmZzlqNXh4c1gzYTFNOHVORGdFZGFYLUlOeDVfTW5lRjMtaHowUVRFYmhGV2dnVGdPc052M20tTTg4RkxUdUhIQzBYbTZaYnlWeW9UNDU0SlFMWWJmbUlxWmVidkV6RGZkam1KNFlRQUtyMk1HM2psYUxlMnhWYm02QURHWjhZQTZNR00ySHFoU0ZsRmo2V3ZkOWRsQmt4SXlkOUxRUmZCQ1VLV2pKbmtqazVUcDhjTjM2QzQzczZnN2o4cTgyb3dyRDNTNENXQzB3dExla190ZFdRd2Q1cXQySUFEVzM4RllkeVNIZXMxclNTQk9jX0NfVzhEMGlQSnBfLXFCWlZWOFo5TlJfbWpDUzE1WDR0RVNHczNjSWFvQVNZNi0tYWJjUEt0dVZZLVZTM2pnbWc2bEh2Y2Nxck1CN1gteHhxTVp2Q3R3ZkpDV3k2NVZEcGlNRGFqUi1DX19pVldqaUZtd29VSkVUeUI5dEpvdk40VEU1cWN2MGI2SEc0LXRaWHdMNVEtVHFOOVo2QkdjemE?oc=5",
               "origin": "google"
             }
           ],
           "source_count": 2,
-          "published": "2026-07-27T20:26:00+09:00",
-          "ts": 1785151560.0,
+          "published": "2026-07-28T01:35:14+09:00",
+          "ts": 1785170114.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
         {
-          "title": "추미애 \"성비위, 도지사가 직접 챙긴다\"…무관용·피해자 최우선 지시",
-          "url": "https://www.etoday.co.kr/news/view/2607993",
-          "snippet": "이투데이=경기인천취재본부 김재학 기자 | 도청 익명게시판 성희롱·보복 의혹에 즉각 대응…여성단체 \"철저 조사·재발방지\" 추미애 경기도지사가 도청 내부에서 제기된 성비위 의혹에 대해 \"도지사가 직접 챙기며...",
+          "title": "추미애 '반도체 세수 재배분' 구상에 평택·용인 반발…\"자치재정권 침...",
+          "url": "https://www.etoday.co.kr/news/view/2608439",
+          "snippet": "이투데이=경기인천취재본부 김재학 기자 | 평택시발전협의회 성명 \"공동세원화 중단하라\"…경기도 \"시군 세수 격차 완화\" 추미애 경기도지사가 취임 직후 공식화한 '법인지방소득세 공동세원화' 구상을 놓고 반도체...",
           "source": "etoday.co.kr",
           "sources": [
             {
               "name": "etoday.co.kr",
-              "url": "https://www.etoday.co.kr/news/view/2607993",
+              "url": "https://www.etoday.co.kr/news/view/2608439",
               "origin": "naver"
-            },
-            {
-              "name": "이투데이",
-              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Cdl94WjFqa3Y2N3h5U0FfLTZobXdOUnIxWnZ6bngtamlTZ0lrR2YxcTltWjRPN0lYNFoweld5ZWx1NzVQQy1DRURMeFhncnh1NVNQNg?oc=5",
-              "origin": "google"
             }
           ],
-          "source_count": 2,
-          "published": "2026-07-27T18:46:00+09:00",
-          "ts": 1785145560.0,
+          "source_count": 1,
+          "published": "2026-07-28T17:14:00+09:00",
+          "ts": 1785226440.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
         {
-          "title": "추미애 \"접경지역 이름부터 '평화지대'로\"…평화경제특구 승부수",
-          "url": "https://www.etoday.co.kr/news/view/2607992",
-          "snippet": "이투데이=경기인천취재본부 김재학 기자 | 정전협정 73주년 연석회의서 '남북협력사업' 지정 건의…예타 면제·금융지원 기대 추미애 경기도지사가 경기북부 접경지역을 '평화지대'로 전환하자고 정면으로 제안했다....",
-          "source": "etoday.co.kr",
+          "title": "경기도의회 민주당, '경기도 재정건전성 TF' 발족…\"효율성 제고\"",
+          "url": "https://www.newsis.com/view/NISX20260728_0003726633",
+          "snippet": "추미애 경기도지사가 취임 전부터 \"민선 9기 경기도는 7조원이 넘는 채무를 안고 출발했다\"며 어려운 도 재정 여건을 언급한 데 따른 의회 차원의 조치다. TF는 장한별(수원4) 총괄수석부대표와 김태희(안산2) 정책위원장이...",
+          "source": "뉴시스",
           "sources": [
             {
-              "name": "etoday.co.kr",
-              "url": "https://www.etoday.co.kr/news/view/2607992",
+              "name": "뉴시스",
+              "url": "https://www.newsis.com/view/NISX20260728_0003726633",
               "origin": "naver"
-            },
-            {
-              "name": "인디포커스",
-              "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0wdXFVLWo4a3BNd29sTWJDTmlZVDk1TUU4alFoSlhaWWItU1hENFBLcTVac29aM3JnNFItbjNCTHgwX28?oc=5",
-              "origin": "google"
             }
           ],
-          "source_count": 2,
-          "published": "2026-07-27T18:42:00+09:00",
-          "ts": 1785145320.0,
+          "source_count": 1,
+          "published": "2026-07-28T16:57:00+09:00",
+          "ts": 1785225420.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "[특별인터뷰] 남종섭 경기도의회 의장, '도민의 대변자'...\"그 책무 향해...",
+          "url": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=520429",
+          "snippet": "추미애 경기도지사와 안민석 경기도교육감, 두 분 모두 탁월한 경륜과 추진력을 지닌 분들이다. 앞으로 경기도가 직면한 민생과 교통, 미래산업, 교육 현안들을 풀어나가는 데 큰 역할을 해주시리라 믿는다. 집행기관의...",
+          "source": "ilyoseoul.co.kr",
+          "sources": [
+            {
+              "name": "ilyoseoul.co.kr",
+              "url": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=520429",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-28T16:40:00+09:00",
+          "ts": 1785224400.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "[OBS 뉴스 오늘1] 여야 신임 경기도당위원장은?…추미애, 권역별 현안 응...",
+          "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1532100",
+          "snippet": "[질문4] 추미애 만난 경기북부권 단체장들 호소는 경기북부 \"안보 희생, 평화·산업 기회로 전환\" 수십 년간 국가 안보 최전선…중첩규제·개발 제한 균형발전 위한 재원 배분 논의 제안…현실화는 [질문5] 추미애 만난...",
+          "source": "obsnews.co.kr",
+          "sources": [
+            {
+              "name": "obsnews.co.kr",
+              "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1532100",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-28T16:32:00+09:00",
+          "ts": 1785223920.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "추미애, 양평 찾아 수난사고 대응태세 점검",
+          "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=203057",
+          "snippet": "추미애 경기도지사는 28일 본격적인 여름 휴가철을 맞아 양평군 용문면 광탄리유원지를 찾아 119시민수상구조대 운영 상황과 수난사고 구조·구급 대응태세를 점검했다. 추 지사는 현장에 배치된 119시민수상구조대로부터...",
+          "source": "sisaon.co.kr",
+          "sources": [
+            {
+              "name": "sisaon.co.kr",
+              "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=203057",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-28T16:08:00+09:00",
+          "ts": 1785222480.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "재정 '겹중고'에 안민석 '씨앗교육펀드' 숨 고르기",
+          "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=04572326645519112",
+          "snippet": "추미애 경기도지사는 취임 전부터 현재 7조원에 달하는 경기도 채무 상황을 강조하면서 강력한 세출 구조조정을 예고했다. 오는 9월 경기도 추경에서도 감액추경이 예상되고 있다. 안 교육감은 “이 씨앗교육펀드는...",
+          "source": "이데일리",
+          "sources": [
+            {
+              "name": "이데일리",
+              "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=04572326645519112",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-28T15:10:00+09:00",
+          "ts": 1785219000.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -904,38 +847,56 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "추미애 경기지사, 경기도 핵심 보직 인선 속도전",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41Mi1ybjVvdk9mOVdEQnYwdzdlV1o2bUlGV1IwRmFyTFVqdXlNc1dNVWpQUTQ0eGpsb2lsN04tekpreGtQbTJsYU1TWWthNmlIV2RKYjN0bDNpdkJYRTZDbHFjdGV4QWY30gFoQVVfeXFMTjUyLXJuNW92T2Y5V0RCdjB3N2VXWjZtSUZXUjBGYXJMVWp1eU1zV01ValBRNDR4amxvaWw3Ti16Smt4a1BtMmxhTVNZa2E2aUhXZEpiM3RsM2l2QlhFNkNscWN0ZXhBZjc?oc=5",
+          "title": "[사설] 추미애 경기도지사, 내년 국비 확보 성과내야",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2NU1HT0YzaWR0Y0pHYjZtOWtQZDJPWWczWW00OHpqRXNtSGhOd2MzN0VlMFdJSXRuTndBYWlXN0FLaW0zTTRQbUdIZThBRXNTMmc?oc=5",
           "snippet": "",
-          "source": "경인방송 뉴스",
+          "source": "경인일보",
           "sources": [
             {
-              "name": "경인방송 뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41Mi1ybjVvdk9mOVdEQnYwdzdlV1o2bUlGV1IwRmFyTFVqdXlNc1dNVWpQUTQ0eGpsb2lsN04tekpreGtQbTJsYU1TWWthNmlIV2RKYjN0bDNpdkJYRTZDbHFjdGV4QWY30gFoQVVfeXFMTjUyLXJuNW92T2Y5V0RCdjB3N2VXWjZtSUZXUjBGYXJMVWp1eU1zV01ValBRNDR4amxvaWw3Ti16Smt4a1BtMmxhTVNZa2E2aUhXZEpiM3RsM2l2QlhFNkNscWN0ZXhBZjc?oc=5",
+              "name": "경인일보",
+              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2NU1HT0YzaWR0Y0pHYjZtOWtQZDJPWWczWW00OHpqRXNtSGhOd2MzN0VlMFdJSXRuTndBYWlXN0FLaW0zTTRQbUdIZThBRXNTMmc?oc=5",
               "origin": "google"
             }
           ],
           "source_count": 1,
-          "published": "2026-07-27T16:14:09+09:00",
-          "ts": 1785136449.0,
+          "published": "2026-07-27T20:24:10+09:00",
+          "ts": 1785151450.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
         {
-          "title": "추미애 경기도지사, 도의회와 협치 시동…'협치 미비' 숙제 풀까",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40dkM3aWU2aVZCeXFWcDJ5ZHJia0FjUzREa3o2enJ0Y3d2TXFBcWJmQ0JRVEJiVWwtMXhGYXAzMHFlUzF1V3l6eEhSZkgzbXM?oc=5",
+          "title": "추미애 경기지사 \"접경지대를 평화지대로\"... 명칭 변경·미군 공여지 장기임대 제안",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11REx0UUFrbEVtekdiWGh5d1UtR0dEczZTNDBGM0MxSmpvQ1hLdWFtczRhazVDcHF3eW1tTmpyaHFxRzBlQmlZYjZ6YjhQb2Fia0pvbnhBcGJWOGdwR2dtSHhZcGpOa0hVNGtqZFFlSQ?oc=5",
           "snippet": "",
-          "source": "v.daum.net",
+          "source": "뉴스파노라마",
           "sources": [
             {
-              "name": "v.daum.net",
-              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40dkM3aWU2aVZCeXFWcDJ5ZHJia0FjUzREa3o2enJ0Y3d2TXFBcWJmQ0JRVEJiVWwtMXhGYXAzMHFlUzF1V3l6eEhSZkgzbXM?oc=5",
+              "name": "뉴스파노라마",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11REx0UUFrbEVtekdiWGh5d1UtR0dEczZTNDBGM0MxSmpvQ1hLdWFtczRhazVDcHF3eW1tTmpyaHFxRzBlQmlZYjZ6YjhQb2Fia0pvbnhBcGJWOGdwR2dtSHhZcGpOa0hVNGtqZFFlSQ?oc=5",
               "origin": "google"
             }
           ],
           "source_count": 1,
-          "published": "2026-07-27T15:46:15+09:00",
-          "ts": 1785134775.0,
+          "published": "2026-07-27T20:08:50+09:00",
+          "ts": 1785150530.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "추미애 \"성비위, 도지사가 직접 챙긴다\"…무관용·피해자 최우선 지시",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Cdl94WjFqa3Y2N3h5U0FfLTZobXdOUnIxWnZ6bngtamlTZ0lrR2YxcTltWjRPN0lYNFoweld5ZWx1NzVQQy1DRURMeFhncnh1NVNQNg?oc=5",
+          "snippet": "",
+          "source": "이투데이",
+          "sources": [
+            {
+              "name": "이투데이",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Cdl94WjFqa3Y2N3h5U0FfLTZobXdOUnIxWnZ6bngtamlTZ0lrR2YxcTltWjRPN0lYNFoweld5ZWx1NzVQQy1DRURMeFhncnh1NVNQNg?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-27T18:45:00+09:00",
+          "ts": 1785145500.0,
           "group": "governor",
           "group_label": "경기도지사"
         }
@@ -947,6 +908,29 @@
       "priority": 4,
       "count": 9,
       "items": [
+        {
+          "title": "이오수 경기도의원, 지역 경로당 어르신들과 도의회 견학",
+          "url": "http://www.breaknews.com/1225034",
+          "snippet": "경기도의회 문화체육관광위원회 이오수 부위원장이 27일 경기도의회를 찾은 광교자연앤 힐스테이트 경로당 회원 22명과 함께 본회의장과 경기마루를 견학하고...",
+          "source": "breaknews.com",
+          "sources": [
+            {
+              "name": "breaknews.com",
+              "url": "http://www.breaknews.com/1225034",
+              "origin": "naver"
+            },
+            {
+              "name": "서울신문",
+              "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/28/20260728500155?wlog_tag3=naver",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-07-28T16:08:00+09:00",
+          "ts": 1785222480.0,
+          "group": "gg_council",
+          "group_label": "경기도의회(문체·미래위)"
+        },
         {
           "title": "경기도의회 방성환 의원, GBC 운영 점검…\"성과 중심 관리체계 구축해야...",
           "url": "http://www.metroseoul.co.kr/article/20260728500328",
@@ -994,29 +978,6 @@
           "group_label": "경기도의회(문체·미래위)"
         },
         {
-          "title": "이영봉 경기도의원 “경기도 ODA사업, 중복 줄이고 전략적 관리체계 마...",
-          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/28/20260728500166?wlog_tag3=naver",
-          "snippet": "경기도의회 미래과학협력위원회 이영봉 의원(더불어민주당, 의정부2)은 지난 27일 국제협력국으로부터 ODA 사업 추진 현황에 대한 설명을 듣고, 사업 운영 방향과 관리 체계를 점검했다. 이 의원은 현재 국제협력국을...",
-          "source": "서울신문",
-          "sources": [
-            {
-              "name": "서울신문",
-              "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/28/20260728500166?wlog_tag3=naver",
-              "origin": "naver"
-            },
-            {
-              "name": "weeklytoday.com",
-              "url": "http://www.weeklytoday.com/news/articleView.html?idxno=787591",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-07-28T14:45:00+09:00",
-          "ts": 1785217500.0,
-          "group": "gg_council",
-          "group_label": "경기도의회(문체·미래위)"
-        },
-        {
           "title": "이병숙 경기도의원, 망포 주민 목소리 담은 원천리천 환경개선 방안 논...",
           "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/28/20260728500102?wlog_tag3=naver",
           "snippet": "경기도의회 문화체육관광위원회 이병숙 의원(더불어민주당, 수원12)이 망포동 등 영통구 주민들의 일상 속 휴식 공간인 원천리천 수변공원의 환경을 다각도로 개선하기 위한 행보에 나섰다. 이병숙 의원은 지난 24일 열린...",
@@ -1040,43 +1001,20 @@
           "group_label": "경기도의회(문체·미래위)"
         },
         {
-          "title": "유호준 경기도의원 “공업용수 부담 남양주, 반도체 이익공유 시·군 협...",
-          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/28/20260728500081?wlog_tag3=naver",
-          "snippet": "경기도의회 미래과학협력위원회 유호준 의원(더불어민주당, 남양주 다산1동)은 지난 23일 경기도 관련 부서와 면담을 진행하고 반도체 메가클러스터 조성에 따른 공업용수·전력 공급 대책을 재차 점검하고...",
-          "source": "서울신문",
+          "title": "경기도의회, 소방안전 강화 잰걸음…응급안전망 확대·소방 인프라 확충...",
+          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7176310",
+          "snippet": "사진=경기도의회 경기도의회 의원들이 지역 소방안전 강화와 재난 대응 역량 제고를 위한 현장 행보를... 같은 날 문화체육관광위원회 채명신 의원(더불어민주당·용인5)도 용인서부소방서를 찾아 소방행정 현안을...",
+          "source": "weekly.hankooki.com",
           "sources": [
             {
-              "name": "서울신문",
-              "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/28/20260728500081?wlog_tag3=naver",
-              "origin": "naver"
-            },
-            {
-              "name": "lawissue.co.kr",
-              "url": "http://www.lawissue.co.kr/view.php?ud=202607271441014614d94aa4ada6_12",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-07-28T11:04:00+09:00",
-          "ts": 1785204240.0,
-          "group": "gg_council",
-          "group_label": "경기도의회(문체·미래위)"
-        },
-        {
-          "title": "이오수 경기도의원, 지역 어르신과 함께 경기도의회 견학·소통의 시간...",
-          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/28/20260728500155?wlog_tag3=naver",
-          "snippet": "경기도의회 문화체육관광위원회 이오수 부위원장(국민의힘, 수원9)이 지역 어르신들을 의회로 초청해 의정 현장을 소개하고 현장의 의견을 나누는 소통의 시간을 가졌다. 이오수 부위원장은 지난 27일 경기도의회를 방문한...",
-          "source": "서울신문",
-          "sources": [
-            {
-              "name": "서울신문",
-              "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/28/20260728500155?wlog_tag3=naver",
+              "name": "weekly.hankooki.com",
+              "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7176310",
               "origin": "naver"
             }
           ],
           "source_count": 1,
-          "published": "2026-07-28T14:19:00+09:00",
-          "ts": 1785215940.0,
+          "published": "2026-07-28T16:30:00+09:00",
+          "ts": 1785223800.0,
           "group": "gg_council",
           "group_label": "경기도의회(문체·미래위)"
         },
@@ -1117,6 +1055,24 @@
           "group_label": "경기도의회(문체·미래위)"
         },
         {
+          "title": "유호준 경기도의원 “공업용수 부담 남양주, 반도체 이익공유 시·군 협...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/28/20260728500081?wlog_tag3=naver",
+          "snippet": "경기도의회 미래과학협력위원회 유호준 의원(더불어민주당, 남양주 다산1동)은 지난 23일 경기도 관련 부서와 면담을 진행하고 반도체 메가클러스터 조성에 따른 공업용수·전력 공급 대책을 재차 점검하고...",
+          "source": "서울신문",
+          "sources": [
+            {
+              "name": "서울신문",
+              "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/28/20260728500081?wlog_tag3=naver",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-28T11:04:00+09:00",
+          "ts": 1785204240.0,
+          "group": "gg_council",
+          "group_label": "경기도의회(문체·미래위)"
+        },
+        {
           "title": "박상현 경기도의원, AI로 복지신청혁신..경기지역화폐 기반 원클릭 복지...",
           "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/28/20260728500075?wlog_tag3=naver",
           "snippet": "경기도의회 미래과학협력위원회 박상현 의원(더불어민주당, 부천2)은 23일 인공지능(AI)과 공공 마이데이터를 활용해 도민이 보다 쉽고 편리하게 복지서비스를 신청할 수 있는 ‘복지직권주의’ 실현 방안을 논의하기...",
@@ -1137,17 +1093,53 @@
       ]
     },
     {
+      "id": "bucheon",
+      "label": "부천시(콘텐츠 관련)",
+      "priority": 5,
+      "count": 1,
+      "items": [
+        {
+          "title": "8개월 만에 새 선장 찾는 부천문화재단…문화예술 재도약 ‘기대감’",
+          "url": "https://www.kyeonggi.com/article/20260728580345",
+          "snippet": "선임돼 부천이 대한민국 대표 문화도시로 한 단계 더 성장하는 계기가 되길 바란다”라고 말했다. 시 관계자는 “무엇보다 부천문화재단 조직을 안정시키고 시민의 문화 향유 확대와 부천 문화예술 발전을 책임질 수 있는...",
+          "source": "경기일보",
+          "sources": [
+            {
+              "name": "경기일보",
+              "url": "https://www.kyeonggi.com/article/20260728580345",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-28T16:54:00+09:00",
+          "ts": 1785225240.0,
+          "group": "bucheon",
+          "group_label": "부천시(콘텐츠 관련)"
+        }
+      ]
+    },
+    {
       "id": "central",
       "label": "중앙부처(콘텐츠)",
       "priority": 7,
       "count": 10,
       "items": [
         {
-          "title": "와이즈넛, 콘진원 'K-콘텐츠 트렌드 분석 플랫폼' 구축 사업 수주",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1390241",
-          "snippet": "사진=와이즈넛 와이즈넛은 한국콘텐츠진흥원의 '글로벌 K-콘텐츠 트렌드 분석 플랫폼 구축' 사업을 수주했다고 28일 밝혔다. 이번 사업은 글로벌 시장의 K-콘텐츠 데이터를 통합 수집·관리하고 AI 기반 지능형 분석...",
-          "source": "daily.hankooki.com",
+          "title": "와이즈넛, 콘진원 'K콘텐츠 분석 플랫폼' 구축 맡는다",
+          "url": "https://news.mtn.co.kr/news-detail/2026072816190515255",
+          "snippet": "자료=와이즈넛와이즈넛이 인공지능(AI)을 활용해 세계 각국의 K콘텐츠 소비 동향과 흥행 가능성을 분석하는 플랫폼을 구축한다.와이즈넛은 한국콘텐츠진흥원의 '글로벌 K콘텐츠 트렌드 분석 플랫폼 구축' 사업을...",
+          "source": "news.mtn.co.kr",
           "sources": [
+            {
+              "name": "news.mtn.co.kr",
+              "url": "https://news.mtn.co.kr/news-detail/2026072816190515255",
+              "origin": "naver"
+            },
+            {
+              "name": "epnc.co.kr",
+              "url": "https://www.epnc.co.kr/news/articleView.html?idxno=404834",
+              "origin": "naver"
+            },
             {
               "name": "daily.hankooki.com",
               "url": "https://daily.hankooki.com/news/articleView.html?idxno=1390241",
@@ -1164,13 +1156,13 @@
               "origin": "naver"
             },
             {
-              "name": "datanet.co.kr",
-              "url": "https://www.datanet.co.kr/news/articleView.html?idxno=213358",
+              "name": "지디넷코리아",
+              "url": "https://zdnet.co.kr/view/?no=20260728102509",
               "origin": "naver"
             },
             {
-              "name": "지디넷코리아",
-              "url": "https://zdnet.co.kr/view/?no=20260728102509",
+              "name": "datanet.co.kr",
+              "url": "https://www.datanet.co.kr/news/articleView.html?idxno=213358",
               "origin": "naver"
             },
             {
@@ -1179,24 +1171,19 @@
               "origin": "naver"
             },
             {
-              "name": "이데일리",
-              "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02991366645519112",
-              "origin": "naver"
+              "name": "MTN 머니투데이방송",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fU0Ryd2lvdmtvelcxOUNEbGhLZ29XYXoyd1d5UXlhYUJvUVJuQmJfSFdCdFdWZ2VscmdydVc2bWRnd0JkaThkYU1vRFFOM0V3dU9ZWUdXdkgzNlFNRTdZNVlTN3o?oc=5",
+              "origin": "google"
             },
             {
-              "name": "전자신문",
-              "url": "https://www.etnews.com/20260727000152",
-              "origin": "naver"
+              "name": "네이트",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBadmZfRWpHTFI0WURYTHd4MElnUFQ4NGJGck1Pem5iY19rWUlPNjJSZ2wtd2FhSnZvLUxlT050VkRfTXhmYnY5UjlKNXJSeUF5ZWpR?oc=5",
+              "origin": "google"
             },
             {
-              "name": "readersnews.com",
-              "url": "https://www.readersnews.com/news/articleView.html?idxno=200462",
-              "origin": "naver"
-            },
-            {
-              "name": "뉴시스",
-              "url": "https://www.newsis.com/view/NISX20260727_0003724148",
-              "origin": "naver"
+              "name": "데일리한국",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wZlY1WVpZd0Y1eE5LaUNNWk1TV2FSNnY5dWJISlF1cGFwWWI2eU9LaFd2a0tZeGhmaktYM0ZrMF82akFkV25xYmtUZkdTZGdEWWFwUklrSFJqU3NGd0hmYUtmZklrUF80dTFFSElEMNIBc0FVX3lxTE1NbG80a0VKQ1JWMEtUVEgxWTIzbFdBN0FOX1BYYV9UX2QtUkNfRHhIRGF5OWFuWFg4dUgwWXhXaWU3Q2g2MlBPdkNKcnlKd1NGVmVzeG1QWWNtdnh3eXltVjlEY2ZjdW82OHlSU3hjTjkyVVU?oc=5",
+              "origin": "google"
             },
             {
               "name": "팝콘뉴스",
@@ -1217,30 +1204,30 @@
               "name": "정보통신신문",
               "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50S3RHYjlhdjl3X1h3dTZsWHktdjBoZzQxOVZTTGoyRHAwdWJsVFJ3eTBFVWh2aGM2Sllkdjd1eEtVZ0FxaUNBTFJXMW1BcjBZSDBuUVpGbzFMZFQ2bDUzNVNJMDA3RUVwNktnUtIBbEFVX3lxTE50S3RHYjlhdjl3X1h3dTZsWHktdjBoZzQxOVZTTGoyRHAwdWJsVFJ3eTBFVWh2aGM2Sllkdjd1eEtVZ0FxaUNBTFJXMW1BcjBZSDBuUVpGbzFMZFQ2bDUzNVNJMDA3RUVwNktnUg?oc=5",
               "origin": "google"
-            },
-            {
-              "name": "edaily.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY3pXRllmTjZOQ0h1UVF1Zm9nWkFOSUNSQVdJd0s3d2dkV0FNSGZzVHFENHE1M29UYWlma3BNS0JBeFdod2lfNDd6bXB0WWtwcWhhcTNPaV9NU2JpT3JHOC1INFMzOTRYbGNkUDJLTDBMUThuTGxvdWNoSy1LTFFqTw?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "파이낸스스코프",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mZHEwbTVJUm94QmhJZlNIZmdPTWZXck9ZbFI1UmRLOXR4UWUtVjZERUtpT2JldWR2QnhzLTRjU0NtLWQ3azdNbjMxM2VhSGVueThKelpwS0NIdFd1N3MtNWg5VHpKckZ2REE?oc=5",
-              "origin": "google"
             }
           ],
-          "source_count": 16,
-          "published": "2026-07-28T15:18:00+09:00",
-          "ts": 1785219480.0,
+          "source_count": 15,
+          "published": "2026-07-28T16:34:00+09:00",
+          "ts": 1785224040.0,
           "group": "central",
           "group_label": "중앙부처(콘텐츠)"
         },
         {
-          "title": "콘진원, 방송영상제작사와 경쟁력 강화 방안 머리 맞댔다",
-          "url": "https://www.sedaily.com/article/20072504?ref=naver",
-          "snippet": "한국콘텐츠진흥원(이하 콘진원)이 방송영상 제작 현장의 애로사항을 직접 듣고 산업 경쟁력 강화 방안을 모색하기 위한 소통의 자리를 마련했다. 콘진원은 지난 24일 서울 CKL기업지원센터에서 ‘방송영상제작사 소통...",
-          "source": "서울경제",
+          "title": "한국콘텐츠진흥원, 방송영상 제작사와 현장 간담회 개최 'K-콘텐츠 제작...",
+          "url": "https://www.lecturernews.com/news/articleView.html?idxno=207221",
+          "snippet": "한국콘텐츠진흥원(KOCCA)이 침체된 방송영상 제작 환경을 개선하고 K-콘텐츠 산업의 경쟁력을 높이기 위해 방송영상 제작사들과 직접 소통에 나섰다. 제작 현장의 목소리를 정책에 반영하고 실질적인 지원 방안을 마련하기...",
+          "source": "lecturernews.com",
           "sources": [
+            {
+              "name": "lecturernews.com",
+              "url": "https://www.lecturernews.com/news/articleView.html?idxno=207221",
+              "origin": "naver"
+            },
+            {
+              "name": "g-enews.com",
+              "url": "https://www.g-enews.com/view.php?ud=202607281415221070a9fc143920_1",
+              "origin": "naver"
+            },
             {
               "name": "서울경제",
               "url": "https://www.sedaily.com/article/20072504?ref=naver",
@@ -1257,6 +1244,16 @@
               "origin": "naver"
             },
             {
+              "name": "글로벌이코노믹",
+              "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaTY0WDc5ZUZyTzB5Q0FtdzdqeDlDcWktdzVrRmI1blp6TEVvQ2lDSVM3NFNiQjNkNnhaQVFQVzVTQlRoSWdGamxNWE1POEpwN1R3Tmw1bTJ0ZlE5YS04emlXSEZGV3JvLU84WDZBS3lWYmtKNGRrc21kbExxaXo5NXRSRW5OYVZkaWc?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "한국강사신문",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wNDhWemZYOENmQWs1OHRXMlFvTzNpaTBQRzRsQmF3N0dYXzNNM0sxOXhxcG1XQjU4Y2t1bjVKanRFMFQ2cU12UEJjX29qcVJZUkdFM2R4UDJ5MVpoMi12dzA1aGNFNW1BcW5WRTBSNUI?oc=5",
+              "origin": "google"
+            },
+            {
               "name": "네이트",
               "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyZ01PbThyd0ZadmNjWUt3aVRObTJ5aFplU3A1a25TNmU1QkVHbHhCajdzRFdPZ2lPeFZaeS1OclVodVNvcW1HZXNjckZjWS1IbkZF?oc=5",
               "origin": "google"
@@ -1267,103 +1264,45 @@
               "origin": "google"
             }
           ],
-          "source_count": 5,
-          "published": "2026-07-28T06:01:00+09:00",
-          "ts": 1785186060.0,
+          "source_count": 9,
+          "published": "2026-07-28T17:10:00+09:00",
+          "ts": 1785226200.0,
           "group": "central",
           "group_label": "중앙부처(콘텐츠)"
         },
         {
-          "title": "조정식 의장, 최휘영 문체부 장관 접견…“K-콘텐츠 경쟁력 강화 힘써달...",
-          "url": "https://www.sportsworldi.com/newsView/20260727516745",
-          "snippet": "사진=국회의장실 조정식 국회의장이 최휘영 문화체육관광부 장관을 만나 K-콘텐츠 경쟁력 강화와 문화·체육 정책 현안을 점검하고, '2027 서울 세계청년대회'의 성공 개최를 위한 범정부 협력을 당부했다. 아울러...",
-          "source": "sportsworldi.com",
+          "title": "문체부, '중간 허리' 게임사 키운다…내년 30억원 규모 제작지원 추진",
+          "url": "https://www.ddaily.co.kr/page/view/2026072815140498687",
+          "snippet": "최원석 문화체육관광부 게임콘텐츠산업과장은 28일 서울 영등포구 국회의원회관에서 열린 'K-컬처 400조 달성을 위한 게임산업의 역할과 정책적 위상 강화' 정책토론회에서 이 같은 게임산업 지원 방향을 소개했다. 최...",
+          "source": "ddaily.co.kr",
           "sources": [
             {
-              "name": "sportsworldi.com",
-              "url": "https://www.sportsworldi.com/newsView/20260727516745",
+              "name": "ddaily.co.kr",
+              "url": "https://www.ddaily.co.kr/page/view/2026072815140498687",
               "origin": "naver"
-            },
-            {
-              "name": "스포츠월드",
-              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ScUNEc2FSSk1NdXZSbGNvblRvTnhYck9XOFg5VEd6cUJQbUNMV2FIaGJiYUN4aTV5c2xFdWhQTUJ3MFpzSTdvT2pkS0JSc3FXZ0hzYkdJc1lZYXpUbWdfRC1GZmVDeGxVTDQzb0JRcTRfRlNYUXZKWXA3NA?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "하나뉴스",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mWmhVbTZhOE9ybUtGWDdFT01haUNOdVlEcVFIUGtrX2txbS1XR2tqRTltMERFbUNwRmdTTWpDRTZUS0k2UVVZb0FnaE55NE44eVI2aEVHVnJZeW5GT1FIbUY1bVlmWndKMWRxdVhR?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "뉴스케이",
-              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MUDJFX1lYUlpzWVBpYVVIa1dUTzBHVi1zUkdYcU42YVhYU1NMcEpyS004NlJqTTRmV2QzS1hFeWlZVnM0bUNub0xkOWQxTVRrT3hXZzZ6VzBPeEJpY0E?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "peoplegate.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS19BXzFvTHZEUHU2TkRmS3diVjRKcGxoM2QydDFWaG1GeUYwbnpqWVVibXBlLWJYLVNKUDdfV2pvNzJ3dGRxaEVia1FhOFcxOEQ3dVZSSmJWQUZOZ3dtbGxGNTk5WFBadU5QclIwbldxQkE0SlJwV2xpTzVzV3ZoT25HZ2xmRUprZWx1cG9VM0RKcUxJZ1plRHFB?oc=5",
-              "origin": "google"
             }
           ],
-          "source_count": 5,
-          "published": "2026-07-27T19:36:00+09:00",
-          "ts": 1785148560.0,
+          "source_count": 1,
+          "published": "2026-07-28T16:24:00+09:00",
+          "ts": 1785223440.0,
           "group": "central",
           "group_label": "중앙부처(콘텐츠)"
         },
         {
-          "title": "K콘텐츠의 자산은 ‘인재’… 문체부 - 콘진원, 종사자 보호·소양 교육...",
-          "url": "https://www.munhwa.com/article/11605438?ref=naver",
-          "snippet": "한국콘텐츠진흥원이 발간한 ‘2025년 4분기 및 연간 콘텐츠산업 동향분석 보고서’에 따르면 2025년 콘텐츠산업 매출은 161조 원, 수출 149억 달러로 각각 집계됐다. 산업의 발전에 따라 콘텐츠산업 종사자 수도 2024년...",
-          "source": "문화일보",
+          "title": "제주콘진원, 뮤지션 글로벌 역량 강화 'JEJU 캠프' 운영",
+          "url": "https://www.jejusori.net/news/articleView.html?idxno=505104",
+          "snippet": "제주 뮤지션의 글로벌 창작 역량을 강화하고 해외 음악산업과의 협업 기반을 확대하기 위한 '글로벌 JEMU 캠프(Global JEMU Camp)'가 열린다. 제주콘텐츠진흥원은 오는 8월 6일부터 19일까지 글로벌 창작 송캠프 참가자를...",
+          "source": "jejusori.net",
           "sources": [
             {
-              "name": "문화일보",
-              "url": "https://www.munhwa.com/article/11605438?ref=naver",
+              "name": "jejusori.net",
+              "url": "https://www.jejusori.net/news/articleView.html?idxno=505104",
               "origin": "naver"
-            },
-            {
-              "name": "엔디엔뉴스",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13Qk9JUGx6VS11bmU0aFFxaTMzd0hUTlBFSXJGR0RQSG5iZG83eVM3UjJpT25SUVY0eGJEUzI1dmphQUZhRzFzRXEyU0RoMXctanlMZ3dkOVlaNWdFUnBzU1A5eTJRYlRFMGZfNWVLaWJNd9IBckFVX3lxTE13Qk9JUGx6VS11bmU0aFFxaTMzd0hUTlBFSXJGR0RQSG5iZG83eVM3UjJpT25SUVY0eGJEUzI1dmphQUZhRzFzRXEyU0RoMXctanlMZ3dkOVlaNWdFUnBzU1A5eTJRYlRFMGZfNWVLaWJNdw?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "kcemedia.com",
-              "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9xRUkxeS1HSlAySVl1X1F1Z0FkNmo0bFdsTlhBeUgyU3lvQ0pPWXhLVDJzZWRtaVl2SGRyRGp1UEc0RHM?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "하나뉴스",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BQUlabG9GTGFMTm5SYVJEaG1JN1F5bEhpeVBLczgtQktyQU4tYVZnb1FVd184ZnBUM0JtSV9WaUZfaFBtQmRWeHJDNnFudV9LZFRCMDYyTXNjWHc0SGhGdVdWMU5TNHgzN2dnU3FR?oc=5",
-              "origin": "google"
             }
           ],
-          "source_count": 4,
-          "published": "2026-07-28T09:33:00+09:00",
-          "ts": 1785198780.0,
-          "group": "central",
-          "group_label": "중앙부처(콘텐츠)"
-        },
-        {
-          "title": "문화체육관광부, K-콘텐츠 저작권 보호 유공자 발굴 '제3회 대한민국 저...",
-          "url": "https://www.lecturernews.com/news/articleView.html?idxno=207280",
-          "snippet": "문화체육관광부가 K-콘텐츠 저작권 보호 문화 확산과 지속 가능한 콘텐츠 산업 발전에 기여한 유공자를 찾기 위해 '제3회 대한민국 저작권 보호 대상' 후보자 공모를 실시한다. 문화체육관광부는 한국저작권보호원과 함께...",
-          "source": "lecturernews.com",
-          "sources": [
-            {
-              "name": "lecturernews.com",
-              "url": "https://www.lecturernews.com/news/articleView.html?idxno=207280",
-              "origin": "naver"
-            },
-            {
-              "name": "한국강사신문",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wNDhWemZYOENmQWs1OHRXMlFvTzNpaTBQRzRsQmF3N0dYXzNNM0sxOXhxcG1XQjU4Y2t1bjVKanRFMFQ2cU12UEJjX29qcVJZUkdFM2R4UDJ5MVpoMi12dzA1aGNFNW1BcW5WRTBSNUI?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-07-28T06:46:00+09:00",
-          "ts": 1785188760.0,
+          "source_count": 1,
+          "published": "2026-07-28T16:08:00+09:00",
+          "ts": 1785222480.0,
           "group": "central",
           "group_label": "중앙부처(콘텐츠)"
         },
@@ -1440,20 +1379,38 @@
           "group_label": "중앙부처(콘텐츠)"
         },
         {
-          "title": "문체부, 국제콘텐츠공모전 ‘토크토크 코리아 2026’ 개최",
-          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5zODMwUmdyUHhyNkxKLXNvYl9rWi1QZ3psdl9GVmJtUng0TkQ1Ym9BWFQ4blVudEszWnpTMFkyOER5LTQ?oc=5",
-          "snippet": "",
-          "source": "kcemedia.com",
+          "title": "K콘텐츠의 자산은 ‘인재’… 문체부 - 콘진원, 종사자 보호·소양 교육...",
+          "url": "https://www.munhwa.com/article/11605438?ref=naver",
+          "snippet": "한국콘텐츠진흥원이 발간한 ‘2025년 4분기 및 연간 콘텐츠산업 동향분석 보고서’에 따르면 2025년 콘텐츠산업 매출은 161조 원, 수출 149억 달러로 각각 집계됐다. 산업의 발전에 따라 콘텐츠산업 종사자 수도 2024년...",
+          "source": "문화일보",
           "sources": [
             {
-              "name": "kcemedia.com",
-              "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5zODMwUmdyUHhyNkxKLXNvYl9rWi1QZ3psdl9GVmJtUng0TkQ1Ym9BWFQ4blVudEszWnpTMFkyOER5LTQ?oc=5",
+              "name": "문화일보",
+              "url": "https://www.munhwa.com/article/11605438?ref=naver",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-07-28T09:33:00+09:00",
+          "ts": 1785198780.0,
+          "group": "central",
+          "group_label": "중앙부처(콘텐츠)"
+        },
+        {
+          "title": "조정식 의장, 최휘영 문체부 장관 접견…“K-콘텐츠 경쟁력 강화 힘써달라”",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ScUNEc2FSSk1NdXZSbGNvblRvTnhYck9XOFg5VEd6cUJQbUNMV2FIaGJiYUN4aTV5c2xFdWhQTUJ3MFpzSTdvT2pkS0JSc3FXZ0hzYkdJc1lZYXpUbWdfRC1GZmVDeGxVTDQzb0JRcTRfRlNYUXZKWXA3NA?oc=5",
+          "snippet": "",
+          "source": "스포츠월드",
+          "sources": [
+            {
+              "name": "스포츠월드",
+              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ScUNEc2FSSk1NdXZSbGNvblRvTnhYck9XOFg5VEd6cUJQbUNMV2FIaGJiYUN4aTV5c2xFdWhQTUJ3MFpzSTdvT2pkS0JSc3FXZ0hzYkdJc1lZYXpUbWdfRC1GZmVDeGxVTDQzb0JRcTRfRlNYUXZKWXA3NA?oc=5",
               "origin": "google"
             }
           ],
           "source_count": 1,
-          "published": "2026-07-27T16:57:57+09:00",
-          "ts": 1785139077.0,
+          "published": "2026-07-27T19:35:20+09:00",
+          "ts": 1785148520.0,
           "group": "central",
           "group_label": "중앙부처(콘텐츠)"
         }
