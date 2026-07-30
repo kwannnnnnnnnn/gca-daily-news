@@ -123,6 +123,25 @@ def process(articles: list, meta: dict, cfg: dict) -> dict:
         else:
             clusters.append({"rep": a, "members": [a]})
 
+    # 2차 병합: 대량 재발행 기사가 그리디 순서로 쪼개진 '같은 사건' 덩어리를 재병합
+    def _cl_same(ci, cj):
+        for m1 in ci["members"][:4]:
+            for m2 in cj["members"][:4]:
+                if same_story(m1, m2, thr, df):
+                    return True
+        return False
+
+    i = 0
+    while i < len(clusters):
+        j = i + 1
+        while j < len(clusters):
+            if _cl_same(clusters[i], clusters[j]):
+                clusters[i]["members"].extend(clusters[j]["members"])
+                clusters.pop(j)
+            else:
+                j += 1
+        i += 1
+
     out_clusters = []
     for c in clusters:
         members = c["members"]
