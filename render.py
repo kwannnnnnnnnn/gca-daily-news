@@ -35,6 +35,9 @@ header h1{font-size:1.4rem;margin:0 0 4px;letter-spacing:-.02em}
 .live{background:var(--chip);color:var(--chipfg);border:1px solid var(--line);
 border-radius:10px;padding:9px 13px;font-size:.83rem;margin:2px 0 18px;line-height:1.45}
 .live a{color:var(--accent);font-weight:700;text-decoration:none}
+.trend-sep{margin:32px 0 16px;padding-top:22px;border-top:3px solid var(--accent);text-align:center}
+.trend-sep h2{font-size:1.25rem;margin:0 0 3px;letter-spacing:-.01em}
+.trend-sep span{color:var(--muted);font-size:.82rem}
 .stats{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0 24px}
 .stat{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:8px 14px;min-width:76px}
 .stat b{display:block;font-size:1.2rem;line-height:1.2}
@@ -146,7 +149,7 @@ def _section(group: dict, preview: int) -> str:
     )
 
 
-def render_html(result: dict, rel: str = "index", page: str = "main") -> str:
+def render_html(result: dict, rel: str = "index") -> str:
     c = result.get("counts", {})
     pv = result.get("preview_items", 5)
     gen = result.get("generated_at", "")[:16].replace("T", " ")
@@ -154,60 +157,52 @@ def render_html(result: dict, rel: str = "index", page: str = "main") -> str:
     naver_note = "" if result.get("use_naver") else \
         ' · <span title="네이버 키 미설정">네이버 키 추가 시 정확도↑</span>'
 
-    groups = [g for g in result.get("groups", []) if g.get("page", "main") == page]
-    is_trends = (page == "trends")
-    site_title = "AI·콘텐츠 산업 트렌드" if is_trends else "경기콘텐츠진흥원 일일 언론 모니터링"
+    all_groups = result.get("groups", [])
+    main_groups = [g for g in all_groups if g.get("page", "main") != "trends"]
+    trend_groups = [g for g in all_groups if g.get("page") == "trends"]
 
-    if is_trends:
-        nav = '<a href="index.html">&laquo; 기관 뉴스</a>'
-    elif rel == "index":
-        nav = ('<a href="trends.html">📈 산업 트렌드 &raquo;</a> · '
+    main_body = "".join(_section(g, pv) for g in main_groups)
+    body = (f'<div class="book">{main_body}</div>' if main_body
+            else '<div class="empty">해당 시간대에 수집된 관련 기사가 없습니다.<br>'
+                 '(키워드는 keywords.yaml에서 조정)</div>')
+
+    trend_body = "".join(_section(g, pv) for g in trend_groups)
+    if trend_body:
+        body += ('<div class="trend-sep" id="trends"><h2>📈 AI·콘텐츠 산업 트렌드</h2>'
+                 '<span>위클리 Gcon 스타일 · 기관과 무관한 AI·콘텐츠 산업 동향(자동수집)</span></div>'
+                 f'<div class="book">{trend_body}</div>')
+
+    if rel == "index":
+        nav = ('<a href="#trends">📈 산업 트렌드 &darr;</a> · '
                '<a href="archive/">지난 기록 &raquo;</a>')
     else:
-        nav = ('<a href="../index.html">&laquo; 오늘</a> · '
-               '<a href="../trends.html">📈 트렌드</a> · <a href="./">지난 기록</a>')
+        nav = '<a href="../index.html">&laquo; 오늘</a> · <a href="./">지난 기록</a>'
 
-    body = "".join(_section(g, pv) for g in groups)
-    if body:
-        body = f'<div class="book">{body}</div>'
-    else:
-        msg = ('해당 시간대에 수집된 트렌드 기사가 없습니다.' if is_trends
-               else '해당 시간대에 수집된 관련 기사가 없습니다.')
-        body = f'<div class="empty">{msg}<br>(키워드는 keywords.yaml에서 조정)</div>'
-
-    if is_trends:
-        n = sum(g.get("count", 0) for g in groups)
-        stats = f'<div class="stats"><div class="stat"><b>{n}</b><span>트렌드 기사</span></div></div>'
-    else:
-        tiles = "".join(
-            f'<div class="stat"><b>{c.get(k,0)}</b><span>{lbl}</span></div>'
-            for k, lbl in [("collected", "수집"), ("consolidated", "통합"),
-                           ("excluded", "제외"), ("multi", "복수보도")])
-        stats = f'<div class="stats">{tiles}</div>'
-
-    if is_trends:
-        banner = ('<div class="live">📈 <b>AI·콘텐츠 산업 트렌드</b> — 위클리 Gcon 스타일로 '
-                  'AI·콘텐츠·게임·전망·글로벌 동향을 자동수집(하루 4회 갱신). '
-                  '<a href="index.html">« 기관 뉴스로</a></div>')
-    elif rel == "index":
+    if rel == "index":
         banner = ('<div class="live">🟢 <b>이 주소가 항상 최신입니다.</b> 북마크해 두고 '
                   '<b>새로고침</b>만 하면 최신 뉴스가 떠요 · 하루 4회(09·13·15·17시) 자동 갱신.'
-                  '<br>※ 산업 동향은 <a href="trends.html">📈 트렌드</a>, 지난 기록은 '
+                  '<br>※ 아래로 내리면 <a href="#trends">📈 AI·콘텐츠 산업 트렌드</a>, 지난 기록은 '
                   '<a href="archive/">아카이브</a>.</div>')
     else:
         banner = ('<div class="live">📅 이 페이지는 <b>지난 기록</b>입니다. '
                   '최신 뉴스는 <a href="../index.html">오늘 보기 »</a></div>')
+
+    tiles = "".join(
+        f'<div class="stat"><b>{c.get(k,0)}</b><span>{lbl}</span></div>'
+        for k, lbl in [("collected", "수집"), ("consolidated", "통합"),
+                       ("excluded", "제외"), ("multi", "복수보도")])
+    stats = f'<div class="stats">{tiles}</div>'
 
     return f"""<!doctype html>
 <html lang="ko"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
 <meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Expires" content="0">
-<title>{esc(site_title)} · {esc(result.get('date'))}</title>
+<title>경기콘텐츠진흥원 일일 언론 모니터링 · {esc(result.get('date'))}</title>
 <style>{CSS}</style></head>
 <body><div class="wrap">
 <header>
-<h1>{esc(site_title)}</h1>
+<h1>경기콘텐츠진흥원 일일 언론 모니터링</h1>
 <div class="sub">{esc(result.get('date'))} · 최근 {esc(result.get('window_hours'))}시간 ·
 소스 {esc(srcs)}{naver_note}<br>생성 {esc(gen)} KST · {nav}</div>
 </header>
@@ -243,12 +238,13 @@ def _archive_index_html(entries: list) -> str:
 def write_outputs(result: dict):
     os.makedirs(ARCHIVE, exist_ok=True)
     with open(os.path.join(DOCS, "index.html"), "w", encoding="utf-8") as f:
-        f.write(render_html(result, rel="index", page="main"))
-    with open(os.path.join(DOCS, "trends.html"), "w", encoding="utf-8") as f:
-        f.write(render_html(result, rel="index", page="trends"))
+        f.write(render_html(result, rel="index"))
     with open(os.path.join(ARCHIVE, f"{result['date']}.html"), "w", encoding="utf-8") as f:
-        f.write(render_html(result, rel="archive", page="main"))
-    print(f"[render] index.html + trends.html + archive/{result['date']}.html 작성")
+        f.write(render_html(result, rel="archive"))
+    stale = os.path.join(DOCS, "trends.html")   # 트렌드를 메인에 병합 → 옛 별도페이지 정리
+    if os.path.exists(stale):
+        os.remove(stale)
+    print(f"[render] index.html + archive/{result['date']}.html 작성")
 
 
 def build_archive_index():
