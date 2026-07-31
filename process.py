@@ -100,9 +100,10 @@ def process(articles: list, meta: dict, cfg: dict) -> dict:
         g = gmap["governor"]
         g["exclude"] = list(g.get("exclude") or []) + list(settings.get("old_election_terms") or [])
 
+    lead_win = settings.get("lead_window", 14)
     collected = len(articles)
     kept = [a for a in articles
-            if a["group"] in gmap and is_relevant(a, gmap[a["group"]], gexcl)]
+            if a["group"] in gmap and is_relevant(a, gmap[a["group"]], gexcl, lead_win)]
     kept.sort(key=lambda a: a["ts"], reverse=True)
 
     # 토큰·DF 준비(드문단어 기반 통합)
