@@ -1,11 +1,15 @@
 name: daily-news
 
 on:
-  schedule:                   # KST = UTC+9. GitHub cron은 UTC 기준·best-effort(수 분 지연 가능)
-    - cron: "0 0 * * *"       # 09:00 KST (아침)
-    - cron: "0 4 * * *"       # 13:00 KST
-    - cron: "0 6 * * *"       # 15:00 KST
-    - cron: "0 8 * * *"       # 17:00 KST
+  schedule:
+    # KST = UTC+9. GitHub 예약은 best-effort라 혼잡 시각일수록 밀린다.
+    # ★정각(:00)·00:00 UTC는 전 세계 예약이 몰려 최대 2시간까지 지연 → 반드시 피할 것.
+    #  (실측: 00:00 UTC 회차만 매일 111~125분 지연, 06/08:00 UTC는 10~30분)
+    # → 어정쩡한 분(:35)으로 비켜서고, 목표시각보다 25분 앞당겨 예약.
+    - cron: "35 23 * * *"     # 08:35 UTC+9=목표 09:00 KST
+    - cron: "35 3 * * *"      # 12:35 → 목표 13:00 KST
+    - cron: "35 5 * * *"      # 14:35 → 목표 15:00 KST
+    - cron: "35 7 * * *"      # 16:35 → 목표 17:00 KST
   workflow_dispatch:          # 수동 실행 버튼
 
 permissions:
