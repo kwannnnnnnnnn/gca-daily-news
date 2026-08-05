@@ -9,6 +9,7 @@ settings:
   preview_items: 5          # 그룹별 기본 노출 개수(나머지는 '더보기'로 접힘)
   lead_window: 25           # lead_any 인식 범위(요약 앞 N자). 넓힐수록 회수↑·co주최 노이즈↑
   retention_days: 365       # 이 기간 지난 아카이브(archive/*.html·data/*.json)는 자동 삭제(0=무제한)
+  search_index_days: 180    # 지난 기록 검색 인덱스에 포함할 최근 일수(파일 크기 관리용, 0=retention_days 전체)
 
   # ────────────────────────────────────────────────────────────────
   # ★★★ 선거 표현 필터 ★★★

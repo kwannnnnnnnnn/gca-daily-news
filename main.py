@@ -69,6 +69,7 @@ def main():
     render.write_outputs(result)
     prune_old(cfg.get("settings", {}).get("retention_days", 0))
     render.build_archive_index()   # 정리 후 남은 것으로 목록 재생성
+    render.build_search_index(cfg.get("settings", {}).get("search_index_days", 180))  # 지난 기록 검색 인덱스도 갱신
     print("[main] 완료")
 
 

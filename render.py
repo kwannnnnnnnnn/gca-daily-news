@@ -9,7 +9,7 @@ import glob
 import html
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timedelta
 
 from util import KST, now_kst
 
@@ -86,6 +86,13 @@ border-radius:12px;padding:22px;text-align:center;font-size:.88rem}
 footer{margin-top:40px;padding-top:16px;border-top:1px solid var(--line);color:var(--muted);font-size:.76rem}
 .arc li{margin:6px 0}
 .arc a{color:var(--accent);text-decoration:none}
+
+/* 지난 기록 검색 */
+.search{margin:0 0 18px}
+.search input{width:100%;padding:11px 14px;border:1px solid var(--line);border-radius:10px;
+background:var(--card);color:var(--fg);font-size:.92rem}
+.search input::placeholder{color:var(--muted)}
+.qcount{color:var(--muted);font-size:.8rem;margin:2px 0 10px}
 """
 
 
@@ -180,9 +187,9 @@ def render_html(result: dict, rel: str = "index") -> str:
 
     if rel == "index":
         banner = ('<div class="live">🟢 <b>이 주소가 항상 최신입니다.</b> 북마크해 두고 '
-                  '<b>새로고침</b>만 하면 최신 뉴스가 떠요 · 하루 4회(09·13·15·17시) 자동 갱신.'
+                  '<b>새로고침</b>만 하면 최신 뉴스가 떠요 · 업무시간(08:35~17:35) 30분 간격 자동 갱신.'
                   '<br>※ 아래로 내리면 <a href="#trends">📈 AI·콘텐츠 산업 트렌드</a>, 지난 기록은 '
-                  '<a href="archive/">아카이브</a>.</div>')
+                  '<a href="archive/">아카이브</a>(제목·내용 검색 가능).</div>')
     else:
         banner = ('<div class="live">📅 이 페이지는 <b>지난 기록</b>입니다. '
                   '최신 뉴스는 <a href="../index.html">오늘 보기 »</a></div>')
@@ -216,6 +223,58 @@ def render_html(result: dict, rel: str = "index") -> str:
 </div></body></html>"""
 
 
+_SEARCH_JS = """
+(function(){
+  var input = document.getElementById('q');
+  var out = document.getElementById('qresult');
+  var list = document.querySelector('.arc');
+  var idx = null, timer = null;
+  function esc(s){
+    return String(s||'').replace(/[&<>"']/g, function(c){
+      return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];
+    });
+  }
+  function render(hits, kw){
+    if(!hits.length){
+      out.innerHTML = kw ? '<div class="empty">검색 결과가 없습니다.</div>' : '';
+      return;
+    }
+    out.innerHTML = '<div class="qcount">' + hits.length + '건</div>' + hits.slice(0, 80).map(function(e){
+      return '<div class="card"><a class="t" href="' + esc(e.u) + '" target="_blank" rel="noopener">' +
+        esc(e.t) + '</a><div class="meta"><span class="src">' + esc(e.src) + '</span><span>' +
+        esc(e.d) + '</span><span>' + esc(e.g) + '</span></div>' +
+        (e.s ? '<p class="snip">' + esc(e.s) + '</p>' : '') + '</div>';
+    }).join('');
+  }
+  function search(kw){
+    kw = (kw || '').trim().toLowerCase();
+    if(!kw){ out.innerHTML = ''; if(list) list.style.display = ''; return; }
+    if(list) list.style.display = 'none';
+    if(!idx){ out.innerHTML = '<div class="empty">검색 인덱스 불러오는 중…</div>'; return; }
+    var hits = idx.filter(function(e){
+      return (e.t && e.t.toLowerCase().indexOf(kw) !== -1) ||
+             (e.s && e.s.toLowerCase().indexOf(kw) !== -1);
+    });
+    hits.sort(function(a, b){ return b.d.localeCompare(a.d) || b.ts - a.ts; });
+    render(hits, kw);
+  }
+  input.addEventListener('input', function(){
+    clearTimeout(timer);
+    var v = input.value;
+    timer = setTimeout(function(){ search(v); }, 150);
+  });
+  fetch('../data/search-index.json').then(function(r){ return r.json(); }).then(function(j){
+    idx = j;
+    input.placeholder = '제목·내용으로 검색 (' + j.length + '건 대상)';
+    if(input.value) search(input.value);
+  }).catch(function(){
+    input.placeholder = '검색 인덱스를 불러오지 못했습니다';
+    input.disabled = true;
+  });
+})();
+"""
+
+
 def _archive_index_html(entries: list) -> str:
     items = "".join(
         f'<li><a href="{esc(e["date"])}.html">{esc(e["date"])}</a> '
@@ -231,8 +290,14 @@ def _archive_index_html(entries: list) -> str:
 <body><div class="wrap">
 <header><h1>지난 기록</h1>
 <div class="sub"><a href="../index.html">&laquo; 오늘 보기</a></div></header>
+<div class="search">
+<input type="search" id="q" placeholder="제목·내용으로 검색" autocomplete="off">
+<div id="qresult"></div>
+</div>
 <ul class="arc">{items or '<li class="empty">아카이브가 아직 없습니다.</li>'}</ul>
-</div></body></html>"""
+</div>
+<script>{_SEARCH_JS}</script>
+</body></html>"""
 
 
 def write_outputs(result: dict):
@@ -265,6 +330,40 @@ def build_archive_index():
     print(f"[render] archive/index.html 작성 ({len(entries)}일)")
 
 
+def build_search_index(days: int = 180) -> int:
+    """최근 아카이브(오늘 포함) 기사를 지난 기록 검색용 경량 인덱스로 저장
+    → docs/data/search-index.json (archive/index.html의 검색창이 fetch해서 사용).
+    days: 포함할 최근 일수(파일 크기 관리용). 0/None이면 전체(retention 그대로)."""
+    cutoff = ""
+    if days:
+        cutoff = (now_kst() - timedelta(days=int(days))).strftime("%Y-%m-%d")
+    entries = []
+    for p in sorted(glob.glob(os.path.join(DATA, "*.json"))):
+        if os.path.basename(p) == "search-index.json":
+            continue
+        date = os.path.basename(p)[:-5]
+        if cutoff and date < cutoff:
+            continue
+        try:
+            with open(p, "r", encoding="utf-8") as f:
+                d = json.load(f)
+        except Exception:
+            continue
+        date = d.get("date", date)
+        for g in d.get("groups", []):
+            for it in g.get("items", []):
+                entries.append({
+                    "d": date, "t": it.get("title", ""),
+                    "s": (it.get("snippet") or "")[:120],
+                    "u": it.get("url", ""), "src": it.get("source", ""),
+                    "g": g.get("label", ""), "ts": it.get("ts", 0),
+                })
+    with open(os.path.join(DATA, "search-index.json"), "w", encoding="utf-8") as f:
+        json.dump(entries, f, ensure_ascii=False, separators=(",", ":"))
+    print(f"[render] search-index.json 작성 ({len(entries)}건)")
+    return len(entries)
+
+
 def main():
     files = sorted(glob.glob(os.path.join(DATA, "*.json")))
     if not files:
@@ -274,6 +373,7 @@ def main():
         result = json.load(f)
     write_outputs(result)
     build_archive_index()
+    build_search_index()
 
 
 if __name__ == "__main__":
