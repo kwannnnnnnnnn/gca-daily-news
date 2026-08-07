@@ -30,13 +30,11 @@ border-radius:10px;padding:9px 13px;font-size:.83rem;margin:2px 0 18px;line-heig
 .stat b{display:block;font-size:1.2rem;line-height:1.2}
 .stat span{font-size:.72rem;color:var(--muted)}
 
-/* 책형 2단: 왼→오 행 단위(경콘진|경기도, 경기도지사|경기도의회 …), 가운데 spine */
-.book{display:grid;grid-template-columns:1fr 1fr;column-gap:40px;row-gap:6px;
-align-items:start;position:relative}
-.book::before{content:"";position:absolute;top:4px;bottom:4px;left:50%;
-width:1px;background:var(--spine)}
-@media (max-width:760px){.book{grid-template-columns:1fr;column-gap:0}
-.book::before{display:none}}
+/* 책형 2단: 신문처럼 세로로 흐름(왼단을 채우고 오른단으로) — 우선순위 순서 유지 +
+   행 높이 차이로 생기는 빈 공간이 없어 스크롤이 최소가 된다. */
+.book{column-count:2;column-gap:40px;column-rule:1px solid var(--spine)}
+.book>section{break-inside:avoid;-webkit-column-break-inside:avoid;page-break-inside:avoid}
+@media (max-width:760px){.book{column-count:1;column-rule:none}}
 
 section{margin:0 0 26px;min-width:0}
 .sec-h{display:flex;align-items:baseline;gap:8px;margin:0 0 11px;
@@ -88,7 +86,7 @@ background:var(--card);color:var(--fg);font-size:.92rem}
 <input type="search" id="q" placeholder="제목·내용으로 검색" autocomplete="off">
 <div id="qresult"></div>
 </div>
-<ul class="arc"><li><a href="2026-08-07.html">2026-08-07</a> — 통합 295건 · 복수보도 77건</li><li><a href="2026-08-06.html">2026-08-06</a> — 통합 272건 · 복수보도 70건</li><li><a href="2026-08-05.html">2026-08-05</a> — 통합 279건 · 복수보도 71건</li><li><a href="2026-08-04.html">2026-08-04</a> — 통합 293건 · 복수보도 74건</li><li><a href="2026-08-03.html">2026-08-03</a> — 통합 260건 · 복수보도 67건</li><li><a href="2026-08-02.html">2026-08-02</a> — 통합 174건 · 복수보도 34건</li><li><a href="2026-08-01.html">2026-08-01</a> — 통합 291건 · 복수보도 67건</li><li><a href="2026-07-31.html">2026-07-31</a> — 통합 300건 · 복수보도 87건</li><li><a href="2026-07-30.html">2026-07-30</a> — 통합 308건 · 복수보도 80건</li><li><a href="2026-07-29.html">2026-07-29</a> — 통합 314건 · 복수보도 73건</li><li><a href="2026-07-28.html">2026-07-28</a> — 통합 298건 · 복수보도 51건</li><li><a href="2026-07-27.html">2026-07-27</a> — 통합 32건 · 복수보도 13건</li><li><a href="2026-07-26.html">2026-07-26</a> — 통합 31건 · 복수보도 4건</li><li><a href="2026-07-25.html">2026-07-25</a> — 통합 70건 · 복수보도 19건</li><li><a href="2026-07-24.html">2026-07-24</a> — 통합 111건 · 복수보도 44건</li><li><a href="2026-07-23.html">2026-07-23</a> — 통합 111건 · 복수보도 30건</li><li><a href="2026-07-22.html">2026-07-22</a> — 통합 140건 · 복수보도 39건</li><li><a href="2026-07-21.html">2026-07-21</a> — 통합 137건 · 복수보도 55건</li><li><a href="2026-07-20.html">2026-07-20</a> — 통합 97건 · 복수보도 32건</li><li><a href="2026-07-19.html">2026-07-19</a> — 통합 58건 · 복수보도 17건</li><li><a href="2026-07-18.html">2026-07-18</a> — 통합 28건 · 복수보도 7건</li><li><a href="2026-07-17.html">2026-07-17</a> — 통합 67건 · 복수보도 27건</li><li><a href="2026-07-16.html">2026-07-16</a> — 통합 92건 · 복수보도 33건</li></ul>
+<ul class="arc"><li><a href="2026-08-07.html">2026-08-07</a> — 통합 282건 · 복수보도 75건</li><li><a href="2026-08-06.html">2026-08-06</a> — 통합 272건 · 복수보도 70건</li><li><a href="2026-08-05.html">2026-08-05</a> — 통합 279건 · 복수보도 71건</li><li><a href="2026-08-04.html">2026-08-04</a> — 통합 293건 · 복수보도 74건</li><li><a href="2026-08-03.html">2026-08-03</a> — 통합 260건 · 복수보도 67건</li><li><a href="2026-08-02.html">2026-08-02</a> — 통합 174건 · 복수보도 34건</li><li><a href="2026-08-01.html">2026-08-01</a> — 통합 291건 · 복수보도 67건</li><li><a href="2026-07-31.html">2026-07-31</a> — 통합 300건 · 복수보도 87건</li><li><a href="2026-07-30.html">2026-07-30</a> — 통합 308건 · 복수보도 80건</li><li><a href="2026-07-29.html">2026-07-29</a> — 통합 314건 · 복수보도 73건</li><li><a href="2026-07-28.html">2026-07-28</a> — 통합 298건 · 복수보도 51건</li><li><a href="2026-07-27.html">2026-07-27</a> — 통합 32건 · 복수보도 13건</li><li><a href="2026-07-26.html">2026-07-26</a> — 통합 31건 · 복수보도 4건</li><li><a href="2026-07-25.html">2026-07-25</a> — 통합 70건 · 복수보도 19건</li><li><a href="2026-07-24.html">2026-07-24</a> — 통합 111건 · 복수보도 44건</li><li><a href="2026-07-23.html">2026-07-23</a> — 통합 111건 · 복수보도 30건</li><li><a href="2026-07-22.html">2026-07-22</a> — 통합 140건 · 복수보도 39건</li><li><a href="2026-07-21.html">2026-07-21</a> — 통합 137건 · 복수보도 55건</li><li><a href="2026-07-20.html">2026-07-20</a> — 통합 97건 · 복수보도 32건</li><li><a href="2026-07-19.html">2026-07-19</a> — 통합 58건 · 복수보도 17건</li><li><a href="2026-07-18.html">2026-07-18</a> — 통합 28건 · 복수보도 7건</li><li><a href="2026-07-17.html">2026-07-17</a> — 통합 67건 · 복수보도 27건</li><li><a href="2026-07-16.html">2026-07-16</a> — 통합 92건 · 복수보도 33건</li></ul>
 </div>
 <script>
 (function(){
