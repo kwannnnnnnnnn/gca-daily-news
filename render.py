@@ -43,13 +43,11 @@ border-radius:10px;padding:9px 13px;font-size:.83rem;margin:2px 0 18px;line-heig
 .stat b{display:block;font-size:1.2rem;line-height:1.2}
 .stat span{font-size:.72rem;color:var(--muted)}
 
-/* 책형 2단: 왼→오 행 단위(경콘진|경기도, 경기도지사|경기도의회 …), 가운데 spine */
-.book{display:grid;grid-template-columns:1fr 1fr;column-gap:40px;row-gap:6px;
-align-items:start;position:relative}
-.book::before{content:"";position:absolute;top:4px;bottom:4px;left:50%;
-width:1px;background:var(--spine)}
-@media (max-width:760px){.book{grid-template-columns:1fr;column-gap:0}
-.book::before{display:none}}
+/* 책형 2단: 신문처럼 세로로 흐름(왼단을 채우고 오른단으로) — 우선순위 순서 유지 +
+   행 높이 차이로 생기는 빈 공간이 없어 스크롤이 최소가 된다. */
+.book{column-count:2;column-gap:40px;column-rule:1px solid var(--spine)}
+.book>section{break-inside:avoid;-webkit-column-break-inside:avoid;page-break-inside:avoid}
+@media (max-width:760px){.book{column-count:1;column-rule:none}}
 
 section{margin:0 0 26px;min-width:0}
 .sec-h{display:flex;align-items:baseline;gap:8px;margin:0 0 11px;

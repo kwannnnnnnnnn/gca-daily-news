@@ -6,7 +6,7 @@ settings:
   naver_display: 100        # 네이버 API 키워드당 최대 수집 건수(최대 100)
   min_title_similarity: 0.60  # 제목 유사도 이 값 이상이면 같은 사건으로 통합
   max_items_per_group: 40   # 그룹별 최대 보관 건수
-  preview_items: 4          # 그룹별 기본 노출 개수(나머지는 '더보기'로 접힘)
+  preview_items: 5          # 그룹별 기본 노출 개수(나머지는 '더보기'로 접힘)
                             # 그룹마다 preview_items를 따로 두면 그 값이 우선(예: 트렌드 3개)
   lead_window: 25           # lead_any 인식 범위(요약 앞 N자). 넓힐수록 회수↑·co주최 노이즈↑
   retention_days: 365       # 이 기간 지난 아카이브(archive/*.html·data/*.json)는 자동 삭제(0=무제한)
@@ -67,7 +67,7 @@ groups:
 
   - id: province
     label: 경기도(콘텐츠 관련)
-    priority: 2
+    priority: 4
     spec: 5                  # 광역 catch-all
     queries: [경기도 콘텐츠, 경기 콘텐츠산업, 경기 게임산업, 판교 게임, 경기 웹툰, 경기도 웹툰, 경기도 메타버스, 경기 영상산업, 경기 애니메이션]
     # '경기'는 축구경기·경기침체 등 중의성이 있어 스포츠/타지역 맥락을 제외로 차단
@@ -86,7 +86,7 @@ groups:
 
   - id: governor
     label: 경기도지사
-    priority: 3
+    priority: 2
     spec: 3
     queries: [추미애]
     title_any: [추미애, 경기도지사, 경기지사, 도지사]
@@ -95,7 +95,7 @@ groups:
 
   - id: gg_council
     label: 경기도의회(문체·미래위)
-    priority: 5
+    priority: 3
     spec: 2                  # 특정 기관 — 광역/도지사보다 우선 배정
     # 경콘진 소관 상임위(문화체육관광위·미래과학협력위)·경콘진/콘텐츠 관련만
     queries: [경기도의회, 경기도의회 문화체육관광위원회, 경기도의회 미래과학협력위원회, 경기콘텐츠진흥원 경기도의회]
@@ -115,7 +115,7 @@ groups:
 
   - id: bucheon_council
     label: 부천시의회(재정문화위)
-    priority: 7
+    priority: 6
     spec: 2                  # 특정 기관 — 부천시(광역)보다 우선 배정
     # 재정문화위원회(문화·콘텐츠 소관)·경콘진/부천 콘텐츠기관 관련만
     queries: [부천시의회, 부천시의회 재정문화위원회]
@@ -136,7 +136,7 @@ groups:
 
   - id: gg_agencies
     label: 경기도 산하기관
-    priority: 4
+    priority: 7
     spec: 4                  # 경콘진(1)·의회(2)·도지사(3)보다는 후순위, 광역 catch-all(5)보다는 우선
     # 목적: 타 산하기관이 도정(민선9기·도지사 정책)에 어떻게 발맞추는지 파악 → 경영평가 대응 참고
     # 경기도 공식 산하기관 전체(지방공기업 4 + 지방출연기관 22 + 지방출자기관 2)
