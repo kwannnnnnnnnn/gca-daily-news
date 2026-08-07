@@ -6,7 +6,8 @@ settings:
   naver_display: 100        # 네이버 API 키워드당 최대 수집 건수(최대 100)
   min_title_similarity: 0.60  # 제목 유사도 이 값 이상이면 같은 사건으로 통합
   max_items_per_group: 40   # 그룹별 최대 보관 건수
-  preview_items: 5          # 그룹별 기본 노출 개수(나머지는 '더보기'로 접힘)
+  preview_items: 4          # 그룹별 기본 노출 개수(나머지는 '더보기'로 접힘)
+                            # 그룹마다 preview_items를 따로 두면 그 값이 우선(예: 트렌드 3개)
   lead_window: 25           # lead_any 인식 범위(요약 앞 N자). 넓힐수록 회수↑·co주최 노이즈↑
   retention_days: 365       # 이 기간 지난 아카이브(archive/*.html·data/*.json)는 자동 삭제(0=무제한)
   search_index_days: 180    # 지난 기록 검색 인덱스에 포함할 최근 일수(파일 크기 관리용, 0=retention_days 전체)
@@ -94,7 +95,7 @@ groups:
 
   - id: gg_council
     label: 경기도의회(문체·미래위)
-    priority: 4
+    priority: 5
     spec: 2                  # 특정 기관 — 광역/도지사보다 우선 배정
     # 경콘진 소관 상임위(문화체육관광위·미래과학협력위)·경콘진/콘텐츠 관련만
     queries: [경기도의회, 경기도의회 문화체육관광위원회, 경기도의회 미래과학협력위원회, 경기콘텐츠진흥원 경기도의회]
@@ -106,7 +107,7 @@ groups:
 
   - id: bucheon
     label: 부천시(콘텐츠 관련)
-    priority: 5
+    priority: 6
     spec: 4
     queries: [부천시, 조용익, 부천 웹툰, 부천 만화, 부천국제판타스틱영화제, 부천 문화도시]
     title_any: [부천, 조용익, BIFAN, 부천국제, 부천판타스틱, 한국만화영상진흥원, 만화영상진흥원]
@@ -114,7 +115,7 @@ groups:
 
   - id: bucheon_council
     label: 부천시의회(재정문화위)
-    priority: 6
+    priority: 7
     spec: 2                  # 특정 기관 — 부천시(광역)보다 우선 배정
     # 재정문화위원회(문화·콘텐츠 소관)·경콘진/부천 콘텐츠기관 관련만
     queries: [부천시의회, 부천시의회 재정문화위원회]
@@ -124,7 +125,7 @@ groups:
 
   - id: central
     label: 중앙부처(콘텐츠)
-    priority: 7
+    priority: 8
     spec: 5
     queries: [한국콘텐츠진흥원, 콘진원, 문화체육관광부 콘텐츠, 콘텐츠산업 진흥, 게임산업 진흥, 콘텐츠 정책, 저작권 콘텐츠]
     # 콘텐츠 전담기관은 제목에 있으면 인정 / 문체부·정부는 콘텐츠 실체 단어까지 있어야(관광-only 배제)
@@ -135,7 +136,7 @@ groups:
 
   - id: gg_agencies
     label: 경기도 산하기관
-    priority: 8
+    priority: 4
     spec: 4                  # 경콘진(1)·의회(2)·도지사(3)보다는 후순위, 광역 catch-all(5)보다는 우선
     # 목적: 타 산하기관이 도정(민선9기·도지사 정책)에 어떻게 발맞추는지 파악 → 경영평가 대응 참고
     # 경기도 공식 산하기관 전체(지방공기업 4 + 지방출연기관 22 + 지방출자기관 2)
@@ -174,6 +175,7 @@ groups:
   - id: trend_ai
     label: AI · 생성형AI
     page: trends
+    preview_items: 3      # 트렌드는 더 짧게
     priority: 11
     spec: 20
     queries: [생성형 AI 콘텐츠, AI 콘텐츠 제작, 피지컬 AI, AI 에이전트, 버추얼 휴먼, AI 크리에이터, 생성형 AI 산업, AI 영상 제작]
@@ -182,6 +184,7 @@ groups:
   - id: trend_content
     label: 콘텐츠 · 크리에이터
     page: trends
+    preview_items: 3      # 트렌드는 더 짧게
     priority: 12
     spec: 20
     queries: [콘텐츠 산업 트렌드, 웹툰 산업, 웹소설 산업, 크리에이터 이코노미, 숏폼 콘텐츠, K-콘텐츠 수출, OTT 오리지널, IP 비즈니스]
@@ -190,6 +193,7 @@ groups:
   - id: trend_game
     label: 게임 · e스포츠
     page: trends
+    preview_items: 3      # 트렌드는 더 짧게
     priority: 13
     spec: 20
     queries: [게임 산업 트렌드, 인디게임, e스포츠 산업, 게임 신작 출시, 게임 수출, 콘솔 게임]
@@ -198,6 +202,7 @@ groups:
   - id: trend_insight
     label: 전망 · 심층분석
     page: trends
+    preview_items: 3      # 트렌드는 더 짧게
     priority: 14
     spec: 20
     queries: [AI 산업 전망, 콘텐츠 산업 전망, 생성형 AI 전망, AI 트렌드 분석, 콘텐츠 산업 리포트, K콘텐츠 전망, AI 산업 분석]
@@ -209,6 +214,7 @@ groups:
   - id: trend_global
     label: 글로벌 동향
     page: trends
+    preview_items: 3      # 트렌드는 더 짧게
     priority: 15
     spec: 20
     queries: [중국 AI 산업, 미국 AI 콘텐츠, 글로벌 콘텐츠 시장, 할리우드 AI, 일본 콘텐츠 산업, 실리콘밸리 AI]

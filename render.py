@@ -137,6 +137,7 @@ def _card(item: dict) -> str:
 
 
 def _section(group: dict, preview: int) -> str:
+    preview = group.get("preview") or preview   # 그룹별 지정이 있으면 우선
     items = group.get("items", [])
     head = "".join(_card(it) for it in items[:preview])
     rest = items[preview:]

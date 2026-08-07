@@ -176,6 +176,7 @@ def process(articles: list, meta: dict, cfg: dict) -> dict:
             groups_out.append({"id": g["id"], "label": g["label"],
                                "priority": g.get("priority", 99),
                                "page": g.get("page", "main"),
+                               "preview": g.get("preview_items"),
                                "count": len(items), "items": items[:maxg]})
 
     multi = sum(1 for c in out_clusters if c["source_count"] > 1)
