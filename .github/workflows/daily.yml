@@ -38,6 +38,9 @@ jobs:
         env:
           NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
           NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
+          # NAVER API HUB(NCP) — 구 검색 API 2026-07-31 종료 후속. 있으면 자동 전환.
+          NCP_API_KEY_ID: ${{ secrets.NCP_API_KEY_ID }}
+          NCP_API_KEY: ${{ secrets.NCP_API_KEY }}
         run: python main.py
 
       - name: Commit & push results

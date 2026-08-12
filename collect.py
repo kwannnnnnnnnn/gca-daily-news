@@ -16,15 +16,26 @@ from util import (http_get, load_config, normalize_title, normalize_url,
                   now_kst, parse_dt, press_name, split_google_title,
                   strip_html, today_str)
 
-NAVER_URL = "https://openapi.naver.com/v1/search/news.json"
+# 구(舊) 개발자센터 검색 API는 2026-07-31 종료(404 SE05). 후속은 네이버 클라우드 플랫폼의
+# NAVER API HUB — 경로에 확장자가 없고(`/search/v1/news`) 인증 헤더가 다르다.
+NAVER_URL_LEGACY = "https://openapi.naver.com/v1/search/news.json"
+NAVER_URL_HUB = "https://naverapihub.apigw.ntruss.com/search/v1/news"
 GOOGLE_URL = "https://news.google.com/rss/search"
 
 
 def fetch_naver(query: str, cid: str, csec: str, settings: dict) -> list:
-    headers = {"X-Naver-Client-Id": cid, "X-Naver-Client-Secret": csec}
+    """NCP_API_KEY_ID/NCP_API_KEY가 있으면 API HUB, 없으면 구 방식."""
+    ncp_id = os.environ.get("NCP_API_KEY_ID", "").strip()
+    ncp_key = os.environ.get("NCP_API_KEY", "").strip()
+    if ncp_id and ncp_key:
+        url = NAVER_URL_HUB
+        headers = {"X-NCP-APIGW-API-KEY-ID": ncp_id, "X-NCP-APIGW-API-KEY": ncp_key}
+    else:
+        url = NAVER_URL_LEGACY
+        headers = {"X-Naver-Client-Id": cid, "X-Naver-Client-Secret": csec}
     params = {"query": query, "display": settings.get("naver_display", 100),
-              "start": 1, "sort": "date"}
-    r = http_get(NAVER_URL, params=params, headers=headers)
+              "start": 1, "sort": "date", "format": "json"}
+    r = http_get(url, params=params, headers=headers)
     if not r:
         return []
     try:
@@ -82,9 +93,13 @@ def collect(cfg: dict):
     cutoff = now_kst() - timedelta(hours=hours)
     cid = os.environ.get("NAVER_CLIENT_ID", "").strip()
     csec = os.environ.get("NAVER_CLIENT_SECRET", "").strip()
-    use_naver = bool(cid and csec)
+    ncp_id = os.environ.get("NCP_API_KEY_ID", "").strip()
+    ncp_key = os.environ.get("NCP_API_KEY", "").strip()
+    # API HUB 키(신) 또는 개발자센터 키(구) 중 하나만 있어도 네이버 사용
+    use_naver = bool((ncp_id and ncp_key) or (cid and csec))
 
-    sources = (["네이버뉴스"] if use_naver else []) + ["구글뉴스"]
+    naver_label = "네이버뉴스(API HUB)" if (ncp_id and ncp_key) else "네이버뉴스"
+    sources = ([naver_label] if use_naver else []) + ["구글뉴스"]
     print(f"[collect] 소스={'+'.join(sources)} · 최근 {hours}시간 · "
           f"기준시각 {cutoff:%m-%d %H:%M} KST")
 
