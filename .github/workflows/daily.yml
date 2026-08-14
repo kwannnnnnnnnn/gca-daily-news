@@ -50,7 +50,19 @@ jobs:
           git add -A docs
           if git diff --cached --quiet; then
             echo "변경 없음 — 커밋 생략"
-          else
-            git commit -m "chore: 뉴스 자동 갱신 $(TZ=Asia/Seoul date +%Y-%m-%d)"
-            git push
+            exit 0
           fi
+          git commit -m "chore: 뉴스 자동 갱신 $(TZ=Asia/Seoul date +%Y-%m-%d)"
+          # 실행이 겹치면 push가 밀린다(! [rejected] fetch first).
+          # 리베이스 후 재시도하고, 생성물 충돌은 이번 실행분(-X theirs)을 채택한다.
+          for i in 1 2 3 4 5; do
+            if git push; then
+              echo "push 성공(시도 $i)"
+              exit 0
+            fi
+            echo "push 충돌 — 리베이스 후 재시도($i)"
+            git pull --rebase -X theirs origin main || git rebase --abort || true
+            sleep $(( (RANDOM % 10) + 5 ))
+          done
+          echo "::error::5회 재시도 후에도 push 실패"
+          exit 1
