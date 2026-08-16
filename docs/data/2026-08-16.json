@@ -1,6 +1,6 @@
 {
   "date": "2026-08-16",
-  "generated_at": "2026-08-16T10:07:56.815927+09:00",
+  "generated_at": "2026-08-16T10:37:47.333035+09:00",
   "window_hours": 30,
   "sources": [
     "네이버뉴스(API HUB)",
@@ -9,11 +9,11 @@
   "use_naver": true,
   "preview_items": 5,
   "counts": {
-    "collected": 2030,
-    "kept": 990,
-    "excluded": 1040,
-    "consolidated": 251,
-    "multi": 83
+    "collected": 2043,
+    "kept": 998,
+    "excluded": 1045,
+    "consolidated": 247,
+    "multi": 84
   },
   "groups": [
     {
@@ -43,6 +43,11 @@
             {
               "name": "news.tf.co.kr",
               "url": "https://news.tf.co.kr/read/national/2354615.htm",
+              "origin": "naver"
+            },
+            {
+              "name": "goodmorningcc.com",
+              "url": "https://www.goodmorningcc.com/news/articleView.html?idxno=450716",
               "origin": "naver"
             },
             {
@@ -191,6 +196,11 @@
               "origin": "google"
             },
             {
+              "name": "더브리프뉴스",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrczh4VkF6VHpod3o4R3MwV2VOUU1BTXFzSTRZQmlLUzBaNmVRNVFCX2xtcFdVVjNRTzdZT1hic2gwbFhtY0JjY0xpbEhramRkVVpnOWk3ZEZVc2N6Y3lOeWJ0MlR6czdGamFmS2RORdIBb0FVX3lxTFBrczh4VkF6VHpod3o4R3MwV2VOUU1BTXFzSTRZQmlLUzBaNmVRNVFCX2xtcFdVVjNRTzdZT1hic2gwbFhtY0JjY0xpbEhramRkVVpnOWk3ZEZVc2N6Y3lOeWJ0MlR6czdGamFmS2RORQ?oc=5",
+              "origin": "google"
+            },
+            {
               "name": "프레스뉴스",
               "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KUXlPUmpLM211WUJKUmlob2tBQ09GSm03X3V1U2lsUUxfbEtQeS1jSjI2N2lWcmxNU2JUNEJVbGVQQTRDS0I0Y0steUJCZ1RiOWxnTFlzWDAwdF9oVzFEU1lvdEI1b3NDdHhZZW9xM1FmQQ?oc=5",
               "origin": "google"
@@ -266,6 +276,11 @@
               "origin": "google"
             },
             {
+              "name": "newspim.com",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wcVBZWHBXRU50LUhIWFdzbXp1Nm5CdHB6eUNRcGN1VDJGZkdIbmZJbmhwektFYi1vcGhnSUxiX1Z1a2VqTlVCUnFldmlVSlE4QmM3U0FuQmRpUV9p?oc=5",
+              "origin": "google"
+            },
+            {
               "name": "경인방송 뉴스",
               "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pYlZ1VEF2RWZ0LUZDaWh3a2VXc0JvZ2VhaHotN0hadXl5WDk5SjBVb0JlYmN2ZWprdUpmLWtybHRxOVlsXzctRTcwN1NKT1EyN1BjSnlPMUY2Y1VGaVZocThJbjJ3d3ZG?oc=5",
               "origin": "google"
@@ -304,14 +319,9 @@
               "name": "gnews.gg.go.kr",
               "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN3BYZmVsRGxHNndEVFU0NEdKVElUMkJiU2RzMGNlVDVjMElCcUtSUHFLdDF4eG1QTXY2Q2VqNEtWNkQ0TExSTkR4dUhEcnllY3JGQU9WTndrdnU1bFdVdGhkSmgtRzR4SFdCOXljbG9tZDlldmJkbW9vdTZBX05xcDZmYnA?oc=5",
               "origin": "google"
-            },
-            {
-              "name": "더브리프뉴스",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrczh4VkF6VHpod3o4R3MwV2VOUU1BTXFzSTRZQmlLUzBaNmVRNVFCX2xtcFdVVjNRTzdZT1hic2gwbFhtY0JjY0xpbEhramRkVVpnOWk3ZEZVc2N6Y3lOeWJ0MlR6czdGamFmS2RORdIBb0FVX3lxTFBrczh4VkF6VHpod3o4R3MwV2VOUU1BTXFzSTRZQmlLUzBaNmVRNVFCX2xtcFdVVjNRTzdZT1hic2gwbFhtY0JjY0xpbEhramRkVVpnOWk3ZEZVc2N6Y3lOeWJ0MlR6czdGamFmS2RORQ?oc=5",
-              "origin": "google"
             }
           ],
-          "source_count": 56,
+          "source_count": 58,
           "published": "2026-08-15T17:31:00+09:00",
           "ts": 1786782660.0,
           "group": "governor",
@@ -618,39 +628,6 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "추미애 경기도지사 \"경기도 재정, 이대로면 부도…재정 현실 제대로 봐...",
-          "url": "http://www.paxetv.com/news/articleView.html?idxno=279549",
-          "snippet": "추미애 경기도지사[사진=이상묵 기자] 추미애 경기도지사가 경기도 재정 상황과 관련해 \"재정파탄으로 이대로면 부도\"라며 재정 건전성에 대한 우려를 제기했습니다. 추 지사는 지난 14일 자신의 페이스북에 '경기도...",
-          "source": "paxetv.com",
-          "sources": [
-            {
-              "name": "paxetv.com",
-              "url": "http://www.paxetv.com/news/articleView.html?idxno=279549",
-              "origin": "naver"
-            },
-            {
-              "name": "팍스경제TV",
-              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zTUFaRzhqMGZHbkpYR1FFY0Q1X1VpVU5DN29kaTJabVhoTk9wSE1lN0RCamJvLUhZd2hUWUVjeGVuUmh2WW84cmdac1RZajZLR0tmaEFUeVozOWpPa0FEMWdvWU14VFFE?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "ainews1.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfSXAtUHg4NEdRZjNZTEppa0owaThmbWFIVkMzVy1ZQnV3YzNNRWlBa3FBbDFLS3B0LTRTcjU2X3hJXzF3eGJjWE5nb2xIUkdaTnhTLTE4NDRJT08yNTlvQXVIZlBKSHZ0djNF?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "데일리저널",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDM0xGWGFHNkRnWWVhMVJ4ZTBVXzJqQTk5MkdOeU5VVDNwYXFWUHZVcHlneHNnbmtuZ1VuUWktV1laN0FGaUthcWV3RzVUOHZKZFRpQzFSdVZPRkFqM0R1bEowZTBPWUJoYnc?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 4,
-          "published": "2026-08-15T11:56:00+09:00",
-          "ts": 1786762560.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
           "title": "추미애 \"숨은 독립운동가 끝까지 찾고 역사적 정의 세우겠다\"",
           "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=726302",
           "snippet": "추미애 경기도지사가 제81주년 광복절을 맞아 알려지지 않은 독립운동가를 끝까지 발굴하겠다고 밝혔다. 독립운동의 헌신에는 합당한 예우를 하고 친일의 잘못은 분명하게 바로잡겠다는 뜻도 강조했다. 경기도는 15일...",
@@ -675,6 +652,34 @@
           "source_count": 3,
           "published": "2026-08-15T20:50:00+09:00",
           "ts": 1786794600.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "추미애 경기도지사 \"경기도 재정, 이대로면 부도…재정 현실 제대로 봐...",
+          "url": "http://www.paxetv.com/news/articleView.html?idxno=279549",
+          "snippet": "추미애 경기도지사[사진=이상묵 기자] 추미애 경기도지사가 경기도 재정 상황과 관련해 \"재정파탄으로 이대로면 부도\"라며 재정 건전성에 대한 우려를 제기했습니다. 추 지사는 지난 14일 자신의 페이스북에 '경기도...",
+          "source": "paxetv.com",
+          "sources": [
+            {
+              "name": "paxetv.com",
+              "url": "http://www.paxetv.com/news/articleView.html?idxno=279549",
+              "origin": "naver"
+            },
+            {
+              "name": "ainews1.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfSXAtUHg4NEdRZjNZTEppa0owaThmbWFIVkMzVy1ZQnV3YzNNRWlBa3FBbDFLS3B0LTRTcjU2X3hJXzF3eGJjWE5nb2xIUkdaTnhTLTE4NDRJT08yNTlvQXVIZlBKSHZ0djNF?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "데일리저널",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDM0xGWGFHNkRnWWVhMVJ4ZTBVXzJqQTk5MkdOeU5VVDNwYXFWUHZVcHlneHNnbmtuZ1VuUWktV1laN0FGaUthcWV3RzVUOHZKZFRpQzFSdVZPRkFqM0R1bEowZTBPWUJoYnc?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-08-15T11:56:00+09:00",
+          "ts": 1786762560.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -902,10 +907,10 @@
           "title": "열린도지사실",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBnaVlHUXN5NmtvNlJtVnlPX0Y2REZVLXlPMXBmWnFTSXR0Z19QU05ZVVZfLTFIbkxXMzBNMVgtaHNtTzNKVk4yenl4QkF3UHQtenNxcVo4VEtMY05QQmZQWFctVURZM1ZrblB4Q0pZamMyVHM?oc=5",
           "snippet": "",
-          "source": "경기도청",
+          "source": "gg.go.kr",
           "sources": [
             {
-              "name": "경기도청",
+              "name": "gg.go.kr",
               "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBnaVlHUXN5NmtvNlJtVnlPX0Y2REZVLXlPMXBmWnFTSXR0Z19QU05ZVVZfLTFIbkxXMzBNMVgtaHNtTzNKVk4yenl4QkF3UHQtenNxcVo4VEtMY05QQmZQWFctVURZM1ZrblB4Q0pZamMyVHM?oc=5",
               "origin": "google"
             }
@@ -994,10 +999,10 @@
           "title": "부천시, 영화를 통한 인구교육 진행… 노년의 삶과 존엄 함께 고민 > 뉴스",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wNVlLMERlN3BpaG1vMF9SR3VkV1VrYjR5UzNXQVpQYkQwTFczZzlYWWt6NTdVMDY1b3pIVldSWklrLU5TckQ1QWl0a252cWtPZ3hCcHEtTE1VSHlzdk1oZlNzYUlENUhBd2d4OW9Ra0I?oc=5",
           "snippet": "",
-          "source": "더코리아",
+          "source": "thekorea.kr",
           "sources": [
             {
-              "name": "더코리아",
+              "name": "thekorea.kr",
               "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wNVlLMERlN3BpaG1vMF9SR3VkV1VrYjR5UzNXQVpQYkQwTFczZzlYWWt6NTdVMDY1b3pIVldSWklrLU5TckQ1QWl0a252cWtPZ3hCcHEtTE1VSHlzdk1oZlNzYUlENUhBd2d4OW9Ra0I?oc=5",
               "origin": "google"
             }
@@ -1016,371 +1021,8 @@
       "priority": 7,
       "page": "main",
       "preview": null,
-      "count": 27,
+      "count": 28,
       "items": [
-        {
-          "title": "“한국 문화 직접 경험해요” 경기도미래세대재단, 이주배경 청소년과...",
-          "url": "https://www.betanews.net/article/view/beta202608160004",
-          "snippet": "경기도미래세대재단이 이주배경 청소년들에게 지역 문화를 경험하고 또래와 교류할 수 있는 체험 기회를 제공했다. 재단은 지난 14일 경기도청소년수련원에서 화성시 글로벌청소년센터 소속 이주배경 청소년 29명과...",
-          "source": "betanews.net",
-          "sources": [
-            {
-              "name": "betanews.net",
-              "url": "https://www.betanews.net/article/view/beta202608160004",
-              "origin": "naver"
-            },
-            {
-              "name": "sisajournal-e.com",
-              "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=423107",
-              "origin": "naver"
-            },
-            {
-              "name": "ddaily.co.kr",
-              "url": "https://www.ddaily.co.kr/page/view/2026081418424198793",
-              "origin": "naver"
-            },
-            {
-              "name": "metroseoul.co.kr",
-              "url": "http://www.metroseoul.co.kr/article/20260815500007",
-              "origin": "naver"
-            },
-            {
-              "name": "연합뉴스TV",
-              "url": "http://www.yonhapnewstv.co.kr/news/AKR20260816061859oJe",
-              "origin": "naver"
-            },
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260815048200017?input=1195m",
-              "origin": "naver"
-            },
-            {
-              "name": "조선비즈",
-              "url": "https://biz.chosun.com/it-science/ict/2026/08/16/SW3XQXFVP5FZLA5PQZOBIIVEJY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-              "origin": "naver"
-            },
-            {
-              "name": "머니투데이",
-              "url": "https://www.mt.co.kr/future/2026/08/16/2026080413044526123",
-              "origin": "naver"
-            },
-            {
-              "name": "game.dailyesports.com",
-              "url": "http://game.dailyesports.com/view.php?ud=20260816004338755921ad998911_26",
-              "origin": "naver"
-            },
-            {
-              "name": "wikitree.co.kr",
-              "url": "https://www.wikitree.co.kr/articles/1152491",
-              "origin": "naver"
-            },
-            {
-              "name": "인벤",
-              "url": "https://www.inven.co.kr/webzine/news/?news=319581",
-              "origin": "naver"
-            },
-            {
-              "name": "viva100.com",
-              "url": "https://www.viva100.com/article/20260815500239",
-              "origin": "naver"
-            },
-            {
-              "name": "tokenpost.kr",
-              "url": "https://www.tokenpost.kr/news/cryptocurrency/391398",
-              "origin": "naver"
-            },
-            {
-              "name": "디스이즈게임",
-              "url": "https://www.thisisgame.com/articles/428947",
-              "origin": "naver"
-            },
-            {
-              "name": "매일경제",
-              "url": "https://www.mk.co.kr/article/12128763",
-              "origin": "naver"
-            },
-            {
-              "name": "아시아경제",
-              "url": "https://view.asiae.co.kr/article/2026081409050208524",
-              "origin": "naver"
-            },
-            {
-              "name": "한국경제",
-              "url": "https://www.hankyung.com/article/2026081425981",
-              "origin": "naver"
-            },
-            {
-              "name": "sportschosun.com",
-              "url": "https://www.sportschosun.com/entertainment/2026-08-15/202608150100089880005676",
-              "origin": "naver"
-            },
-            {
-              "name": "뉴스1",
-              "url": "https://www.news1.kr/society/general-society/6260246",
-              "origin": "naver"
-            },
-            {
-              "name": "동아일보",
-              "url": "https://game.donga.com/123832/",
-              "origin": "naver"
-            },
-            {
-              "name": "news.tf.co.kr",
-              "url": "https://news.tf.co.kr/read/world/2354605.htm",
-              "origin": "naver"
-            },
-            {
-              "name": "sportsworldi.com",
-              "url": "https://www.sportsworldi.com/newsView/20260814518250",
-              "origin": "naver"
-            },
-            {
-              "name": "한국일보",
-              "url": "https://www.hankookilbo.com/news/article/A2026081113450003449?did=NA",
-              "origin": "naver"
-            },
-            {
-              "name": "전자신문",
-              "url": "https://www.etnews.com/20260815000008",
-              "origin": "naver"
-            },
-            {
-              "name": "파이낸셜뉴스",
-              "url": "http://www.fnnews.com/news/202608150823295969",
-              "origin": "naver"
-            },
-            {
-              "name": "bntnews.co.kr",
-              "url": "https://www.bntnews.co.kr/article/view/bnt202608150041",
-              "origin": "naver"
-            },
-            {
-              "name": "세계일보",
-              "url": "https://www.segye.com/newsView/20260814508322?OutUrl=naver",
-              "origin": "naver"
-            },
-            {
-              "name": "조선일보",
-              "url": "https://www.chosun.com/national/welfare-medical/2026/08/15/SUZYAGULWZBMVNEPLTMHNDV75I/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-              "origin": "naver"
-            },
-            {
-              "name": "베타뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EZW1rT29LS0pFZjh3VDFwX1dtWmNmNHFramJMUlZ1Qk5BUDZqbnlBWUs3MW55VUZwd2t0ekpkcGo5VFB5TGtxcUFqODdta0xDT3hUcFI3bXFheVBPX1Q0VkFHZTk?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "더리브스",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Qbml0TnFtZFQ5d2dSZldqQU9MVW1jcUgyQnFVVWRCSEZGV1VDZjFYQUpKYm5jZFNFRUl6cVVCajA2aV9Yem44aVdrOEFnMjYzM2hPV1BJbk1DVmRZRDZuSTZfOEFyUHYweUE?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13eS16bVFTWnBiNXBNcVJMMUliN0l6aEgtb1VaSkctOUYzMF9ZdVUtdHZsRzdESGtqNTg3Q0dlT1RiSHk1SzhGTU1jYV9Fdm9yc3k4?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "메트로신문",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRUF9ZOHFfZU1Zd0JJSVdtZm9sU2ZISUJBRVBEX2pKQlJkb0FUOUZSV3BURnhiMEdCcUtuX2xIR2pVUkR4QXVSMFJ6UFVVUnJjaXU0MWp1UjVKNXVIUFdBcw?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "Chosunbiz",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONEw3ZnhqUjhPTFZKN0cwdjFtU3Z0RWxaWVpvdzFHNHBoSXNxbkxNeUlzM19oZjh6QnBFQ1RNa2l1NDdZbU1YdllUME5VUlBGbzl6N0FBaDZTSEwwcEVlOXE5V3d1b05ucXRJbWdXUzY1WkdNdDFsTUhDLXlueG1LRkFR0gGWAUFVX3lxTE9RWmVaX2h5d0RIWUFQRXVtUFlLZGZkOXgtbS1pTG5OUGcycHNuaGtMV3VIQ1ZiU2Z6MkZ5SHNLX2g5SWhpbnM3MVcyZmF1VlFJNWFuNmxrRTV2SXczNXlkYk9GR0p6TFViU2pUaEt2Y1pFYUk3VVBTUTFpVlV1YlAyVVYyT3pPSTdPLWpsOWZIVU0xU1NKZw?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "v.daum.net",
-              "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKZGpUZjF4cFQtRmYwMFV0YlAwN19aLXZudXczWE1RSHZzeEk3cmYycWI5STJoS2VweE5HQmtmRl9ySy1ic3hibl9tbw?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "데일리게임",
-              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XbHYwV0dMd1JFTFFidTFQTDU3MERDc0ZsMTBuWWxoYmkwS2Y5QXUyRnVvVEtBM0NrUjdfZUJ0T3FSanZ1NzhFMzNtWEtub2VVeUhWNThvbWFDelhETTdqVmZ0endZUjY2UEt4a0N4YkNZdlFPUDZfei1jaw?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "경북구미신문",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mZ281T0JGQjZiUkZleDQwNEJmN1BLdHFtRnJyb1FieDdYWE5xZ2xLeEk2Z1RvaW1ZXzliUGFTMUFfRGxsNUNScjRDU3lwTGJPS1IwT0NSUVNOeV95ZHE2Z0tqall4TlZEU2c?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "코리아포스트 한글판",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tZHBzVEJaalpQYVJrMnFFaUFyclBqX09DbFNVWEN6UXMwdTljbTE3aE1oM1Vhb0h3Uks4UHBJaFF0V3lZTkNwMUhMX0ZDQUI1cGQ2SkdQVWtjSUdRZlRNTUtUdlNvbkJJc2FtTENB?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "ipnn.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43X0VVQi1rek1DWERscVJhWUR2dld3Vkg2OGZSWHJTWnBhQzFUNk8yVjB6R0R1ODYtbnNhbmZXTnhMWS1iSmFYV1pLTGs3REh2ZFVtek5rSlQ1LXNnVzBNeWdTYXZ3bXNV?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "서남투데이",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GTXRUeTktLTh3Wk92aS0tak1Hd0lqQWhLZGs5Y2lWWXlDRFJoVVZNQ2MzV21jN3Z0Q3RmTnVWeTIzWWN1OVM3bkJIamIwMjgwLUI0TXVVYVhVZw?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "테크M",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkSHE1NXBiRmZDMkJkVl9Wb0lkWjRuenFXb2c5ZDFmS296d2dFaVJFak9zdWZtdU1Wa2dXSEt1X1JseElOMmlaV2ROUXZnanN1ck1BTVFyS29HVzBXM2JkTk05anZqYjRBbkHSAWpBVV95cUxQZEhxNTVwYkZmQzJCZFZfVm9JZFo0bnpxV29nOWQxZktvendnRWlSRWpPc3VmbXVNVmtnV0hLdV9SbHhJTjJpWldkTlF2Z2pzdXJNQU1RcktvR1cwVzNiZE5NOWp2amI0QW5B?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "브릿지경제",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsQk00N281Y3B2amhmclNfVjdGT0tnYlV5ZzUxdzBXb1VXcVp3STQzOGdUVURhXzY0dm1nMU9FWjIyY1FvcWVoLUNqQ0Q1S2hRWHI1eTd2YjRMQQ?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "게임메카",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mNDF6Z1RGcDVieVRJM2ExQTJEV3ZtQ1J2Z3ltZUJ3QUNNaFFrNzk1VUhQWDN3cGNXMG5kcVE5Rm9wMDhpdlA4MmRBbXliM2NQXzN5RzBjdUVhVVHSAVtBVV95cUxNZjQxemdURnA1YnlUSTNhMUEyRFd2bUNSdmd5bWVCd0FDTWhRazc5NVVIUFgzd3BjVzBuZHFROUZvcDA4aXZQODJkQW15YjNjUF8zeUcwY3VFYVVR?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "TradingKey",
-              "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa0EwR3VpUDZNQkZnTWRDV251WHdmdXFrb3pXdGQxNEx6dk9CWWxlTDFISG1FY01lbU5LWkl4eUpsaG5jemVCSHJybXFsazFPV0ppd0tyZXRXZVZUOUJ5TlliLUtGNnpuZTJzclF0Z19hQ3M4emxJTlJNZDZ5eXdxa281cXhuTzFNRkJsS0Q2R3M2TlRGWWFkQ3E3Y2ZTM3UyeFBwTTlwM1ExU21KaFhtM2toZ3l0TGpmUVJwdnBpZw?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "스포츠조선",
-              "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVktX0RCb2ZWSWpzaExqWl9oeEtfbjUxTGlsVnZrN3JUWlNMa1hoQUFCdTRjM1E1cDB1RGpOT1FGQ1hhSjNRbmdoMzk1Y1dXdG1HMFVsanN2Mk5kb3M3MkwwS2ZYSHFuSExnLVgtRzRnU0d0YjhFWkFRR3ZLRkJXaTlZZ0s?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "핀포인트뉴스",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB0bEdHQUkzd0VqVktwb200cGpfR2FFUEdHWF9jTjRsYjI0cFgtbWd0MVdiMHl4N3NPTnVrUjVPaWphRlg4aXlkOXMwUkQzSXBJbDM2ODFnalBVM3FzOGxRaVhneDBYUE1WdWZ4U1pBTDZJUVg5ZVhn0gF3QVVfeXFMUHRsR0dBSTN3RWpWS3BvbTRwal9HYUVQR0dYX2NONGxiMjRwWC1tZ3QxV2IweXg3c09OdWtSNU9pamFGWDhpeWQ5czBSRDNJcElsMzY4MWdqUFUzcXM4bFFpWGd4MFhQTVZ1ZnhTWkFMNklRWDllWGc?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "부패방지뉴스",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZX2FBVGZ6R0xzN2FnX0dTcnMzcG05c2lic2xWMmpoX2tBSDRObGNNNmtJV2IxbnlCenJ4QXpWaFdCRkhvZmI0SjduaDZQU0hZeHJjV0ppRnZYWVpTXy1aLVFmYndGeUU3T0Y0?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "KIPOST",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pZl9pM2o0bWFNUDBvcHdZVWxWdFFRUTR3LXdJenkyQ0VCWmZOemZWY0IyTkVubTdjRUJ2YlpyWm9sQ3ItRjZ1OHFDSVRYQjFaNFJjSWc5c0FiT0xHLVl0VURxa2c2akR1OGhmadIBbEFVX3lxTE5pZl9pM2o0bWFNUDBvcHdZVWxWdFFRUTR3LXdJenkyQ0VCWmZOemZWY0IyTkVubTdjRUJ2YlpyWm9sQ3ItRjZ1OHFDSVRYQjFaNFJjSWc5c0FiT0xHLVl0VURxa2c2akR1OGhmaQ?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "한스경제",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QWGs3QVI4MjBkaF82RklDNGkya1dkVmdHUGk1SUJKY2plN2w4d1F0VHlRVUxkSjlVdGlWeldGNEpCMkJ3VGhNVzBwRWRkUmY4SDA4U1VRZ2xocHBXallDRm9LNkE2UkZXWkFiedIBb0FVX3lxTE0yV2VKSV9XUXh3c2RBZ0lOOFFUV3lseXc2azZtM3RTbVhuOUtud0FCTXhQWFVMampQSWdUTEdHVktFekl3cEFpZkhxR250QmEyV1dWS20wc1NCcHdJcTl0cUhWOG1FMHk5Q0VTRVZxMA?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "콕스뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsR3c5cmp2OWhxVVBvMDI2SVZSX1NhQXAtVmExWnJPS2l3aHg3Q1pJWmYzcU5pZF9FZGptb0JLMkJvTWZIeWd3dEpyM0hyT0M3RXBRSDFraU1RNVBxRWtZbHl5NkpqU3RheVE?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "aipostkorea.com",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RVU56elUwZEpXSDhPQWUwMkRobVBubEN2UzlfQjh5Yi1EVGJzZkl5d29pZjhVS185enJjZldxeFpQRTFDTlpSMkpLR1A4bEdnT2kxY3pobUhtelF2SXQwUy0taU5xZVkyTmoxWE1n0gFyQVVfeXFMT1FUb1ZzT1VpVU1Ub0lKR2VRbGszLXFNZ3g2VUZDdklXOWVsOTRqTzY5aURVOU1mcW9SVWxuSEV6NC1ub1duMTJpQVFnYk5LVTh6djVxcW0tczNWc0FwdEtpbi1ZbTJSY0lsZFlaRGVBSzZR?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "elec4",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2ZTlQR1hzNzZ5WjJ1NzE1X3pGdHlpQUgzOGQtZFBoSUN5WWlVcllLcm9JZHk1elRuVDBtbGNqOTlKOTFaZUx4cm50TEJZand6WTB1aTlhcE0zdjdReXRVYjlZY2ZnczNtSG1YaGRn?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "AI타임스",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CRXBONHZWZm54a19qSHE3Mjc1NHQwWWw1a0ZWX2kyOVNMNWt0N3o0WWhSd3RtV3A5LTA2b1ZhMkJ2Ql9TZ2VQcVVvbTV0SmlRcjhTX1lBR1JXM3ZVSlpMekJtU1hjbU1jcEE?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "vietnam.vn",
-              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeUVXNkdCVjZFUTZmUThIUl9ZWXlvb05ScWNmRVdYX09CdVp1Tld1Q1ZwUFRNT0pZLTl4ejRDeTFpNGJfVnl0MnlQVklnSWU1RmFTSGlmcDNidVc1aThMSExKekh1c2xIdzMtX1ZYVVNWamYtRW9PQTh2d3JjazFkU2duQ0RkWUtQYk5sZ2ZSaVlqZ1RlcnZuekpmcWpyOVk?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "네이트뷰",
-              "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KZXpGQ1ZCNVB2RTE2Zk9GSWprbnk2SlJuV09GYTVfSTAzazNoUGVjbzh6U1dPMFhBRGhmRzhfN0hWNkhDNzZpN01aSHZ2UTNG?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "Samsung magazín",
-              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWmltSC1QdkRQdnU1aGJiY29nTHVWMksxZHNsaC10N0kwNk1uRWs3OUxkM0xoVlU1elFkcnZhSzNRWDN3MFBpMXhmcFJucXF2UFR1NmxzOF9zWTE2bE1yYWs4amxkUTFvM1RIeHNORXlhSFE0WW5VdTJsT3BLY1p6X0lNMjlYbEhFTnZ6X2hHc3NNU1NEQjVJVg?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "포인트경제",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Cd1V3Q0hmOS13MmRheDZpazdZdk8ya1V5RnZnWTJQWjR4aFFMWWNaVkNmcll1SFkzVGJha2FrUkJYdkxGUjdhbm9sUVVQTGJVNzByS1kwYUN6M1Z4cDNXdFNDOXdDcDRZZ3c?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "유스연합",
-              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SSnhVUEZmVWZuN01Na3J1Tl9vM0YzcGN6NGRtZVlMbXVLa3ZkTXZYa2MxZnh5bElzTlpSVFRLLVBCVFBBMDVQNmhKajZSdkFRX0E?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "hankookilbo.com",
-              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QMzRZUGNkZ2dPaWc2WXctT3JMMDdHYjhaeWN1T2RuZVBuVW9JSmhEb3NrazNpdmNKOUVvMzJpX1pGWVdsckp1U2Q5bEVoMmRzQTBiYTN6cS1xS25IWG9ydk55di1wUE1TUXNaaUpkTUVDaTDSAXNBVV95cUxOUDM0WVBjZGdnT2lnNll3LU9yTDA3R2I4WnljdU9kbmVQblVvSUpoRG9za2szaXZjSjlFbzMyaV9aRllXbHJKdVNkOWxFaDJkc0EwYmEzenEtcUtuSFhvcnZOeXYtcFBNU1FzWmlKZE1FQ2kw?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "Sortir à Paris",
-              "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOGVQUTczVks0VG9Yd3VpXzl2Z3ZNUHF4SUlOQ29nVDZENkdUTnhVcFVPdXhFckdfWWdUVVZqb2JGZFRiT1k0dzN4QS1ZaERwbUdfanBOYU9qbkdYdlZxMUxpUE54WkJ4TFhhdVM4VWJXakhRSzVhSm9VTXJuR1VQSjdCdW5iSzRfa1hMbTZmNVJDVUoteFRhSTlPRjNnSVVWUzA4Zk9WUXZ6T3FHTl9fT25sX3pzYTNEeC1YRVZEUjNlV1J6Z0Z6MFIzZ3ZvbmVtdEtYMVFLYlBQcENVVERIR1lOdEdJbldCMEx0QkFIWG5zUQ?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "Mshale",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wOWhOb19TRVhxM0JMODdQa212UExEcHV6cmF2RzVnTnhWcXA4Vk15aXpyV3daY0xqMW1Vb2drbzdRLXNQSHVjRW9HVFJnT3B2SW5XNmxOUjN2Z28?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "globale.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5keGZpNDZ6ZHliS2ZFdzJyclNHSUVYcFdwZzdXek1IaVc0LS1Sa2RUUUpZWnhtazFJZTBST3p5NXZzVGFtQ1RIaVR1M3UxOWk0M0VVNUVPY2xKVFZSQVdkRXFud1lGbS1UcDJZ0gFvQVVfeXFMTWRTUExmNkVJOUY4al91UTR2dGxfZVZJcXJsT01tYlBWeVhOZ0tlUW5uRHM0dnl4c2w1Wk5UaDZPX3hhRmY0T1JoTjhDckxnTlFkQi1qSkk0bDR0QWtrS3BDSmwtOUhRSU1VT2hieTZn?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "haveagood-holiday.com",
-              "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONjlNSXFTMnFQU1pGMHBVWGVmb1l0aHBuTFNENllRZEtab0NVQXp3QzdaQ0w1dTZ3bXJXYWtGQWJMWWgzZTEwNkdMandmT2E4eU5IYTJaZTR5bzdrQ1hQUU9ZSEJJMUJ0TTFMNlZJUWlXX3E3MjlhMTBJcml3UnByV2JOdDM3WDc5RG05eU9oRHZudmtzVlRlaGVmSjlPMmtm?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "게임인사이트",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91TlRKNEp3LXl4NmtrWElXYWhZem1meENnT1hCZEdIbWlKRXJWbGppXzVhRU8yUDgxTGFFMUdwMUpqaXZDVGhQNFI1em8xdWxlc0FKVkRwMFdtSmVJdlZhVl82OUYya0JtX2NNT0FubUMwbzhn0gF0QVVfeXFMT3VOVEo0SncteXg2a2tYSVdhaFl6bWZ4Q2dPWEJkR0htaUpFclZsamlfNWFFTzJQODFMYUUxR3AxSmppdkNUaFA0UjV6bzF1bGVzQUpWRHAwV21KZUl2VmFWXzY5RjJrQm1fY01PQW5tQzBvOGc?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "더 이코노미",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YcUpkLVF1R2M1RUxlcC04SHREbnNTZExUaUFEcU5nUFFObndyV3hBRUZ5VzhfZFdoa0FNSDczeVJ5S2VaSE9ObEVBYndIVDdXSDN0dnRRcFFyazNHTDE0MzNUNnlWazR4TjBKMG15S29WUdIBckFVX3lxTE9YcUpkLVF1R2M1RUxlcC04SHREbnNTZExUaUFEcU5nUFFObndyV3hBRUZ5VzhfZFdoa0FNSDczeVJ5S2VaSE9ObEVBYndIVDdXSDN0dnRRcFFyazNHTDE0MzNUNnlWazR4TjBKMG15S29WUQ?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "경향게임스",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XVUJOZTJNT1JQN1R5SEVWT1lrcFl6dkhIaklEZ1U4SE9MTWlwMC1EMktOVkhZcVdHQ3NLRmc3c3BONG9RS0M0NGktQi1OcTlhdzZRSkZUWnBQbUlZNGxpU1d2R3p5ejdjOE1uTw?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "아이러브PC방",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtbGhHZkVOQW1aUWlVaW1GQU1tOURDUFREaTVzMUhJM2tFTTRZZ3VsVDJ0emdjRmxUUDBQS0JuRkV3TVVwSWVyS3B2QVQ0WmZYSDY0TVBLN1ZzUk16VlNkRDRNQWcxX3J0Y2FQUl9JVQ?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "한국AI부동산신문",
-              "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1zQ3NXRDVyNHkySWdlQjBqaGxZWEVycjZ1UldNendoblFteVFKM2pobmpaVWhMLXhXYm0tR2g0ZFVlNzZCdjk5ZUFrWXQ?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "경기in",
-              "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE91ZWRteHpVLWs4WVFRRWF3ei1paXRfYk9peFVCbEZCZzkxYW9QMnFxU25sdWJMcmlKTnd3Y2VGcFFxQVU?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "얼리어답터뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0tQ2NVRTJPd2hjTElycWF3OC1vOVJQOEFzc3lkdEdkc3l4NEQ1SzBKNWJaWXlzSjBfMl9XcTlydzBHdTVwN3p1Xw?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "jungdoilbo.com",
-              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JQTNuejIwOXNCMTFKRWNPMDB0RDVhRW9BVEJLVndoQ2hWcXZ0SUdERFhiS05GaEFVLTZXUHRxUHZKdWxtMnJHZXA1Qk9zVU9Hd3AxR0VGUHVyRkpnV1FNbkI1UUQ?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 70,
-          "published": "2026-08-16T09:52:00+09:00",
-          "ts": 1786841520.0,
-          "group": "gg_agencies",
-          "group_label": "경기도 산하기관"
-        },
         {
           "title": "민경선 고양시장, ‘고양은평선 일산연장’ 철도망 구축 요청",
           "url": "https://www.segye.com/newsView/20260814508582?OutUrl=naver",
@@ -1731,7 +1373,7 @@
               "origin": "google"
             },
             {
-              "name": "씬짜오베트남",
+              "name": "chaovietnam.co.kr",
               "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9fRVpVbkFrMzM4eDZ4Sk9HYTV2WkJRdVBTRDNCd3doLXVweENJVGhIaG9lTDgxbTdYenBlT1NUUDlpUmduM3E0MA?oc=5",
               "origin": "google"
             },
@@ -1928,6 +1570,244 @@
           "group_label": "경기도 산하기관"
         },
         {
+          "title": "“한국 문화 직접 경험해요” 경기도미래세대재단, 이주배경 청소년과...",
+          "url": "https://www.betanews.net/article/view/beta202608160004",
+          "snippet": "경기도미래세대재단이 이주배경 청소년들에게 지역 문화를 경험하고 또래와 교류할 수 있는 체험 기회를 제공했다. 재단은 지난 14일 경기도청소년수련원에서 화성시 글로벌청소년센터 소속 이주배경 청소년 29명과...",
+          "source": "betanews.net",
+          "sources": [
+            {
+              "name": "betanews.net",
+              "url": "https://www.betanews.net/article/view/beta202608160004",
+              "origin": "naver"
+            },
+            {
+              "name": "sisajournal-e.com",
+              "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=423107",
+              "origin": "naver"
+            },
+            {
+              "name": "ddaily.co.kr",
+              "url": "https://www.ddaily.co.kr/page/view/2026081418424198793",
+              "origin": "naver"
+            },
+            {
+              "name": "metroseoul.co.kr",
+              "url": "http://www.metroseoul.co.kr/article/20260815500007",
+              "origin": "naver"
+            },
+            {
+              "name": "연합뉴스TV",
+              "url": "http://www.yonhapnewstv.co.kr/news/AKR20260816061859oJe",
+              "origin": "naver"
+            },
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260815048200017?input=1195m",
+              "origin": "naver"
+            },
+            {
+              "name": "조선비즈",
+              "url": "https://biz.chosun.com/it-science/ict/2026/08/16/SW3XQXFVP5FZLA5PQZOBIIVEJY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+              "origin": "naver"
+            },
+            {
+              "name": "머니투데이",
+              "url": "https://www.mt.co.kr/future/2026/08/16/2026080413044526123",
+              "origin": "naver"
+            },
+            {
+              "name": "viva100.com",
+              "url": "https://www.viva100.com/article/20260815500239",
+              "origin": "naver"
+            },
+            {
+              "name": "tokenpost.kr",
+              "url": "https://www.tokenpost.kr/news/cryptocurrency/391398",
+              "origin": "naver"
+            },
+            {
+              "name": "news.tf.co.kr",
+              "url": "https://news.tf.co.kr/read/world/2354605.htm",
+              "origin": "naver"
+            },
+            {
+              "name": "동아일보",
+              "url": "https://game.donga.com/123827/",
+              "origin": "naver"
+            },
+            {
+              "name": "bntnews.co.kr",
+              "url": "https://www.bntnews.co.kr/article/view/bnt202608150041",
+              "origin": "naver"
+            },
+            {
+              "name": "세계일보",
+              "url": "https://www.segye.com/newsView/20260814508322?OutUrl=naver",
+              "origin": "naver"
+            },
+            {
+              "name": "뉴스1",
+              "url": "https://www.news1.kr/society/incident-accident/6258382",
+              "origin": "naver"
+            },
+            {
+              "name": "조선일보",
+              "url": "https://www.chosun.com/national/welfare-medical/2026/08/15/SUZYAGULWZBMVNEPLTMHNDV75I/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+              "origin": "naver"
+            },
+            {
+              "name": "데일리게임",
+              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XbHYwV0dMd1JFTFFidTFQTDU3MERDc0ZsMTBuWWxoYmkwS2Y5QXUyRnVvVEtBM0NrUjdfZUJ0T3FSanZ1NzhFMzNtWEtub2VVeUhWNThvbWFDelhETTdqVmZ0endZUjY2UEt4a0N4YkNZdlFPUDZfei1jaw?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "더 이코노미",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YcUpkLVF1R2M1RUxlcC04SHREbnNTZExUaUFEcU5nUFFObndyV3hBRUZ5VzhfZFdoa0FNSDczeVJ5S2VaSE9ObEVBYndIVDdXSDN0dnRRcFFyazNHTDE0MzNUNnlWazR4TjBKMG15S29WUdIBckFVX3lxTE9YcUpkLVF1R2M1RUxlcC04SHREbnNTZExUaUFEcU5nUFFObndyV3hBRUZ5VzhfZFdoa0FNSDczeVJ5S2VaSE9ObEVBYndIVDdXSDN0dnRRcFFyazNHTDE0MzNUNnlWazR4TjBKMG15S29WUQ?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "베타뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EZW1rT29LS0pFZjh3VDFwX1dtWmNmNHFramJMUlZ1Qk5BUDZqbnlBWUs3MW55VUZwd2t0ekpkcGo5VFB5TGtxcUFqODdta0xDT3hUcFI3bXFheVBPX1Q0VkFHZTk?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "메트로신문",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRUF9ZOHFfZU1Zd0JJSVdtZm9sU2ZISUJBRVBEX2pKQlJkb0FUOUZSV3BURnhiMEdCcUtuX2xIR2pVUkR4QXVSMFJ6UFVVUnJjaXU0MWp1UjVKNXVIUFdBcw?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "Chosunbiz",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONEw3ZnhqUjhPTFZKN0cwdjFtU3Z0RWxaWVpvdzFHNHBoSXNxbkxNeUlzM19oZjh6QnBFQ1RNa2l1NDdZbU1YdllUME5VUlBGbzl6N0FBaDZTSEwwcEVlOXE5V3d1b05ucXRJbWdXUzY1WkdNdDFsTUhDLXlueG1LRkFR0gGWAUFVX3lxTE9RWmVaX2h5d0RIWUFQRXVtUFlLZGZkOXgtbS1pTG5OUGcycHNuaGtMV3VIQ1ZiU2Z6MkZ5SHNLX2g5SWhpbnM3MVcyZmF1VlFJNWFuNmxrRTV2SXczNXlkYk9GR0p6TFViU2pUaEt2Y1pFYUk3VVBTUTFpVlV1YlAyVVYyT3pPSTdPLWpsOWZIVU0xU1NKZw?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "경북구미신문",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mZ281T0JGQjZiUkZleDQwNEJmN1BLdHFtRnJyb1FieDdYWE5xZ2xLeEk2Z1RvaW1ZXzliUGFTMUFfRGxsNUNScjRDU3lwTGJPS1IwT0NSUVNOeV95ZHE2Z0tqall4TlZEU2c?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "코리아포스트 한글판",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tZHBzVEJaalpQYVJrMnFFaUFyclBqX09DbFNVWEN6UXMwdTljbTE3aE1oM1Vhb0h3Uks4UHBJaFF0V3lZTkNwMUhMX0ZDQUI1cGQ2SkdQVWtjSUdRZlRNTUtUdlNvbkJJc2FtTENB?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "ipnn.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43X0VVQi1rek1DWERscVJhWUR2dld3Vkg2OGZSWHJTWnBhQzFUNk8yVjB6R0R1ODYtbnNhbmZXTnhMWS1iSmFYV1pLTGs3REh2ZFVtek5rSlQ1LXNnVzBNeWdTYXZ3bXNV?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "서남투데이",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GTXRUeTktLTh3Wk92aS0tak1Hd0lqQWhLZGs5Y2lWWXlDRFJoVVZNQ2MzV21jN3Z0Q3RmTnVWeTIzWWN1OVM3bkJIamIwMjgwLUI0TXVVYVhVZw?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "브릿지경제",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsQk00N281Y3B2amhmclNfVjdGT0tnYlV5ZzUxdzBXb1VXcVp3STQzOGdUVURhXzY0dm1nMU9FWjIyY1FvcWVoLUNqQ0Q1S2hRWHI1eTd2YjRMQQ?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "핀포인트뉴스",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB0bEdHQUkzd0VqVktwb200cGpfR2FFUEdHWF9jTjRsYjI0cFgtbWd0MVdiMHl4N3NPTnVrUjVPaWphRlg4aXlkOXMwUkQzSXBJbDM2ODFnalBVM3FzOGxRaVhneDBYUE1WdWZ4U1pBTDZJUVg5ZVhn0gF3QVVfeXFMUHRsR0dBSTN3RWpWS3BvbTRwal9HYUVQR0dYX2NONGxiMjRwWC1tZ3QxV2IweXg3c09OdWtSNU9pamFGWDhpeWQ5czBSRDNJcElsMzY4MWdqUFUzcXM4bFFpWGd4MFhQTVZ1ZnhTWkFMNklRWDllWGc?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "부패방지뉴스",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZX2FBVGZ6R0xzN2FnX0dTcnMzcG05c2lic2xWMmpoX2tBSDRObGNNNmtJV2IxbnlCenJ4QXpWaFdCRkhvZmI0SjduaDZQU0hZeHJjV0ppRnZYWVpTXy1aLVFmYndGeUU3T0Y0?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "KIPOST",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pZl9pM2o0bWFNUDBvcHdZVWxWdFFRUTR3LXdJenkyQ0VCWmZOemZWY0IyTkVubTdjRUJ2YlpyWm9sQ3ItRjZ1OHFDSVRYQjFaNFJjSWc5c0FiT0xHLVl0VURxa2c2akR1OGhmadIBbEFVX3lxTE5pZl9pM2o0bWFNUDBvcHdZVWxWdFFRUTR3LXdJenkyQ0VCWmZOemZWY0IyTkVubTdjRUJ2YlpyWm9sQ3ItRjZ1OHFDSVRYQjFaNFJjSWc5c0FiT0xHLVl0VURxa2c2akR1OGhmaQ?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "한스경제",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QWGs3QVI4MjBkaF82RklDNGkya1dkVmdHUGk1SUJKY2plN2w4d1F0VHlRVUxkSjlVdGlWeldGNEpCMkJ3VGhNVzBwRWRkUmY4SDA4U1VRZ2xocHBXallDRm9LNkE2UkZXWkFiedIBb0FVX3lxTE0yV2VKSV9XUXh3c2RBZ0lOOFFUV3lseXc2azZtM3RTbVhuOUtud0FCTXhQWFVMampQSWdUTEdHVktFekl3cEFpZkhxR250QmEyV1dWS20wc1NCcHdJcTl0cUhWOG1FMHk5Q0VTRVZxMA?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "콕스뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsR3c5cmp2OWhxVVBvMDI2SVZSX1NhQXAtVmExWnJPS2l3aHg3Q1pJWmYzcU5pZF9FZGptb0JLMkJvTWZIeWd3dEpyM0hyT0M3RXBRSDFraU1RNVBxRWtZbHl5NkpqU3RheVE?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "v.daum.net",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oT3NZakluQUhKd2JndjlETXlKR2RPYjRPNGkxSjNZSmREcmg3VHpWRjR3b1UzRkRHa29CdS15Nl9LSkNBQXF3RVpUWmFwYjB0RzNEcA?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "아시아경제",
+              "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuaEdIcldndEhqSGJEQzR4Qlc4cjltZkJCa2dXTEFnZFRLZEgxR1lDWEFKWnRSYmR6alAtV0RacU5hemNzdDFCX01PWU1ZNXNiUFJHLXg3R2c1ZHhjLUxXQ253?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "aipostkorea.com",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RVU56elUwZEpXSDhPQWUwMkRobVBubEN2UzlfQjh5Yi1EVGJzZkl5d29pZjhVS185enJjZldxeFpQRTFDTlpSMkpLR1A4bEdnT2kxY3pobUhtelF2SXQwUy0taU5xZVkyTmoxWE1n0gFyQVVfeXFMT1FUb1ZzT1VpVU1Ub0lKR2VRbGszLXFNZ3g2VUZDdklXOWVsOTRqTzY5aURVOU1mcW9SVWxuSEV6NC1ub1duMTJpQVFnYk5LVTh6djVxcW0tczNWc0FwdEtpbi1ZbTJSY0lsZFlaRGVBSzZR?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "elec4",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2ZTlQR1hzNzZ5WjJ1NzE1X3pGdHlpQUgzOGQtZFBoSUN5WWlVcllLcm9JZHk1elRuVDBtbGNqOTlKOTFaZUx4cm50TEJZand6WTB1aTlhcE0zdjdReXRVYjlZY2ZnczNtSG1YaGRn?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "AI타임스",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CRXBONHZWZm54a19qSHE3Mjc1NHQwWWw1a0ZWX2kyOVNMNWt0N3o0WWhSd3RtV3A5LTA2b1ZhMkJ2Ql9TZ2VQcVVvbTV0SmlRcjhTX1lBR1JXM3ZVSlpMekJtU1hjbU1jcEE?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "vietnam.vn",
+              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeUVXNkdCVjZFUTZmUThIUl9ZWXlvb05ScWNmRVdYX09CdVp1Tld1Q1ZwUFRNT0pZLTl4ejRDeTFpNGJfVnl0MnlQVklnSWU1RmFTSGlmcDNidVc1aThMSExKekh1c2xIdzMtX1ZYVVNWamYtRW9PQTh2d3JjazFkU2duQ0RkWUtQYk5sZ2ZSaVlqZ1RlcnZuekpmcWpyOVk?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "유스연합",
+              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SSnhVUEZmVWZuN01Na3J1Tl9vM0YzcGN6NGRtZVlMbXVLa3ZkTXZYa2MxZnh5bElzTlpSVFRLLVBCVFBBMDVQNmhKajZSdkFRX0E?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "경향게임스",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XVUJOZTJNT1JQN1R5SEVWT1lrcFl6dkhIaklEZ1U4SE9MTWlwMC1EMktOVkhZcVdHQ3NLRmc3c3BONG9RS0M0NGktQi1OcTlhdzZRSkZUWnBQbUlZNGxpU1d2R3p5ejdjOE1uTw?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "아이러브PC방",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtbGhHZkVOQW1aUWlVaW1GQU1tOURDUFREaTVzMUhJM2tFTTRZZ3VsVDJ0emdjRmxUUDBQS0JuRkV3TVVwSWVyS3B2QVQ0WmZYSDY0TVBLN1ZzUk16VlNkRDRNQWcxX3J0Y2FQUl9JVQ?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "네이트",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Jb0R6TmtkOFV1UkZuWDAyZUUySExLV0pNRGowclRvZ005a1NNVmVxaEk3MUp6NDlma0puWHBqR2tFMnVobkFTLWdBX09aeV9NbnEzQkVZVXozMEtTWE9JSw?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "한국AI부동산신문",
+              "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1zQ3NXRDVyNHkySWdlQjBqaGxZWEVycjZ1UldNendoblFteVFKM2pobmpaVWhMLXhXYm0tR2g0ZFVlNzZCdjk5ZUFrWXQ?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "경기in",
+              "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE91ZWRteHpVLWs4WVFRRWF3ei1paXRfYk9peFVCbEZCZzkxYW9QMnFxU25sdWJMcmlKTnd3Y2VGcFFxQVU?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "얼리어답터뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0tQ2NVRTJPd2hjTElycWF3OC1vOVJQOEFzc3lkdEdkc3l4NEQ1SzBKNWJaWXlzSjBfMl9XcTlydzBHdTVwN3p1Xw?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "jungdoilbo.com",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JQTNuejIwOXNCMTFKRWNPMDB0RDVhRW9BVEJLVndoQ2hWcXZ0SUdERFhiS05GaEFVLTZXUHRxUHZKdWxtMnJHZXA1Qk9zVU9Hd3AxR0VGUHVyRkpnV1FNbkI1UUQ?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 45,
+          "published": "2026-08-16T09:52:00+09:00",
+          "ts": 1786841520.0,
+          "group": "gg_agencies",
+          "group_label": "경기도 산하기관"
+        },
+        {
           "title": "경기아트센터, 하반기 '오늘수업 : 아츠' 수강생 모집",
           "url": "http://www.sisanews24.co.kr/19229",
           "snippet": "",
@@ -1996,6 +1876,64 @@
           "group_label": "경기도 산하기관"
         },
         {
+          "title": "경기도의회 유종상 의원, 경기환경에너지진흥원과 정담회...에너지 전환.물산업.기후테크 등 미래 핵심 사업의 차질 없는 추진 당부",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MZWRkRnR2dkRtRzJ5aVVyUHJXN2hMcGtsVDhZZzRhUVJxeXRRQWpxY0xIQmwtNUdidThuZk9RMlBwWFlwekpId1VWUWZtb1Q1aUc4eVlhQUFDVTI1Z3hZcXBEM2h5NERuYk5sYtIBbEFVX3lxTE1MZWRkRnR2dkRtRzJ5aVVyUHJXN2hMcGtsVDhZZzRhUVJxeXRRQWpxY0xIQmwtNUdidThuZk9RMlBwWFlwekpId1VWUWZtb1Q1aUc4eVlhQUFDVTI1Z3hZcXBEM2h5NERuYk5sYg?oc=5",
+          "snippet": "",
+          "source": "매일경제",
+          "sources": [
+            {
+              "name": "매일경제",
+              "url": "https://www.mk.co.kr/article/12128355",
+              "origin": "naver"
+            },
+            {
+              "name": "investchosun.com",
+              "url": "https://www.investchosun.com/site/data/html_dir/2026/08/14/2026081480178.html",
+              "origin": "naver"
+            },
+            {
+              "name": "시사팩트",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MZWRkRnR2dkRtRzJ5aVVyUHJXN2hMcGtsVDhZZzRhUVJxeXRRQWpxY0xIQmwtNUdidThuZk9RMlBwWFlwekpId1VWUWZtb1Q1aUc4eVlhQUFDVTI1Z3hZcXBEM2h5NERuYk5sYtIBbEFVX3lxTE1MZWRkRnR2dkRtRzJ5aVVyUHJXN2hMcGtsVDhZZzRhUVJxeXRRQWpxY0xIQmwtNUdidThuZk9RMlBwWFlwekpId1VWUWZtb1Q1aUc4eVlhQUFDVTI1Z3hZcXBEM2h5NERuYk5sYg?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "경기시사투데이",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zeEtWNHNZYU81NE94d2JwS1lsa2dxbWV1Vm95aTVUVFNpc0tHQ0k2WENORnBDM3dBaFNzUjg0WE5oc1JWMmZVblQtUGhKTEtoamw3d0VBZlhNT3VMeUpHV0x3X0RZYnhR?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "kcemedia.com",
+              "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE50SnlGc1ZjX1p2bm0zVTd2TDltY1hjWjY1UG1GNzlEXzRTMkxIX2lDVmlpYXQ5THNoTGwxUlVtaWdsVTg?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "뉴스N연합",
+              "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBWZjFZb0tNdGxER0hhdzB6NzlldHdRTGNBTFA3dVdubFRqVFo1VmNZNzdqOFdobHVNUEdpTnNkdjNBWUhIXzdtYkdB?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "내외뉴스통신",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LaW4yX2c3S3ZpRGpNeFV2RU1tNVpiamxxYzZkdGFNSy1JaHMweWl2SURDSHlic3dqU2dXRWNGZEQ4TkNKWW1iYVZaTjIwNzBDTThtR1pYbzUyTHZJajk2SHdJZVJDWHhwdThYX2tGelrSAXBBVV95cUxOS2luMl9nN0t2aURqTXhVdkVNbTVaYmpscWM2ZHRhTUstSWhzMHlpdklEQ0h5YnN3alNnV0VjRmREOE5DSlltYmFWWk4yMDcwQ004bUdaWG81Mkx2SWo5Nkh3SWVSQ1h4cHU4WF9rRnpa?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "웹이코노미",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Ec2NxM0dENl90ZndEMmJlNGs4VzFTa1pwbjNubW5hN1VwbVhiVlh3NW5IVzh1WmFVdEhZYVkxX3dpaWRrbGF4VUpYdzI0NkVVYTNHSDZhcGlJTGRFZlY1YkxaWUM0TDhyZk9YUTI2VWFTZw?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "경기in",
+              "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE51QjVYNnlRUmZNQy1oWF9QT0pVT3Y3ekthZHJRZFM3MzcwUU0yanFRV0pUTHJkV2owdEJ2MU92d251U1k?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 9,
+          "published": "2026-08-15T16:21:22+09:00",
+          "ts": 1786778482.0,
+          "group": "gg_agencies",
+          "group_label": "경기도 산하기관"
+        },
+        {
           "title": "경기도·GH, 공공임대 정부지원금 LH처럼 ‘자본금 반영’ 개편",
           "url": "https://hbnpress.com/news/view/1065606864118473",
           "snippet": "경기도와 경기주택도시공사(GH)가 공공임대주택 공급 확대를 위해 지속 건의해 온 ‘정부 지원금의 출자 전환’ 방안이 정부 정책에 최종 반영됐다. △사진= 경기도청 전경 이에 따라 GH 등 지방공사도 한국토지주택공사...",
@@ -2050,59 +1988,6 @@
           "source_count": 9,
           "published": "2026-08-15T11:46:00+09:00",
           "ts": 1786761960.0,
-          "group": "gg_agencies",
-          "group_label": "경기도 산하기관"
-        },
-        {
-          "title": "유종상 의원, 경기환경에너지진흥원과의 정담회에서 “에너지 전환 물산업 기후테크 등 미래 핵심 사업의 차질 없는 추진 당부”",
-          "url": "https://www.mk.co.kr/article/12128355",
-          "snippet": "",
-          "source": "매일경제",
-          "sources": [
-            {
-              "name": "매일경제",
-              "url": "https://www.mk.co.kr/article/12128355",
-              "origin": "naver"
-            },
-            {
-              "name": "investchosun.com",
-              "url": "https://www.investchosun.com/site/data/html_dir/2026/08/14/2026081480178.html",
-              "origin": "naver"
-            },
-            {
-              "name": "경기시사투데이",
-              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zeEtWNHNZYU81NE94d2JwS1lsa2dxbWV1Vm95aTVUVFNpc0tHQ0k2WENORnBDM3dBaFNzUjg0WE5oc1JWMmZVblQtUGhKTEtoamw3d0VBZlhNT3VMeUpHV0x3X0RZYnhR?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "kcemedia.com",
-              "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE50SnlGc1ZjX1p2bm0zVTd2TDltY1hjWjY1UG1GNzlEXzRTMkxIX2lDVmlpYXQ5THNoTGwxUlVtaWdsVTg?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "뉴스N연합",
-              "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBWZjFZb0tNdGxER0hhdzB6NzlldHdRTGNBTFA3dVdubFRqVFo1VmNZNzdqOFdobHVNUEdpTnNkdjNBWUhIXzdtYkdB?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "내외뉴스통신",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LaW4yX2c3S3ZpRGpNeFV2RU1tNVpiamxxYzZkdGFNSy1JaHMweWl2SURDSHlic3dqU2dXRWNGZEQ4TkNKWW1iYVZaTjIwNzBDTThtR1pYbzUyTHZJajk2SHdJZVJDWHhwdThYX2tGelrSAXBBVV95cUxOS2luMl9nN0t2aURqTXhVdkVNbTVaYmpscWM2ZHRhTUstSWhzMHlpdklEQ0h5YnN3alNnV0VjRmREOE5DSlltYmFWWk4yMDcwQ004bUdaWG81Mkx2SWo5Nkh3SWVSQ1h4cHU4WF9rRnpa?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "웹이코노미",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Ec2NxM0dENl90ZndEMmJlNGs4VzFTa1pwbjNubW5hN1VwbVhiVlh3NW5IVzh1WmFVdEhZYVkxX3dpaWRrbGF4VUpYdzI0NkVVYTNHSDZhcGlJTGRFZlY1YkxaWUM0TDhyZk9YUTI2VWFTZw?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "경기in",
-              "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE51QjVYNnlRUmZNQy1oWF9QT0pVT3Y3ekthZHJRZFM3MzcwUU0yanFRV0pUTHJkV2owdEJ2MU92d251U1k?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 8,
-          "published": "2026-08-15T08:43:58+09:00",
-          "ts": 1786751038.0,
           "group": "gg_agencies",
           "group_label": "경기도 산하기관"
         },
@@ -2273,6 +2158,24 @@
           "source_count": 2,
           "published": "2026-08-16T00:01:00+09:00",
           "ts": 1786806060.0,
+          "group": "gg_agencies",
+          "group_label": "경기도 산하기관"
+        },
+        {
+          "title": "경기아트센터, 아동·청소년 예술적 잠재력 발굴부터 전문교육까지",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zRWk4SnRLeFFTQUtVeFhGaGxlSHRjQjlxdzNxYTlqWkFzd1VNY3hfR2h3dVJfMmREZ1M3X09YMDFOZ0xJc1VIUURoa1g1b05kOXUw?oc=5",
+          "snippet": "",
+          "source": "하나로신문/일보",
+          "sources": [
+            {
+              "name": "하나로신문/일보",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zRWk4SnRLeFFTQUtVeFhGaGxlSHRjQjlxdzNxYTlqWkFzd1VNY3hfR2h3dVJfMmREZ1M3X09YMDFOZ0xJc1VIUURoa1g1b05kOXUw?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-08-16T10:25:30+09:00",
+          "ts": 1786843530.0,
           "group": "gg_agencies",
           "group_label": "경기도 산하기관"
         },
@@ -2572,8 +2475,171 @@
       "priority": 8,
       "page": "main",
       "preview": null,
-      "count": 1,
+      "count": 2,
       "items": [
+        {
+          "title": "제주콘텐츠진흥원, 창작자 30명 사업화 지원… 영상·캐릭터·스토리 집...",
+          "url": "http://www.fnnews.com/news/202608150823295969",
+          "snippet": "콘텐츠산업 지원이 초기 아이디어 발굴에서 제작과 사업화 단계까지 이어지는 구조다. 이번 아카데미는 모든 교육과정을 무료로 운영한다. 과정별 기준을 충족하고 출석률 70% 이상인 참가자에게는 제주콘텐츠진흥원...",
+          "source": "중앙일보",
+          "sources": [
+            {
+              "name": "중앙일보",
+              "url": "https://www.joongang.co.kr/article/25453640",
+              "origin": "naver"
+            },
+            {
+              "name": "game.dailyesports.com",
+              "url": "http://game.dailyesports.com/view.php?ud=20260816004338755921ad998911_26",
+              "origin": "naver"
+            },
+            {
+              "name": "인벤",
+              "url": "https://www.inven.co.kr/webzine/news/?news=319581",
+              "origin": "naver"
+            },
+            {
+              "name": "디스이즈게임",
+              "url": "https://www.thisisgame.com/articles/428947",
+              "origin": "naver"
+            },
+            {
+              "name": "동아일보",
+              "url": "https://game.donga.com/123833/",
+              "origin": "naver"
+            },
+            {
+              "name": "sportsworldi.com",
+              "url": "https://www.sportsworldi.com/newsView/20260814518250",
+              "origin": "naver"
+            },
+            {
+              "name": "한국일보",
+              "url": "https://www.hankookilbo.com/news/article/A2026081113450003449?did=NA",
+              "origin": "naver"
+            },
+            {
+              "name": "전자신문",
+              "url": "https://www.etnews.com/20260815000008",
+              "origin": "naver"
+            },
+            {
+              "name": "mydaily.co.kr",
+              "url": "https://www.mydaily.co.kr/page/view/2026081317005925412",
+              "origin": "naver"
+            },
+            {
+              "name": "파이낸셜뉴스",
+              "url": "http://www.fnnews.com/news/202608150823295969",
+              "origin": "naver"
+            },
+            {
+              "name": "더리브스",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Qbml0TnFtZFQ5d2dSZldqQU9MVW1jcUgyQnFVVWRCSEZGV1VDZjFYQUpKYm5jZFNFRUl6cVVCajA2aV9Yem44aVdrOEFnMjYzM2hPV1BJbk1DVmRZRDZuSTZfOEFyUHYweUE?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "디지털포커스",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sbUYyRV96dnVOQXNic1lVVnJsTDloV3RjcXB0cnMwOEJEQURMVU1sNmZnXzJkVlNxRnRNQ0kxR2Z1aVFSc29RRVZCT3lDMnVGSzE5UlFBTG1Lcm1WYWtpdUFRVklDT1VMSlZZOEc3Vnk?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "뉴스아이이에스",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZemNwYjY1WjR3WUpfWWZobThpSlJFOF83RnM5Mm80OFNvMnBFNmJEazdBWXc0VkFyZndGWTZqT1VQQWZsNGlyeHZQZnVJeDFqLXdZVTdHelZsWnB0dm5ZWmFyank1dGVXRWEyaUNoNlVBUdIBckFVX3lxTFBZemNwYjY1WjR3WUpfWWZobThpSlJFOF83RnM5Mm80OFNvMnBFNmJEazdBWXc0VkFyZndGWTZqT1VQQWZsNGlyeHZQZnVJeDFqLXdZVTdHelZsWnB0dm5ZWmFyank1dGVXRWEyaUNoNlVBUQ?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "v.daum.net",
+              "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKZGpUZjF4cFQtRmYwMFV0YlAwN19aLXZudXczWE1RSHZzeEk3cmYycWI5STJoS2VweE5HQmtmRl9ySy1ic3hibl9tbw?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "네이트",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yejVfQnNxTWRSeTVVREljQWVZUGYzalVuSUp5ZC1CSlo1ck1KZXBtUG42N0pmMUhvYnJUand5MEVxeE9Ubkx2TTN6dWdMX3RoSTZJ?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "테크M",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkSHE1NXBiRmZDMkJkVl9Wb0lkWjRuenFXb2c5ZDFmS296d2dFaVJFak9zdWZtdU1Wa2dXSEt1X1JseElOMmlaV2ROUXZnanN1ck1BTVFyS29HVzBXM2JkTk05anZqYjRBbkHSAWpBVV95cUxQZEhxNTVwYkZmQzJCZFZfVm9JZFo0bnpxV29nOWQxZktvendnRWlSRWpPc3VmbXVNVmtnV0hLdV9SbHhJTjJpWldkTlF2Z2pzdXJNQU1RcktvR1cwVzNiZE5NOWp2amI0QW5B?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "포인트경제",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sM3FscFQxMHo1RzRRM1BCUFdWSXRET29UQVU1OGZyREZaYUFQeTdMUTg4VnB1YldDSnhOc0VNNEM2dXA1SDZsUlV2Y3hTN1lMS3JFaDFLWjRLU0VEV2JRbHZMblNUT0oyblE?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "파이낸셜투데이",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vbFRGM2ppZU02dnR2YmRVMzBXUkNIek84T0tzU1B3clR1Qi1lWmM0TEFmOXRNSVVCd1RWMUR6RWk3cWtrOS1WN1I1bnJmeFU3bElIb0tJZ1VPLVVuemNpQ2lNUU1GTTZwZ0ZfQ2lR0gFuQVVfeXFMTW9sVEYzamllTTZ2dHZiZFUzMFdSQ0h6TzhPS3NTUHdyVHVCLWVaYzRMQWY5dE1JVUJ3VFYxRHpFaTdxa2s5LVY3UjVucmZ4VTdsSUhvS0lnVU8tVW56Y2lDaU1RTUZNNnBnRl9DaVE?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "게임메카",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mNDF6Z1RGcDVieVRJM2ExQTJEV3ZtQ1J2Z3ltZUJ3QUNNaFFrNzk1VUhQWDN3cGNXMG5kcVE5Rm9wMDhpdlA4MmRBbXliM2NQXzN5RzBjdUVhVVHSAVtBVV95cUxNZjQxemdURnA1YnlUSTNhMUEyRFd2bUNSdmd5bWVCd0FDTWhRazc5NVVIUFgzd3BjVzBuZHFROUZvcDA4aXZQODJkQW15YjNjUF8zeUcwY3VFYVVR?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "게임동아",
+              "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE42cVRTNWVZcVBpNEJRV09XUDZFREZSRmFfXzBPSE83WUYwQnFiUTJLZHVWZmd2eUMyOGdUZlhlNmJMUWZZ?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "네이트뷰",
+              "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KZXpGQ1ZCNVB2RTE2Zk9GSWprbnk2SlJuV09GYTVfSTAzazNoUGVjbzh6U1dPMFhBRGhmRzhfN0hWNkhDNzZpN01aSHZ2UTNG?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "Samsung magazín",
+              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWmltSC1QdkRQdnU1aGJiY29nTHVWMksxZHNsaC10N0kwNk1uRWs3OUxkM0xoVlU1elFkcnZhSzNRWDN3MFBpMXhmcFJucXF2UFR1NmxzOF9zWTE2bE1yYWs4amxkUTFvM1RIeHNORXlhSFE0WW5VdTJsT3BLY1p6X0lNMjlYbEhFTnZ6X2hHc3NNU1NEQjVJVg?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "데일리게임",
+              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTM2I3dFpxUjk5MGZnaHo3WjNobk5xaG9NNjBtNU1VUGtpanVqRzR0eld0dlJDZHVVYkdmUTVlZmx1WmRlT092WDRSR2pHN0FfMm5uN0pBVU9YaV9zMFMwbjNvcTBRcENjdlRYU3EwWGc3RDh2QjU5OXJPdw?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "hankookilbo.com",
+              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QMzRZUGNkZ2dPaWc2WXctT3JMMDdHYjhaeWN1T2RuZVBuVW9JSmhEb3NrazNpdmNKOUVvMzJpX1pGWVdsckp1U2Q5bEVoMmRzQTBiYTN6cS1xS25IWG9ydk55di1wUE1TUXNaaUpkTUVDaTDSAXNBVV95cUxOUDM0WVBjZGdnT2lnNll3LU9yTDA3R2I4WnljdU9kbmVQblVvSUpoRG9za2szaXZjSjlFbzMyaV9aRllXbHJKdVNkOWxFaDJkc0EwYmEzenEtcUtuSFhvcnZOeXYtcFBNU1FzWmlKZE1FQ2kw?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "Sortir à Paris",
+              "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOGVQUTczVks0VG9Yd3VpXzl2Z3ZNUHF4SUlOQ29nVDZENkdUTnhVcFVPdXhFckdfWWdUVVZqb2JGZFRiT1k0dzN4QS1ZaERwbUdfanBOYU9qbkdYdlZxMUxpUE54WkJ4TFhhdVM4VWJXakhRSzVhSm9VTXJuR1VQSjdCdW5iSzRfa1hMbTZmNVJDVUoteFRhSTlPRjNnSVVWUzA4Zk9WUXZ6T3FHTl9fT25sX3pzYTNEeC1YRVZEUjNlV1J6Z0Z6MFIzZ3ZvbmVtdEtYMVFLYlBQcENVVERIR1lOdEdJbldCMEx0QkFIWG5zUQ?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "Mshale",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wOWhOb19TRVhxM0JMODdQa212UExEcHV6cmF2RzVnTnhWcXA4Vk15aXpyV3daY0xqMW1Vb2drbzdRLXNQSHVjRW9HVFJnT3B2SW5XNmxOUjN2Z28?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "globale.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5keGZpNDZ6ZHliS2ZFdzJyclNHSUVYcFdwZzdXek1IaVc0LS1Sa2RUUUpZWnhtazFJZTBST3p5NXZzVGFtQ1RIaVR1M3UxOWk0M0VVNUVPY2xKVFZSQVdkRXFud1lGbS1UcDJZ0gFvQVVfeXFMTWRTUExmNkVJOUY4al91UTR2dGxfZVZJcXJsT01tYlBWeVhOZ0tlUW5uRHM0dnl4c2w1Wk5UaDZPX3hhRmY0T1JoTjhDckxnTlFkQi1qSkk0bDR0QWtrS3BDSmwtOUhRSU1VT2hieTZn?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "haveagood-holiday.com",
+              "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONjlNSXFTMnFQU1pGMHBVWGVmb1l0aHBuTFNENllRZEtab0NVQXp3QzdaQ0w1dTZ3bXJXYWtGQWJMWWgzZTEwNkdMandmT2E4eU5IYTJaZTR5bzdrQ1hQUU9ZSEJJMUJ0TTFMNlZJUWlXX3E3MjlhMTBJcml3UnByV2JOdDM3WDc5RG05eU9oRHZudmtzVlRlaGVmSjlPMmtm?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "게임인사이트",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91TlRKNEp3LXl4NmtrWElXYWhZem1meENnT1hCZEdIbWlKRXJWbGppXzVhRU8yUDgxTGFFMUdwMUpqaXZDVGhQNFI1em8xdWxlc0FKVkRwMFdtSmVJdlZhVl82OUYya0JtX2NNT0FubUMwbzhn0gF0QVVfeXFMT3VOVEo0SncteXg2a2tYSVdhaFl6bWZ4Q2dPWEJkR0htaUpFclZsamlfNWFFTzJQODFMYUUxR3AxSmppdkNUaFA0UjV6bzF1bGVzQUpWRHAwV21KZUl2VmFWXzY5RjJrQm1fY01PQW5tQzBvOGc?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "https://www.zolotnit.ru/",
+              "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRFlyTTREdWFCQUJFamxRVUR5c1c5elQtbWZwamtwUFJrMEJRdzh6TWs1RU9JWEFWMFpDZDc0WlNPUEo3M3R5bVBaeXlyYVh1YlRrcmwtNjZDSXNhRHRVcGtucnItUnJHcjBaNnBhYzFlak5IaVVvN3dCUjJidEtpQ0R6N09DVERLWXhWOXFTOG1fWWkxbGNXM1Q0MmdEQWJZR2E4Rm5wOGZRblk?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 30,
+          "published": "2026-08-15T08:30:00+09:00",
+          "ts": 1786750200.0,
+          "group": "central",
+          "group_label": "중앙부처(콘텐츠)"
+        },
         {
           "title": "충남콘진원, AI 음원·뮤직비디오 공모전 수상작 발표",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zSUxWQk5uV19lcFphSzdHQ2pUcndnT1BQZzIyN0Q0VWR0NGkwc0xtOUJIZ21sbkRya09vU0xDdlB0ejF6MmNabnZTZmY5UEpPUVBtbUs4Q1hXSUN2dGE1X3MyTjZib09FQlNWWg?oc=5",
@@ -2588,11 +2654,6 @@
             {
               "name": "중도일보",
               "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zSUxWQk5uV19lcFphSzdHQ2pUcndnT1BQZzIyN0Q0VWR0NGkwc0xtOUJIZ21sbkRya09vU0xDdlB0ejF6MmNabnZTZmY5UEpPUVBtbUs4Q1hXSUN2dGE1X3MyTjZib09FQlNWWg?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "보안뉴스",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrY0lTZlRVRTg0clVTSDBsNmhpSFA3S0Rxa2ROd1ZZdERzVW94bFRhSzBZczFZMVlPZlRaVU1KUl9NRWdERUZjbGNfbHE5d083Qkh0dDFMXy1XU2hGSTF4b0RxUVFpRkYtLVo1eFFHR1g?oc=5",
               "origin": "google"
             },
             {
@@ -2626,7 +2687,7 @@
               "origin": "google"
             }
           ],
-          "source_count": 9,
+          "source_count": 8,
           "published": "2026-08-15T12:54:39+09:00",
           "ts": 1786766079.0,
           "group": "central",
@@ -2640,7 +2701,7 @@
       "priority": 11,
       "page": "trends",
       "preview": 3,
-      "count": 117,
+      "count": 114,
       "items": [
         {
           "title": "AI 쓰다 비용에 발목…\"2028년 기업 20% 활용 포기\"",
@@ -2651,6 +2712,11 @@
             {
               "name": "cbci.co.kr",
               "url": "https://www.cbci.co.kr/news/articleView.html?idxno=598590",
+              "origin": "naver"
+            },
+            {
+              "name": "wikitree.co.kr",
+              "url": "https://www.wikitree.co.kr/articles/1152593",
               "origin": "naver"
             },
             {
@@ -2719,13 +2785,13 @@
               "origin": "naver"
             },
             {
-              "name": "동아일보",
-              "url": "https://www.donga.com/news/It/article/all/20260814/134478041/2",
+              "name": "mydaily.co.kr",
+              "url": "https://www.mydaily.co.kr/page/view/2026081414380412404",
               "origin": "naver"
             },
             {
-              "name": "mydaily.co.kr",
-              "url": "https://www.mydaily.co.kr/page/view/2026081414380412404",
+              "name": "동아일보",
+              "url": "https://www.donga.com/news/It/article/all/20260814/134478041/2",
               "origin": "naver"
             },
             {
@@ -2789,14 +2855,24 @@
               "origin": "naver"
             },
             {
-              "name": "goodmorningcc.com",
-              "url": "https://www.goodmorningcc.com/news/articleView.html?idxno=450716",
-              "origin": "naver"
+              "name": "천지일보",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FLUtMOXBvdWNXRXZqMXFBTi1IZXlBeXV1SHRHQzBuMXBWZFotcnQ4WXlrYmJmWkNhVERWWXR0aVVoZjBkTzNtUWRrWUo2aVJybzdneVdGdHNSSjZmZXRETENrLVNvc1RVLXc?oc=5",
+              "origin": "google"
             },
             {
-              "name": "wikitree.co.kr",
-              "url": "https://www.wikitree.co.kr/articles/1152593",
-              "origin": "naver"
+              "name": "시사저널e",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9feEw0QUxXbWN6ZWdkTWhRRHFYd2FQSlFLZnUzS1dXM1N2emNwMVI4SnNjMTZhSDJOMFpsTmY2N2syVGpxWmxJSl9xUzlSck1BYVJWR1hybTdRYkx3bEVuNnRhdEVFbUkyM0IyQmlCNUtTQdIBdkFVX3lxTE9tcUZjYkxTQjBFeTlRci10OWlSLU5EM29PVWNLeERhVUNjamtPOTJ1c3VIVHdOXzZRU3RaQUJEU2dZbnRkRGktUTRObUg5SWh5WGpYamUxVEFIM0c3NFBBN1pZcENSbGNwTXFNRkNsZzBpbHVvX0E?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "산경투데이",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HQ2prLVpVNC1qb1RaZ3FBajNYT1owYXd6aFk2UjNwLUg2Zm91V3Jrc2ZiN29zUU11Ym0zLTZVeHk5alBwaExURnNGeTdBektJdUU2X2c0N3ZHVl85d3hTUjhUdlhMQ0J5cUhkLUtxbjXSAXRBVV95cUxPSS0tdU96Nmw4cGNudVB0eEpQaUZOVHJJR3BtbldXRjVqVnFDU2ZIT0xEcGI1LTByZGZ3SzMxQU9pZnBzaWNXakFPa18xdkRuYTA3am9KaEhubTFJa05BaDMwLXoySVVwY2NVNEc0djRUQlBIQg?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "기호일보",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJMDRhem1TYVpKOF9fUThaU3lEMHJldklrV1lqalRJQU5obXlCRXJSbHNORk9kdFJhMnpGeG1pNl8ySFVzRW96R3pLYzdtMXRSOXNYTHRpNjBkWGE5YVlBUHEydDlDbENROHhPeWlOTQ?oc=5",
+              "origin": "google"
             },
             {
               "name": "네이트",
@@ -2814,13 +2890,23 @@
               "origin": "google"
             },
             {
+              "name": "Bitcoin News",
+              "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNzM1YmNPbll2aHViV2ZSdTRucHNkd1JvOGZfUkxFQ2UzZDV6REpkMXR4TmlfSHFuV29xcVF4VlljUVlmdl9lbk0yQTdZcGJxQjhQMUlqVG8xSDRuSWNMNFJpSmF3aXQ2cG5VcmxtN1p0S3FOam1adWJ3WnpCSzVVRzZhNVNPREJiWWlKcW1WeVVsZmo0aFdld09fREhQZTF0MlhONDJObjc5am5oVVJSeFoxLTVZMUU5M2dCQUdkaGFRRXNsYVVkM3ljZmM0QQ?oc=5",
+              "origin": "google"
+            },
+            {
               "name": "Investing.com 한국어",
               "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5MGc0Tk0yWlNFd0JwbkZVakVod3hiVmNKV3plWDJJNkh1M1pJZmU5OHByNHhIMTl1OTFZaVZvQUJXd25TYldpTmpMSlZPc0xGLXlfRks1aFR4TFJjSWdYbw?oc=5",
               "origin": "google"
             },
             {
-              "name": "Bitcoin News",
-              "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNzM1YmNPbll2aHViV2ZSdTRucHNkd1JvOGZfUkxFQ2UzZDV6REpkMXR4TmlfSHFuV29xcVF4VlljUVlmdl9lbk0yQTdZcGJxQjhQMUlqVG8xSDRuSWNMNFJpSmF3aXQ2cG5VcmxtN1p0S3FOam1adWJ3WnpCSzVVRzZhNVNPREJiWWlKcW1WeVVsZmo0aFdld09fREhQZTF0MlhONDJObjc5am5oVVJSeFoxLTVZMUU5M2dCQUdkaGFRRXNsYVVkM3ljZmM0QQ?oc=5",
+              "name": "simplywall.st",
+              "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaThLTi1tTHIxOTZsekFLbnVFZWxHREJ1VFpwbnhZLXIyMGJiTFd2SjRJcGJiUk9xV3BrUS16YVk4R0QzQWJQQ0lmbE1MZkNCdEJrbTVYYUVweV9oSkFtY2NtZ0F6bG5nYk1WVjJacHpiWUxIWkRDaEU2djlxRVBlSFFlUlFzNEx1QnFEQnNoOGViT3pnUXp4dmdlbThud9IBowFBVV95cUxQTGl3YW1WLTBiVmk1Z2NtQmFwajlkeEJmMEFFRnhQbXV0Y0RyS1FZSkIyODZwQTZ3dWJVNUNPbG5KMkJkcnUwMHJnSGlWMUF0LWRONzh5Q09QQjc2TFYtZzMzcVQzTHJvMHY3VkFBUmhaUFBraElEa1BTaXlsVXJ2ODRNVTZVRTlheTVLekJrMTdXek5sN1NHVkNHdENheVVZaWVn?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "특허뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VTFlyaWFJT0d5QlNSVFdJY242OHRSTjNMbTF0MXY0QWZmZDJ4RXF1SzYzQm5ybVFTVVFwOTFXaVNWd3dxUUIyUQ?oc=5",
               "origin": "google"
             },
             {
@@ -2844,13 +2930,8 @@
               "origin": "google"
             },
             {
-              "name": "kbsm.net",
+              "name": "경북신문",
               "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWVnJVUUJ2WnFEazNmN3RWRDF0SkhuZTlweXl1OHhhbjRXS2s1NFJHU2xkQkNVOE0yZ2hFU1ZRMmszT2dZckFMV3Y3TkZWMkNGUXNQeG1tSE4?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "edaily.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbjhBVDF5eFZJWkkyTVVwMlZ2Vlk4ME55WFRtb1cyVFFKaktPTFRwbEI2UXJEaVpMWENWel95UzloZVRfOUs5YlZCcFZmeF91bG9aUmNTX0Y2dFkyR3UwZHEyUWh6SnEwSkhhWk9kd2F3bGQ1VG5zQTlPeE9yUTFjQQ?oc=5",
               "origin": "google"
             },
             {
@@ -2866,6 +2947,11 @@
             {
               "name": "aipostkorea.com",
               "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JS0t0bi1nV09DRnFTSWU3eUg5cDdBRTY4WXlwZFp3MGRCalpYeHg5cDZLWDNLdW85OXRVdjN4NGJVZjlMZmRsd1lETmFTOTFtcHFqMExzTHY0VldwV2x2WFBYeXc2NkZicGZhU2x30gFyQVVfeXFMT2ZrWXRwTTE5dWtJck5TdUkzRHhoNG9sZTdlckZsbnRHVDlXXzdqOWx6dlQ5bFJZZkJObWFXc19JOWhOYVI1VVBqc1hkSjBsbkFvclVaeXpJdkI0RWEteVhaX3p2UnVtSEhTZHhVbGVUYUp3?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "newsis.com",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0WUJ2QjhEX0l0cWRJVFd0RzViSWlfbTVvcU5qU3VlelZzSDRaUDBtVHVINkEzQzExM2VyQkZpbTVzQ0oxa2NXMjVQeHYxVUZBWjV2cjVMb3EwMFZIWGRZS9IBeEFVX3lxTE5VNHBmSFNCRzh0VWh0UGRVcE56N0E5NXcwRTRPaDFvcEVkbjRPWUg5SE9lMlNTSkwtNXFMb3R0TnZzbmROa2gtVmIzT3lYbU1seFAzS2J3aGpIQzNqbndBeWFjTlpycnEyZnJuenpGUHdvNWFQakYteQ?oc=5",
               "origin": "google"
             },
             {
@@ -2934,11 +3020,6 @@
               "origin": "google"
             },
             {
-              "name": "simplywall.st",
-              "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbXV5Nnl4M1M0Q1NSYkw3OVF4aEVQUFB3M3V3VXB3cnBWUk5iN216LTBqTlJnaTlrN0ZqdnNiQlExeXgxXzlFMFhyTkIzODdhYUJ3TGE1ckVacDVVdGxsR0hjbThIS0FMWnR0UWpYeURCSUhLSjNjSHZ3OFlLRFJ3SGY1QTV3aW9Ta3I3NVBMNV_SAZYBQVVfeXFMUGNVOHV1NFRuRGJJRFBNcGxBTzhULUFJRWM4eVdNdUNqaTVVZkE1bWFPTVlxZER1bnNxRURaOVZWQmluU2xWUVNuSVA0VzBFZ0RldUU4MWxsZEp3QVUxbDRmelZ6SVlRQWdPVmJ0VWRRX1Nacy1lb3Nia1lQeWdySzVFc1dPSzdRQUFDcUlXa3hBYnZkdkNB?oc=5",
-              "origin": "google"
-            },
-            {
               "name": "아주경제",
               "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53TmRzLU9DcE00Q05OTzhSVDhoMGVFWVFoM3ZhN1JyNEgtdWVFZlVyYTRSaG4xWFloa054RWUzZ1RrY25NYXVGM1JweXpDOEZFbjMxSUtlNHXSAVhBVV95cUxOd05kcy1PQ3BNNENOTk84UlQ4aDBlRVlRaDN2YTdScjRILXVlRWZVcmE0UmhuMVhZaGtOeEVlM2dUa2NuTWF1RjNScHl6QzhGRW4zMUlLZTR1?oc=5",
               "origin": "google"
@@ -2951,6 +3032,11 @@
             {
               "name": "vietnam.vn",
               "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xTFFTZ1dZNWpXdm5aVmltVDlsd0g0ekF1UGhCVTVKMFgycnUyOXdLanVaQV93RktnZ1lpdGM3RGdCZHNVRVdsZU9KTGVRYllLLUpyTVpaVkxfcDg1ODUySW1Ed2tGbHd5NXBpOGxFZ2tmN1dvWFdIYUwzcWg?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "catchnews.kr",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0M0x6eEdPYS1qbEJfZktKalQ2dzlJTE45Q25weXkzbmc1U1R3QUE0ZFNqdVl5QmdzWUtDS2dSMldMZjM3NDBaQ01hUU1uVzZSR2t0bWFmeHBhY1lwbl9DWkRtS2hRQTlzUUY0?oc=5",
               "origin": "google"
             },
             {
@@ -3009,21 +3095,6 @@
               "origin": "google"
             },
             {
-              "name": "시사저널e",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9feEw0QUxXbWN6ZWdkTWhRRHFYd2FQSlFLZnUzS1dXM1N2emNwMVI4SnNjMTZhSDJOMFpsTmY2N2syVGpxWmxJSl9xUzlSck1BYVJWR1hybTdRYkx3bEVuNnRhdEVFbUkyM0IyQmlCNUtTQdIBdkFVX3lxTE9tcUZjYkxTQjBFeTlRci10OWlSLU5EM29PVWNLeERhVUNjamtPOTJ1c3VIVHdOXzZRU3RaQUJEU2dZbnRkRGktUTRObUg5SWh5WGpYamUxVEFIM0c3NFBBN1pZcENSbGNwTXFNRkNsZzBpbHVvX0E?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "산경투데이",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HQ2prLVpVNC1qb1RaZ3FBajNYT1owYXd6aFk2UjNwLUg2Zm91V3Jrc2ZiN29zUU11Ym0zLTZVeHk5alBwaExURnNGeTdBektJdUU2X2c0N3ZHVl85d3hTUjhUdlhMQ0J5cUhkLUtxbjXSAXRBVV95cUxPSS0tdU96Nmw4cGNudVB0eEpQaUZOVHJJR3BtbldXRjVqVnFDU2ZIT0xEcGI1LTByZGZ3SzMxQU9pZnBzaWNXakFPa18xdkRuYTA3am9KaEhubTFJa05BaDMwLXoySVVwY2NVNEc0djRUQlBIQg?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "기호일보",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJMDRhem1TYVpKOF9fUThaU3lEMHJldklrV1lqalRJQU5obXlCRXJSbHNORk9kdFJhMnpGeG1pNl8ySFVzRW96R3pLYzdtMXRSOXNYTHRpNjBkWGE5YVlBUHEydDlDbENROHhPeWlOTQ?oc=5",
-              "origin": "google"
-            },
-            {
               "name": "하이테크정보",
               "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zSjdQUFY4bjJuSmZqTjdSeF9fbWk0VlctMnFLSi1qRmFkMkdLMzM3MVowaUQteTlmVWlBVmdnYXlRSE5MVVd1YTBvV0dMcFlVR1ljenkzRWx3Vjg1OU5jSWozX3htV3BvZzJaTdIBbEFVX3lxTE0zSjdQUFY4bjJuSmZqTjdSeF9fbWk0VlctMnFLSi1qRmFkMkdLMzM3MVowaUQteTlmVWlBVmdnYXlRSE5MVVd1YTBvV0dMcFlVR1ljenkzRWx3Vjg1OU5jSWozX3htV3BvZzJaTQ?oc=5",
               "origin": "google"
@@ -3039,132 +3110,9 @@
               "origin": "google"
             }
           ],
-          "source_count": 78,
+          "source_count": 80,
           "published": "2026-08-16T10:06:00+09:00",
           "ts": 1786842360.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "[반도체 패권 전쟁 ③] TSMC·엔비디아·美동맹 공급망···AI 반도체 패...",
-          "url": "https://www.seoulfn.com/news/articleView.html?idxno=635450",
-          "snippet": "과거 반도체 산업의 경쟁 기준은 누가 더 작고 빠른 칩을 생산하느냐였다. 하지만 생성형 AI 확산 이후 경쟁의 핵심은 달라졌다. 이제는 AI 반도체를 설계하는 기업, 이를 생산하는 파운드리, 고성능 메모리를 공급하는...",
-          "source": "seoulfn.com",
-          "sources": [
-            {
-              "name": "seoulfn.com",
-              "url": "https://www.seoulfn.com/news/articleView.html?idxno=635450",
-              "origin": "naver"
-            },
-            {
-              "name": "아이뉴스24",
-              "url": "http://www.inews24.com/view/1995036",
-              "origin": "naver"
-            },
-            {
-              "name": "세계일보",
-              "url": "https://www.segye.com/newsView/20260816502799?OutUrl=naver",
-              "origin": "naver"
-            },
-            {
-              "name": "wikitree.co.kr",
-              "url": "https://www.wikitree.co.kr/articles/1152712",
-              "origin": "naver"
-            },
-            {
-              "name": "디지털타임스",
-              "url": "https://www.dt.co.kr/article/12078359?ref=naver",
-              "origin": "naver"
-            },
-            {
-              "name": "파이낸셜뉴스",
-              "url": "http://www.fnnews.com/news/202608151843181723",
-              "origin": "naver"
-            },
-            {
-              "name": "아주경제",
-              "url": "https://www.ajunews.com/view/20260815111233328",
-              "origin": "naver"
-            },
-            {
-              "name": "etoday.co.kr",
-              "url": "https://www.etoday.co.kr/news/view/2614857",
-              "origin": "naver"
-            },
-            {
-              "name": "asiatime.co.kr",
-              "url": "https://www.asiatime.co.kr/article/20260814500336",
-              "origin": "naver"
-            },
-            {
-              "name": "지디넷코리아",
-              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tOF9hSlYtSng1OG8ybG93ZDcwRnRsRXVxeU5xLTJRNzdaZGRmY3ltQWU0cXdwR0VLNWhJby0zUTNpWFc5cUpKaHpRakFUeXlmTjgwdnRn?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "v.daum.net",
-              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqQ19NcUZiS1hacE9DbmYxbHRCZWV0dzBZT2tSd0pvR3lhRGRDWFdJMm96b05DU2IxTWVHWFFzcmhocDlyTHhIRUtrelRDRlU?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "스트레이트뉴스",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zNHdKd00tTkEtcGFFdktnVEVkdldyVXlSeDBCbUQxUjItUF9UbmdBUEhsYzZlVDB5cGFYQ0RfWTFrZGJHemdsa0Z0R2xkVzFlM19UVS1uOHJNbzl5Qm1GYmtXWWx6VFlrbnJ4T19STUVnakhaZ3lZ0gF3QVVfeXFMTzM0d0p3TS1OQS1wYUV2S2dURWR2V3JVeVJ4MEJtRDFSMi1QX1RuZ0FQSGxjNmVUMHlwYVhDRF9ZMWtkYkd6Z2xrRnRHbGRXMWUzX1RVLW44ck1vOXlCbUZia1dZbHpUWWtucnhPX1JNRWdqSFpneVk?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "서울파이낸스",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuUmVxdzBvejhrMTFkMkh4ZWpVZFJvODlDeVh1elNJcDUyRlN5dEp0NUtMWHB2QzlMZ2tnZTkydFZzUWJiaHh3MTIxNzJmcUZSR2EySE9RaGpTT3FsY3JscGxDNnhMTzRHOXc?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwM2p5TXJUN3c1d05Ja01vSzJieldyOURZeHNMWW9Iel9KZTRaeWkyTlkxMndsSnR5dm9DaElWMUhlcGg4TnNlTWVUUmlSU1MwLTdJ?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "얼리어답터뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hQjh0TjRFaHFIREEwS1U1SGFuQXZYVk1xTEdUUHJNMjVfUGRKd1pVTmpNblBHS3o3cm5oejBWbHE2WlZDZG9QWA?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "스페셜타임스",
-              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50cm1zVk00UHVCbm9TWFVGbVl0UDFrMGNqV3lfTUY2TTVCd1EtNWVyQzZvRHlwQVNPa3kxWEc0bnlZdk9EeWpQYTA5LS15ZGdGeDVsd0ZUTDFoaFhnTk1wZFd2YndHMmdwcW9IV1prSnk3LXM?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "위키트리",
-              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KUUU1UmhZVnlVaV9scl9JRi1pWDRuSmNBRlRFRlVwQzF5OVZzQ2lCUEZmanFEd05VR1lPdENZN2tKbFE1b1FHcUh3TlAxQmpBYXpkaGlR?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "이콘밍글",
-              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE03ZW1nWlZVeFhQUzJiM2QxMDM4Z08xcHVSTHlIUW9wMkRYa255S2xKdHVPTWZKc2ppVjFkaTI3MVZDTGJRUExWY3NmM2RPT1FIU2ZqWmtweEZwUFJ2bWIxUktYMWZVOV9hbGpBdHo4OUk3LW_SAXtBVV95cUxNdUhPcEs1YUh6QVdFZVllcTlKbjREajhuQ3ZCSk85ODA2YloyenJwRVoyZjFZWFFMUFNtcUxsMGI0bnUtRWJHWHl4NzdDNnhGcUdNTDZaWEtSNXktYzRsRmgxUUVlX2VmaEhUSnF0V2U2eWU5TE8xR3ZiN2c?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "AI타임스",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82b2RzRlNpUkhySVMzTmYxMGRnNVNtcmZydTRKdDFHblhFWVhudE1sV3ZWS2E2eDBxN2ZVNjlwX05nUHNOMDFGem13Ri1lbnBuYTdfRElWSG5ONnJMdUVCWlNhZUVYb25oR3c?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "edaily.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSEJKN3FyVHJrRDNBMzNPXy13M1BIWmdlNUJNQXJHV3BpN01mMF8zYVMzSVJEZWI1TUZGaU1JQlN5empFUW9yMnhMd2Mtd21idXIxWXNXaDlsSEpGQXJ3dElYOG8xUXQ3eWNlZ2REYjhBMW1wemFERnlIaldncDVadA?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "catchnews.kr",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0M0x6eEdPYS1qbEJfZktKalQ2dzlJTE45Q25weXkzbmc1U1R3QUE0ZFNqdVl5QmdzWUtDS2dSMldMZjM3NDBaQ01hUU1uVzZSR2t0bWFmeHBhY1lwbl9DWkRtS2hRQTlzUUY0?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "지티티코리아",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TcThKeVJTNmgzVzVmelVRaW12YWdQQ2RfajhtcUxta18xTWZwMXNXZ3VGMlpFbFd2YWlOblN4YXNDRW9Bd284eTUzdXhWSUlXSWhrcWZPS29LSVE4Sjk3cGM0TFdDMG5vQ0E?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 22,
-          "published": "2026-08-16T08:00:00+09:00",
-          "ts": 1786834800.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -3287,16 +3235,187 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "최태원 SK그룹 회장, 美 메모리 팹 가능성 열었다…\"생태계 갖춰지면 어...",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=748112",
-          "snippet": "최 회장은 \"AI 시대에는 한 사람이 여러 AI 에이전트를 사용하면서 메모리 수요 구조가 달라진다\"며 \"메모리 사이클이 사라지는 것은 아니지만 과거보다 훨씬 길어질 것\"이라고 전망했다. 메모리 가격 급등에 따른...",
-          "source": "econovill.com",
+          "title": "[ISEC 2026] “AI의 ‘규모’와 사람의 ‘깊이’를 한 플랫폼에 통합”....",
+          "url": "http://www.boannews.com/media/view.asp?idx=145164&kind=3",
+          "snippet": "해커원의 플랫폼은 AI 에이전트가 발견, 정찰, 기본 취약점 테스트 등 사람이 하던 수작업을 대신 수행해 속도를 크게 높인다. 이렇게 AI가 찾아낸 취약점에 대해 사람이 직접 유효성과 의미를 검증하고 분류(Triage)를...",
+          "source": "boannews.com",
           "sources": [
             {
-              "name": "econovill.com",
-              "url": "https://www.econovill.com/news/articleView.html?idxno=748112",
+              "name": "boannews.com",
+              "url": "http://www.boannews.com/media/view.asp?idx=145164&kind=3",
               "origin": "naver"
             },
+            {
+              "name": "lcnews.co.kr",
+              "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=206607",
+              "origin": "naver"
+            },
+            {
+              "name": "kfenews.co.kr",
+              "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=662506",
+              "origin": "naver"
+            },
+            {
+              "name": "프레시안",
+              "url": "https://www.pressian.com/pages/articles/2026081518262559878?utm_source=naver&utm_medium=search",
+              "origin": "naver"
+            },
+            {
+              "name": "뉴시스",
+              "url": "https://www.newsis.com/view/NISX20260815_0003750666",
+              "origin": "naver"
+            },
+            {
+              "name": "OhmyNews",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qNjRYMjV1dl82bm8yMDdJWGxiZ2dmWUR0NmdGUURWQWxMcExMelYwWndrYWFRUXk3Y2lqWjVNeWxqSEZBYmJJZWEzLU5Xa1VCNHRITU91dHVpZzFTeThsWjh2Njl4Nk5GZXFlenpjVEVydVd0NldN?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "카가이",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XRUdaZGdhSi1nUWh4UFVQOGlDOTNrUzdTeURDZFJuYzhqVTdOUDZodGFGR1VvSjZ3VlI2Z0hrM1VQOUxra2w4cWUxdUxKV2Qzc1owaWtaSkNjWDhDV0trZXNzYVV6Zw?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "보안뉴스",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aSUpvZmhOMTFNTlZsWUxIZ1pJWFZUX2VodFdnMUJEM0JkZzI1RmZoakVhWkFDSGU1U3E3WkVZQnBHbF9aMDhuQW8zTEZzNk0wQzhuZXU0NkZuZEVxeHNWQjQyVWtwRm1odmhIdUphV1F3UQ?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "ebn.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBla0wtd1ZGSUh6TlJWWktrdEd3MFNleDhmQkVaaFJvUmJ0Tkx6clFZZlBTbUZuNHFMRzZZbW1SeWZTWnYxNHE0TzNIM3RNZmtYenlLWU83NEc4d0dsell1RHBjbnJUTjJF?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "더퍼블릭",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzTHU5azhTb2s1Ync4Tml1OF9fX3FHUlY1dVFUY2I5UEladEthcFVKMXBwREx3WkdxVkxlQm5lTGdHX25YNVpGRnhLRlpuNkJUeTE4dWxiWEJPMThFWHVfaWNsdERGOEljYm9N0gFvQVVfeXFMTjFuaDlkQWI0dVhBclc0SFVxckRmSEFZZXFRZ0hoTkt6VTF5NGNIYWtNVk1RNzZvSWNjOXo0Sml4TmpidG4xRGwxQzI1dzFrbWFfbndyblZTb2FfWVBaWjBESkNDNUJLZXFTRVR4eFZV?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "한국금융경제신문",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1bW5BWEkyM2V3eFN5THNEUjNoczdoXzE5dmk1Mm0zQWJ0MmY3MjhWUTJzTk15QVc3Z3pmVUJYc05uWGh1WEVlWDM4MXBmeF91S2ZvekRiRHFicFlQakp1ZGlBSWZDVHN4X29wetIBcEFVX3lxTE9rVFp1TGNGSmZlbmtGZXNYemtSYkphNEx4QXc1aWgxeUg3cTVUZU1GQWUzSFprQkFSVndScmsyRGRGSGo3RkU3Z18tbmtrS2owdTFmMUpleHluSUZ4Q2MyRmVzbEEwYnhaQjFydU9JVE8?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "국민뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBIemVBZkl0UmtMUnFQU3BVTUZ3SmJTay1Pd1FfM0I5cy12OWwzS3VwSVFQcDhZSXNFOVhxQm80Y1d3cEE4bGN6UzFR?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "소년한국일보",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rVFp1TGNGSmZlbmtGZXNYemtSYkphNEx4QXc1aWgxeUg3cTVUZU1GQWUzSFprQkFSVndScmsyRGRGSGo3RkU3Z18tbmtrS2owdTFmMUpleHluSUZ4Q2MyRmVzbEEwYnhaQjFydU9JVE_SAXBBVV95cUxPa1RadUxjRkpmZW5rRmVzWHprUmJKYTRMeEF3NWloMXlIN3E1VGVNRkFlM0haa0JBUlZ3UnJrMkRkRkhqN0ZFN2dfLW5ra0tqMHUxZjFKZXh5bklGeENjMkZlc2xBMGJ4WkIxcnVPSVRP?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "thepowernews.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9IM3JlN0tKYTlIZWhjS2U5Qk1lbjFSVENKeV8xWnFrMVFoU2k0LXkzZm5qeEtTcnpReVNUNVR1d2tudXhCTy1xNlEyNGNwVE8wQlBsY3dVblctRG1uRHNsTWl5QUlfQ3hjUzB1dkRkUWxQT2lSWFZqWDVXWHFrUQ?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "vietnam.vn",
+              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSzBiLV95UWVJSlh0Ynl6YVRKQm1yeTNaQVk5QmdYUU1yelRnckRQbVZ6bTc0NEZkd0Judk1ZMWE4aDZsQ3Y3TXMtbG9YNmRuX2c0TERpeHQ5RGJmN21ib293eVBDR0owSFVvQ2FkT0VCNW9JcEVFNDVOWUNFLUl0NWdTQk8wNG5CYU4yLVRrUWc4M2xoYTVwSWZEOXRqWnM?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "투데이안",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ldGt5NGtJUS10cXJpeGJvT3F0YlEzbmFIU0hZa1FhZ3BwY2tVX3ZJMUt0RzdHZVdiT3ZzQ0JCYmZnWTZDVkNMN3VfRmxrZGpPYS01M3M5N2lqY3NSYkFMdmJFSHVpanUtMkE?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 16,
+          "published": "2026-08-16T09:34:00+09:00",
+          "ts": 1786840440.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "위험평가 낮음으로 올린 앤트로픽, 실험실 우회 확인",
+          "url": "https://www.tokenpost.kr/news/cryptocurrency/391512",
+          "snippet": "논란이 된 대목은 AI 에이전트가 경쟁 에이전트를 ‘죽이고’ 흔적을 숨기려 했다는 표현이다. 앤트로픽 정렬 과학 블로그는 해당 사례들이 실제 세계에서 벌어진 사건이 아니라고 명시했다. 실험은 프런티어 모델을...",
+          "source": "tokenpost.kr",
+          "sources": [
+            {
+              "name": "tokenpost.kr",
+              "url": "https://www.tokenpost.kr/news/cryptocurrency/391512",
+              "origin": "naver"
+            },
+            {
+              "name": "wikitree.co.kr",
+              "url": "https://www.wikitree.co.kr/articles/1152712",
+              "origin": "naver"
+            },
+            {
+              "name": "etoday.co.kr",
+              "url": "https://www.etoday.co.kr/news/view/2614857",
+              "origin": "naver"
+            },
+            {
+              "name": "v.daum.net",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqQ19NcUZiS1hacE9DbmYxbHRCZWV0dzBZT2tSd0pvR3lhRGRDWFdJMm96b05DU2IxTWVHWFFzcmhocDlyTHhIRUtrelRDRlU?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "fetv.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wT3ZoaEI5V0lHWklLNi1aQXllQmNaRldVZGlEcjFWRFlHN0d1QzdleXU5Mkw3UFdBRW9qSVJZX180b3JraXBLT2RGM3Fxb09YSWMyRGJOQkdpUUFUYVBaZlp1ajZMQXNC?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "네이트",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VRkNMRHNCeDgxRk5RdmlJeFJjSDd6UHhIMXdQOE1WMTFaUkp1b0J1ZVJxR0ZaZ016ME5qUFBoTnlLaDN1elBlTFdsakg3azhBRlhR?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "Yellow.com",
+              "url": "https://news.google.com/rss/articles/CBMi2gRBVV95cUxNV0RfMXhHMnUzTlk3NXdvQl9OQzVDNGxBNE5WVHpUQ3hEOEZvb2R6aFgxblJTeURrT3Q3dW9HWGRrMVI1SlVvbHgxMDA5QmMzNG1iQjZrbWRFOVdjemFINjQ5Z2ItYnZocUVESFBoa2I0d05uZ3FfNmREYzlBMFRFTnhkMnU2em9kdTZGV0k2Zm5adkdfNHdJd3J1NkRsTHVsdk0yZWZGZEctd1BvRWxiQ0ZQRDBGUndzamRYLVhieVZVcmZmUXM3R0pCdUhtTVZmcHZoTkdoTGxibnNKN09Ob2FzVmZHU29MaGxDYlVfZUdsYTFuNkZ5UUszSmFHZ1pxbHlpWFFtQ0otR215cjJhUzJSX3pXX3JJWEcwRzZuOVgzZWxGcno4cnBCYWhKMHhNTTZQTWFzZDRvUnZlT3F3OTVNbGpmQnBBN3ZlamdoV3pMR1ZSVkwxY0dBZGxsZTRkT0hWTUZ1RmFCR1U1bHJKeDBLTV84Y2tjR251OF9TcXpmZWg3VE1BbzFEc292LUQtTlptUnBJWjRsanA2cmpJeFVaR1lIcmY1dG9RT0FyaVVEV2t6U29uTExlOThUMzdhZVI2bVhpeDYwV096ZzNVRVFJbU5NWkt6d000N0RRaE9OaGlWUk9nOXFSU3NaY0JCZ2JjcW5yN1BJSFotX3FrNXdHSkkwZkFHQ2J6SjdlUEhPdGNqTUdPbjNCel9WZjZDbTd2Zko2UlpNZXpicGIzem90MUlmMDhRenAxQ2UxVk5lclZNMWdKM1MtSFczaWgzZE1ycWtvYmlSUQ?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "얼리어답터뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hQjh0TjRFaHFIREEwS1U1SGFuQXZYVk1xTEdUUHJNMjVfUGRKd1pVTmpNblBHS3o3cm5oejBWbHE2WlZDZG9QWA?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "스페셜타임스",
+              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50cm1zVk00UHVCbm9TWFVGbVl0UDFrMGNqV3lfTUY2TTVCd1EtNWVyQzZvRHlwQVNPa3kxWEc0bnlZdk9EeWpQYTA5LS15ZGdGeDVsd0ZUTDFoaFhnTk1wZFd2YndHMmdwcW9IV1prSnk3LXM?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "IT타임스",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56TXRKelVVT2JiYWFMclltWmZwcmR4NEw0TVh0c3VUXzBRMkNXdThndmR6TUN3R3dSbGk0R0ZyZGZwVWFOcUthbU1sMlltSGpmb3hlQnlCMV9jRVVyZVJoSnZJUFhIdVVX?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "민심뉴스",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yRTlNZ1JBbUViM1VSVldabG94UTlJMWd6REpUb0hHRnhVMG94UUJpRmFJODhUNG1xaGg1eFd4V1JYakpZYmluREEtb3JDeW5ISjNXM19QWWtmczZBU0pqbTVrVk9IbUd3bWNBcQ?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "위키트리",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KUUU1UmhZVnlVaV9scl9JRi1pWDRuSmNBRlRFRlVwQzF5OVZzQ2lCUEZmanFEd05VR1lPdENZN2tKbFE1b1FHcUh3TlAxQmpBYXpkaGlR?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "플래텀(Platum)",
+              "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5kMmhqQXhKRGFOOFNvV04wN1Q3bDBfN09OVGE5YVo1WjREUndqSzc3cG40QzVSUV84eENpV1g5bDlSWGsxWTczTg?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "AI타임스",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82b2RzRlNpUkhySVMzTmYxMGRnNVNtcmZydTRKdDFHblhFWVhudE1sV3ZWS2E2eDBxN2ZVNjlwX05nUHNOMDFGem13Ri1lbnBuYTdfRElWSG5ONnJMdUVCWlNhZUVYb25oR3c?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 14,
+          "published": "2026-08-16T05:54:00+09:00",
+          "ts": 1786827240.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "시총 3위 SK스퀘어 'AI·반도체 투자회사'로 변신",
+          "url": "https://www.hankyung.com/article/2026081424971",
+          "snippet": "이와 함께 미래 성장의 과실을 보기 위해 미국의 인공지능(AI) 및 피지컬AI 스타트업과 일본의 관련 부품 장비 회사 등에 대한 지분 투자도 적극 나선다는 계획이다. 실제로 올해 초 조직개편을 통해 AI를...",
+          "source": "etoday.co.kr",
+          "sources": [
             {
               "name": "etoday.co.kr",
               "url": "https://www.etoday.co.kr/news/view/2614851",
@@ -3368,96 +3487,96 @@
               "origin": "google"
             }
           ],
-          "source_count": 15,
-          "published": "2026-08-15T11:20:00+09:00",
-          "ts": 1786760400.0,
+          "source_count": 14,
+          "published": "2026-08-15T06:58:00+09:00",
+          "ts": 1786744680.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "[ISEC 2026] “AI의 ‘규모’와 사람의 ‘깊이’를 한 플랫폼에 통합”....",
-          "url": "http://www.boannews.com/media/view.asp?idx=145164&kind=3",
-          "snippet": "해커원의 플랫폼은 AI 에이전트가 발견, 정찰, 기본 취약점 테스트 등 사람이 하던 수작업을 대신 수행해 속도를 크게 높인다. 이렇게 AI가 찾아낸 취약점에 대해 사람이 직접 유효성과 의미를 검증하고 분류(Triage)를...",
-          "source": "boannews.com",
+          "title": "[반도체 패권 전쟁 ③] TSMC·엔비디아·美동맹 공급망···AI 반도체 패...",
+          "url": "https://www.dt.co.kr/article/12078359?ref=naver",
+          "snippet": "과거 반도체 산업의 경쟁 기준은 누가 더 작고 빠른 칩을 생산하느냐였다. 하지만 생성형 AI 확산 이후 경쟁의 핵심은 달라졌다. 이제는 AI 반도체를 설계하는 기업, 이를 생산하는 파운드리, 고성능 메모리를 공급하는...",
+          "source": "디지털타임스",
           "sources": [
             {
-              "name": "boannews.com",
-              "url": "http://www.boannews.com/media/view.asp?idx=145164&kind=3",
+              "name": "디지털타임스",
+              "url": "https://www.dt.co.kr/article/12078359?ref=naver",
               "origin": "naver"
             },
             {
-              "name": "ceoscoredaily.com",
-              "url": "https://www.ceoscoredaily.com/page/view/2026081110070494732",
+              "name": "seoulfn.com",
+              "url": "https://www.seoulfn.com/news/articleView.html?idxno=635450",
               "origin": "naver"
             },
             {
-              "name": "kfenews.co.kr",
-              "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=662506",
+              "name": "아이뉴스24",
+              "url": "http://www.inews24.com/view/1995036",
               "origin": "naver"
             },
             {
-              "name": "프레시안",
-              "url": "https://www.pressian.com/pages/articles/2026081518262559878?utm_source=naver&utm_medium=search",
+              "name": "세계일보",
+              "url": "https://www.segye.com/newsView/20260816502799?OutUrl=naver",
               "origin": "naver"
             },
             {
-              "name": "뉴시스",
-              "url": "https://www.newsis.com/view/NISX20260815_0003750666",
+              "name": "파이낸셜뉴스",
+              "url": "http://www.fnnews.com/news/202608151843181723",
               "origin": "naver"
             },
             {
-              "name": "보안뉴스",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aSUpvZmhOMTFNTlZsWUxIZ1pJWFZUX2VodFdnMUJEM0JkZzI1RmZoakVhWkFDSGU1U3E3WkVZQnBHbF9aMDhuQW8zTEZzNk0wQzhuZXU0NkZuZEVxeHNWQjQyVWtwRm1odmhIdUphV1F3UQ?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "뉴스홈(newshome)",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGdkRaMmpMRnQyamhaTkhMUXczOVBxUEtncnpSbFdFM29QRE03d2s0WEhoWnZZNUpLcDhjU3V3ZGd3SWtPdDlyU3dqaVV1bFhsd1pMVTdUWlBlTC1UeTNVNVRwSmxweHF0cXdHOHZB?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "CEO스코어데일리",
-              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vTHRWdzhoZy1nR21sbTR5Zmp0MEIzMTR1b3VyQjhLemJWOTNFdV9qVGkzTnl0UGJSY2hvNVRzQnBTMEh0bDRjcldFNG9NdjJuT1NYc1hyRlh3N2RWNzlHN3NSY3ZES2tl?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "ebn.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBla0wtd1ZGSUh6TlJWWktrdEd3MFNleDhmQkVaaFJvUmJ0Tkx6clFZZlBTbUZuNHFMRzZZbW1SeWZTWnYxNHE0TzNIM3RNZmtYenlLWU83NEc4d0dsell1RHBjbnJUTjJF?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "AI넷",
-              "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5sZTBTZlM1NnVkOVBaY0p2ZUJRSU55dXF4MVdSVWRRdEllcGxNdjh3ZWpoLWs5RGhDLURJTXRyREY?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "thepowernews.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9IM3JlN0tKYTlIZWhjS2U5Qk1lbjFSVENKeV8xWnFrMVFoU2k0LXkzZm5qeEtTcnpReVNUNVR1d2tudXhCTy1xNlEyNGNwVE8wQlBsY3dVblctRG1uRHNsTWl5QUlfQ3hjUzB1dkRkUWxQT2lSWFZqWDVXWHFrUQ?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "투데이안",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ldGt5NGtJUS10cXJpeGJvT3F0YlEzbmFIU0hZa1FhZ3BwY2tVX3ZJMUt0RzdHZVdiT3ZzQ0JCYmZnWTZDVkNMN3VfRmxrZGpPYS01M3M5N2lqY3NSYkFMdmJFSHVpanUtMkE?oc=5",
-              "origin": "google"
+              "name": "asiatime.co.kr",
+              "url": "https://www.asiatime.co.kr/article/20260814500336",
+              "origin": "naver"
             },
             {
               "name": "지디넷코리아",
-              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hWVVjNG9vRGgwdE13b1FVRHlLTDJDQUdvYThfVXZ4TndRa2VETWtlZF8yNU9vcXg3X2xoTU5UV09iWDZhUWF5d2lnQWR4Zm1aQkVaQXN3?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tOF9hSlYtSng1OG8ybG93ZDcwRnRsRXVxeU5xLTJRNzdaZGRmY3ltQWU0cXdwR0VLNWhJby0zUTNpWFc5cUpKaHpRakFUeXlmTjgwdnRn?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "서울파이낸스",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuUmVxdzBvejhrMTFkMkh4ZWpVZFJvODlDeVh1elNJcDUyRlN5dEp0NUtMWHB2QzlMZ2tnZTkydFZzUWJiaHh3MTIxNzJmcUZSR2EySE9RaGpTT3FsY3JscGxDNnhMTzRHOXc?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "네이트",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwM2p5TXJUN3c1d05Ja01vSzJieldyOURZeHNMWW9Iel9KZTRaeWkyTlkxMndsSnR5dm9DaElWMUhlcGg4TnNlTWVUUmlSU1MwLTdJ?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "segye.com",
+              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUU184bjJtQktia0VhLVpzaGZwVng4aUEzTU9fakRSV3Zla3UzYWpQM3lXYWo0ckNZdlhGRHJQQmt1VkRPYTJadUhnWnJCdUJqaG1hTFFmTC3SAVRBVV95cUxOQ1dSU0VJbmttaGt2b1QwWlItZWs1bTJYRkcyNWJwWkZucXFuUTIyVTNpMlBqTzhkVzJrbW5WaWxadFNvUFNwUko4eTR1LVZ3dEZlMGk?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "edaily.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbjhBVDF5eFZJWkkyTVVwMlZ2Vlk4ME55WFRtb1cyVFFKaktPTFRwbEI2UXJEaVpMWENWel95UzloZVRfOUs5YlZCcFZmeF91bG9aUmNTX0Y2dFkyR3UwZHEyUWh6SnEwSkhhWk9kd2F3bGQ1VG5zQTlPeE9yUTFjQQ?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "지티티코리아",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TcThKeVJTNmgzVzVmelVRaW12YWdQQ2RfajhtcUxta18xTWZwMXNXZ3VGMlpFbFd2YWlOblN4YXNDRW9Bd284eTUzdXhWSUlXSWhrcWZPS29LSVE4Sjk3cGM0TFdDMG5vQ0E?oc=5",
               "origin": "google"
             }
           ],
-          "source_count": 13,
-          "published": "2026-08-16T09:34:00+09:00",
-          "ts": 1786840440.0,
+          "source_count": 12,
+          "published": "2026-08-16T08:00:00+09:00",
+          "ts": 1786834800.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "[속보] 앤트로픽, 창사 첫 분기 흑자 전환…매출은 14배 급증",
-          "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608160077&t=NN",
-          "snippet": "인공지능(AI) 챗봇 클로드 개발사인 앤트로픽이 2분기에 창사 이래 처음으로 영업이익 흑자를 기록했다.... 앤트로픽의 가파른 성장세는 코딩 도구와 사무 에이전트 등 기업·전문직 시장에서 수요가 높은 제품에...",
-          "source": "한국경제TV",
+          "title": "\"허가 없이 휴가 간다\"…6년 연속 최대 매출 찍은 이 기업의 비결",
+          "url": "https://www.mt.co.kr/future/2026/08/16/2026080715255761735",
+          "snippet": "글로벌 180개국 진출…\"세계 1위로 나아갈 인재 찾는다\" 미리디는 전사적인 AX(인공지능 전환)를 추진하고 있으며, 개발 조직은 이미 AI 에이전트 기반 개발 환경을 구축해 생산성을 끌어올리고 있다. 현재 개발을 포함한...",
+          "source": "머니투데이",
           "sources": [
+            {
+              "name": "머니투데이",
+              "url": "https://www.mt.co.kr/future/2026/08/16/2026080715255761735",
+              "origin": "naver"
+            },
             {
               "name": "한국경제TV",
               "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608160077&t=NN",
@@ -3497,11 +3616,16 @@
               "name": "연합뉴스",
               "url": "https://www.yna.co.kr/view/AKR20260816009200091?input=1195m",
               "origin": "naver"
+            },
+            {
+              "name": "wikitree.co.kr",
+              "url": "https://www.wikitree.co.kr/articles/1152715",
+              "origin": "naver"
             }
           ],
-          "source_count": 8,
-          "published": "2026-08-16T09:47:00+09:00",
-          "ts": 1786841220.0,
+          "source_count": 10,
+          "published": "2026-08-16T10:00:00+09:00",
+          "ts": 1786842000.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -3515,6 +3639,16 @@
               "name": "뉴스1",
               "url": "https://www.news1.kr/it-science/internet-platform/6250329",
               "origin": "naver"
+            },
+            {
+              "name": "womaneconomy.co.kr",
+              "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257328",
+              "origin": "naver"
+            },
+            {
+              "name": "여성경제신문",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mWV9XbnZSbGZFOGppMTk5VFhZbV9EMHJmdV9Ga0VyOThSRzhWMG1sYVcxd3JHNEJld3JFZjF5TW5NMDN3ZHdWTjBvUTdzVUlsOGs3cW1IRDZ0SDJHYURKVVVqamFnYmtsWV9odXRVdmFUVmhDc0FB?oc=5",
+              "origin": "google"
             },
             {
               "name": "신동아",
@@ -3537,11 +3671,6 @@
               "origin": "google"
             },
             {
-              "name": "특허뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VTFlyaWFJT0d5QlNSVFdJY242OHRSTjNMbTF0MXY0QWZmZDJ4RXF1SzYzQm5ybVFTVVFwOTFXaVNWd3dxUUIyUQ?oc=5",
-              "origin": "google"
-            },
-            {
               "name": "뉴스홈(newshome)",
               "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wVFpRUUJDVkthaU1SemNvUWRManA3TDN3TXdMNmlVVlY5ZU90MWp0empURG9XdTdGdEt4ZnBvMi0tTnFQeEU2a3lWemw1RXdyZi1GVUhOdC1Tb2VwWE9PMVZMRjZhbnJxMTVMd2xB?oc=5",
               "origin": "google"
@@ -3552,7 +3681,7 @@
               "origin": "google"
             }
           ],
-          "source_count": 8,
+          "source_count": 9,
           "published": "2026-08-16T09:01:00+09:00",
           "ts": 1786838460.0,
           "group": "trend_ai",
@@ -3600,14 +3729,72 @@
               "origin": "naver"
             },
             {
+              "name": "newspim.com",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTRzNUN25yYnY2S0JfR1ZaTkF5eWVqOEh1ZHVIWk1lNGJYY0JabHRoTy1CdWpCTkZnS1Q2d2lzb3MyZ3VHRXVGdVdad21WeFlvZTVWaUpFdGkwV0dS?oc=5",
+              "origin": "google"
+            },
+            {
               "name": "sedaily.com",
               "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PaU51QzcyNEV6blRXTzd1VVRsYk9kRHRDSlJWZmhkU2l2dE5JYUhfR09XbHhhX2t3d1hOd2pTdXlQN3kyYjF6TkFCSnE5MzJ5OVJnQlVkOUEzVkZNQmh2MzNIZlVwZ9IBU0FVX3lxTFBrQXFmZ0o2WG1Wdk5EWGtNMGEyRDFNQThUb191M0FUTXFXUmRBX3NlcklTcTN5SE50SWJQLUR0ai1YT1BTQ0xjQV9ZMFdraFpSZVhZ?oc=5",
               "origin": "google"
             }
           ],
-          "source_count": 8,
+          "source_count": 9,
           "published": "2026-08-15T22:35:00+09:00",
           "ts": 1786800900.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "안요진 당진시의원, \"AI 대전환, 지금이 기회\"",
+          "url": "http://www.cctimes.kr/news/articleView.html?idxno=921884",
+          "snippet": "또한, 지난 6월 정부가 3대 메가프로젝트 국민보고회에서 반도체, 피지컬 AI, AI 데이터센터 투자와 전력·입지 등 인프라 확충을 논의함에 따라, 충청권에 392조원, 충남에 202조원이 투자될 전망이라며, 충남은 이에 맞춰...",
+          "source": "cctimes.kr",
+          "sources": [
+            {
+              "name": "cctimes.kr",
+              "url": "http://www.cctimes.kr/news/articleView.html?idxno=921884",
+              "origin": "naver"
+            },
+            {
+              "name": "ceoscoredaily.com",
+              "url": "https://www.ceoscoredaily.com/page/view/2026081110070494732",
+              "origin": "naver"
+            },
+            {
+              "name": "뉴시스",
+              "url": "https://www.newsis.com/view/NISX20260814_0003749813",
+              "origin": "naver"
+            },
+            {
+              "name": "뉴스홈(newshome)",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGdkRaMmpMRnQyamhaTkhMUXczOVBxUEtncnpSbFdFM29QRE03d2s0WEhoWnZZNUpLcDhjU3V3ZGd3SWtPdDlyU3dqaVV1bFhsd1pMVTdUWlBlTC1UeTNVNVRwSmxweHF0cXdHOHZB?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "AI넷",
+              "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5sZTBTZlM1NnVkOVBaY0p2ZUJRSU55dXF4MVdSVWRRdEllcGxNdjh3ZWpoLWs5RGhDLURJTXRyREY?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "이콘밍글",
+              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE03ZW1nWlZVeFhQUzJiM2QxMDM4Z08xcHVSTHlIUW9wMkRYa255S2xKdHVPTWZKc2ppVjFkaTI3MVZDTGJRUExWY3NmM2RPT1FIU2ZqWmtweEZwUFJ2bWIxUktYMWZVOV9hbGpBdHo4OUk3LW_SAXtBVV95cUxNdUhPcEs1YUh6QVdFZVllcTlKbjREajhuQ3ZCSk85ODA2YloyenJwRVoyZjFZWFFMUFNtcUxsMGI0bnUtRWJHWHl4NzdDNnhGcUdNTDZaWEtSNXktYzRsRmgxUUVlX2VmaEhUSnF0V2U2eWU5TE8xR3ZiN2c?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "v.daum.net",
+              "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA0c0RSeF80UVpwMHZ4STd4SzRySEhUanZPNThvQTBaYlZNdnh6WXJlVFJsU1A2MTVYOUg2LUcwYTh3UW42dHc?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "지디넷코리아",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hWVVjNG9vRGgwdE13b1FVRHlLTDJDQUdvYThfVXZ4TndRa2VETWtlZF8yNU9vcXg3X2xoTU5UV09iWDZhUWF5d2lnQWR4Zm1aQkVaQXN3?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 8,
+          "published": "2026-08-16T10:08:00+09:00",
+          "ts": 1786842480.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -3744,7 +3931,7 @@
               "origin": "google"
             },
             {
-              "name": "한국AI부동산신문",
+              "name": "kairnews.com",
               "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EdU1TNkZ1bms0dlVnT29WQnpYTndPbFM1c1BJRFVTNURGcDBrVDdjdF9vckpaNENOTnlvRWs2a0FiREVMNi1JX05QWUo?oc=5",
               "origin": "google"
             },
@@ -3762,49 +3949,6 @@
           "source_count": 7,
           "published": "2026-08-16T08:01:00+09:00",
           "ts": 1786834860.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "위험평가 낮음으로 올린 앤트로픽, 실험실 우회 확인",
-          "url": "https://www.tokenpost.kr/news/cryptocurrency/391512",
-          "snippet": "논란이 된 대목은 AI 에이전트가 경쟁 에이전트를 ‘죽이고’ 흔적을 숨기려 했다는 표현이다. 앤트로픽 정렬 과학 블로그는 해당 사례들이 실제 세계에서 벌어진 사건이 아니라고 명시했다. 실험은 프런티어 모델을...",
-          "source": "tokenpost.kr",
-          "sources": [
-            {
-              "name": "tokenpost.kr",
-              "url": "https://www.tokenpost.kr/news/cryptocurrency/391512",
-              "origin": "naver"
-            },
-            {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VRkNMRHNCeDgxRk5RdmlJeFJjSDd6UHhIMXdQOE1WMTFaUkp1b0J1ZVJxR0ZaZ016ME5qUFBoTnlLaDN1elBlTFdsakg3azhBRlhR?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "Yellow.com",
-              "url": "https://news.google.com/rss/articles/CBMi2gRBVV95cUxNV0RfMXhHMnUzTlk3NXdvQl9OQzVDNGxBNE5WVHpUQ3hEOEZvb2R6aFgxblJTeURrT3Q3dW9HWGRrMVI1SlVvbHgxMDA5QmMzNG1iQjZrbWRFOVdjemFINjQ5Z2ItYnZocUVESFBoa2I0d05uZ3FfNmREYzlBMFRFTnhkMnU2em9kdTZGV0k2Zm5adkdfNHdJd3J1NkRsTHVsdk0yZWZGZEctd1BvRWxiQ0ZQRDBGUndzamRYLVhieVZVcmZmUXM3R0pCdUhtTVZmcHZoTkdoTGxibnNKN09Ob2FzVmZHU29MaGxDYlVfZUdsYTFuNkZ5UUszSmFHZ1pxbHlpWFFtQ0otR215cjJhUzJSX3pXX3JJWEcwRzZuOVgzZWxGcno4cnBCYWhKMHhNTTZQTWFzZDRvUnZlT3F3OTVNbGpmQnBBN3ZlamdoV3pMR1ZSVkwxY0dBZGxsZTRkT0hWTUZ1RmFCR1U1bHJKeDBLTV84Y2tjR251OF9TcXpmZWg3VE1BbzFEc292LUQtTlptUnBJWjRsanA2cmpJeFVaR1lIcmY1dG9RT0FyaVVEV2t6U29uTExlOThUMzdhZVI2bVhpeDYwV096ZzNVRVFJbU5NWkt6d000N0RRaE9OaGlWUk9nOXFSU3NaY0JCZ2JjcW5yN1BJSFotX3FrNXdHSkkwZkFHQ2J6SjdlUEhPdGNqTUdPbjNCel9WZjZDbTd2Zko2UlpNZXpicGIzem90MUlmMDhRenAxQ2UxVk5lclZNMWdKM1MtSFczaWgzZE1ycWtvYmlSUQ?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "IT타임스",
-              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56TXRKelVVT2JiYWFMclltWmZwcmR4NEw0TVh0c3VUXzBRMkNXdThndmR6TUN3R3dSbGk0R0ZyZGZwVWFOcUthbU1sMlltSGpmb3hlQnlCMV9jRVVyZVJoSnZJUFhIdVVX?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "민심뉴스",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yRTlNZ1JBbUViM1VSVldabG94UTlJMWd6REpUb0hHRnhVMG94UUJpRmFJODhUNG1xaGg1eFd4V1JYakpZYmluREEtb3JDeW5ISjNXM19QWWtmczZBU0pqbTVrVk9IbUd3bWNBcQ?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "플래텀(Platum)",
-              "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5kMmhqQXhKRGFOOFNvV04wN1Q3bDBfN09OVGE5YVo1WjREUndqSzc3cG40QzVSUV84eENpV1g5bDlSWGsxWTczTg?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 6,
-          "published": "2026-08-16T05:54:00+09:00",
-          "ts": 1786827240.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -3863,11 +4007,6 @@
               "origin": "naver"
             },
             {
-              "name": "v.daum.net",
-              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02UDlGQ0xyYXIwSzNCejVGb3U5Mmowc0xRdHZkdVoteHFDY0hqYi0wR1VXTDFkel9YY0M1YlNZX3ppQ3FNbTd5MU5qV21JYWs?oc=5",
-              "origin": "google"
-            },
-            {
               "name": "매일경제 마켓",
               "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zYnFHdGpnUWRTYmZ5NUdMdGQ5VjdrN0FEdjFfaHNLakZNYjVrUS1JYWhRcXdOdjg5OF9nMks5eE9WNGV2WWJKVUdUUVpqWHBKakE?oc=5",
               "origin": "google"
@@ -3875,6 +4014,11 @@
             {
               "name": "네이트",
               "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44SjFudXp1QVFfZmF4b1hJUU1tWm1UdHJvZ1BCREZSeER2NHczS2dnVWFTYWtQZ2VzMnJlNEYxdUdmaFlFc1A1cnpRTnpRV3RiVFM0?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "v.daum.net",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02UDlGQ0xyYXIwSzNCejVGb3U5Mmowc0xRdHZkdVoteHFDY0hqYi0wR1VXTDFkel9YY0M1YlNZX3ppQ3FNbTd5MU5qV21JYWs?oc=5",
               "origin": "google"
             },
             {
@@ -3924,44 +4068,6 @@
           "source_count": 5,
           "published": "2026-08-16T06:20:00+09:00",
           "ts": 1786828800.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "현대차그룹·육군·산업통상부, 국방 분야 AI 포함 첨단기술 활용 확대...",
-          "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=206607",
-          "snippet": "현대차그룹, 육군, 산업통상자원부(이하 산업부)는 지난 14일 충청남도 계룡시 육군본부에서 국방 분야에 로봇 및 피지컬 AI 등 첨단기술을 적용할 목적으로 MOU를 체결했다고 밝혔다. MOU 체결식은 김규하 육군참모총장...",
-          "source": "lcnews.co.kr",
-          "sources": [
-            {
-              "name": "lcnews.co.kr",
-              "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=206607",
-              "origin": "naver"
-            },
-            {
-              "name": "더퍼블릭",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzTHU5azhTb2s1Ync4Tml1OF9fX3FHUlY1dVFUY2I5UEladEthcFVKMXBwREx3WkdxVkxlQm5lTGdHX25YNVpGRnhLRlpuNkJUeTE4dWxiWEJPMThFWHVfaWNsdERGOEljYm9N0gFvQVVfeXFMTjFuaDlkQWI0dVhBclc0SFVxckRmSEFZZXFRZ0hoTkt6VTF5NGNIYWtNVk1RNzZvSWNjOXo0Sml4TmpidG4xRGwxQzI1dzFrbWFfbndyblZTb2FfWVBaWjBESkNDNUJLZXFTRVR4eFZV?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "한국금융경제신문",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1bW5BWEkyM2V3eFN5THNEUjNoczdoXzE5dmk1Mm0zQWJ0MmY3MjhWUTJzTk15QVc3Z3pmVUJYc05uWGh1WEVlWDM4MXBmeF91S2ZvekRiRHFicFlQakp1ZGlBSWZDVHN4X29wetIBcEFVX3lxTE9rVFp1TGNGSmZlbmtGZXNYemtSYkphNEx4QXc1aWgxeUg3cTVUZU1GQWUzSFprQkFSVndScmsyRGRGSGo3RkU3Z18tbmtrS2owdTFmMUpleHluSUZ4Q2MyRmVzbEEwYnhaQjFydU9JVE8?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "국민뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBIemVBZkl0UmtMUnFQU3BVTUZ3SmJTay1Pd1FfM0I5cy12OWwzS3VwSVFQcDhZSXNFOVhxQm80Y1d3cEE4bGN6UzFR?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "vietnam.vn",
-              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSzBiLV95UWVJSlh0Ynl6YVRKQm1yeTNaQVk5QmdYUU1yelRnckRQbVZ6bTc0NEZkd0Judk1ZMWE4aDZsQ3Y3TXMtbG9YNmRuX2c0TERpeHQ5RGJmN21ib293eVBDR0owSFVvQ2FkT0VCNW9JcEVFNDVOWUNFLUl0NWdTQk8wNG5CYU4yLVRrUWc4M2xoYTVwSWZEOXRqWnM?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 5,
-          "published": "2026-08-16T06:00:00+09:00",
-          "ts": 1786827600.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -4258,6 +4364,34 @@
           "group_label": "AI · 생성형AI"
         },
         {
+          "title": "[AI상보] '하영민 QS+타선 폭발' 키움, KT 10-5로 꺾고 KT전 6연패 탈출",
+          "url": "https://www.newspim.com/news/view/20260815000233",
+          "snippet": "상단의 'AI MY 뉴스' 로그인을 통해 뉴스핌의 차세대 AI 콘텐츠 서비스를 활용해보기 바랍니다. 프로야구... *위 내용은 생성형 AI로 작성한 경기 상보 [명령어 : 8월 15일 수원 키움-KT 경기 내용을 정리해줘=CHAT GPT]",
+          "source": "뉴스핌",
+          "sources": [
+            {
+              "name": "뉴스핌",
+              "url": "https://www.newspim.com/news/view/20260815000233",
+              "origin": "naver"
+            },
+            {
+              "name": "newspim.com",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YeERtSlY5UmJaZ1dwMURHZDBhazRSdjRtOTRKRUV1ZEttTlpCZTR6Wk80QXpSellpaWpiTmRSWGlmQmRSTW1zMVpqTlVnd3NxbktBRE9kMDRMUExp?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "Naver Blog",
+              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUUVadnc0MloxbjVROE9WVWNhWHdrX0VPUmFUcXA3Yk9RWUZONjk4ZHdKLXlYRjBsT0Vmd0RZamxSRVlNaUpVbno2WnBfR19TY1hUZ3pQM3RObG5XQm5MOTZkbEJsWW5SQVBZZWRYOWZlMEEyRXd3cEhKMXJObEZRMnR2amZaRWt2X2FUZ1JrWQ?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-08-15T23:35:00+09:00",
+          "ts": 1786804500.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
           "title": "LG가 엔비디아와 손잡고 꿈꾸는 미래는?",
           "url": "https://monthly.chosun.com/news/articleView.html?idxno=71046",
           "snippet": "구광모 회장은 \"양사의 협업이 속도를 내면서 AI 팩토리, 피지컬 AI, 모빌리티 분야에서 함께 할 과제가 명확해졌다\"고 말했다. 젠슨 황 엔비디아 창립자 겸 CEO는 \"LG와 엔비디아는 수년간 이어온 협력을 바탕으로...",
@@ -4314,29 +4448,6 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "\"허가 없이 휴가 간다\"…6년 연속 최대 매출 찍은 이 기업의 비결",
-          "url": "https://www.mt.co.kr/future/2026/08/16/2026080715255761735",
-          "snippet": "글로벌 180개국 진출…\"세계 1위로 나아갈 인재 찾는다\" 미리디는 전사적인 AX(인공지능 전환)를 추진하고 있으며, 개발 조직은 이미 AI 에이전트 기반 개발 환경을 구축해 생산성을 끌어올리고 있다. 현재 개발을 포함한...",
-          "source": "머니투데이",
-          "sources": [
-            {
-              "name": "머니투데이",
-              "url": "https://www.mt.co.kr/future/2026/08/16/2026080715255761735",
-              "origin": "naver"
-            },
-            {
-              "name": "wikitree.co.kr",
-              "url": "https://www.wikitree.co.kr/articles/1152715",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-08-16T10:00:00+09:00",
-          "ts": 1786842000.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
           "title": "지멘스 EDA 개방형 인공지능 생태계 영토 확장… 美 무역확장법에 긴장...",
           "url": "https://www.ddaily.co.kr/page/view/2026081601020103469",
           "snippet": "◆ 지멘스 EDA 250억유로 투자 결실… '오픈 AI 생태계'로 국내 칩 시장 정조준 글로벌 전자설계자동화 시장을... 인공지능 에이전트 시스템과 자유롭게 연동해 설계 검증을 수행할 수 있는 유연한 환경을 지원한다는...",
@@ -4356,6 +4467,29 @@
           "source_count": 2,
           "published": "2026-08-16T08:22:00+09:00",
           "ts": 1786836120.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "'홀로서기' 펜리스 크리에이션스, AI 파트너십 총괄로 '아이슬란드 최연...",
+          "url": "https://www.theguru.co.kr/news/article.html?no=105857",
+          "snippet": "'이브 온라인' 기반 AI 에이전트 공동 연구 프로젝트 총괄 펄어비스를 떠나 홀로서기에 나선 펜리스 크리에이션스(Fenris Creations, 옛 CCP게임즈)가 인공지능(AI) 파트너십 총괄로 아이슬란드 역사상 '최연소 법무부 장관...",
+          "source": "theguru.co.kr",
+          "sources": [
+            {
+              "name": "theguru.co.kr",
+              "url": "https://www.theguru.co.kr/news/article.html?no=105857",
+              "origin": "naver"
+            },
+            {
+              "name": "더구루",
+              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3aER2S3AtVGtVeElpS0VDYnJvLVNBRjBSX1RGUjFvNHRiSzN2c2RjMFJfd2gzSTdmLTZJcjJsdUlPNHVXUFVmVHByZ1QzZVVIN2JpRG9zeGlQSVlYU3o5Y29qdw?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-08-16T07:52:00+09:00",
+          "ts": 1786834320.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -4383,48 +4517,25 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "“특허 많으면 지식재산 강국?… 전략 기술 핀셋 지원해야”",
-          "url": "https://www.sedaily.com/article/20079626?ref=naver",
-          "snippet": "생성형 인공지능(AI) 기술 이용이 보편화되면서 국내 특허 출원이 급증하는 가운데 특허의 질적 수준은... 김용선 지식재산처장은 이달 4일 이재명 대통령에게 관련 업무보고를 하며 “AI 기술이 몰고 온 산업 현장의...",
-          "source": "서울경제",
-          "sources": [
-            {
-              "name": "서울경제",
-              "url": "https://www.sedaily.com/article/20079626?ref=naver",
-              "origin": "naver"
-            },
-            {
-              "name": "simplywall.st",
-              "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaThLTi1tTHIxOTZsekFLbnVFZWxHREJ1VFpwbnhZLXIyMGJiTFd2SjRJcGJiUk9xV3BrUS16YVk4R0QzQWJQQ0lmbE1MZkNCdEJrbTVYYUVweV9oSkFtY2NtZ0F6bG5nYk1WVjJacHpiWUxIWkRDaEU2djlxRVBlSFFlUlFzNEx1QnFEQnNoOGViT3pnUXp4dmdlbThud9IBowFBVV95cUxQTGl3YW1WLTBiVmk1Z2NtQmFwajlkeEJmMEFFRnhQbXV0Y0RyS1FZSkIyODZwQTZ3dWJVNUNPbG5KMkJkcnUwMHJnSGlWMUF0LWRONzh5Q09QQjc2TFYtZzMzcVQzTHJvMHY3VkFBUmhaUFBraElEa1BTaXlsVXJ2ODRNVTZVRTlheTVLekJrMTdXek5sN1NHVkNHdENheVVZaWVn?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-08-16T07:01:00+09:00",
-          "ts": 1786831260.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "[AI상보] '하영민 QS+타선 폭발' 키움, KT 10-5로 꺾고 KT전 6연패 탈출",
-          "url": "https://www.newspim.com/news/view/20260815000233",
-          "snippet": "상단의 'AI MY 뉴스' 로그인을 통해 뉴스핌의 차세대 AI 콘텐츠 서비스를 활용해보기 바랍니다. 프로야구... *위 내용은 생성형 AI로 작성한 경기 상보 [명령어 : 8월 15일 수원 키움-KT 경기 내용을 정리해줘=CHAT GPT]",
+          "title": "[AI상보] '구자욱 5타점' 삼성, 한화에 11-6 역전승...양창섭 1회 헤드샷...",
+          "url": "https://www.newspim.com/news/view/20260815000234",
+          "snippet": "상단의 'AI MY 뉴스' 로그인을 통해 뉴스핌의 차세대 AI 콘텐츠 서비스를 활용해보기 바랍니다. 프로야구... *위 내용은 생성형 AI로 작성한 경기 상보 [명령어 : 8월 15일 대구 삼성-한화 경기 내용을 정리해줘=CHAT GPT]",
           "source": "뉴스핌",
           "sources": [
             {
               "name": "뉴스핌",
-              "url": "https://www.newspim.com/news/view/20260815000233",
+              "url": "https://www.newspim.com/news/view/20260815000234",
               "origin": "naver"
             },
             {
-              "name": "Naver Blog",
-              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUUVadnc0MloxbjVROE9WVWNhWHdrX0VPUmFUcXA3Yk9RWUZONjk4ZHdKLXlYRjBsT0Vmd0RZamxSRVlNaUpVbno2WnBfR19TY1hUZ3pQM3RObG5XQm5MOTZkbEJsWW5SQVBZZWRYOWZlMEEyRXd3cEhKMXJObEZRMnR2amZaRWt2X2FUZ1JrWQ?oc=5",
+              "name": "newspim.com",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xdzRBbzdUTGFfN0dPa3R2WTVwT3VRSTNieHdmSkZuNXg3b2VqVGZkQmVETXNZdWcwbFdDalpPLV9NTTE2XzhBOHNnbDl0M25ZeFJrNTFsRXhJUzdD?oc=5",
               "origin": "google"
             }
           ],
           "source_count": 2,
-          "published": "2026-08-15T23:35:00+09:00",
-          "ts": 1786804500.0,
+          "published": "2026-08-16T00:22:00+09:00",
+          "ts": 1786807320.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -4448,6 +4559,52 @@
           "source_count": 2,
           "published": "2026-08-15T23:10:39+09:00",
           "ts": 1786803039.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "[AI상보] 19분 경기 중단→고승민 역전 3점포 롯데, NC에 8-5 재역전승",
+          "url": "https://www.newspim.com/news/view/20260815000230",
+          "snippet": "상단의 'AI MY 뉴스' 로그인을 통해 뉴스핌의 차세대 AI 콘텐츠 서비스를 활용해보기 바랍니다. 롯데가... *위 내용은 생성형 AI로 작성한 경기 상보 [명령어 : 8월 15일 부산 롯데-NC 경기 내용을 정리해줘=CHAT GPT]",
+          "source": "뉴스핌",
+          "sources": [
+            {
+              "name": "뉴스핌",
+              "url": "https://www.newspim.com/news/view/20260815000230",
+              "origin": "naver"
+            },
+            {
+              "name": "newspim.com",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBrMmY0VW1tbF9acDJEcFEtV2stSWdNSjZSTjgzaXVzS2p0UVNLN3psOHV5c0h1SDFneld4YWxFaXc5VG9RaVpOTmtKOHIwMXN2V0ZiU0c3aUswTThO?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-08-15T23:10:00+09:00",
+          "ts": 1786803000.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "[AI상보] '양현종 QS+김도영 35호포' KIA, 두산 6-1로 꺾고 전날 패배 설...",
+          "url": "https://www.newspim.com/news/view/20260815000229",
+          "snippet": "상단의 'AI MY 뉴스' 로그인을 통해 뉴스핌의 차세대 AI 콘텐츠 서비스를 활용해보기 바랍니다. KIA가... *위 내용은 생성형 AI로 작성한 경기 상보 [명령어 : 8월 15일 광주 KIA-두산 경기 내용을 정리해줘=CHAT GPT]",
+          "source": "뉴스핌",
+          "sources": [
+            {
+              "name": "뉴스핌",
+              "url": "https://www.newspim.com/news/view/20260815000229",
+              "origin": "naver"
+            },
+            {
+              "name": "newspim.com",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBldGxHa3RiSFFHbV94WENXdFNZREo3S013U2tDYkxERUtURy1fc0drNjREeXRmSGpJQmpfMEZqUGRrbV9abllSbVRsV0RMbTVyVGJtcjlhU2htd2dp?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-08-15T22:36:00+09:00",
+          "ts": 1786800960.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -4567,6 +4724,24 @@
           "group_label": "AI · 생성형AI"
         },
         {
+          "title": "경북대, 삼성전자 계약학과 모바일 AI 공학 전공 신설",
+          "url": "https://dgmbc.com/NewsArticle/856460",
+          "snippet": "등록금 전액 장학금, 삼성전자 대여 장학금, 기숙사 우선 배정, 해외 IT 박람회 참가 지원 등의 혜택이 있고 교육과정 수료 후 일정 기준을 충족하면 삼성전자에 채용됩니다. ※ AI 오디오를 통해 제작된 영상입니다.",
+          "source": "dgmbc.com",
+          "sources": [
+            {
+              "name": "dgmbc.com",
+              "url": "https://dgmbc.com/NewsArticle/856460",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-08-16T10:18:00+09:00",
+          "ts": 1786843080.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
           "title": "'1점 리뷰' 악몽 겪은 카톡, 올해 개편엔 민심 잡을까",
           "url": "https://www.newsis.com/view/NISX20260814_0003749996",
           "snippet": "업계 한 관계자는 \"카카오는 카카오톡에 인공지능(AI) 에이전트와 외부 서비스를 연결하고 커머스·콘텐츠 기능을 확대하며 새로운 성장 동력을 마련해야 한다\"며 \"각종 기능을 더해야 하는 사업적 필요와 단순하고 익숙한...",
@@ -4639,6 +4814,24 @@
           "group_label": "AI · 생성형AI"
         },
         {
+          "title": "북한 추정 세력의 '한국 타깃' 해킹 증가…AI·딥페이크까지 악용",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13eS16bVFTWnBiNXBNcVJMMUliN0l6aEgtb1VaSkctOUYzMF9ZdVUtdHZsRzdESGtqNTg3Q0dlT1RiSHk1SzhGTU1jYV9Fdm9yc3k4?oc=5",
+          "snippet": "",
+          "source": "네이트",
+          "sources": [
+            {
+              "name": "네이트",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13eS16bVFTWnBiNXBNcVJMMUliN0l6aEgtb1VaSkctOUYzMF9ZdVUtdHZsRzdESGtqNTg3Q0dlT1RiSHk1SzhGTU1jYV9Fdm9yc3k4?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-08-16T09:16:00+09:00",
+          "ts": 1786839360.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
           "title": "“오픈AI 그만둔다고? 그 좋은 회사 왜 나와”…그들이 키운 2.6조달러 ...",
           "url": "https://www.mk.co.kr/article/12128848",
           "snippet": "구글에서 생성형AI 서비스 기반이 된 논문 ‘Attention is all you need’의 저자 8인 중 하나인 에이든 고메즈는... VR(가상현실) 콘텐츠의 새로운 생태계를 만드는 어메이즈의 이승준 대표도 카카오 출신이다. IT 업계 관계자는...",
@@ -4671,24 +4864,6 @@
           "source_count": 1,
           "published": "2026-08-16T09:01:00+09:00",
           "ts": 1786838460.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "[인터뷰] \"챗GPT에 왜 우리 치킨이 안 나오죠?\"···김준현 대표가 말하...",
-          "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257328",
-          "snippet": "브랜드 콘텐츠가 어느 미디어와 채널에 발행됐느냐에 따라 AI별 노출 빈도에 배 이상 편차가 생기는 것이다.... 이미지는 사진 캡션에 밝혀두었습니다. 에이아이빅스랩,AIBIX,브랜드,유통업계,F&B,프랜차이즈,생성형AI,마케팅",
-          "source": "womaneconomy.co.kr",
-          "sources": [
-            {
-              "name": "womaneconomy.co.kr",
-              "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257328",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-08-16T09:00:00+09:00",
-          "ts": 1786838400.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -4729,24 +4904,6 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "대한항공, AI 기반 정비결함 분석 시스템 가동",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wT3ZoaEI5V0lHWklLNi1aQXllQmNaRldVZGlEcjFWRFlHN0d1QzdleXU5Mkw3UFdBRW9qSVJZX180b3JraXBLT2RGM3Fxb09YSWMyRGJOQkdpUUFUYVBaZlp1ajZMQXNC?oc=5",
-          "snippet": "",
-          "source": "fetv.co.kr",
-          "sources": [
-            {
-              "name": "fetv.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wT3ZoaEI5V0lHWklLNi1aQXllQmNaRldVZGlEcjFWRFlHN0d1QzdleXU5Mkw3UFdBRW9qSVJZX180b3JraXBLT2RGM3Fxb09YSWMyRGJOQkdpUUFUYVBaZlp1ajZMQXNC?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-08-16T08:30:00+09:00",
-          "ts": 1786836600.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
           "title": "'29금 사주', '퀴어 사주' 넣었더니…MZ 홀린 AI 사주의 정체",
           "url": "https://www.mt.co.kr/future/2026/08/16/2026080417541357071",
           "snippet": "그는 고려대 노코드학회 'DNC'를 창립하고 100여개의 MVP(최소기능제품)를 제작하며 실전 역량을 쌓았다.... 송 대표는 \"레드오션이지만 AI 콘텐츠 사주라는 새로운 형태의 블루오션이 그 안에 존재한다\"고 말했다. 아울러...",
@@ -4783,20 +4940,20 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "'홀로서기' 펜리스 크리에이션스, AI 파트너십 총괄로 '아이슬란드 최연...",
-          "url": "https://www.theguru.co.kr/news/article.html?no=105857",
-          "snippet": "'이브 온라인' 기반 AI 에이전트 공동 연구 프로젝트 총괄 펄어비스를 떠나 홀로서기에 나선 펜리스 크리에이션스(Fenris Creations, 옛 CCP게임즈)가 인공지능(AI) 파트너십 총괄로 아이슬란드 역사상 '최연소 법무부 장관...",
-          "source": "theguru.co.kr",
+          "title": "“특허 많으면 지식재산 강국?… 전략 기술 핀셋 지원해야”",
+          "url": "https://www.sedaily.com/article/20079626?ref=naver",
+          "snippet": "생성형 인공지능(AI) 기술 이용이 보편화되면서 국내 특허 출원이 급증하는 가운데 특허의 질적 수준은... 김용선 지식재산처장은 이달 4일 이재명 대통령에게 관련 업무보고를 하며 “AI 기술이 몰고 온 산업 현장의...",
+          "source": "서울경제",
           "sources": [
             {
-              "name": "theguru.co.kr",
-              "url": "https://www.theguru.co.kr/news/article.html?no=105857",
+              "name": "서울경제",
+              "url": "https://www.sedaily.com/article/20079626?ref=naver",
               "origin": "naver"
             }
           ],
           "source_count": 1,
-          "published": "2026-08-16T07:52:00+09:00",
-          "ts": 1786834320.0,
+          "published": "2026-08-16T07:01:00+09:00",
+          "ts": 1786831260.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -4833,24 +4990,6 @@
           "source_count": 1,
           "published": "2026-08-16T06:02:00+09:00",
           "ts": 1786827720.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "“집에서 혼자 만들었다”…90만 몰려간 ‘리니지 아버지’ 게임",
-          "url": "https://www.joongang.co.kr/article/25453640",
-          "snippet": "올해 초 화제를 모은 AI에이전트 전용 소셜미디어 몰트북에서 영감을 받았다. 사람도 들어와서 놀고, AI도 들어와서 노는 그런 게임을 만들면 재밌지 않을까 싶었다. 2. AI가 바꾸는 개발자의 삶 송 고문은...",
-          "source": "중앙일보",
-          "sources": [
-            {
-              "name": "중앙일보",
-              "url": "https://www.joongang.co.kr/article/25453640",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-08-16T06:00:00+09:00",
-          "ts": 1786827600.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -4927,24 +5066,6 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "[AI상보] '구자욱 5타점' 삼성, 한화에 11-6 역전승...양창섭 1회 헤드샷...",
-          "url": "https://www.newspim.com/news/view/20260815000234",
-          "snippet": "상단의 'AI MY 뉴스' 로그인을 통해 뉴스핌의 차세대 AI 콘텐츠 서비스를 활용해보기 바랍니다. 프로야구... *위 내용은 생성형 AI로 작성한 경기 상보 [명령어 : 8월 15일 대구 삼성-한화 경기 내용을 정리해줘=CHAT GPT]",
-          "source": "뉴스핌",
-          "sources": [
-            {
-              "name": "뉴스핌",
-              "url": "https://www.newspim.com/news/view/20260815000234",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-08-16T00:22:00+09:00",
-          "ts": 1786807320.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
           "title": "AI 전력난 대안으로 뜬 SMR… 계양전기 시장의 방향성은?",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xaTRpdi1iWTdhd1E3SUVrU25LaFJvYm5GQk1NRHRaRXAzcjlscWoya01oX2lGVnN3T0VDWkQ2YnAwVzlFU3JnYWswX2NjNFZXM3lobGlyMFBBYnFqb0pCdDkxQmZJQjFT?oc=5",
           "snippet": "",
@@ -4977,42 +5098,6 @@
           "source_count": 1,
           "published": "2026-08-15T23:58:00+09:00",
           "ts": 1786805880.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "[AI상보] 19분 경기 중단→고승민 역전 3점포 롯데, NC에 8-5 재역전승",
-          "url": "https://www.newspim.com/news/view/20260815000230",
-          "snippet": "상단의 'AI MY 뉴스' 로그인을 통해 뉴스핌의 차세대 AI 콘텐츠 서비스를 활용해보기 바랍니다. 롯데가... *위 내용은 생성형 AI로 작성한 경기 상보 [명령어 : 8월 15일 부산 롯데-NC 경기 내용을 정리해줘=CHAT GPT]",
-          "source": "뉴스핌",
-          "sources": [
-            {
-              "name": "뉴스핌",
-              "url": "https://www.newspim.com/news/view/20260815000230",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-08-15T23:10:00+09:00",
-          "ts": 1786803000.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "[AI상보] '양현종 QS+김도영 35호포' KIA, 두산 6-1로 꺾고 전날 패배 설...",
-          "url": "https://www.newspim.com/news/view/20260815000229",
-          "snippet": "상단의 'AI MY 뉴스' 로그인을 통해 뉴스핌의 차세대 AI 콘텐츠 서비스를 활용해보기 바랍니다. KIA가... *위 내용은 생성형 AI로 작성한 경기 상보 [명령어 : 8월 15일 광주 KIA-두산 경기 내용을 정리해줘=CHAT GPT]",
-          "source": "뉴스핌",
-          "sources": [
-            {
-              "name": "뉴스핌",
-              "url": "https://www.newspim.com/news/view/20260815000229",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-08-15T22:36:00+09:00",
-          "ts": 1786800960.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -5969,24 +6054,6 @@
           "ts": 1786738800.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "미드나이트 시티 V2, 오픈 베타 기능 넓혔다",
-          "url": "https://www.tokenpost.kr/news/blockchain/391181",
-          "snippet": "카르다노 파트너체인 미드나이트(Midnight)가 AI 에이전트 기반 시뮬레이션 환경인 미드나이트 시티(Midnight City) V2의 오픈 베타 기능을 넓히고 있다. 이번 사안은 새 메인넷 출범이 아니라 이미 가동 중인 미드나이트...",
-          "source": "tokenpost.kr",
-          "sources": [
-            {
-              "name": "tokenpost.kr",
-              "url": "https://www.tokenpost.kr/news/blockchain/391181",
-              "origin": "naver"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-08-15T04:32:00+09:00",
-          "ts": 1786735920.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
         }
       ]
     },
@@ -5996,7 +6063,7 @@
       "priority": 12,
       "page": "trends",
       "preview": 3,
-      "count": 30,
+      "count": 32,
       "items": [
         {
           "title": "디즈니, '재혼 황후'·'21세기 대군 부인' 등 K-콘텐츠 주목",
@@ -6065,6 +6132,39 @@
           "group_label": "콘텐츠 · 크리에이터"
         },
         {
+          "title": "“10년 뒤엔 지금보다 훨씬”…한국인 절반 ‘韓·日 경제 역전’ 예측",
+          "url": "https://www.mk.co.kr/article/12128763",
+          "snippet": "그 뒤를 ‘K-콘텐츠의 세계화’(31.0%), ‘산업화·수출 성장’(29.7%), ‘민주주의 발전(27.0%)’ 등이 따랐다. 국가적 역량 투입이 필요한 분야로는 ‘경제성장 및 산업 경쟁력 강화’(36.0%), ‘인구구조 변화 대응’...",
+          "source": "매일경제",
+          "sources": [
+            {
+              "name": "매일경제",
+              "url": "https://www.mk.co.kr/article/12128763",
+              "origin": "naver"
+            },
+            {
+              "name": "아시아경제",
+              "url": "https://view.asiae.co.kr/article/2026081409050208524",
+              "origin": "naver"
+            },
+            {
+              "name": "한국경제",
+              "url": "https://www.hankyung.com/article/2026081425981",
+              "origin": "naver"
+            },
+            {
+              "name": "뉴스1",
+              "url": "https://www.news1.kr/society/general-society/6260246",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 4,
+          "published": "2026-08-15T17:28:00+09:00",
+          "ts": 1786782480.0,
+          "group": "trend_content",
+          "group_label": "콘텐츠 · 크리에이터"
+        },
+        {
           "title": "경산시, 2026년 숏폼 영상 공모전 개최",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaQlQyOUxkZV9ZVkFQYTZVU0FHM2t5WXdIY0RIX0k1NlJmVFFIdUsyVG9lZEpwWnlZbVZlZ2hOMk5qejNUM3pIYVNvMUFsSTdsT1BISDRR?oc=5",
           "snippet": "",
@@ -6088,25 +6188,20 @@
           "group_label": "콘텐츠 · 크리에이터"
         },
         {
-          "title": "[방금 맛봤수다] B급 감성 마케팅에 MZ 몰렸다…버거킹 ‘크루아상위치...",
-          "url": "https://www.mydaily.co.kr/page/view/2026081317005925412",
-          "snippet": "관련 릴스 영상 조회수는 200만회를 넘겼고, 매장 인증 사진과 포스터 디자인을 다룬 숏폼 콘텐츠도 빠르게 확산 중이다. 인기는 매출로도 이어지고 있다. 버거킹은 모닝 메뉴 운영 매장을 기존 58곳에서 120곳으로...",
-          "source": "mydaily.co.kr",
+          "title": "이번에는 '스트릿 디렉터즈 워'… Mnet 댄스 IP의 힘은 여전할까",
+          "url": "https://www.hankookilbo.com/news/article/A2026081313490000672?did=NA",
+          "snippet": "특히 댄스 콘텐츠의 경우 더욱 그렇다. 최근에는 유튜브와 숏폼 플랫폼을 통해 수준 높은 퍼포먼스를 쉽게 접할 수 있게 되면서 과거 방송에서만 볼 수 있었던 유명 댄서들의 안무와 무대가 이제는 SNS를 통해 실시간으로...",
+          "source": "한국일보",
           "sources": [
             {
-              "name": "mydaily.co.kr",
-              "url": "https://www.mydaily.co.kr/page/view/2026081317005925412",
+              "name": "한국일보",
+              "url": "https://www.hankookilbo.com/news/article/A2026081313490000672?did=NA",
               "origin": "naver"
-            },
-            {
-              "name": "포인트경제",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sM3FscFQxMHo1RzRRM1BCUFdWSXRET29UQVU1OGZyREZaYUFQeTdMUTg4VnB1YldDSnhOc0VNNEM2dXA1SDZsUlV2Y3hTN1lMS3JFaDFLWjRLU0VEV2JRbHZMblNUT0oyblE?oc=5",
-              "origin": "google"
             }
           ],
-          "source_count": 2,
-          "published": "2026-08-15T10:00:00+09:00",
-          "ts": 1786755600.0,
+          "source_count": 1,
+          "published": "2026-08-16T10:27:00+09:00",
+          "ts": 1786843620.0,
           "group": "trend_content",
           "group_label": "콘텐츠 · 크리에이터"
         },
@@ -6305,6 +6400,24 @@
           "source_count": 1,
           "published": "2026-08-16T00:00:00+09:00",
           "ts": 1786806000.0,
+          "group": "trend_content",
+          "group_label": "콘텐츠 · 크리에이터"
+        },
+        {
+          "title": "19금인데 역주행 미쳤다…갑자기 넷플릭스 톱10 등극한 한국 영화",
+          "url": "https://www.wikitree.co.kr/articles/1152491",
+          "snippet": "/ 디즈니+ 제공디즈니플러스 오리지널 시리즈 '강남 비사이드' (2024)구분은 OTT 시리즈, 드라마 극본 집필이다. 출연진은 조우진, 지창욱, 하윤경, 김형서(비비) 등이다. 강남의 화려한 밤 무대 뒤편에서 벌어지는 마약...",
+          "source": "wikitree.co.kr",
+          "sources": [
+            {
+              "name": "wikitree.co.kr",
+              "url": "https://www.wikitree.co.kr/articles/1152491",
+              "origin": "naver"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-08-15T22:00:00+09:00",
+          "ts": 1786798800.0,
           "group": "trend_content",
           "group_label": "콘텐츠 · 크리에이터"
         },
@@ -6586,7 +6699,7 @@
       "priority": 13,
       "page": "trends",
       "preview": 3,
-      "count": 47,
+      "count": 41,
       "items": [
         {
           "title": "16개 시도 이스포츠 대표단 경주에 집결, 이스포츠 최강 가린다",
@@ -6625,7 +6738,7 @@
               "origin": "google"
             },
             {
-              "name": "네이트",
+              "name": "sports.news.nate.com",
               "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0Um5seDJoQVhVQjVVSmp2bFBBUjNVTC14MmdYOHo2X213aGg4aUdQY2dwT2pxZEc1Uk9RZjNPdnpOTzM0UHdkQW1lZmVNQ2FRTzA0YlZmV21wUDAz?oc=5",
               "origin": "google"
             },
@@ -6700,6 +6813,49 @@
           "group_label": "게임 · e스포츠"
         },
         {
+          "title": "[고용준의 e스포츠 엿보기] KeG 현장서 확인한 대전의 '진정성', e스포츠...",
+          "url": "http://www.osen.co.kr/article/G1112858298",
+          "snippet": "e스포츠를 일회성 유행이 아닌 지역의 미래 핵심 첨단 산업으로 다루겠다는 명확한 비전이다. 지방 e스포츠 연고제의 성패는 결국 ‘진정성’에 달려 있다. 정치적 계산이나 반짝 유행을 좇는 행정은 외면받지만, 지원...",
+          "source": "osen.co.kr",
+          "sources": [
+            {
+              "name": "osen.co.kr",
+              "url": "http://www.osen.co.kr/article/G1112858298",
+              "origin": "naver"
+            },
+            {
+              "name": "동아일보",
+              "url": "https://game.donga.com/123830/",
+              "origin": "naver"
+            },
+            {
+              "name": "OSEN",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wSDI3ZzNQMUhKcnBOd0dQQmlPQUlHRGYyR2dVRHNwbTVWMklPel9QcDJhcUlyRUxfT1dqZUg0Mlc5SnExVWg2MWVtU0VDY1JDWXh4Tw?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "v.daum.net",
+              "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE13WS11OHVtalBuUjNBaTJjSE0tUzM1ZTkyd3ozTHZLUzNwdmI2MThQWWx6SUFnaThSMDFyOGhfN19GWE9aU3c?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "디스이즈게임",
+              "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DY2pNN21lSUtKR2hmSzg4RE0tMEk2SzN0OEc1SW0tTjJ0Q2cxeGlfcjhwcjJsV0VVM3VfQnJTMG03Tk1rQzAyd1E2S0N3T01IY3NBaEZEWUFXbnN2aEZ3R1dB?oc=5",
+              "origin": "google"
+            },
+            {
+              "name": "timenews.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aVWc1ZmJrcEVBMk1xUnhFNTBBTWJGM3ZVMFZDajJZcWpLazhnaWZmLUdVVnZPcXk1RE9HcDRJazh5LUVEc2JyRU1XeWJGdkxsQWtvTA?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 6,
+          "published": "2026-08-16T10:08:00+09:00",
+          "ts": 1786842480.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
           "title": "[게임위드인] 게임사들은 해외로…변화의 기로 선 지스타",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BQjJIY2FMai0wcEQyZXYyX2RlcXBKcVVDRG9ZWk1MUHk1WEZlMlhFTWdQSTdta1lQRlY1dVFCSlc0LXlNWTFhRTlTZXNrZWJtYVpqVDJyZnpCaHhkZm1YedIBYEFVX3lxTE1BQjJIY2FMai0wcEQyZXYyX2RlcXBKcVVDRG9ZWk1MUHk1WEZlMlhFTWdQSTdta1lQRlY1dVFCSlc0LXlNWTFhRTlTZXNrZWJtYVpqVDJyZnpCaHhkZm1YeQ?oc=5",
           "snippet": "",
@@ -6743,35 +6899,40 @@
           "group_label": "게임 · e스포츠"
         },
         {
-          "title": "[오!쎈 KeG] 고교·대학 연계부터 e스포츠 공원까지… 대전시가 꿈꾸는...",
-          "url": "http://www.osen.co.kr/article/G1112857901",
-          "snippet": "단순한 선수 공급을 넘어 매니지먼트, 방송 인재 등 e스포츠 산업 전반에 필요한 핵심 인프라를 지역 내에서 완벽하게 자급자족하겠다는 그림을 구상하고 있다. 최종적인 장기 목표는 경기장인 '드림 아레나'가 위치한...",
-          "source": "osen.co.kr",
+          "title": "게임업계 2분기 판도 ‘흔들’…넥슨 추월한 크래프톤",
+          "url": "https://www.sentv.co.kr/article/view/sentv202608140145",
+          "snippet": "신작 출시로 마케팅비가 늘고 급여 인상 영향으로 인건비도 증가했다. 마케팅비는 35.5% 늘어난 1835억원, 인건비는 4.3% 증가한 1825억원이었다. 카카오게임즈는 신작 공백 영향이 컸다. 2분기 매출은 750억원으로 작년...",
+          "source": "sentv.co.kr",
           "sources": [
             {
-              "name": "osen.co.kr",
-              "url": "http://www.osen.co.kr/article/G1112857901",
+              "name": "sentv.co.kr",
+              "url": "https://www.sentv.co.kr/article/view/sentv202608140145",
               "origin": "naver"
             },
             {
-              "name": "v.daum.net",
-              "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE13WS11OHVtalBuUjNBaTJjSE0tUzM1ZTkyd3ozTHZLUzNwdmI2MThQWWx6SUFnaThSMDFyOGhfN19GWE9aU3c?oc=5",
+              "name": "sportschosun.com",
+              "url": "https://www.sportschosun.com/entertainment/2026-08-15/202608150100089880005676",
+              "origin": "naver"
+            },
+            {
+              "name": "아주경제",
+              "url": "https://www.ajunews.com/view/20260815111233328",
+              "origin": "naver"
+            },
+            {
+              "name": "서울경제TV",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FdnFwd2ZOOFU2RENVZDk5V2NnQWJDSmNXcjUtUGR4amJ2VFNvSmdickMyWkJOWEp1WVdrb0R2WHU4elFwWjFNUUdkVVBoS1AzTEtqMVhnc1lwOUVTYzlvSngtbFU?oc=5",
               "origin": "google"
             },
             {
-              "name": "디스이즈게임",
-              "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DY2pNN21lSUtKR2hmSzg4RE0tMEk2SzN0OEc1SW0tTjJ0Q2cxeGlfcjhwcjJsV0VVM3VfQnJTMG03Tk1rQzAyd1E2S0N3T01IY3NBaEZEWUFXbnN2aEZ3R1dB?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "타임뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aVWc1ZmJrcEVBMk1xUnhFNTBBTWJGM3ZVMFZDajJZcWpLazhnaWZmLUdVVnZPcXk1RE9HcDRJazh5LUVEc2JyRU1XeWJGdkxsQWtvTA?oc=5",
+              "name": "스포츠조선",
+              "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVktX0RCb2ZWSWpzaExqWl9oeEtfbjUxTGlsVnZrN3JUWlNMa1hoQUFCdTRjM1E1cDB1RGpOT1FGQ1hhSjNRbmdoMzk1Y1dXdG1HMFVsanN2Mk5kb3M3MkwwS2ZYSHFuSExnLVgtRzRnU0d0YjhFWkFRR3ZLRkJXaTlZZ0s?oc=5",
               "origin": "google"
             }
           ],
-          "source_count": 4,
-          "published": "2026-08-15T19:30:00+09:00",
-          "ts": 1786789800.0,
+          "source_count": 5,
+          "published": "2026-08-16T08:02:00+09:00",
+          "ts": 1786834920.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
         },
@@ -6804,29 +6965,6 @@
           "group_label": "게임 · e스포츠"
         },
         {
-          "title": "게임업계 2분기 판도 ‘흔들’…넥슨 추월한 크래프톤",
-          "url": "https://www.sentv.co.kr/article/view/sentv202608140145",
-          "snippet": "신작 출시로 마케팅비가 늘고 급여 인상 영향으로 인건비도 증가했다. 마케팅비는 35.5% 늘어난 1835억원, 인건비는 4.3% 증가한 1825억원이었다. 카카오게임즈는 신작 공백 영향이 컸다. 2분기 매출은 750억원으로 작년...",
-          "source": "sentv.co.kr",
-          "sources": [
-            {
-              "name": "sentv.co.kr",
-              "url": "https://www.sentv.co.kr/article/view/sentv202608140145",
-              "origin": "naver"
-            },
-            {
-              "name": "서울경제TV",
-              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FdnFwd2ZOOFU2RENVZDk5V2NnQWJDSmNXcjUtUGR4amJ2VFNvSmdickMyWkJOWEp1WVdrb0R2WHU4elFwWjFNUUdkVVBoS1AzTEtqMVhnc1lwOUVTYzlvSngtbFU?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-08-16T08:02:00+09:00",
-          "ts": 1786834920.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
           "title": "에 Crimson Desert PC 및 콘솔용 업데이트 버전 1.18.00이 출시되었습니다.",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOFVBbVpITXYwanlBWFR3S0VuLTd1NUxKbGdoRFZlWTdlZFBaaGlOaG9qdTl3Vk4wcGN5Y0lidzFITXMzX0hmTzB4MmFTcHhnZmkwak15bmxjYlRLbmxNYkhyZElGS09XM1FQRkJfdWVaZTAtS2dOX1BNdnFxTHZqaU41VWlvWm1iUFh5d1Z6Qk5qMU55TVkxZmM4RHJSckdrSm05SWF1NA?oc=5",
           "snippet": "",
@@ -6846,52 +6984,6 @@
           "source_count": 2,
           "published": "2026-08-15T20:07:56+09:00",
           "ts": 1786792076.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
-          "title": "컴투스홀딩스 ‘페이딩 에코’, 웰메이드 액션·퍼즐 가득한 어드벤처 게임",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vbFRGM2ppZU02dnR2YmRVMzBXUkNIek84T0tzU1B3clR1Qi1lWmM0TEFmOXRNSVVCd1RWMUR6RWk3cWtrOS1WN1I1bnJmeFU3bElIb0tJZ1VPLVVuemNpQ2lNUU1GTTZwZ0ZfQ2lR0gFuQVVfeXFMTW9sVEYzamllTTZ2dHZiZFUzMFdSQ0h6TzhPS3NTUHdyVHVCLWVaYzRMQWY5dE1JVUJ3VFYxRHpFaTdxa2s5LVY3UjVucmZ4VTdsSUhvS0lnVU8tVW56Y2lDaU1RTUZNNnBnRl9DaVE?oc=5",
-          "snippet": "",
-          "source": "파이낸셜투데이",
-          "sources": [
-            {
-              "name": "파이낸셜투데이",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vbFRGM2ppZU02dnR2YmRVMzBXUkNIek84T0tzU1B3clR1Qi1lWmM0TEFmOXRNSVVCd1RWMUR6RWk3cWtrOS1WN1I1bnJmeFU3bElIb0tJZ1VPLVVuemNpQ2lNUU1GTTZwZ0ZfQ2lR0gFuQVVfeXFMTW9sVEYzamllTTZ2dHZiZFUzMFdSQ0h6TzhPS3NTUHdyVHVCLWVaYzRMQWY5dE1JVUJ3VFYxRHpFaTdxa2s5LVY3UjVucmZ4VTdsSUhvS0lnVU8tVW56Y2lDaU1RTUZNNnBnRl9DaVE?oc=5",
-              "origin": "google"
-            },
-            {
-              "name": "v.daum.net",
-              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lQ0RYNEpERnNNX2dNWjhiLWJ5N3lXZlZGTlozTFNfR3l5SVBNWDI0UHBBaU02WVJPR1lleVBBZzlaT2htVGtsQ2ZvU253Mkk?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-08-15T18:24:44+09:00",
-          "ts": 1786785884.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
-          "title": "[BIC 2026] 지구를 정복하는 파충류 외계인? '랩틸리언을 국회로' 게임 ...",
-          "url": "https://game.donga.com/123833/",
-          "snippet": "8월 14일부터 16일까지 부산 벡스코에서 진행 중인 한국 최대 인디게임 축제 ‘부산인디커넥트페스티벌 2026(이하 BIC 2026)’에서, 인기 외계인 밈인 '랩틸리언(파충류 인간)'을 소재로 한 게임이 등장해 주목을 받고 있다....",
-          "source": "동아일보",
-          "sources": [
-            {
-              "name": "동아일보",
-              "url": "https://game.donga.com/123833/",
-              "origin": "naver"
-            },
-            {
-              "name": "게임동아",
-              "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE42cVRTNWVZcVBpNEJRV09XUDZFREZSRmFfXzBPSE83WUYwQnFiUTJLZHVWZmd2eUMyOGdUZlhlNmJMUWZZ?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-08-15T15:36:00+09:00",
-          "ts": 1786775760.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
         },
@@ -7083,24 +7175,6 @@
           "group_label": "게임 · e스포츠"
         },
         {
-          "title": "Xbox 게임 잘못 샀을 때 환불 받는 법과 14일 조건",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sbUYyRV96dnVOQXNic1lVVnJsTDloV3RjcXB0cnMwOEJEQURMVU1sNmZnXzJkVlNxRnRNQ0kxR2Z1aVFSc29RRVZCT3lDMnVGSzE5UlFBTG1Lcm1WYWtpdUFRVklDT1VMSlZZOEc3Vnk?oc=5",
-          "snippet": "",
-          "source": "디지털포커스",
-          "sources": [
-            {
-              "name": "디지털포커스",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sbUYyRV96dnVOQXNic1lVVnJsTDloV3RjcXB0cnMwOEJEQURMVU1sNmZnXzJkVlNxRnRNQ0kxR2Z1aVFSc29RRVZCT3lDMnVGSzE5UlFBTG1Lcm1WYWtpdUFRVklDT1VMSlZZOEc3Vnk?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-08-16T06:13:03+09:00",
-          "ts": 1786828383.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
           "title": "이용자 반발에도 게임업계 'BJ 프로모션' 지속, 공정성 비판에도 놓지 못하는 이유",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kYjYtME1XcEk4VlpibElDZHU4anpFQ1lsc01RSzVybGN3RVgzZHRuN3ZLS3pyRkFUcFhPNV9aLWZvX25DVzRUMjNfRHlXeENyVlJuMEYwbXRRSUNIOVFQazR3WWpDeGNzR1pPZXl5ZHdSd1k?oc=5",
           "snippet": "",
@@ -7127,24 +7201,6 @@
             {
               "name": "뉴스아이이에스",
               "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkcTFRS0VxbTF4c3VoOExqN2RjaEQzSmtvdHE4dHVMOGUxS1FGdWZGa2dabUNLZTdRM3FveGJoOTVQY2tfRnVSbGRtc3lUSDNOTGxxM0ZRYWNqR2RNVHJxUnBIVFBMYkRrdGxoSkJsVWhvUdIBckFVX3lxTFBkcTFRS0VxbTF4c3VoOExqN2RjaEQzSmtvdHE4dHVMOGUxS1FGdWZGa2dabUNLZTdRM3FveGJoOTVQY2tfRnVSbGRtc3lUSDNOTGxxM0ZRYWNqR2RNVHJxUnBIVFBMYkRrdGxoSkJsVWhvUQ?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-08-16T02:03:16+09:00",
-          "ts": 1786813396.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
-          "title": "넷마블·하나은행 맞손…‘스톤에이지 키우기’ 게임 아이템·금융 혜택 제공",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZemNwYjY1WjR3WUpfWWZobThpSlJFOF83RnM5Mm80OFNvMnBFNmJEazdBWXc0VkFyZndGWTZqT1VQQWZsNGlyeHZQZnVJeDFqLXdZVTdHelZsWnB0dm5ZWmFyank1dGVXRWEyaUNoNlVBUdIBckFVX3lxTFBZemNwYjY1WjR3WUpfWWZobThpSlJFOF83RnM5Mm80OFNvMnBFNmJEazdBWXc0VkFyZndGWTZqT1VQQWZsNGlyeHZQZnVJeDFqLXdZVTdHelZsWnB0dm5ZWmFyank1dGVXRWEyaUNoNlVBUQ?oc=5",
-          "snippet": "",
-          "source": "뉴스아이이에스",
-          "sources": [
-            {
-              "name": "뉴스아이이에스",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZemNwYjY1WjR3WUpfWWZobThpSlJFOF83RnM5Mm80OFNvMnBFNmJEazdBWXc0VkFyZndGWTZqT1VQQWZsNGlyeHZQZnVJeDFqLXdZVTdHelZsWnB0dm5ZWmFyank1dGVXRWEyaUNoNlVBUdIBckFVX3lxTFBZemNwYjY1WjR3WUpfWWZobThpSlJFOF83RnM5Mm80OFNvMnBFNmJEazdBWXc0VkFyZndGWTZqT1VQQWZsNGlyeHZQZnVJeDFqLXdZVTdHelZsWnB0dm5ZWmFyank1dGVXRWEyaUNoNlVBUQ?oc=5",
               "origin": "google"
             }
           ],
@@ -7567,42 +7623,6 @@
           "ts": 1786747451.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
-        },
-        {
-          "title": "라이브 바카라 게임 내 기준에서는 인사이트",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRFlyTTREdWFCQUJFamxRVUR5c1c5elQtbWZwamtwUFJrMEJRdzh6TWs1RU9JWEFWMFpDZDc0WlNPUEo3M3R5bVBaeXlyYVh1YlRrcmwtNjZDSXNhRHRVcGtucnItUnJHcjBaNnBhYzFlak5IaVVvN3dCUjJidEtpQ0R6N09DVERLWXhWOXFTOG1fWWkxbGNXM1Q0MmdEQWJZR2E4Rm5wOGZRblk?oc=5",
-          "snippet": "",
-          "source": "https://www.zolotnit.ru/",
-          "sources": [
-            {
-              "name": "https://www.zolotnit.ru/",
-              "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRFlyTTREdWFCQUJFamxRVUR5c1c5elQtbWZwamtwUFJrMEJRdzh6TWs1RU9JWEFWMFpDZDc0WlNPUEo3M3R5bVBaeXlyYVh1YlRrcmwtNjZDSXNhRHRVcGtucnItUnJHcjBaNnBhYzFlak5IaVVvN3dCUjJidEtpQ0R6N09DVERLWXhWOXFTOG1fWWkxbGNXM1Q0MmdEQWJZR2E4Rm5wOGZRblk?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-08-15T06:03:46+09:00",
-          "ts": 1786741426.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
-          "title": "\"엉망이어도 괜찮아\" 날림 인테리어게임 〈로우버짓리페어〉 출시",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1ZVhacmVFQ01VNWJzN19CeWxTOFJHQ2JJRFRkazNDLUlhd290STV0c0IzUmREVlVnLXprZDRHci02elYtZVdHdV8xbEltZmUySllyeTJidm5Cam9kYzhVQjB1N1ozbTJ3dUxr?oc=5",
-          "snippet": "",
-          "source": "globale.co.kr",
-          "sources": [
-            {
-              "name": "globale.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1ZVhacmVFQ01VNWJzN19CeWxTOFJHQ2JJRFRkazNDLUlhd290STV0c0IzUmREVlVnLXprZDRHci02elYtZVdHdV8xbEltZmUySllyeTJidm5Cam9kYzhVQjB1N1ozbTJ3dUxr?oc=5",
-              "origin": "google"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-08-15T04:13:40+09:00",
-          "ts": 1786734820.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
         }
       ]
     },
@@ -7612,8 +7632,26 @@
       "priority": 14,
       "page": "trends",
       "preview": 3,
-      "count": 2,
+      "count": 3,
       "items": [
+        {
+          "title": "주간 전망: 이르면 일요일 미-이란 평화 협정 체결 예정; 워시의 FOMC 데뷔 카운트다운; OpenAI CEO 알트만 한국 방문 예정",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa0EwR3VpUDZNQkZnTWRDV251WHdmdXFrb3pXdGQxNEx6dk9CWWxlTDFISG1FY01lbU5LWkl4eUpsaG5jemVCSHJybXFsazFPV0ppd0tyZXRXZVZUOUJ5TlliLUtGNnpuZTJzclF0Z19hQ3M4emxJTlJNZDZ5eXdxa281cXhuTzFNRkJsS0Q2R3M2TlRGWWFkQ3E3Y2ZTM3UyeFBwTTlwM1ExU21KaFhtM2toZ3l0TGpmUVJwdnBpZw?oc=5",
+          "snippet": "",
+          "source": "TradingKey",
+          "sources": [
+            {
+              "name": "TradingKey",
+              "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa0EwR3VpUDZNQkZnTWRDV251WHdmdXFrb3pXdGQxNEx6dk9CWWxlTDFISG1FY01lbU5LWkl4eUpsaG5jemVCSHJybXFsazFPV0ppd0tyZXRXZVZUOUJ5TlliLUtGNnpuZTJzclF0Z19hQ3M4emxJTlJNZDZ5eXdxa281cXhuTzFNRkJsS0Q2R3M2TlRGWWFkQ3E3Y2ZTM3UyeFBwTTlwM1ExU21KaFhtM2toZ3l0TGpmUVJwdnBpZw?oc=5",
+              "origin": "google"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-08-15T17:37:09+09:00",
+          "ts": 1786783029.0,
+          "group": "trend_insight",
+          "group_label": "전망 · 심층분석"
+        },
         {
           "title": "'최태원의 전략통'…SK하이닉스 AI 신사업 발굴 맡은 기타리스트 [강경...",
           "url": "https://www.hankyung.com/article/2026081425646",
@@ -7661,11 +7699,16 @@
       "count": 4,
       "items": [
         {
-          "title": "트럼프 정부, 애플에 \"중국산 메모리 사지 마라\" 직접 경고",
-          "url": "https://www.sidae.com/article/2026081514570610037",
-          "snippet": "속 중국과의 접촉을 통해 공급 부족을 해결하려던 애플의 입장과 충돌하는 것이다. 애플은 AI 데이터센터... 마이크론은 중국산 메모리 채용이 미국 반도체 산업을 약화시킬 수 있다고 우려하며 백악관 설득에 나섰다....",
-          "source": "sidae.com",
+          "title": "美 트럼프 행정부, 애플에 중국산 메모리 사용 제동",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/15/2026081500043.html",
+          "snippet": "애플이 중국산 메모리로 눈을 돌린 것은 AI 데이터센터 확산으로 메모리 수요가 급증하면서 공급 부족과... 미국 메모리 업체 마이크론은 중국산 메모리 사용이 미국 반도체 산업을 위축시킬 수 있다며 정부에 애플의...",
+          "source": "biz.newdaily.co.kr",
           "sources": [
+            {
+              "name": "biz.newdaily.co.kr",
+              "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/15/2026081500043.html",
+              "origin": "naver"
+            },
             {
               "name": "sidae.com",
               "url": "https://www.sidae.com/article/2026081514570610037",
@@ -7677,9 +7720,9 @@
               "origin": "naver"
             }
           ],
-          "source_count": 2,
-          "published": "2026-08-15T15:46:00+09:00",
-          "ts": 1786776360.0,
+          "source_count": 3,
+          "published": "2026-08-15T17:30:00+09:00",
+          "ts": 1786782600.0,
           "group": "trend_global",
           "group_label": "글로벌 동향"
         },
