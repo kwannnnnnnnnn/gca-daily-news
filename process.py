@@ -6,12 +6,14 @@ from __future__ import annotations
 
 import glob
 import json
+import math
 import os
 import re
 from collections import Counter
 from difflib import SequenceMatcher
 
-from util import (load_config, now_kst, press_key, press_name, today_str)
+from util import (is_domainish, load_config, normalize_title, now_kst,
+                  press_display, press_key, press_name, today_str)
 
 
 def build_group_map(cfg: dict) -> dict:
@@ -88,7 +90,34 @@ def title_tokens(title: str) -> set:
     return out
 
 
-def same_story(a: dict, b: dict, threshold: float, df: dict) -> bool:
+def _overlap(sa: set, sb: set, idf: dict):
+    """겹치는 낱말 수와 변별력 가중합.
+
+    'KB금융'과 'KB금융그룹'처럼 접두만 같은 낱말도 같은 말로 본다. 단 가중치는
+    ★더 흔한 쪽(낮은 idf) 기준★ — 예전엔 min(df), 즉 더 드문 쪽으로 계산해서
+    '재정'(흔함)이 '재정난'(드묾)의 희소도를 뒤집어쓰고 무관한 기사를 끌어당겼다
+    (2026-09-07 '25개 매체' 오표기 사고의 근본 원인).
+    """
+    if len(sa) > len(sb):
+        sa, sb = sb, sa
+    n, w = 0, 0.0
+    for x in sa:
+        best = -1.0
+        for y in sb:
+            if x == y:
+                best = idf.get(x, 4.0)
+                break
+            if x.startswith(y) or y.startswith(x):
+                c = min(idf.get(x, 4.0), idf.get(y, 4.0))
+                if c > best:
+                    best = c
+        if best >= 0:
+            n += 1
+            w += best
+    return n, w
+
+
+def same_story(a: dict, b: dict, threshold: float, idf: dict) -> bool:
     """같은 사건인가. ★오탐(다른 기사를 한 묶음으로)이 누락보다 훨씬 해롭다★
     — 카드에 '25개 매체'로 표시되는데 링크가 딴 기사면 신뢰가 무너진다. 보수적으로 판정."""
     if a["norm_url"] and a["norm_url"] == b["norm_url"]:
@@ -108,17 +137,19 @@ def same_story(a: dict, b: dict, threshold: float, df: dict) -> bool:
     sa, sb = a["_toks"], b["_toks"]
     if not sa or not sb:
         return False
-    shared = sa & sb
-    n = len(shared)
+    n, w = _overlap(sa, sb, idf)
     if n < 2:
         return False
     cover = n / min(len(sa), len(sb))
-    if n >= 4:                             # 핵심어 4개↑ 겹침 — 그 자체로 강한 신호
+    # ★몇 개 겹쳤나가 아니라 '얼마나 특징적인 낱말이 겹쳤나'로 본다★
+    #   'AI·개최·경진대회'는 무관한 기사도 쉽게 겹친다(실측 가중합 7.5 → 불통합).
+    #   '공공기관·직원·위기'(14.5), '청송·숏폼·영상·공모전'(16.3)은 같은 사건이었다.
+    #   2026-09-07 실측(오병합 vs 정상통합 가중합):
+    #     오병합 12.0 / 10.9 / 7.4   ·   정상 16.6 ~ 26.4  → 경계 14.0
+    if n >= 2 and cover >= 0.40 and w >= 14.0:
         return True
-    if n >= 3 and cover >= 0.5:            # 핵심어 3개↑ + 절반 이상 겹침
+    if n >= 4 and w >= 18.0:               # 겹침이 많으면 커버리지는 완화
         return True
-    if n >= 2 and cover >= 0.6 and any(df.get(w, 99) <= 3 for w in shared):
-        return True                        # 드문 낱말(≤3건) 포함 + 대부분 겹침
     return False
 
 
@@ -148,6 +179,9 @@ def process(articles: list, meta: dict, cfg: dict) -> dict:
     for a in kept:
         for w in a["_toks"]:
             df[w] += 1
+    # 낱말별 변별력(IDF) — 통합 판정의 가중치
+    _N = max(len(kept), 1)
+    df = {w: math.log(_N / c) for w, c in df.items()}
 
     # ── 동일사건 통합 ────────────────────────────────────────────────────
     def _greedy(items):
@@ -213,9 +247,25 @@ def process(articles: list, meta: dict, cfg: dict) -> dict:
             if not k or k in seen:
                 continue
             seen.add(k)
-            sources.append({"name": press_name(m["url"], fallback=nm),
+            sources.append({"name": press_display(nm, m["url"]),
                             "url": m["url"], "origin": m["origin"],
                             "title": m["title"]})
+        # 매체명 매핑에 없는 곳은 도메인 그대로 들어와('metroseoul.co.kr' vs '메트로신문')
+        # 같은 매체가 두 번 세어진다. 제목이 똑같고 한쪽만 도메인 표기면 같은 기사로 보고
+        # 사람이 읽을 수 있는 쪽만 남긴다(모르면 적게 세는 쪽이 안전).
+        by_title = {}
+        for s_ in sources:
+            by_title.setdefault(normalize_title(s_.get("title") or ""), []).append(s_)
+        drop = set()
+        for nt, grp in by_title.items():
+            if not nt or len(grp) < 2:
+                continue
+            if any(not is_domainish(x["name"]) for x in grp):
+                for x in grp:
+                    if is_domainish(x["name"]):
+                        drop.add(id(x))
+        if drop:
+            sources = [x for x in sources if id(x) not in drop]
         out_clusters.append({
             "title": rep["title"], "url": rep["url"], "snippet": rep["snippet"],
             "source": sources[0]["name"] if sources else rep["source"],

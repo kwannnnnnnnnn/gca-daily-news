@@ -140,17 +140,39 @@ _SPACE_RE = re.compile(r"[\s·ㆍ,'\"“”‘’()\[\]]+")
 _AGG_HOSTS = ("news.google.com", "news.naver.com", "n.news.naver.com")
 
 
-def press_key(name: str, url: str = "") -> str:
-    """매체 동일성 판정 키.
+_DOMAINISH_RE = re.compile(r"^[a-z0-9][a-z0-9.\-]*\.[a-z]{2,}$", re.I)
 
-    같은 매체가 경로마다 다른 이름으로 들어온다(네이버=원문 도메인 → 'consumernews.co.kr',
-    구글=표시명 → '소비자가 만드는 신문'). 도메인 매핑을 먼저 태우고 공백/기호를 지워
-    한 매체가 두 번 세어지지 않게 한다.
+
+def _is_agg(d: str) -> bool:
+    return any(d == h or d.endswith("." + h) for h in _AGG_HOSTS)
+
+
+def press_display(name: str, url: str = "") -> str:
+    """화면에 쓸 매체명. 같은 매체가 경로마다 다르게 들어오는 걸 한 이름으로 모은다.
+
+    - 네이버: 원문 URL → 도메인 매핑('yna.co.kr' → '연합뉴스')
+    - 구글: 표시명을 주지만 '소비자가 만드는 신문'처럼 띄어쓰기가 있거나,
+      아예 한글명 대신 도메인('yna.co.kr')을 주기도 한다 → 도메인이면 매핑으로 환원.
     """
     d = domain_of(url)
-    if d and not any(d == h or d.endswith("." + h) for h in _AGG_HOSTS):
-        name = press_name(url, fallback=name)
-    return _SPACE_RE.sub("", (name or "")).lower()
+    if d and not _is_agg(d):
+        n = press_name(url, fallback="")
+        if n and n != d:
+            return n
+    nm = (name or "").strip()
+    if nm and _DOMAINISH_RE.match(nm):
+        nm = press_name("https://" + nm, fallback=nm)
+    return nm or (d if d and not _is_agg(d) else "")
+
+
+def is_domainish(name: str) -> bool:
+    """'metroseoul.co.kr'처럼 매체명 자리에 도메인이 들어온 경우."""
+    return bool(name and _DOMAINISH_RE.match(name.strip()))
+
+
+def press_key(name: str, url: str = "") -> str:
+    """매체 동일성 판정 키 — 표시명에서 공백·따옴표를 지워 한 매체가 두 번 세어지지 않게."""
+    return _SPACE_RE.sub("", press_display(name, url)).lower()
 
 
 def parse_dt(s: str):

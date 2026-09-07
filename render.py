@@ -64,6 +64,16 @@ padding:11px 13px;margin-bottom:8px}
 .snip{margin:7px 0 0;font-size:.84rem;color:var(--muted);
 display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .chips{margin-top:8px;display:flex;flex-wrap:wrap;gap:5px}
+details.srcs{margin-top:6px;font-size:.74rem}
+details.srcs>summary{list-style:none;cursor:pointer;color:var(--muted);
+  user-select:none;padding:2px 0}
+details.srcs>summary::-webkit-details-marker{display:none}
+details.srcs>summary:hover{color:var(--accent)}
+details.srcs ul{margin:4px 0 0;padding-left:14px}
+details.srcs li{margin:3px 0;line-height:1.45}
+details.srcs a{color:var(--fg);text-decoration:none}
+details.srcs a:hover{text-decoration:underline}
+details.srcs b{color:var(--chipfg);font-weight:600;margin-right:4px}
 .chip{background:var(--chip);color:var(--chipfg);border-radius:20px;padding:2px 9px;font-size:.73rem;text-decoration:none}
 .chip:hover{filter:brightness(.96)}
 
@@ -124,14 +134,22 @@ def _card(item: dict) -> str:
     chips = ""
     if cnt > 1:
         srcs = item.get("sources", [])
-        # 각 매체 칩에 그 매체의 '실제 제목'을 툴팁으로 — 링크를 열기 전에 확인 가능
+        # 칩에는 그 매체의 실제 제목을 툴팁으로 달고,
+        # 아래 '매체별 제목 확인'을 펼치면 어느 매체가 뭐라고 썼는지 그대로 볼 수 있다.
+        # (자동 통합은 제목만 보고 판단하므로 100%가 아니다 — 인용·보고 전에 눈으로 확인용)
         parts = "".join(
             f'<a class="chip" href="{esc(s["url"])}" target="_blank" rel="noopener" '
             f'title="{esc(s.get("title") or s["name"])}">{esc(s["name"])}</a>'
             for s in srcs[:12])
         if len(srcs) > 12:
             parts += f'<span class="chip">외 {len(srcs) - 12}개</span>'
-        chips = f'<div class="chips">{parts}</div>'
+        lines = "".join(
+            f'<li><a href="{esc(s["url"])}" target="_blank" rel="noopener">'
+            f'<b>{esc(s["name"])}</b>{esc(s.get("title") or "")}</a></li>'
+            for s in srcs)
+        chips = (f'<div class="chips">{parts}</div>'
+                 f'<details class="srcs"><summary>▾ 매체별 제목 확인 ({cnt})</summary>'
+                 f'<ul>{lines}</ul></details>')
     return (
         f'<div class="card">'
         f'<a class="t" href="{esc(item["url"])}" target="_blank" rel="noopener">{esc(item["title"])}</a>'
