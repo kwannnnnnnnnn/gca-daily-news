@@ -50,16 +50,29 @@ def previous_articles(cfg: dict, cutoff_ts: float) -> list:
                 if ts < cutoff_ts or ts > future_limit:
                     continue
                 srcs = it.get("sources") or [{"name": it.get("source", ""),
-                                              "url": it.get("url", "")}]
-                for s in srcs:
+                                              "url": it.get("url", ""),
+                                              "title": it.get("title", "")}]
+                for i, s in enumerate(srcs):
                     url = s.get("url") or it.get("url", "")
                     if not url:
                         continue
+                    # ★매체별 '자기 제목'으로 되살린다★ — 예전에는 모든 매체에 대표 제목을
+                    #   복사했다. 그러면 한 번 잘못 묶인 묶음이 다음 실행에서 '제목이 전부
+                    #   같으니' 100% 재병합돼 30시간 내내 고착됐다(2026-09-07 사고).
+                    #   제목이 없는 구(舊) 형식 데이터는 대표 외 매체를 되살리지 않는다
+                    #   (오병합 잔재 유입 차단 — 최근 기사면 신규 수집으로 다시 들어온다).
+                    title = s.get("title")
+                    if not title:
+                        if i > 0:
+                            continue
+                        title = it.get("title", "")
                     out.append({
-                        "title": it.get("title", ""), "url": url,
+                        "title": title, "url": url,
                         "norm_url": normalize_url(url),
-                        "norm_title": normalize_title(it.get("title", "")),
-                        "snippet": it.get("snippet", ""),
+                        "norm_title": normalize_title(title),
+                        # 요약은 대표기사의 것 — 제목이 다른 매체엔 붙이지 않는다
+                        "snippet": (it.get("snippet", "")
+                                    if title == it.get("title", "") else ""),
                         "source": s.get("name", ""),
                         "published": it.get("published", ""), "ts": ts,
                         "origin": s.get("origin", "prev"), "group": gid,

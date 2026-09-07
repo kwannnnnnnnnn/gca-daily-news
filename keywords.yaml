@@ -4,7 +4,7 @@
 settings:
   hours_window: 30          # 최근 N시간 안에 나온 기사만 유지
   naver_display: 100        # 네이버 API 키워드당 최대 수집 건수(최대 100)
-  min_title_similarity: 0.60  # 제목 유사도 이 값 이상이면 같은 사건으로 통합
+  min_title_similarity: 0.78  # 같은 사건 판정 기준. 낮으면 무관한 기사가 묶여 '매체 수'가 부풀려진다(0.60→0.78, 2026-09-07)
   max_items_per_group: 120  # 그룹별 최대 보관 건수(30시간 누적이므로 넉넉히)
   preview_items: 5          # 그룹별 기본 노출 개수(나머지는 '더보기'로 접힘)
                             # 그룹마다 preview_items를 따로 두면 그 값이 우선(예: 트렌드 3개)

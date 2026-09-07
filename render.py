@@ -123,9 +123,14 @@ def _card(item: dict) -> str:
     snip = f'<p class="snip">{esc(item["snippet"])}</p>' if item.get("snippet") else ""
     chips = ""
     if cnt > 1:
+        srcs = item.get("sources", [])
+        # 각 매체 칩에 그 매체의 '실제 제목'을 툴팁으로 — 링크를 열기 전에 확인 가능
         parts = "".join(
-            f'<a class="chip" href="{esc(s["url"])}" target="_blank" rel="noopener">{esc(s["name"])}</a>'
-            for s in item.get("sources", [])[:8])
+            f'<a class="chip" href="{esc(s["url"])}" target="_blank" rel="noopener" '
+            f'title="{esc(s.get("title") or s["name"])}">{esc(s["name"])}</a>'
+            for s in srcs[:12])
+        if len(srcs) > 12:
+            parts += f'<span class="chip">외 {len(srcs) - 12}개</span>'
         chips = f'<div class="chips">{parts}</div>'
     return (
         f'<div class="card">'

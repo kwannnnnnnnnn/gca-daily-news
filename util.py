@@ -110,6 +110,13 @@ PRESS_BY_DOMAIN = {
     "joongboo.com": "중부일보", "kgnews.co.kr": "경기신문",
     "incheonilbo.com": "인천일보", "kgdm.co.kr": "경기도민일보",
     "gukjenews.com": "국제뉴스", "newscj.com": "천지일보",
+    "consumernews.co.kr": "소비자가만드는신문", "news2day.co.kr": "뉴스투데이",
+    "kpinews.kr": "KPI뉴스", "tf.co.kr": "더팩트", "sidae.com": "시대일보",
+    "newstnt.com": "뉴스티앤티", "newstomato.com": "뉴스토마토",
+    "epnc.co.kr": "테크월드", "ccdailynews.com": "충청일보", "ccdn.co.kr": "충청일보",
+    "wooriilbo.com": "우리일보", "news.nate.com": "네이트", "nate.com": "네이트",
+    "sisajournal.com": "시사저널", "kyeongin.com": "경인일보",
+    "ekgib.com": "경기일보",
     "thisisgame.com": "디스이즈게임", "inven.co.kr": "인벤",
     "gamemeca.com": "게임메카", "ruliweb.com": "루리웹",
     "aitimes.com": "AI타임스", "bloter.net": "블로터",
@@ -127,6 +134,23 @@ def press_name(u: str, fallback: str = "") -> str:
         if d == dom or d.endswith("." + dom):
             return name
     return fallback or d
+
+
+_SPACE_RE = re.compile(r"[\s·ㆍ,'\"“”‘’()\[\]]+")
+_AGG_HOSTS = ("news.google.com", "news.naver.com", "n.news.naver.com")
+
+
+def press_key(name: str, url: str = "") -> str:
+    """매체 동일성 판정 키.
+
+    같은 매체가 경로마다 다른 이름으로 들어온다(네이버=원문 도메인 → 'consumernews.co.kr',
+    구글=표시명 → '소비자가 만드는 신문'). 도메인 매핑을 먼저 태우고 공백/기호를 지워
+    한 매체가 두 번 세어지지 않게 한다.
+    """
+    d = domain_of(url)
+    if d and not any(d == h or d.endswith("." + h) for h in _AGG_HOSTS):
+        name = press_name(url, fallback=name)
+    return _SPACE_RE.sub("", (name or "")).lower()
 
 
 def parse_dt(s: str):
