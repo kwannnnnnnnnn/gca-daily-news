@@ -1,6 +1,8 @@
 # GCA news monitor - backup trigger for GitHub Actions
 # GitHub cron often misses slots; this fires workflow_dispatch every 30 min
-# while the PC is on during business hours (08-18 KST).
+# while the PC is on (07-22 KST). Widened from 08-18 on 2026-09-08:
+# the site sat stale from 9/7 20:55 to 9/8 10:00 because the PC was off
+# overnight and GitHub's own cron did not fire that morning.
 # Remove with:  schtasks /Delete /TN "GCA-News-Trigger" /F
 
 $ErrorActionPreference = 'SilentlyContinue'
@@ -10,7 +12,7 @@ $log  = Join-Path $PSScriptRoot '_trigger.log'
 function Log($m) { "$(Get-Date -Format 'MM-dd HH:mm') $m" | Add-Content -Path $log -Encoding UTF8 }
 
 $h = (Get-Date).Hour
-if ($h -lt 8 -or $h -ge 18) { exit 0 }
+if ($h -lt 7 -or $h -ge 22) { exit 0 }
 
 $gh = (Get-Command gh -ErrorAction SilentlyContinue).Source
 if (-not $gh) { Log 'SKIP no gh'; exit 0 }
