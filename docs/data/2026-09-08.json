@@ -1,6 +1,6 @@
 {
   "date": "2026-09-08",
-  "generated_at": "2026-09-08T19:39:44.496946+09:00",
+  "generated_at": "2026-09-08T19:58:57.584973+09:00",
   "window_hours": 30,
   "sources": [
     "네이버뉴스(API HUB)",
@@ -9,11 +9,11 @@
   "use_naver": true,
   "preview_items": 5,
   "counts": {
-    "collected": 5019,
-    "kept": 2374,
-    "excluded": 2645,
-    "consolidated": 1077,
-    "multi": 339
+    "collected": 4950,
+    "kept": 2363,
+    "excluded": 2587,
+    "consolidated": 1071,
+    "multi": 329
   },
   "groups": [
     {
@@ -22,7 +22,7 @@
       "priority": 1,
       "page": "main",
       "preview": null,
-      "count": 16,
+      "count": 18,
       "items": [
         {
           "title": "경콘진, 청년 디자이너 30명 지역기업 취업길 열었다",
@@ -291,21 +291,21 @@
         },
         {
           "title": "경기도 긴축, 시·군 넘어 공공기관까지…3곳 370여명 인건비 미편성",
-          "url": "https://www.etoday.co.kr/news/view/2622802",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nUXhSb2pWOWsxNTNtSG9ObU56bXFEbjBFcEQyZHZBbGxmcG93Q2Jtbnd0MlJxanNxaHZuZlFmZTgwQzRVbnJkcVp3cHh0cE1zc0NhdGc0eFBlTjItY1hTWjFkek43aDlmRk91S21fRGVPZ1RI?oc=5",
           "snippet": "7일 이투데이 취재를 종합하면 경기콘텐츠진흥원과 경기도일자리재단, 차세대융합기술연구원 등 3개 기관에서 직원 370여명의 연말 인건비가 편성되지 않았다. 경기도의료원 5개 병원도 9~12월 인건비 110억여원이...",
-          "source": "국제뉴스",
+          "source": "이투데이",
           "sources": [
-            {
-              "name": "국제뉴스",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ORk9yakhHVXVuLXNKSVZQNDNmTElwMEtLTWV0b000TlV2ZjVhSGRXOXQ5RTlSUEhIYjRqaGMwZmttclJkS0VnbDNZdnktdUdpLW1yRkJhMWpfdjJqVmNRSVk3Y2JES25QZUNPSkN3?oc=5",
-              "origin": "google",
-              "title": "경기도 공공기관 경콘진 노조 \"道 4개월치 인건비 미편성 본부 직원 임금 체불 위기\""
-            },
             {
               "name": "이투데이",
               "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nUXhSb2pWOWsxNTNtSG9ObU56bXFEbjBFcEQyZHZBbGxmcG93Q2Jtbnd0MlJxanNxaHZuZlFmZTgwQzRVbnJkcVp3cHh0cE1zc0NhdGc0eFBlTjItY1hTWjFkek43aDlmRk91S21fRGVPZ1RI?oc=5",
               "origin": "google",
               "title": "경기도 긴축, 시·군 넘어 공공기관까지…3곳 370여명 인건비 미편성"
+            },
+            {
+              "name": "국제뉴스",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ORk9yakhHVXVuLXNKSVZQNDNmTElwMEtLTWV0b000TlV2ZjVhSGRXOXQ5RTlSUEhIYjRqaGMwZmttclJkS0VnbDNZdnktdUdpLW1yRkJhMWpfdjJqVmNRSVk3Y2JES25QZUNPSkN3?oc=5",
+              "origin": "google",
+              "title": "경기도 공공기관 경콘진 노조 \"道 4개월치 인건비 미편성 본부 직원 임금 체불 위기\""
             }
           ],
           "source_count": 2,
@@ -336,6 +336,25 @@
           "source_count": 2,
           "published": "2026-09-07T17:52:00+09:00",
           "ts": 1788771120.0,
+          "group": "gca",
+          "group_label": "경기콘텐츠진흥원"
+        },
+        {
+          "title": "AI시대, 레거시 미디어가 살 길은",
+          "url": "https://www.pdjournal.com/news/articleView.html?idxno=90084",
+          "snippet": "한국PD연합회와 경기콘텐츠진흥원이 8일 '넥스트 시프트-AI시대, 미디어를 새롭게 상상하다'를 주제로 '2026년 글로벌 콘텐츠 컨퍼런스'를 열었다. 국내외 콘텐츠 업계 관계자 200여명이 참여한 올해 글로벌 콘텐츠...",
+          "source": "pdjournal.com",
+          "sources": [
+            {
+              "name": "pdjournal.com",
+              "url": "https://www.pdjournal.com/news/articleView.html?idxno=90084",
+              "origin": "naver",
+              "title": "AI시대, 레거시 미디어가 살 길은"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-08T19:40:00+09:00",
+          "ts": 1788864000.0,
           "group": "gca",
           "group_label": "경기콘텐츠진흥원"
         },
@@ -435,6 +454,44 @@
           "group_label": "경기콘텐츠진흥원"
         },
         {
+          "title": "경기도 긴축, 콘진원·의료원 인건비 추경 미반영…\"출연금 내 조정\"",
+          "url": "https://www.etoday.co.kr/news/view/2622802",
+          "snippet": "7일 이투데이 취재를 종합하면 경기콘텐츠진흥원 미래산업본부와 경기도의료원이 제2회 추가경정예산안에 요구한 인건비가 반영되지 않았다. 경기도는 기관별 출연금 내 세출예산을 조정해 인건비를 우선...",
+          "source": "etoday.co.kr",
+          "sources": [
+            {
+              "name": "etoday.co.kr",
+              "url": "https://www.etoday.co.kr/news/view/2622802",
+              "origin": "naver",
+              "title": "경기도 긴축, 콘진원·의료원 인건비 추경 미반영…\"출연금 내 조정\""
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-07T20:00:00+09:00",
+          "ts": 1788778800.0,
+          "group": "gca",
+          "group_label": "경기콘텐츠진흥원"
+        },
+        {
+          "title": "경기콘텐츠진흥원, '경기필름스쿨페스티벌' 개막…청년 영화인 60편 상영",
+          "url": "http://www.metroseoul.co.kr/article/20260906500100",
+          "snippet": "",
+          "source": "metroseoul.co.kr",
+          "sources": [
+            {
+              "name": "metroseoul.co.kr",
+              "url": "http://www.metroseoul.co.kr/article/20260906500100",
+              "origin": "naver",
+              "title": "경기콘텐츠진흥원, '경기필름스쿨페스티벌' 개막…청년 영화인 60편 상영"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-07T17:18:00+09:00",
+          "ts": 1788769080.0,
+          "group": "gca",
+          "group_label": "경기콘텐츠진흥원"
+        },
+        {
           "title": "경기 인디시네마, 투자자 수익 성적표",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6UkVUMVB3am0tUU1UdUtQYXg2LXFGSjFPUm5nbWxYRHJxZVBXeUJYSjRSNUhFSEJyM2JZTm1jZEJhVG00V1IyOUZoNFRiTHZZVExnTGVFMWFnZHRmNGZqNXdXUWo?oc=5",
           "snippet": "",
@@ -452,25 +509,6 @@
           "ts": 1788761043.0,
           "group": "gca",
           "group_label": "경기콘텐츠진흥원"
-        },
-        {
-          "title": "경기콘텐츠진흥원, '경기필름스쿨페스티벌' 개막…청년 영화인 60편 상영",
-          "url": "http://www.metroseoul.co.kr/article/20260906500100",
-          "snippet": "경기 필름스쿨페스티벌 포스터 경기콘텐츠진흥원(경콘진)과 경기영화학교연합이 오는 18일부터 사흘간... 이번 영화제는 경콘진과 경기영화학교연합이 공동 주최하고 콘텐츠 산업 기반 스타트업 에프팔육이(f862)가...",
-          "source": "메트로신문",
-          "sources": [
-            {
-              "name": "메트로신문",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtSEZXSDJpc2VEaHl3blYwNzlFcEpXcmd1aHpvcHNYZTNQYmliZ3g0ZmFydEpvdnZ1bXhkcTNtN09kek01Vm9hNmduU2tMRDR6aUNCVHI5VS1INzFnNDhkTA?oc=5",
-              "origin": "google",
-              "title": "경기콘텐츠진흥원, '경기필름스쿨페스티벌' 개막…청년 영화인 60편 상영"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-07T13:46:00+09:00",
-          "ts": 1788756360.0,
-          "group": "gca",
-          "group_label": "경기콘텐츠진흥원"
         }
       ]
     },
@@ -480,14 +518,20 @@
       "priority": 2,
       "page": "main",
       "preview": null,
-      "count": 56,
+      "count": 57,
       "items": [
         {
-          "title": "‘재정 비상’ 외쳤는데…추미애 ‘12억 관사’ 논란에 시민단체 규탄 ...",
-          "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000549331",
-          "snippet": "추미애 경기도지사의 12억 원대 전세 관사 논란과 관련해 시민 단체가 관사 임대 계약을 즉각 철회하고 관련 예산을 환수하라고 촉구했습니다. 경기경실련은 8일 성명을 통해 “추 지사가 지난달 ‘재정 비상 상황’을...",
-          "source": "ichannela.com",
+          "title": "\"재정 비상이라더니 12억 관사?\"…경실련, 경기도에 계약 철회 촉구",
+          "url": "https://www.ngonews.kr/news/articleView.html?idxno=237534",
+          "snippet": "경실련경기도협의회가 추미애 경기도지사의 고가 전세 관사 사용을 둘러싼 논란과 관련해 관사 임대계약을 취소하고 투입된 예산을 환수하라고 경기도에 촉구했다. 경실련경기도협의회는 8일 성명을 통해 경기도가 재정...",
+          "source": "ngonews.kr",
           "sources": [
+            {
+              "name": "ngonews.kr",
+              "url": "https://www.ngonews.kr/news/articleView.html?idxno=237534",
+              "origin": "naver",
+              "title": "\"재정 비상이라더니 12억 관사?\"…경실련, 경기도에 계약 철회 촉구"
+            },
             {
               "name": "ichannela.com",
               "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000549331",
@@ -504,7 +548,19 @@
               "name": "동아일보",
               "url": "https://www.donga.com/news/Society/article/all/20260908/134627902/1",
               "origin": "naver",
-              "title": "“‘재정 비상’ 선언한 추미애, 12억 관사엔 침묵…페북엔 ‘검찰개혁..."
+              "title": "‘재정 비상’ 선언 추미애, 12억 관사 침묵…페북엔 “검찰개혁”"
+            },
+            {
+              "name": "YTN",
+              "url": "https://www.ytn.co.kr/_ln/0115_202609081621211380",
+              "origin": "naver",
+              "title": "경기경실련 \"추미애 호화 관사 계약 철회하고 예산 환수해야\""
+            },
+            {
+              "name": "더팩트",
+              "url": "https://news.tf.co.kr/read/national/2363422.htm",
+              "origin": "naver",
+              "title": "\"민생예산 깎고 12억 원 관사\"…경실련경기도협의회, 추미애 지사 비판"
             },
             {
               "name": "조선일보",
@@ -525,10 +581,10 @@
               "title": "[칼럼] '재정 비상' 외친 경기도, 12억 관사는 예외인가"
             },
             {
-              "name": "파이낸셜뉴스",
-              "url": "https://www.fnnews.com/news/202609081342583857",
+              "name": "mediawatch.kr",
+              "url": "https://www.mediawatch.kr/news/article.html?no=260942",
               "origin": "naver",
-              "title": "추미애 \"12억 관사 논란엔 침묵, 페북엔 검찰개혁\"...시민단체 관사철회..."
+              "title": "경기경실련 “추미애 지사, 12억 관사 계약 철회하고 예산 환수해야”"
             },
             {
               "name": "중앙일보",
@@ -549,46 +605,9 @@
               "title": "추미애, 경기도 재정 비상 상황 중 ‘47평 관사’ 입주 논란 [자막뉴스]"
             }
           ],
-          "source_count": 10,
-          "published": "2026-09-08T18:38:00+09:00",
-          "ts": 1788860280.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "경기경실련 \"추미애 호화 관사 계약 철회하고 예산 환수해야\"",
-          "url": "https://www.ytn.co.kr/_ln/0115_202609081621211380",
-          "snippet": "추미애 경기도지사의 12억 원대 전세 관사 논란과 관련해 경실련경기도협의회가 호화 관사 임대 계약을 즉각 철회하고 해당 예산을 환수하라고 촉구했습니다. 경기경실련은 추 지사가 재정 비상을 선언하며 대규모 세출...",
-          "source": "YTN",
-          "sources": [
-            {
-              "name": "YTN",
-              "url": "https://www.ytn.co.kr/_ln/0115_202609081621211380",
-              "origin": "naver",
-              "title": "경기경실련 \"추미애 호화 관사 계약 철회하고 예산 환수해야\""
-            },
-            {
-              "name": "KBS",
-              "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8657656&ref=A",
-              "origin": "naver",
-              "title": "경기경실련 “추미애 관사 계약 철회·예산 환수해야”"
-            },
-            {
-              "name": "매일경제",
-              "url": "https://www.mk.co.kr/article/12146949",
-              "origin": "naver",
-              "title": "경기경실련 “추미애 호화관사 계약 즉각 철회하라…자기모순의 극치”"
-            },
-            {
-              "name": "mediawatch.kr",
-              "url": "https://www.mediawatch.kr/news/article.html?no=260942",
-              "origin": "naver",
-              "title": "경기경실련 “추미애 지사, 12억 관사 계약 철회하고 예산 환수해야”"
-            }
-          ],
-          "source_count": 4,
-          "published": "2026-09-08T16:21:00+09:00",
-          "ts": 1788852060.0,
+          "source_count": 13,
+          "published": "2026-09-08T19:40:00+09:00",
+          "ts": 1788864000.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -806,31 +825,6 @@
           "source_count": 2,
           "published": "2026-09-08T17:08:00+09:00",
           "ts": 1788854880.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "\"민생예산 깎고 12억 원 관사\"…경실련경기도협의회, 추미애 지사 비판",
-          "url": "https://news.tf.co.kr/read/national/2363422.htm",
-          "snippet": "경기도, 5465억 원 세출 구조조정 속 12억 원 전세 관사 계약 경기경실련 \"도민 눈높이 안 맞아\"…관사 제도 폐지·사과 요구 경실련경기도협의회가 8일 추미애 경기도지사의 12억 원대 관사 사용을 비판하며 임대 계약...",
-          "source": "더팩트",
-          "sources": [
-            {
-              "name": "더팩트",
-              "url": "https://news.tf.co.kr/read/national/2363422.htm",
-              "origin": "naver",
-              "title": "\"민생예산 깎고 12억 원 관사\"…경실련경기도협의회, 추미애 지사 비판"
-            },
-            {
-              "name": "gg.newdaily.co.kr",
-              "url": "https://gg.newdaily.co.kr/site/data/html/2026/09/08/2026090800228.html",
-              "origin": "naver",
-              "title": "\"민생 예산 깎으면서 12억 1인 관사\"… 경실련, 추미애 지사 정면 비판"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-08T16:08:00+09:00",
-          "ts": 1788851280.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -1137,6 +1131,25 @@
           "group_label": "경기도지사"
         },
         {
+          "title": "\"민생 예산 깎으면서 12억 1인 관사\"… 경실련, 추미애 지사 정면 비판",
+          "url": "https://gg.newdaily.co.kr/site/data/html/2026/09/08/2026090800228.html",
+          "snippet": "뉴데일리 김현우 기자 = 경기도가 '재정 비상 상황'을 선언하고 5465억원 규모의 감액 추경에 나선 가운데 추미애 경기도지사의 12억 원이 넘는 1인 관사 사용을 두고 논란이 확산되고 있다. 경실련경기도협의회는 8일...",
+          "source": "gg.newdaily.co.kr",
+          "sources": [
+            {
+              "name": "gg.newdaily.co.kr",
+              "url": "https://gg.newdaily.co.kr/site/data/html/2026/09/08/2026090800228.html",
+              "origin": "naver",
+              "title": "\"민생 예산 깎으면서 12억 1인 관사\"… 경실련, 추미애 지사 정면 비판"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-08T14:52:00+09:00",
+          "ts": 1788846720.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
           "title": "[이슈분석] 추미애표 ‘재정분권’ 계산해보니…지방소비세만 경기도 최대 2조원대 증가 가능",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByME1YYlgyWUM4Wk5iU1hhdlYxTm13anJqT2RUazFidERicEJBUHVsbFB4eG5sYnpKc1hGQ2FLSkR6U2I2YTQzOVVfS3U2MFY1N2d3STZjYXU4VlFubzlKSTBxMFFmZ21fWE5LelExV2zSAXRBVV95cUxNOEs5SF9WU01veHVsZGt0eXBZMGNwbTcyWHFqWW15emRORFNkS3hOQm1BYWdUYlFVdTlBM2tvS1NuZzV2VzFOU2lqTVZRVGZrcGJ0R0JyZnVGSExSUktRZm5LblU4dnRvUnYtT2NySVNUZDRyQw?oc=5",
           "snippet": "",
@@ -1152,6 +1165,25 @@
           "source_count": 1,
           "published": "2026-09-08T14:16:43+09:00",
           "ts": 1788844603.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "추미애 \"12억 관사 논란엔 침묵, 페북엔 검찰개혁\"...시민단체 관사철회...",
+          "url": "https://www.fnnews.com/news/202609081342583857",
+          "snippet": "경기도가 '재정 비상 상황'을 선포하고 5500억원에 달하는 예산을 삭감한 가운데, 추미애 경기도지사가 보증금 12억원이 넘는 고가 아파트를 관사로 사용해 불거진 논란이 시민단체의 집단 반발로 확산하고 있다. 하지만 추...",
+          "source": "파이낸셜뉴스",
+          "sources": [
+            {
+              "name": "파이낸셜뉴스",
+              "url": "https://www.fnnews.com/news/202609081342583857",
+              "origin": "naver",
+              "title": "추미애 \"12억 관사 논란엔 침묵, 페북엔 검찰개혁\"...시민단체 관사철회..."
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-08T13:54:00+09:00",
+          "ts": 1788843240.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -1190,6 +1222,25 @@
           "source_count": 1,
           "published": "2026-09-08T13:30:00+09:00",
           "ts": 1788841800.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "경기경실련 “추미애 호화관사 계약 즉각 철회하라…자기모순의 극치”",
+          "url": "https://www.mk.co.kr/article/12146949",
+          "snippet": "경실련경기도협의회는 8일 추미애 경기도지사의 ‘12억원대 전세 관사’ 논란과 관련해 “호화 관사 임대 계약을 즉각 철회하고 해당 예산을 환수하라”고 요구했다. 앞서 경기도는 지난 6월 중순께 추 지사의 관사로...",
+          "source": "매일경제",
+          "sources": [
+            {
+              "name": "매일경제",
+              "url": "https://www.mk.co.kr/article/12146949",
+              "origin": "naver",
+              "title": "경기경실련 “추미애 호화관사 계약 즉각 철회하라…자기모순의 극치”"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-08T13:13:00+09:00",
+          "ts": 1788840780.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -1752,7 +1803,7 @@
       "priority": 3,
       "page": "main",
       "preview": null,
-      "count": 43,
+      "count": 44,
       "items": [
         {
           "title": "김태형 경기도의회 미래과학협력위원장 “반도체 미래인재, 직접 체험하...",
@@ -2020,31 +2071,6 @@
           "group_label": "경기도의회(문체·미래위)"
         },
         {
-          "title": "경기도의회, '5천억대 경기도 감액 추경' 민생 삭감·일방 추진 집중 질...",
-          "url": "https://www.kyeonggi.com/article/20260907580520",
-          "snippet": "문화체육관광위원회에서는 감액 추경안 제출 과정에서 사전 논의가 없었던 점이 문제로 지적됐다. 최규진 의원(더불어민주당·고양4)은 “상임위와 어떤 협의나 논의된 바 없이 ‘삭감했으니 의회에서 심사를 해달라’는...",
-          "source": "경기일보",
-          "sources": [
-            {
-              "name": "경기일보",
-              "url": "https://www.kyeonggi.com/article/20260907580520",
-              "origin": "naver",
-              "title": "경기도의회, '5천억대 경기도 감액 추경' 민생 삭감·일방 추진 집중 질..."
-            },
-            {
-              "name": "웹이코노미",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NSkJGRUVvdjBUSl9BX1ViOVdJTHFKdFhtOElkSlgyaUFoY3plSENtYnI5WTBTTzR0cnVOc3hWWDB2MDhNSFRQNFZZU0NoWWpyTU1iVHBTbXZYNFhjd0F0NkhodmdERFlWdGM1QTE5N0Nxdw?oc=5",
-              "origin": "google",
-              "title": "경기도의회 문화체육관광위원회, 2026년 추경예산안 감액 심사"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-07T18:34:00+09:00",
-          "ts": 1788773640.0,
-          "group": "gg_council",
-          "group_label": "경기도의회(문체·미래위)"
-        },
-        {
           "title": "최규진 경기도의원 “확정 전 감액 반영, 예산심의권 침해”",
           "url": "https://www.sedaily.com/article/20088071?ref=naver",
           "snippet": "경기도의회 문화체육관광위원회 소속 더불어민주당 최규진 의원(고양4)이 7일 열린 2026년도 제2회 경기도 추가경정예산안 심사에서 집행부가 예산안 설명을 부실하게 하고 의회 의결 전 사업을 축소했다며 비판했다. 최...",
@@ -2070,22 +2096,22 @@
           "group_label": "경기도의회(문체·미래위)"
         },
         {
-          "title": "경기도의회 문체위, 사전 협의 없는 추경 감액안에 \"도민·의회 무시\" 폭풍 질타",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zVjd6M1BfckNDVTdRX0Rmb1A0enYwVmNyR3U2Y0dNNWtiSEMzY1ItWUlybV9CUWt1Y0ZmTlRlMFptai1xZ1ZTd0kwb3htUTYxLTUyeTZpSGZzM21mZmhUZTJRUFBOMEVtb2c?oc=5",
+          "title": "경기도의회 문체위 \"경기도 집행부, 사전협의 없이 500억 이상 삭감\" 집중 질타",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4za1RGNUltcDNLTF8yVVA1V3VaUzhLZE56WFc0bXM5VGl6b1BrVE8tOWxzbDdoUGtuMkNtTHZlM3c5V3hjcVNUVUNxc3FLZXc?oc=5",
           "snippet": "",
-          "source": "대한투데이",
+          "source": "v.daum.net",
           "sources": [
-            {
-              "name": "대한투데이",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zVjd6M1BfckNDVTdRX0Rmb1A0enYwVmNyR3U2Y0dNNWtiSEMzY1ItWUlybV9CUWt1Y0ZmTlRlMFptai1xZ1ZTd0kwb3htUTYxLTUyeTZpSGZzM21mZmhUZTJRUFBOMEVtb2c?oc=5",
-              "origin": "google",
-              "title": "경기도의회 문체위, 사전 협의 없는 추경 감액안에 \"도민·의회 무시\" 폭풍 질타"
-            },
             {
               "name": "v.daum.net",
               "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4za1RGNUltcDNLTF8yVVA1V3VaUzhLZE56WFc0bXM5VGl6b1BrVE8tOWxzbDdoUGtuMkNtTHZlM3c5V3hjcVNUVUNxc3FLZXc?oc=5",
               "origin": "google",
               "title": "경기도의회 문체위 \"경기도 집행부, 사전협의 없이 500억 이상 삭감\" 집중 질타"
+            },
+            {
+              "name": "대한투데이",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zVjd6M1BfckNDVTdRX0Rmb1A0enYwVmNyR3U2Y0dNNWtiSEMzY1ItWUlybV9CUWt1Y0ZmTlRlMFptai1xZ1ZTd0kwb3htUTYxLTUyeTZpSGZzM21mZmhUZTJRUFBOMEVtb2c?oc=5",
+              "origin": "google",
+              "title": "경기도의회 문체위, 사전 협의 없는 추경 감액안에 \"도민·의회 무시\" 폭풍 질타"
             }
           ],
           "source_count": 2,
@@ -2133,25 +2159,6 @@
           "group_label": "경기도의회(문체·미래위)"
         },
         {
-          "title": "한규찬 경기도의원 “67만 평택에 국·공립 박물관 한 곳도 없어… 평택...",
-          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/08/20260908500320?wlog_tag3=naver",
-          "snippet": "경기도의회 문화체육관광위원회 한규찬 의원(더불어민주당, 평택4)은 지난 7일 제393회 경기도의회 임시회 제2차 문화체육관광위원회에서 2026년도 제2회 추가경정예산안을 심사하며 평택박물관 건립 지원과 장애인체육...",
-          "source": "서울신문",
-          "sources": [
-            {
-              "name": "서울신문",
-              "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/08/20260908500320?wlog_tag3=naver",
-              "origin": "naver",
-              "title": "한규찬 경기도의원 “67만 평택에 국·공립 박물관 한 곳도 없어… 평택..."
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-08T17:24:00+09:00",
-          "ts": 1788855840.0,
-          "group": "gg_council",
-          "group_label": "경기도의회(문체·미래위)"
-        },
-        {
           "title": "유호준 경기도의원 ‘지역혁신중심 대학지원체계(RISE)’ 위원회 구성에...",
           "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/08/20260908500321?wlog_tag3=naver",
           "snippet": "경기도의회 미래과학협력위원회 소속 유호준 의원(더불어민주당, 남양주 다산1동)이 경기도 지역혁신중심 대학지원체계(RISE) 위원회 구성 과정에서 시·군 부단체장의 위촉 기준을 명확히 수립해야 한다고 경기도...",
@@ -2171,21 +2178,21 @@
           "group_label": "경기도의회(문체·미래위)"
         },
         {
-          "title": "전석훈 경기도의원 \"AI가 몸 갖는 시대…경기도, 휴머노이드 전진기지 ...",
-          "url": "https://www.fnnews.com/news/202609081711410300",
-          "snippet": "경기도의회 미래과학협력위원회는 제393회 임시회 제2차 회의를 열고 전석훈 의원(더불어민주당)이 대표 발의하고 여야 도의원 13명이 뜻을 모은 '경기도 휴머노이드 로봇산업 지원 조례안'을 원안 가결했다. 이번...",
-          "source": "파이낸셜뉴스",
+          "title": "한규찬 경기도의원 “67만 평택에 국·공립 박물관 한 곳도 없어… 평택...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/08/20260908500320?wlog_tag3=naver",
+          "snippet": "경기도의회 문화체육관광위원회 한규찬 의원(더불어민주당, 평택4)은 지난 7일 제393회 경기도의회 임시회 제2차 문화체육관광위원회에서 2026년도 제2회 추가경정예산안을 심사하며 평택박물관 건립 지원과 장애인체육...",
+          "source": "서울신문",
           "sources": [
             {
-              "name": "파이낸셜뉴스",
-              "url": "https://www.fnnews.com/news/202609081711410300",
+              "name": "서울신문",
+              "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/08/20260908500320?wlog_tag3=naver",
               "origin": "naver",
-              "title": "전석훈 경기도의원 \"AI가 몸 갖는 시대…경기도, 휴머노이드 전진기지 ..."
+              "title": "한규찬 경기도의원 “67만 평택에 국·공립 박물관 한 곳도 없어… 평택..."
             }
           ],
           "source_count": 1,
-          "published": "2026-09-08T17:22:00+09:00",
-          "ts": 1788855720.0,
+          "published": "2026-09-08T17:24:00+09:00",
+          "ts": 1788855840.0,
           "group": "gg_council",
           "group_label": "경기도의회(문체·미래위)"
         },
@@ -2200,6 +2207,25 @@
               "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/08/20260908500318?wlog_tag3=naver",
               "origin": "naver",
               "title": "임창휘 경기도의원 “재정위기 경기도, 국제협력국 예산 전면 재설계해..."
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-08T17:22:00+09:00",
+          "ts": 1788855720.0,
+          "group": "gg_council",
+          "group_label": "경기도의회(문체·미래위)"
+        },
+        {
+          "title": "전석훈 경기도의원 \"AI가 몸 갖는 시대…경기도, 휴머노이드 전진기지 ...",
+          "url": "https://www.fnnews.com/news/202609081711410300",
+          "snippet": "경기도의회 미래과학협력위원회는 제393회 임시회 제2차 회의를 열고 전석훈 의원(더불어민주당)이 대표 발의하고 여야 도의원 13명이 뜻을 모은 '경기도 휴머노이드 로봇산업 지원 조례안'을 원안 가결했다. 이번...",
+          "source": "파이낸셜뉴스",
+          "sources": [
+            {
+              "name": "파이낸셜뉴스",
+              "url": "https://www.fnnews.com/news/202609081711410300",
+              "origin": "naver",
+              "title": "전석훈 경기도의원 \"AI가 몸 갖는 시대…경기도, 휴머노이드 전진기지 ..."
             }
           ],
           "source_count": 1,
@@ -2456,6 +2482,25 @@
           "group_label": "경기도의회(문체·미래위)"
         },
         {
+          "title": "경기도의회 문화체육관광위원회, 2026년 추경예산안 감액 심사",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NSkJGRUVvdjBUSl9BX1ViOVdJTHFKdFhtOElkSlgyaUFoY3plSENtYnI5WTBTTzR0cnVOc3hWWDB2MDhNSFRQNFZZU0NoWWpyTU1iVHBTbXZYNFhjd0F0NkhodmdERFlWdGM1QTE5N0Nxdw?oc=5",
+          "snippet": "",
+          "source": "웹이코노미",
+          "sources": [
+            {
+              "name": "웹이코노미",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NSkJGRUVvdjBUSl9BX1ViOVdJTHFKdFhtOElkSlgyaUFoY3plSENtYnI5WTBTTzR0cnVOc3hWWDB2MDhNSFRQNFZZU0NoWWpyTU1iVHBTbXZYNFhjd0F0NkhodmdERFlWdGM1QTE5N0Nxdw?oc=5",
+              "origin": "google",
+              "title": "경기도의회 문화체육관광위원회, 2026년 추경예산안 감액 심사"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-07T23:45:47+09:00",
+          "ts": 1788792347.0,
+          "group": "gg_council",
+          "group_label": "경기도의회(문체·미래위)"
+        },
+        {
           "title": "예산 52% 깎이고 목표 97% 내려갔는데…평가는 \"목표 이상 달성\"",
           "url": "https://www.etoday.co.kr/news/view/2622811",
           "snippet": "7일 이투데이 취재를 종합하면 경기도의회 문화체육관광위원회는 제393회 임시회 심사에서 경기도가 제출한 '경기도 문화사계 프로그램 운영사업 공기관 위탁 동의안'과 '2027년도 경기문화재단 출연계획 동의안'의 근거...",
@@ -2547,6 +2592,25 @@
           "source_count": 1,
           "published": "2026-09-07T18:58:00+09:00",
           "ts": 1788775080.0,
+          "group": "gg_council",
+          "group_label": "경기도의회(문체·미래위)"
+        },
+        {
+          "title": "경기도의회, '5천억대 경기도 감액 추경' 민생 삭감·일방 추진 집중 질...",
+          "url": "https://www.kyeonggi.com/article/20260907580520",
+          "snippet": "문화체육관광위원회에서는 감액 추경안 제출 과정에서 사전 논의가 없었던 점이 문제로 지적됐다. 최규진 의원(더불어민주당·고양4)은 “상임위와 어떤 협의나 논의된 바 없이 ‘삭감했으니 의회에서 심사를 해달라’는...",
+          "source": "경기일보",
+          "sources": [
+            {
+              "name": "경기일보",
+              "url": "https://www.kyeonggi.com/article/20260907580520",
+              "origin": "naver",
+              "title": "경기도의회, '5천억대 경기도 감액 추경' 민생 삭감·일방 추진 집중 질..."
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-07T18:34:00+09:00",
+          "ts": 1788773640.0,
           "group": "gg_council",
           "group_label": "경기도의회(문체·미래위)"
         },
@@ -2989,7 +3053,7 @@
       "priority": 7,
       "page": "main",
       "preview": null,
-      "count": 129,
+      "count": 125,
       "items": [
         {
           "title": "경기도미래세대재단 직원 사칭 사기 사건 발생…위조 명함·공문 주의",
@@ -3094,7 +3158,7 @@
               "title": "경기도미래세대재단, 공문 위조한 사칭 사기에 발칵… 피해액만 3200만원"
             },
             {
-              "name": "시사의창",
+              "name": "sisaissue.com",
               "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jNVZabHYxN3RDRTlMNzhsYWdsazdmRFNMSWstN1lvSG5IcEdKbktUYnlvUVJGbGlRb1h4VWUzVlljVE5FZUhtTnN5UTZYVnRtR2RNOQ?oc=5",
               "origin": "google",
               "title": "경기도미래세대재단 직원 사칭 사기 주의보…위조 명함·공문으로 3200만원 피해"
@@ -3215,13 +3279,19 @@
               "title": "도경수 콘서트, 개표소 봉쇄 시위 여파로 킨텍스行"
             },
             {
+              "name": "v.daum.net",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02a1V5TzI5UnpINGlxSmJpX2g4S3NYNzY3NzBrVlMtRk1FQzhINklsWFl5RHVDQ2J4Y2pwU1Q1blg3dmxHOXBhQm1KcEE2blU?oc=5",
+              "origin": "google",
+              "title": "올공 시위 여파…도경수 콘서트, 킨텍스로 공연장 변경 [공식]"
+            },
+            {
               "name": "일간스포츠",
               "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CU3h3SnNlMGU5Q1EzQ19qVHlJbmZLcllYRFljakR2Z3MtTG4xeXlEUTU4cWVnQngxcjdsdmhtM0tCWVBoNmVFWF9Db1Y3aXpEdWZhaGZmQ2ZSMk0?oc=5",
               "origin": "google",
               "title": "도경수 콘서트 장소 변경…시위 장기화 핸드볼경기장→킨텍스"
             }
           ],
-          "source_count": 14,
+          "source_count": 15,
           "published": "2026-09-08T17:56:00+09:00",
           "ts": 1788857760.0,
           "group": "gg_agencies",
@@ -3580,6 +3650,12 @@
               "title": "경기신보, 남양주에 정책금융 거점...경기북동부 기업 지원 강화"
             },
             {
+              "name": "asiatime.co.kr",
+              "url": "https://www.asiatime.co.kr/article/20260907500132",
+              "origin": "naver",
+              "title": "경기신보, 남양주 본점·지점 이전⋯ 경기북동부 정책금융 지원 강화"
+            },
+            {
               "name": "프레시안",
               "url": "https://www.pressian.com/pages/articles/2026090711124755287?utm_source=naver&utm_medium=search",
               "origin": "naver",
@@ -3590,12 +3666,6 @@
               "url": "https://www.hankyung.com/article/202609067061h",
               "origin": "naver",
               "title": "경기신보, 남양주 다산동에 새 둥지…\"경기북동부 정책금융 강화\""
-            },
-            {
-              "name": "asiatime.co.kr",
-              "url": "https://www.asiatime.co.kr/article/20260907500132",
-              "origin": "naver",
-              "title": "경기신보, 남양주 본점·지점 이전⋯ 경기북동부 정책금융 지원 강화"
             },
             {
               "name": "문화매일신문",
@@ -3625,6 +3695,73 @@
           "source_count": 9,
           "published": "2026-09-08T10:30:00+09:00",
           "ts": 1788831000.0,
+          "group": "gg_agencies",
+          "group_label": "경기도 산하기관"
+        },
+        {
+          "title": "킨텍스, ‘킨밤 지새우고’ 성료…1만여 시민 찾아 가을밤 만끽",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZWG4xVFE4aEpkTHl0VTVxSndVODJiQTdhMUdSYnF5RVZoLVdJbE84Z3BlSXdlcnkxUTZoN25zMTFWMXFqME9oYVNKOUZvUndVbExxRDhXOVctRnIxaVNIdGVlemFObHRkUG9kWWJ3b0FMRXNvS0ptcnJyUQ?oc=5",
+          "snippet": "",
+          "source": "글로벌에픽",
+          "sources": [
+            {
+              "name": "글로벌에픽",
+              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZWG4xVFE4aEpkTHl0VTVxSndVODJiQTdhMUdSYnF5RVZoLVdJbE84Z3BlSXdlcnkxUTZoN25zMTFWMXFqME9oYVNKOUZvUndVbExxRDhXOVctRnIxaVNIdGVlemFObHRkUG9kWWJ3b0FMRXNvS0ptcnJyUQ?oc=5",
+              "origin": "google",
+              "title": "킨텍스, ‘킨밤 지새우고’ 성료…1만여 시민 찾아 가을밤 만끽"
+            },
+            {
+              "name": "경기일보",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OQ1VZMVM0Y3FSQkhJSGZqcnk3RGE4MXZPamtWNDRlU3U0MVMyWVZuV1pmSjRyMk5GRENfeWVtV2hnV3ZiLS1YTGtsSkZyWG5zSXc5UXFYYk1rZkU?oc=5",
+              "origin": "google",
+              "title": "킨텍스 야외광장에 시민 1만명…‘킨밤 지새우고’ 성료"
+            },
+            {
+              "name": "세정포커스",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfcVVUYlJpN01ReG05N3Q4N2EtbXR0VFNWZEdfMUFpV3pUVEo0Qm1rcXJfcjFQbzRZNEtOM1ZacWZ5aXRqNVFtbDVLa3lGbWExQko5WTVDX0hmb1J3NnlIVUgxNmZpdXRDdkdaUC1R?oc=5",
+              "origin": "google",
+              "title": "민경선 고양시장, 킨텍스 야시장 ‘2026 킨밤 지새우고’ 서 시민·상인들과 소통"
+            },
+            {
+              "name": "metroseoul.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1leVZnZFJnamI1SzRWUGpnRDJnSGhZZ0Jkd1M2UjgxY09VWlU3cFM4OTlvb3ZoMFdRMjA3bGFVcmJoQjRFZERHRl9EWWtDa1V2aDd4dXpzVGNKc2t5aUJUMg?oc=5",
+              "origin": "google",
+              "title": "킨텍스 야간축제 ‘킨밤 지새우고’에 시민 1만명 방문"
+            },
+            {
+              "name": "서울경제",
+              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fN3V6TjU4amdpSUdmY01WUlhQMHJtNXB1OU9yZ01nc2U4clQ2ckpnT3JqRGFsR280b3hMSENCZnN4UndUeFFtRXRUOW1ZNzUtN1HSAVNBVV95cUxPRXBjSEJCeFlrdmh6WEl6VXFUcG5DdmFSMXNram02TGVaRFRVS29kM21JNVdkUVNuSENtcFA2cXJrMnRIODZoZUNfTF9qb2lzbWtOTQ?oc=5",
+              "origin": "google",
+              "title": "킨텍스 ‘킨밤 지새우고’에 1만명 발길…전시장이 시민 쉼터 됐다"
+            },
+            {
+              "name": "네이트",
+              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16ZzZJY28xbGJTQ010dE84NUh2cGRyc3EzTDVUaXdlZWcyZEpWNlBsRFdvRTU5bnVLMklSZVBvM1lKaWZaOVN1dFR0aWJWbEw2b1NQcktTWjlYdmZQX2ZOc0JEMUo5REF1N3Q5OVBsMk9ITk1iSUo0Ug?oc=5",
+              "origin": "google",
+              "title": "킨텍스 잔디광장에 가을밤이 머물다…1만 시민 함께한 '킨밤'"
+            },
+            {
+              "name": "머니투데이",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDZkN2Y25DMkZJeE9NbDdNTWotVjRVR1lnSmMtMzhTWDFFRG91eXlwQ2hYN1VldENMbmdoU1R0emlwV2p5ejRBbXRTLUdQZUQzUm51U1ctblAxV1NTbk1feUc0TFdieHREZWppYm9zNNIBb0FVX3lxTFBDZkN2Y25DMkZJeE9NbDdNTWotVjRVR1lnSmMtMzhTWDFFRG91eXlwQ2hYN1VldENMbmdoU1R0emlwV2p5ejRBbXRTLUdQZUQzUm51U1ctblAxV1NTbk1feUc0TFdieHREZWppYm9zNA?oc=5",
+              "origin": "google",
+              "title": "킨텍스 잔디광장에 가을밤이 머물다…1만 시민 함께한 '킨밤' - 머니투데이"
+            },
+            {
+              "name": "컨슈머타임스",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rYTJvTk0xbWNIZDVJd2QzVEZBcFJ0ZGw3UlIwWWd1aFRwN05XZGpDcTFSU21ISmducGcwMDJJaGhsZHRuYXdxNHhxdWZxaU5pWGpCSHUyRGhvWjJ1SV9FMnJyOV9nTmpVZHc?oc=5",
+              "origin": "google",
+              "title": "가을밤 수놓은 1만 인파…킨텍스, 야간 문화축제 '킨밤 지새우고' 성료"
+            },
+            {
+              "name": "투어코리아",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EMGhBMTJpbnBLbElxeGxnSnhRR2VMSTVBRENKYkxxSFJXVG5DM0FzcVRPZDJoWmw3dDZoRkNSUGdOcXRlYTBGYUFHeHZaaThaeENTSTRzYk5WRThZdS1DZkE4U0gxVWVXM003UkVR?oc=5",
+              "origin": "google",
+              "title": "킨텍스, 지역 상생 야간 축제 ‘2026 킨밤 지새우고’ 성료... 1만 여명 방문"
+            }
+          ],
+          "source_count": 9,
+          "published": "2026-09-07T22:22:39+09:00",
+          "ts": 1788787359.0,
           "group": "gg_agencies",
           "group_label": "경기도 산하기관"
         },
@@ -3753,67 +3890,6 @@
           "source_count": 8,
           "published": "2026-09-08T15:47:00+09:00",
           "ts": 1788850020.0,
-          "group": "gg_agencies",
-          "group_label": "경기도 산하기관"
-        },
-        {
-          "title": "킨텍스, ‘킨밤 지새우고’ 성료…1만여 시민 찾아 가을밤 만끽",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZWG4xVFE4aEpkTHl0VTVxSndVODJiQTdhMUdSYnF5RVZoLVdJbE84Z3BlSXdlcnkxUTZoN25zMTFWMXFqME9oYVNKOUZvUndVbExxRDhXOVctRnIxaVNIdGVlemFObHRkUG9kWWJ3b0FMRXNvS0ptcnJyUQ?oc=5",
-          "snippet": "",
-          "source": "글로벌에픽",
-          "sources": [
-            {
-              "name": "글로벌에픽",
-              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZWG4xVFE4aEpkTHl0VTVxSndVODJiQTdhMUdSYnF5RVZoLVdJbE84Z3BlSXdlcnkxUTZoN25zMTFWMXFqME9oYVNKOUZvUndVbExxRDhXOVctRnIxaVNIdGVlemFObHRkUG9kWWJ3b0FMRXNvS0ptcnJyUQ?oc=5",
-              "origin": "google",
-              "title": "킨텍스, ‘킨밤 지새우고’ 성료…1만여 시민 찾아 가을밤 만끽"
-            },
-            {
-              "name": "경기일보",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OQ1VZMVM0Y3FSQkhJSGZqcnk3RGE4MXZPamtWNDRlU3U0MVMyWVZuV1pmSjRyMk5GRENfeWVtV2hnV3ZiLS1YTGtsSkZyWG5zSXc5UXFYYk1rZkU?oc=5",
-              "origin": "google",
-              "title": "킨텍스 야외광장에 시민 1만명…‘킨밤 지새우고’ 성료"
-            },
-            {
-              "name": "세정포커스",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfcVVUYlJpN01ReG05N3Q4N2EtbXR0VFNWZEdfMUFpV3pUVEo0Qm1rcXJfcjFQbzRZNEtOM1ZacWZ5aXRqNVFtbDVLa3lGbWExQko5WTVDX0hmb1J3NnlIVUgxNmZpdXRDdkdaUC1R?oc=5",
-              "origin": "google",
-              "title": "민경선 고양시장, 킨텍스 야시장 ‘2026 킨밤 지새우고’ 서 시민·상인들과 소통"
-            },
-            {
-              "name": "metroseoul.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1leVZnZFJnamI1SzRWUGpnRDJnSGhZZ0Jkd1M2UjgxY09VWlU3cFM4OTlvb3ZoMFdRMjA3bGFVcmJoQjRFZERHRl9EWWtDa1V2aDd4dXpzVGNKc2t5aUJUMg?oc=5",
-              "origin": "google",
-              "title": "킨텍스 야간축제 ‘킨밤 지새우고’에 시민 1만명 방문"
-            },
-            {
-              "name": "서울경제",
-              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fN3V6TjU4amdpSUdmY01WUlhQMHJtNXB1OU9yZ01nc2U4clQ2ckpnT3JqRGFsR280b3hMSENCZnN4UndUeFFtRXRUOW1ZNzUtN1HSAVNBVV95cUxPRXBjSEJCeFlrdmh6WEl6VXFUcG5DdmFSMXNram02TGVaRFRVS29kM21JNVdkUVNuSENtcFA2cXJrMnRIODZoZUNfTF9qb2lzbWtOTQ?oc=5",
-              "origin": "google",
-              "title": "킨텍스 ‘킨밤 지새우고’에 1만명 발길…전시장이 시민 쉼터 됐다"
-            },
-            {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16ZzZJY28xbGJTQ010dE84NUh2cGRyc3EzTDVUaXdlZWcyZEpWNlBsRFdvRTU5bnVLMklSZVBvM1lKaWZaOVN1dFR0aWJWbEw2b1NQcktTWjlYdmZQX2ZOc0JEMUo5REF1N3Q5OVBsMk9ITk1iSUo0Ug?oc=5",
-              "origin": "google",
-              "title": "킨텍스 잔디광장에 가을밤이 머물다…1만 시민 함께한 '킨밤'"
-            },
-            {
-              "name": "머니투데이",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDZkN2Y25DMkZJeE9NbDdNTWotVjRVR1lnSmMtMzhTWDFFRG91eXlwQ2hYN1VldENMbmdoU1R0emlwV2p5ejRBbXRTLUdQZUQzUm51U1ctblAxV1NTbk1feUc0TFdieHREZWppYm9zNNIBb0FVX3lxTFBDZkN2Y25DMkZJeE9NbDdNTWotVjRVR1lnSmMtMzhTWDFFRG91eXlwQ2hYN1VldENMbmdoU1R0emlwV2p5ejRBbXRTLUdQZUQzUm51U1ctblAxV1NTbk1feUc0TFdieHREZWppYm9zNA?oc=5",
-              "origin": "google",
-              "title": "킨텍스 잔디광장에 가을밤이 머물다…1만 시민 함께한 '킨밤' - 머니투데이"
-            },
-            {
-              "name": "매일일보",
-              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TR1NBTGRVVW50YW1EQ1l0N3VJdUFyV0Z3NXJxOUl0OE5TNDZPME44bHRidEpybzF2MVNCcDcxanRKSFJldW9xRmpFZmF6S2wyX0cxZnQ3VkVFbVVKOWtYSnZqM07SAWhBVV95cUxONnI4aWlveXotbTV5M2xkaEdQamwwNWxJZUFCZEtibmU5SUxhNGQ2ZmsyZlEweVp0a250ZzNfbE43aURGOVdPcHB1aS1falctQS1iX3pWZXNwTzBxcTBRY0ZhWlpwY1ZJdA?oc=5",
-              "origin": "google",
-              "title": "킨텍스, '2026 킨(KIN)밤 지새우고'에 시민 1만여 명 방문"
-            }
-          ],
-          "source_count": 8,
-          "published": "2026-09-07T22:22:39+09:00",
-          "ts": 1788787359.0,
           "group": "gg_agencies",
           "group_label": "경기도 산하기관"
         },
@@ -3995,12 +4071,6 @@
               "title": "경기신용보증재단, 남양주로 본점 이전… 경기북동부 정책금융 강화"
             },
             {
-              "name": "비즈월드",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xU2xJQmtNeGhVTGRWVW5Gb0RyblJwbEVqNVlacnZnX3I5X2VINHFVVl9TSGdxMVpaYlVjZkwxQkozUlA2YXhzZ25rU3N2V1NCMEEyN2o4dW5zNTg3X25KVHItNGQwT2JUNHJn?oc=5",
-              "origin": "google",
-              "title": "경기신보, 남양주지점 다산동 이전…중소기업·소상공인 밀착 지원"
-            },
-            {
               "name": "매일일보",
               "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zZTI4WHE3bnVMNzhSX1k3ZnRyeTdzQmhFOGphVEZrUXFEQ3FLOC1MWFJPaF81SXNMQkZsak5EQVhuM0pxWHZ1LWRTeVVWTU9fdTF1RWp1TGFDRkFCVVBjdFprS0nSAWhBVV95cUxOZUdNWFJyeDA0OUhlSHFraVZoU1FBUUhMVjYtMVJPV0hTU3kyNHZQMmtMcTl6YTZzbk56dG9ia0tfUzVqbENzWlNjRm9nLWRGY29LZkRIVE1DYV9SMERBa192QjRkSVFGdA?oc=5",
               "origin": "google",
@@ -4011,109 +4081,17 @@
               "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVMGZEaUlDbVR1SnJuVUlwMVRFdEFUaGV1dXI2d3BxUnJtc1pxMF9NZ19EME1ha21YVW8wdlNpcnNjbWNOT0pJaXZ3ZVZINWV4RjNZWFRNaDk4a0Jnak45bmZiOW95c1p0QzZ3?oc=5",
               "origin": "google",
               "title": "경기신보 본점 남양주로…소상공인·중소기업 금융지원 접근성 높인다"
+            },
+            {
+              "name": "비즈월드",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xU2xJQmtNeGhVTGRWVW5Gb0RyblJwbEVqNVlacnZnX3I5X2VINHFVVl9TSGdxMVpaYlVjZkwxQkozUlA2YXhzZ25rU3N2V1NCMEEyN2o4dW5zNTg3X25KVHItNGQwT2JUNHJn?oc=5",
+              "origin": "google",
+              "title": "경기신보, 남양주지점 다산동 이전…중소기업·소상공인 밀착 지원"
             }
           ],
           "source_count": 6,
           "published": "2026-09-07T18:20:00+09:00",
           "ts": 1788772800.0,
-          "group": "gg_agencies",
-          "group_label": "경기도 산하기관"
-        },
-        {
-          "title": "킨텍스, 지역 상생형 문화축제 '2026 킨(KIN)밤 지새우고 성료",
-          "url": "https://www.newspim.com/news/view/20260907000744",
-          "snippet": "킨텍스가 마련한 지역 상생형 야간 문화 축제 '2026 킨(KIN)밤 지새우고'에 시민 1만여 명이 찾았다. 2026 킨(KIN)밤 지새우고 현장.[사진=킨텍스] 킨텍스는 지난 주말 이틀간 킨텍스 제2전시장 야외 광장에서 열린 '2026 킨(KIN)밤...",
-          "source": "뉴스핌",
-          "sources": [
-            {
-              "name": "뉴스핌",
-              "url": "https://www.newspim.com/news/view/20260907000744",
-              "origin": "naver",
-              "title": "킨텍스, 지역 상생형 문화축제 '2026 킨(KIN)밤 지새우고 성료"
-            },
-            {
-              "name": "컨슈머타임스",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rYTJvTk0xbWNIZDVJd2QzVEZBcFJ0ZGw3UlIwWWd1aFRwN05XZGpDcTFSU21ISmducGcwMDJJaGhsZHRuYXdxNHhxdWZxaU5pWGpCSHUyRGhvWjJ1SV9FMnJyOV9nTmpVZHc?oc=5",
-              "origin": "google",
-              "title": "가을밤 수놓은 1만 인파…킨텍스, 야간 문화축제 '킨밤 지새우고' 성료"
-            },
-            {
-              "name": "투어코리아",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EMGhBMTJpbnBLbElxeGxnSnhRR2VMSTVBRENKYkxxSFJXVG5DM0FzcVRPZDJoWmw3dDZoRkNSUGdOcXRlYTBGYUFHeHZaaThaeENTSTRzYk5WRThZdS1DZkE4U0gxVWVXM003UkVR?oc=5",
-              "origin": "google",
-              "title": "킨텍스, 지역 상생 야간 축제 ‘2026 킨밤 지새우고’ 성료... 1만 여명 방문"
-            },
-            {
-              "name": "전국매일신문",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXTDAzeTF5UDBaYXRLeU5pczB6NXduWUFZQWRmRGc0VmVZa1hKTU81eXZEaXNJYmFPUktkNnNfUG9QbUtzc0dUSUh1b3JabzlyNHQtUGRlamxUZUgyQ0tFNGNibWRGZW1UYTF5MWl3?oc=5",
-              "origin": "google",
-              "title": "킨텍스, 지역 상생형 야간축제 ‘킨밤 지새우고’ 성료"
-            },
-            {
-              "name": "v.daum.net",
-              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5LWY4MEZFVU9FNE9sN0xlSmxDdWM2OXdPaGF2SXFfaFo1enNJYmdDQ2JWRDVvdFNRZjhrSE1Wd3VjeHY0d2lIdzNBaTZKT0U?oc=5",
-              "origin": "google",
-              "title": "킨텍스 ‘2026 킨밤 지새우고’ 성료…1만 시민 가을밤 만끽"
-            },
-            {
-              "name": "내외뉴스통신",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jcGlWWjlTdHpMMGZabU9RMEdVeEZta3ZWZjFuQ01nRm5ZMVBJdmJLRE5FV1dia0FCbk5NV0h0OUltcl9PZnhYVklDWHFXMm1fRmlhVnQ5eEdlT3Nabm5UZUF6eElhZnJBZzhGddIBcEFVX3lxTFB4UEIwa1JaNG1rSWpJVm8xOTZpODlzMEJqZmloT2YydF9jM2R0dHhHMGJYUU9wQUttMzExTVh3eDItYnB0OTRlcDg5VFl4SVYtWGQxWU9ocTV5MEE4RkozWnNKaFdmYjdIT3BkbzhCbHg?oc=5",
-              "origin": "google",
-              "title": "킨텍스 ‘2026 킨(KIN)밤 지새우고’ 성황리 개최"
-            }
-          ],
-          "source_count": 6,
-          "published": "2026-09-07T15:44:00+09:00",
-          "ts": 1788763440.0,
-          "group": "gg_agencies",
-          "group_label": "경기도 산하기관"
-        },
-        {
-          "title": "\"쯔양과 함께 AI 체험\"…경과원, 청소년 대상 ‘피지컬 AI’ 미래기술 선...",
-          "url": "http://www.inews24.com/view/2002680",
-          "snippet": "경기도경제과학진흥원(경과원)이 청소년들이 인공지능(AI) 기술을 직접 체험하며 미래 진로를 탐색할 수 있는 자리를 마련했다. 경과원은 지난 5일 광교홀에서 학생과 학부모 등 2천여명이 참석한 가운데 ‘2026년...",
-          "source": "아이뉴스24",
-          "sources": [
-            {
-              "name": "아이뉴스24",
-              "url": "http://www.inews24.com/view/2002680",
-              "origin": "naver",
-              "title": "\"쯔양과 함께 AI 체험\"…경과원, 청소년 대상 ‘피지컬 AI’ 미래기술 선..."
-            },
-            {
-              "name": "한국경제",
-              "url": "https://www.hankyung.com/article/202609067073h",
-              "origin": "naver",
-              "title": "쯔양도 체험한 '피지컬 AI'…경과원, 청소년 AI축제"
-            },
-            {
-              "name": "v.daum.net",
-              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwblQ0dGFqLUNmN1dva0N0STRldlZKTDI5SGo0bW5pRUpqckE3eGNwX3pUWG5VMlAyTm9BQzRPbEZRTGtDcXpNSGFBLVNubVk?oc=5",
-              "origin": "google",
-              "title": "\"쯔양과 함께 AI 체험\"…경과원, 청소년 대상 ‘피지컬 AI’ 미래기술 선봬"
-            },
-            {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42UU9KdjhuaXJiSUxJZ3ZWSzZXdXdObzYzSWo4c21DQm9vTVU4UEdXcFBIcHZzZ1dEU2tWenlTSXNja3V6VTA1MWlEOEp5ZjAwN2VZ?oc=5",
-              "origin": "google",
-              "title": "경과원 AI페스티벌에 청소년 2000명 몰려…'피지컬 AI' 체험"
-            },
-            {
-              "name": "경인매일",
-              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5EQkJJdGNXMTRmWWJvMU5WRXNGcC1MdHRvSHpLS3d2X0tFaUxfN2R5OFQ3eklFSEhrbVA2ZDdFVzFLTUxkbW83LXVraTI3eUtYT0hIRG5vQWlqQnNvZXJNVmhaY2FFaTVY?oc=5",
-              "origin": "google",
-              "title": "경과원, 쯔양과 함께한 AI페스티벌… 청소년 2천명 미래기술 체험"
-            },
-            {
-              "name": "천지일보",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPTVNOOE9YNkhHOUMxVVZqLTlGNEtKVVZvbmJvdGl5a3RoNHhod0tBcmR5bjdzQUdNbkNOVjlWd0RyX1YyTGg5SExobTFYVG9haGFhZm9VOEtMSUlvSUNPV2pXaHJ3UUxrcFE?oc=5",
-              "origin": "google",
-              "title": "경과원, 경기 청소년 2000명과 ‘피지컬 AI’ 체험… 휴머노이드·자율주행 한자리"
-            }
-          ],
-          "source_count": 6,
-          "published": "2026-09-07T13:40:00+09:00",
-          "ts": 1788756000.0,
           "group": "gg_agencies",
           "group_label": "경기도 산하기관"
         },
@@ -4161,11 +4139,17 @@
           "group_label": "경기도 산하기관"
         },
         {
-          "title": "장한별 경기도의원 “도 공공기관 통합채용 위탁비용 산출기준 점검해...",
-          "url": "https://www.viva100.com/article/20260908500811",
-          "snippet": "경기도 공공기관 직원 통합채용에 들어가는 민간위탁 비용이 응시인원과 채용 규모의 변동에도 매년 비슷한 수준으로 집행되고 있다는 지적이 경기도의회에서 나왔다. 경기도의회 기획재정위원회 장한별 의원...",
-          "source": "viva100.com",
+          "title": "이성원 경기도의원, 공공기관 통합채용, 특정업체 중심 카르텔 구조 안...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/08/20260908500261?wlog_tag3=naver",
+          "snippet": "경기도의회 기획재정위원회 이성원 의원(더불어민주당, 시흥5)은 지난 7일 열린 제393회 임시회 기획재정위원회 제2차 회의에서 경기도지사가 제출한 「경기도 공공기관 직원 통합채용 사무 민간위탁 동의안」을 심의하며...",
+          "source": "서울신문",
           "sources": [
+            {
+              "name": "서울신문",
+              "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/08/20260908500261?wlog_tag3=naver",
+              "origin": "naver",
+              "title": "이성원 경기도의원, 공공기관 통합채용, 특정업체 중심 카르텔 구조 안..."
+            },
             {
               "name": "viva100.com",
               "url": "https://www.viva100.com/article/20260908500811",
@@ -4173,33 +4157,27 @@
               "title": "장한별 경기도의원 “도 공공기관 통합채용 위탁비용 산출기준 점검해..."
             },
             {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56NC1SaEhCb3pOdlJEZFlfS21ZMmhfclNaSlpCNmV6NFA2WVRrb0lwM25fb0tucFN3dU4xNUlWQldiMGVmUG5rbU1wZmc4VUJlRjFJ?oc=5",
+              "name": "웹이코노미",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YOGFtUmE0SzFxQ2NEYkU1SDBiOGNzUUZlYkJpYXI2NzdhQU9RUE8zN1Z6TU1iNkNTa1pxUUhuR294ZmNlTGRkUzJ5VGNKV2VNUFF2alJfUG5lX2MyM3YyX055aV9HUUkxOUd6SVBFV0V0Zw?oc=5",
               "origin": "google",
-              "title": "이재영 경기도의원, 공공기관 통합채용·출연계획 점검…\"관행적 예산편성보다 구체적인 산출 근거 필요\""
+              "title": "경기도의회 이성원 의원, 공공기관 통합채용 특정업체 중심 구조 지적"
             },
             {
-              "name": "웹이코노미",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RLVVPbFI2MF9xeHdqOF9MRGNNemEzak1fSUVIeDQzeWpUUkVpVTJWVVpYWG5xejJCdmROWXAxUHRNaUFUZ09JNTB4RklTTFpITU9UQ1MtRkhCY1VEYmhBNS1MWVNLSkJtN0ZGcW83WFo3dw?oc=5",
+              "name": "네이트",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jQlRMSE5leUM4dktKUV85RjNqN1lSc005Y3llMTBfQjFyVlM5SjliTnBHWEdvV1RXMDY2Q24tMXJGV05MaXlUcHR6ZUJKelZmaXBj?oc=5",
               "origin": "google",
-              "title": "경기도의회 이재영 의원, 공공기관 통합채용·출연계획 점검 “관행적 예산편성보다 구체적인 산출 근거 필요”"
+              "title": "이성원 경기도의원, 공공기관 통합채용, 특정업체 중심 카르텔 구조 안돼"
             },
             {
               "name": "중부시사신문",
-              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NeG5xdThVV3dPYklTc3dyZy1nbDNzdkxmRzVJMW1qdHpJVnZSVXFSQ0dubEUwQklJalQ1WGFiNWxCQkRGMnVXeDZKb1ltcHZ0NFNDaVk1V0plaEF4ZWlKbDc0WQ?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DYVY4ZDJJbXhtY0JVOXJRRHlaWG9YbWZqT0J2N2Q1SzhwUVctQzJOaGtaQThuYUdLa3ltdDJ3WUVoR0xDd3MwczJrdDRPZ3BkSE40OFRKemJBSFFhZWVfUEl6NA?oc=5",
               "origin": "google",
-              "title": "경기도의회 이재영 의원, 공공기관 통합채용·출연계획 점검 “관행적 예산편성보다 구체적인 산출 근거 필요”"
-            },
-            {
-              "name": "ibs뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA2em0ycnBUZ2g1OFEtSU0xUlpzZ19XQ0llcFpfYlF5ZnhaV0VSVzZkYmUzcU1UV1lUOGpTTUM1S195R1NfdVJiRw?oc=5",
-              "origin": "google",
-              "title": "경기도의회 장한별,“공공기관 통합채용 위탁비 매년 8억…산출기준·집행내역 점검해야”"
+              "title": "경기도의회 이성원 의원, 공공기관 통합채용, 특정업체 중심 카르텔 구조 안돼"
             }
           ],
           "source_count": 5,
-          "published": "2026-09-08T12:56:00+09:00",
-          "ts": 1788839760.0,
+          "published": "2026-09-08T16:21:00+09:00",
+          "ts": 1788852060.0,
           "group": "gg_agencies",
           "group_label": "경기도 산하기관"
         },
@@ -4333,6 +4311,49 @@
           "group_label": "경기도 산하기관"
         },
         {
+          "title": "킨텍스, 지역 상생형 문화축제 '2026 킨(KIN)밤 지새우고 성료",
+          "url": "https://www.newspim.com/news/view/20260907000744",
+          "snippet": "킨텍스가 마련한 지역 상생형 야간 문화 축제 '2026 킨(KIN)밤 지새우고'에 시민 1만여 명이 찾았다. 2026 킨(KIN)밤 지새우고 현장.[사진=킨텍스] 킨텍스는 지난 주말 이틀간 킨텍스 제2전시장 야외 광장에서 열린 '2026 킨(KIN)밤...",
+          "source": "뉴스핌",
+          "sources": [
+            {
+              "name": "뉴스핌",
+              "url": "https://www.newspim.com/news/view/20260907000744",
+              "origin": "naver",
+              "title": "킨텍스, 지역 상생형 문화축제 '2026 킨(KIN)밤 지새우고 성료"
+            },
+            {
+              "name": "매일일보",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TR1NBTGRVVW50YW1EQ1l0N3VJdUFyV0Z3NXJxOUl0OE5TNDZPME44bHRidEpybzF2MVNCcDcxanRKSFJldW9xRmpFZmF6S2wyX0cxZnQ3VkVFbVVKOWtYSnZqM07SAWhBVV95cUxONnI4aWlveXotbTV5M2xkaEdQamwwNWxJZUFCZEtibmU5SUxhNGQ2ZmsyZlEweVp0a250ZzNfbE43aURGOVdPcHB1aS1falctQS1iX3pWZXNwTzBxcTBRY0ZhWlpwY1ZJdA?oc=5",
+              "origin": "google",
+              "title": "킨텍스, '2026 킨(KIN)밤 지새우고'에 시민 1만여 명 방문"
+            },
+            {
+              "name": "전국매일신문",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXTDAzeTF5UDBaYXRLeU5pczB6NXduWUFZQWRmRGc0VmVZa1hKTU81eXZEaXNJYmFPUktkNnNfUG9QbUtzc0dUSUh1b3JabzlyNHQtUGRlamxUZUgyQ0tFNGNibWRGZW1UYTF5MWl3?oc=5",
+              "origin": "google",
+              "title": "킨텍스, 지역 상생형 야간축제 ‘킨밤 지새우고’ 성료"
+            },
+            {
+              "name": "v.daum.net",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5LWY4MEZFVU9FNE9sN0xlSmxDdWM2OXdPaGF2SXFfaFo1enNJYmdDQ2JWRDVvdFNRZjhrSE1Wd3VjeHY0d2lIdzNBaTZKT0U?oc=5",
+              "origin": "google",
+              "title": "킨텍스 ‘2026 킨밤 지새우고’ 성료…1만 시민 가을밤 만끽"
+            },
+            {
+              "name": "내외뉴스통신",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jcGlWWjlTdHpMMGZabU9RMEdVeEZta3ZWZjFuQ01nRm5ZMVBJdmJLRE5FV1dia0FCbk5NV0h0OUltcl9PZnhYVklDWHFXMm1fRmlhVnQ5eEdlT3Nabm5UZUF6eElhZnJBZzhGddIBcEFVX3lxTFB4UEIwa1JaNG1rSWpJVm8xOTZpODlzMEJqZmloT2YydF9jM2R0dHhHMGJYUU9wQUttMzExTVh3eDItYnB0OTRlcDg5VFl4SVYtWGQxWU9ocTV5MEE4RkozWnNKaFdmYjdIT3BkbzhCbHg?oc=5",
+              "origin": "google",
+              "title": "킨텍스 ‘2026 킨(KIN)밤 지새우고’ 성황리 개최"
+            }
+          ],
+          "source_count": 5,
+          "published": "2026-09-07T15:44:00+09:00",
+          "ts": 1788763440.0,
+          "group": "gg_agencies",
+          "group_label": "경기도 산하기관"
+        },
+        {
           "title": "경기도-경기관광공사, '런경기' 통해 러닝과 지역관광 결합",
           "url": "http://www.metroseoul.co.kr/article/20260907500159",
           "snippet": "안성 우먼스아우라트레일러닝 소개 경기도와 경기관광공사가 관광분야 스타트업 협력 프로젝트 '런경기(RUN GYEONGGI)'를 통해 러닝과 지역여행을 결합한 새로운 관광 콘텐츠를 확대한다. 오는 9월 13일 안성 금광호수...",
@@ -4415,43 +4436,6 @@
           "source_count": 5,
           "published": "2026-09-07T14:08:00+09:00",
           "ts": 1788757680.0,
-          "group": "gg_agencies",
-          "group_label": "경기도 산하기관"
-        },
-        {
-          "title": "이성원 경기도의원, 공공기관 통합채용, 특정업체 중심 카르텔 구조 안...",
-          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/08/20260908500261?wlog_tag3=naver",
-          "snippet": "경기도의회 기획재정위원회 이성원 의원(더불어민주당, 시흥5)은 지난 7일 열린 제393회 임시회 기획재정위원회 제2차 회의에서 경기도지사가 제출한 「경기도 공공기관 직원 통합채용 사무 민간위탁 동의안」을 심의하며...",
-          "source": "서울신문",
-          "sources": [
-            {
-              "name": "서울신문",
-              "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/08/20260908500261?wlog_tag3=naver",
-              "origin": "naver",
-              "title": "이성원 경기도의원, 공공기관 통합채용, 특정업체 중심 카르텔 구조 안..."
-            },
-            {
-              "name": "웹이코노미",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YOGFtUmE0SzFxQ2NEYkU1SDBiOGNzUUZlYkJpYXI2NzdhQU9RUE8zN1Z6TU1iNkNTa1pxUUhuR294ZmNlTGRkUzJ5VGNKV2VNUFF2alJfUG5lX2MyM3YyX055aV9HUUkxOUd6SVBFV0V0Zw?oc=5",
-              "origin": "google",
-              "title": "경기도의회 이성원 의원, 공공기관 통합채용 특정업체 중심 구조 지적"
-            },
-            {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jQlRMSE5leUM4dktKUV85RjNqN1lSc005Y3llMTBfQjFyVlM5SjliTnBHWEdvV1RXMDY2Q24tMXJGV05MaXlUcHR6ZUJKelZmaXBj?oc=5",
-              "origin": "google",
-              "title": "이성원 경기도의원, 공공기관 통합채용, 특정업체 중심 카르텔 구조 안돼"
-            },
-            {
-              "name": "중부시사신문",
-              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DYVY4ZDJJbXhtY0JVOXJRRHlaWG9YbWZqT0J2N2Q1SzhwUVctQzJOaGtaQThuYUdLa3ltdDJ3WUVoR0xDd3MwczJrdDRPZ3BkSE40OFRKemJBSFFhZWVfUEl6NA?oc=5",
-              "origin": "google",
-              "title": "경기도의회 이성원 의원, 공공기관 통합채용, 특정업체 중심 카르텔 구조 안돼"
-            }
-          ],
-          "source_count": 4,
-          "published": "2026-09-08T16:21:00+09:00",
-          "ts": 1788852060.0,
           "group": "gg_agencies",
           "group_label": "경기도 산하기관"
         },
@@ -4637,6 +4621,68 @@
           "source_count": 4,
           "published": "2026-09-07T14:28:00+09:00",
           "ts": 1788758880.0,
+          "group": "gg_agencies",
+          "group_label": "경기도 산하기관"
+        },
+        {
+          "title": "이재영 경기도의원, 공공기관 통합채용·출연계획 점검…\"관행적 예산편성보다 구체적인 산출 근거 필요\"",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56NC1SaEhCb3pOdlJEZFlfS21ZMmhfclNaSlpCNmV6NFA2WVRrb0lwM25fb0tucFN3dU4xNUlWQldiMGVmUG5rbU1wZmc4VUJlRjFJ?oc=5",
+          "snippet": "",
+          "source": "네이트",
+          "sources": [
+            {
+              "name": "네이트",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56NC1SaEhCb3pOdlJEZFlfS21ZMmhfclNaSlpCNmV6NFA2WVRrb0lwM25fb0tucFN3dU4xNUlWQldiMGVmUG5rbU1wZmc4VUJlRjFJ?oc=5",
+              "origin": "google",
+              "title": "이재영 경기도의원, 공공기관 통합채용·출연계획 점검…\"관행적 예산편성보다 구체적인 산출 근거 필요\""
+            },
+            {
+              "name": "웹이코노미",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RLVVPbFI2MF9xeHdqOF9MRGNNemEzak1fSUVIeDQzeWpUUkVpVTJWVVpYWG5xejJCdmROWXAxUHRNaUFUZ09JNTB4RklTTFpITU9UQ1MtRkhCY1VEYmhBNS1MWVNLSkJtN0ZGcW83WFo3dw?oc=5",
+              "origin": "google",
+              "title": "경기도의회 이재영 의원, 공공기관 통합채용·출연계획 점검 “관행적 예산편성보다 구체적인 산출 근거 필요”"
+            },
+            {
+              "name": "ibs뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5fdWpWZ0pETkNHdGIxT0N4dWlZTkpwbmZBNjVJNGxFUmhxNXo1Vzh1bXRzRlFScmFaTU5taHNjU292MG1FbG5DSA?oc=5",
+              "origin": "google",
+              "title": "경기도의회 이재영 “공공기관 통합채용·출연금, 관행적 예산 편성 개선해야”"
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-09-08T17:12:12+09:00",
+          "ts": 1788855132.0,
+          "group": "gg_agencies",
+          "group_label": "경기도 산하기관"
+        },
+        {
+          "title": "보건복지위원회, 경기도의료원 출연계획 동의안 결정 연기...",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CcldJS2pzclp2TlkwaUkxVXNSdV9oUFdXTkdRSi1iaU9RanducmxiTmE2OC1Jek04MVpOdTJsV212SHY4V25qeEdLUDNQYWVCS2oyM0FLSDU1N2E3TW5URUhqZkNLWXBzaEE?oc=5",
+          "snippet": "",
+          "source": "도민연합뉴스",
+          "sources": [
+            {
+              "name": "도민연합뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CcldJS2pzclp2TlkwaUkxVXNSdV9oUFdXTkdRSi1iaU9RanducmxiTmE2OC1Jek04MVpOdTJsV212SHY4V25qeEdLUDNQYWVCS2oyM0FLSDU1N2E3TW5URUhqZkNLWXBzaEE?oc=5",
+              "origin": "google",
+              "title": "보건복지위원회, 경기도의료원 출연계획 동의안 결정 연기..."
+            },
+            {
+              "name": "경기탑뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5bWgxSVplVU1md3ZPblo3WGNEZEo5a3JJNUhIS3JFTXFiWC1BY3h1eDJ2SXgzWHE3UnV4Z3BfMnJONlhyXzJuWkxCTDZqLUpLQkgwanlsQnRNT2lOVnVGSkNrVEh4QQ?oc=5",
+              "origin": "google",
+              "title": "경기도의회 보건복지위원회, 경기도의료원 출연계획 동의안 결정 연기..."
+            },
+            {
+              "name": "뉴스 따옴",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XaGNzOUZnZVUzeUV5YWNRMU8tVEJVVjl3Uk40T3ZGcUhZeXJod0g2M25SUFJsb2tYNV9vRFpaSzVBNzJSeHpJaUVzNlJyVEhaTm1uY0kwY244ejAwVkNKSTZFSUlRamhxdFZBOTduQdIBckFVX3lxTFB6RE9mNnRlTkFwM3Q3Rzhwb0lSSko1V1NDQTlGamx6TVdnVkEzejhWc3pIYWZTNERFTjF6MDJWMnRUY25velp6Wm8tb0h3c25LYUdmNDJXd2hsN1VUNGRGeVhiVVFBODJFYkRaNTBLdGppZw?oc=5",
+              "origin": "google",
+              "title": "경기도의회 보건복지위원회, 경기도의료원 출연계획 동의안 결정 연기..."
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-09-08T17:11:56+09:00",
+          "ts": 1788855116.0,
           "group": "gg_agencies",
           "group_label": "경기도 산하기관"
         },
@@ -4858,62 +4904,6 @@
           "group_label": "경기도 산하기관"
         },
         {
-          "title": "경기아트센터 노조 “무분별한 의혹 제기 중단하라”",
-          "url": "https://www.naeil.com/news/read/601432?ref=naver",
-          "snippet": "민주노총 공공운수노조 경기아트센터지부(노조)는 최근 불거진 ‘공연 티켓 실적 부풀리기’ 의혹과 관련해 “일부의 이해관계가 조직 전체의 피해로 이어져서는 안된다”며 경영진에 진상규명과 직원보호, 재발방지책...",
-          "source": "naeil.com",
-          "sources": [
-            {
-              "name": "naeil.com",
-              "url": "https://www.naeil.com/news/read/601432?ref=naver",
-              "origin": "naver",
-              "title": "경기아트센터 노조 “무분별한 의혹 제기 중단하라”"
-            },
-            {
-              "name": "한국경제",
-              "url": "https://www.hankyung.com/article/202609067074h",
-              "origin": "naver",
-              "title": "경기아트센터 잇단 의혹에 노조 \"사실부터 확인해야\""
-            },
-            {
-              "name": "뉴스1",
-              "url": "https://www.news1.kr/local/gyeonggi/6281379",
-              "origin": "naver",
-              "title": "경기아트센터 셀프 구매 의혹 제보에…노조 \"이해관계 위한 악용 경계\""
-            }
-          ],
-          "source_count": 3,
-          "published": "2026-09-07T13:42:00+09:00",
-          "ts": 1788756120.0,
-          "group": "gg_agencies",
-          "group_label": "경기도 산하기관"
-        },
-        {
-          "title": "보건복지위원회, 경기도의료원 출연계획 동의안 결정 연기...",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CcldJS2pzclp2TlkwaUkxVXNSdV9oUFdXTkdRSi1iaU9RanducmxiTmE2OC1Jek04MVpOdTJsV212SHY4V25qeEdLUDNQYWVCS2oyM0FLSDU1N2E3TW5URUhqZkNLWXBzaEE?oc=5",
-          "snippet": "",
-          "source": "도민연합뉴스",
-          "sources": [
-            {
-              "name": "도민연합뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CcldJS2pzclp2TlkwaUkxVXNSdV9oUFdXTkdRSi1iaU9RanducmxiTmE2OC1Jek04MVpOdTJsV212SHY4V25qeEdLUDNQYWVCS2oyM0FLSDU1N2E3TW5URUhqZkNLWXBzaEE?oc=5",
-              "origin": "google",
-              "title": "보건복지위원회, 경기도의료원 출연계획 동의안 결정 연기..."
-            },
-            {
-              "name": "경기탑뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5bWgxSVplVU1md3ZPblo3WGNEZEo5a3JJNUhIS3JFTXFiWC1BY3h1eDJ2SXgzWHE3UnV4Z3BfMnJONlhyXzJuWkxCTDZqLUpLQkgwanlsQnRNT2lOVnVGSkNrVEh4QQ?oc=5",
-              "origin": "google",
-              "title": "경기도의회 보건복지위원회, 경기도의료원 출연계획 동의안 결정 연기..."
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-08T17:11:56+09:00",
-          "ts": 1788855116.0,
-          "group": "gg_agencies",
-          "group_label": "경기도 산하기관"
-        },
-        {
           "title": "대규모 임금체불 앞둔 경기도의료원…노조, 경기도청 앞서 추경 편성 촉구",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zc1RFSHk2R2xIVkdEaFp1dDJ2aFNnSkl2Q2xMZmlGWV9GbHZlUVdDUUZnRHZ6OUU0WVRjVW45TlZmaEpqUVBFbEl0RU9Ud1otMTJXQWpJdEw1N3M3SHpXZk5n?oc=5",
           "snippet": "",
@@ -5035,6 +5025,31 @@
           "source_count": 2,
           "published": "2026-09-08T13:53:25+09:00",
           "ts": 1788843205.0,
+          "group": "gg_agencies",
+          "group_label": "경기도 산하기관"
+        },
+        {
+          "title": "경기도의회 이재영 의원, 공공기관 통합채용·출연계획 점검 “관행적 예산편성보다 구체적인 산출 근거 필요”",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NeG5xdThVV3dPYklTc3dyZy1nbDNzdkxmRzVJMW1qdHpJVnZSVXFSQ0dubEUwQklJalQ1WGFiNWxCQkRGMnVXeDZKb1ltcHZ0NFNDaVk1V0plaEF4ZWlKbDc0WQ?oc=5",
+          "snippet": "",
+          "source": "중부시사신문",
+          "sources": [
+            {
+              "name": "중부시사신문",
+              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NeG5xdThVV3dPYklTc3dyZy1nbDNzdkxmRzVJMW1qdHpJVnZSVXFSQ0dubEUwQklJalQ1WGFiNWxCQkRGMnVXeDZKb1ltcHZ0NFNDaVk1V0plaEF4ZWlKbDc0WQ?oc=5",
+              "origin": "google",
+              "title": "경기도의회 이재영 의원, 공공기관 통합채용·출연계획 점검 “관행적 예산편성보다 구체적인 산출 근거 필요”"
+            },
+            {
+              "name": "ibs뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA2em0ycnBUZ2g1OFEtSU0xUlpzZ19XQ0llcFpfYlF5ZnhaV0VSVzZkYmUzcU1UV1lUOGpTTUM1S195R1NfdVJiRw?oc=5",
+              "origin": "google",
+              "title": "경기도의회 장한별,“공공기관 통합채용 위탁비 매년 8억…산출기준·집행내역 점검해야”"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-09-08T11:30:49+09:00",
+          "ts": 1788834649.0,
           "group": "gg_agencies",
           "group_label": "경기도 산하기관"
         },
@@ -5264,31 +5279,6 @@
           "group_label": "경기도 산하기관"
         },
         {
-          "title": "남양주시 경기신용보증재단 본점, 남양주 이전, 경기북부 금융 거점 도약 기대",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jY2U5N0VzRVdjRGo1c2FialQ0UVdmX2ljZ050SkZCelZKWXo0VHRzZlF1dTRYbFdkWGtwbmM1LUN5MkJrTGIwWVdhNDNLdzhVcWc3dEJiaTdQTDdGaEVKaTZMVmtydw?oc=5",
-          "snippet": "",
-          "source": "딜라이브뉴스",
-          "sources": [
-            {
-              "name": "딜라이브뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jY2U5N0VzRVdjRGo1c2FialQ0UVdmX2ljZ050SkZCelZKWXo0VHRzZlF1dTRYbFdkWGtwbmM1LUN5MkJrTGIwWVdhNDNLdzhVcWc3dEJiaTdQTDdGaEVKaTZMVmtydw?oc=5",
-              "origin": "google",
-              "title": "남양주시 경기신용보증재단 본점, 남양주 이전, 경기북부 금융 거점 도약 기대"
-            },
-            {
-              "name": "일요서울i",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jQXhwMlQyV2xOYkhORHN4R2RJZTNJcHNFLU1MMmdOWmJsS1dkQWFSMExDSEZfN01ad3V3dnZYbmF3c3dLaE5vUFdTTWNtT09PSGxWYTJRcXBXTENWczBldkoxR2FyblpCcVF1MDFn?oc=5",
-              "origin": "google",
-              "title": "경기신용보증재단, 남양주에 '본점 및 남양주지점' 이전...\"지역 간 균형발전 앞당기다\""
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-07T13:44:00+09:00",
-          "ts": 1788756240.0,
-          "group": "gg_agencies",
-          "group_label": "경기도 산하기관"
-        },
-        {
           "title": "“월급도 못 줄 판” 경기도의료원 6개 노조 도청 앞 충돌",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94WEhsTkVoNmh4STVYTHVyeEdsWHpMS0tvcG5ueVB3bzdrcWVCQXp0blpaME1CMUY0ZzB3YW1yb0t3TU5GQmFfdFR1dzhqMndhdHF0SWxIb1BSUUlmVmFYaERreTVmYmxjanU1QUFtRQ?oc=5",
           "snippet": "",
@@ -5309,7 +5299,7 @@
         },
         {
           "title": "행안부 “조치 완료” 유권해석 달랐던 경기도…해석 권한 논란 속 경기복지재단 ‘라’ 등급 하향",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tTUJhdjJJZENHbl9yR0tlZ21ZRVpkYXF0ZzBTb0F6NGhSRmEtdFhqdFgxRXA1LTNKR2pzdjhjQ2ZJOTNQRndhc3lkN3kxQkFVUjh0VWlFUkFPSlk?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Wb3lvT2htY3NIZmpzLU1lTi0yc01RNjZYWjh1MkVBZFpxNDFtUHVHYUFFQnlYc3FvYTQ5MzBQT3dxcHdLMllxV2dMNE9GQmM?oc=5",
           "snippet": "",
           "source": "경기일보",
           "sources": [
@@ -5321,8 +5311,8 @@
             }
           ],
           "source_count": 1,
-          "published": "2026-09-08T18:40:23+09:00",
-          "ts": 1788860423.0,
+          "published": "2026-09-08T18:40:31+09:00",
+          "ts": 1788860431.0,
           "group": "gg_agencies",
           "group_label": "경기도 산하기관"
         },
@@ -5404,13 +5394,13 @@
         },
         {
           "title": "경기도의료원 \"인건비 금융기관 차입\"…도의회 \"부채 악순환\"",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sNlFOcnRycTRkNkU1ckJNTlhoMV9BNmlqWHducENoSXNObUR2YkZ2VHNCN25xa0lxdTVmWURHd0J4YmlyUklIZDBPVmMzZ080Z1AxYzlacVp6eHNqYlF5T9IBeEFVX3lxTE9QeTVrSnJuX2NoWm44WHdwOEN0ZTlZc0RONDdFemc1WEZ3TkN2TVQxdlAtMU1OdE5kS0ZSMzNqWFpPUVN1cDVvTXlUeFQtYXRUQnpQSnNIMmh6Vk4tV2lIUTVBZFpPUjNoX05kazdKYVhTSEJmTmlpRA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QeTVrSnJuX2NoWm44WHdwOEN0ZTlZc0RONDdFemc1WEZ3TkN2TVQxdlAtMU1OdE5kS0ZSMzNqWFpPUVN1cDVvTXlUeFQtYXRUQnpQSnNIMmh6Vk4tV2lIUTVBZFpPUjNoX05kazdKYVhTSEJmTmlpRNIBeEFVX3lxTE9QeTVrSnJuX2NoWm44WHdwOEN0ZTlZc0RONDdFemc1WEZ3TkN2TVQxdlAtMU1OdE5kS0ZSMzNqWFpPUVN1cDVvTXlUeFQtYXRUQnpQSnNIMmh6Vk4tV2lIUTVBZFpPUjNoX05kazdKYVhTSEJmTmlpRA?oc=5",
           "snippet": "",
           "source": "뉴시스",
           "sources": [
             {
               "name": "뉴시스",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sNlFOcnRycTRkNkU1ckJNTlhoMV9BNmlqWHducENoSXNObUR2YkZ2VHNCN25xa0lxdTVmWURHd0J4YmlyUklIZDBPVmMzZ080Z1AxYzlacVp6eHNqYlF5T9IBeEFVX3lxTE9QeTVrSnJuX2NoWm44WHdwOEN0ZTlZc0RONDdFemc1WEZ3TkN2TVQxdlAtMU1OdE5kS0ZSMzNqWFpPUVN1cDVvTXlUeFQtYXRUQnpQSnNIMmh6Vk4tV2lIUTVBZFpPUjNoX05kazdKYVhTSEJmTmlpRA?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QeTVrSnJuX2NoWm44WHdwOEN0ZTlZc0RONDdFemc1WEZ3TkN2TVQxdlAtMU1OdE5kS0ZSMzNqWFpPUVN1cDVvTXlUeFQtYXRUQnpQSnNIMmh6Vk4tV2lIUTVBZFpPUjNoX05kazdKYVhTSEJmTmlpRNIBeEFVX3lxTE9QeTVrSnJuX2NoWm44WHdwOEN0ZTlZc0RONDdFemc1WEZ3TkN2TVQxdlAtMU1OdE5kS0ZSMzNqWFpPUVN1cDVvTXlUeFQtYXRUQnpQSnNIMmh6Vk4tV2lIUTVBZFpPUjNoX05kazdKYVhTSEJmTmlpRA?oc=5",
               "origin": "google",
               "title": "경기도의료원 \"인건비 금융기관 차입\"…도의회 \"부채 악순환\""
             }
@@ -5482,10 +5472,10 @@
           "title": "‘경기신보 남양주 시대’ 개막!",
           "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE5sOVEtSUVCV1RQN2J3V2NlWGJMVEZlY2VTTDFIY0xVUlQwTzQ2aURZTHRYY1JzVEhTRlE4Ng?oc=5",
           "snippet": "",
-          "source": "남양주뉴스",
+          "source": "nyjnews.net",
           "sources": [
             {
-              "name": "남양주뉴스",
+              "name": "nyjnews.net",
               "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE5sOVEtSUVCV1RQN2J3V2NlWGJMVEZlY2VTTDFIY0xVUlQwTzQ2aURZTHRYY1JzVEhTRlE4Ng?oc=5",
               "origin": "google",
               "title": "‘경기신보 남양주 시대’ 개막!"
@@ -5726,25 +5716,6 @@
           "group_label": "경기도 산하기관"
         },
         {
-          "title": "경기도의회 이재영 “공공기관 통합채용·출연금, 관행적 예산 편성 개선해야”",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5fdWpWZ0pETkNHdGIxT0N4dWlZTkpwbmZBNjVJNGxFUmhxNXo1Vzh1bXRzRlFScmFaTU5taHNjU292MG1FbG5DSA?oc=5",
-          "snippet": "",
-          "source": "ibs뉴스",
-          "sources": [
-            {
-              "name": "ibs뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5fdWpWZ0pETkNHdGIxT0N4dWlZTkpwbmZBNjVJNGxFUmhxNXo1Vzh1bXRzRlFScmFaTU5taHNjU292MG1FbG5DSA?oc=5",
-              "origin": "google",
-              "title": "경기도의회 이재영 “공공기관 통합채용·출연금, 관행적 예산 편성 개선해야”"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-08T12:00:00+09:00",
-          "ts": 1788836400.0,
-          "group": "gg_agencies",
-          "group_label": "경기도 산하기관"
-        },
-        {
           "title": "AEM 수전해·TYPE4 탱크·연료전지…수소 핵심기술, 킨텍스로 집결",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RVDRpc1JqbXd5c29uZF9TQnRoc2hFNEZsb1B4YVVvX0xXNFcxMFhYTjRaaDRJbFppb0dEbVh1T0tELW91QkcwX09WaTZuTUtrcmFCbFZYN0FlbzJUM19LMjFCcXotdDkyZWRMMnQwNTU1QmRf0gF0QVVfeXFMTlFUNGlzUmptd3lzb25kX1NCdGhzaEU0RmxvUHhhVW9fTFc0VzEwWFhONFpoNElsWmlvR0RtWHVPS0Qtb3VCRzBfT1ZpNm5NS2tyYUJsVlg3QWVvMlQzX0syMUJxei10OTJlZEwydDA1NTVCZF8?oc=5",
           "snippet": "",
@@ -5843,12 +5814,12 @@
           "title": "경기도시장상권진흥원, 푸드트레일러 창업자 모집",
           "url": "http://www.metroseoul.co.kr/article/20260907500637",
           "snippet": "푸드트레일러 창업자 모집 / 경상원 제공 경기도시장상권진흥원(경상원)은 음식판매자동차를 활용한 소자본 창업을 지원하는 '2026년 푸드트레일러 임대지원' 사업 참여자를 오는 30일까지 모집한다고 밝혔다. 지원...",
-          "source": "metroseoul.co.kr",
+          "source": "메트로신문",
           "sources": [
             {
-              "name": "metroseoul.co.kr",
-              "url": "http://www.metroseoul.co.kr/article/20260907500637",
-              "origin": "naver",
+              "name": "메트로신문",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2YzRLRHNoeXpTQXFNOXFIUmttRDg4eGd6RkRTVXVrMEwtZTJJaVBtaG1FOUpfWkF3RjhSVk5HVndLR2JFMjNkZzdCbjZvUmRHZFFtNjBVVmYyMUFnRGFDZA?oc=5",
+              "origin": "google",
               "title": "경기도시장상권진흥원, 푸드트레일러 창업자 모집"
             }
           ],
@@ -5862,10 +5833,10 @@
           "title": "경기관광공사, 쉼이 필요한 9월 '경기도 비움 여행지' 6곳 추천",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93N0VtVVlXT2VkdFFsTDZIVE9UUndjRWk5NHExc1RXM0RUZEtJbzBpR093ZUhEVzg1TEo2TS1FY1dlbVdmSVQ2NkRzVXI0RFQ1SktGTU4zbGs1Y1hFYThyMg?oc=5",
           "snippet": "",
-          "source": "metroseoul.co.kr",
+          "source": "메트로신문",
           "sources": [
             {
-              "name": "metroseoul.co.kr",
+              "name": "메트로신문",
               "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93N0VtVVlXT2VkdFFsTDZIVE9UUndjRWk5NHExc1RXM0RUZEtJbzBpR093ZUhEVzg1TEo2TS1FY1dlbVdmSVQ2NkRzVXI0RFQ1SktGTU4zbGs1Y1hFYThyMg?oc=5",
               "origin": "google",
               "title": "경기관광공사, 쉼이 필요한 9월 '경기도 비움 여행지' 6곳 추천"
@@ -6560,6 +6531,63 @@
           "ts": 1788760800.0,
           "group": "gg_agencies",
           "group_label": "경기도 산하기관"
+        },
+        {
+          "title": "‘첫 음원차트 1위→광화문 룩스‘ 82메이저, 컴백 첫주 알찼다",
+          "url": "https://sports.donga.com/ent/article/all/20260907/134619494/1",
+          "snippet": "82메이저는 지난 6일 일산 킨텍스에서 열린 ‘스포티비 K팝 어워즈’(SPOTV K-POP AWARDS)에 참석해 ‘글로벌 커넥트 상’을 수상했다. 82메이저는 “언제나 저희를 믿어주시고 뜨거운 사랑을 보내주시는 에티튜드...",
+          "source": "동아일보",
+          "sources": [
+            {
+              "name": "동아일보",
+              "url": "https://sports.donga.com/ent/article/all/20260907/134619494/1",
+              "origin": "naver",
+              "title": "‘첫 음원차트 1위→광화문 룩스‘ 82메이저, 컴백 첫주 알찼다"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-07T14:58:00+09:00",
+          "ts": 1788760680.0,
+          "group": "gg_agencies",
+          "group_label": "경기도 산하기관"
+        },
+        {
+          "title": "국토부는 ‘일반 공사’로 봤는데…GH, 10개월 만에 ‘민간사업’ 전환...",
+          "url": "https://www.ddaily.co.kr/page/view/2026090714332716754",
+          "snippet": "경기주택도시공사(GH)가 추진하는 ‘광명학온 제로에너지플러스(RE200) 건축물 사업’이 국토교통부 심의 이후 약 10개월 만에 '일반 공사' 방식에서 '민간참여 공동사업'으로 바뀐 것으로 나타나 그 배경을 놓고 업계...",
+          "source": "ddaily.co.kr",
+          "sources": [
+            {
+              "name": "ddaily.co.kr",
+              "url": "https://www.ddaily.co.kr/page/view/2026090714332716754",
+              "origin": "naver",
+              "title": "국토부는 ‘일반 공사’로 봤는데…GH, 10개월 만에 ‘민간사업’ 전환..."
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-07T14:53:00+09:00",
+          "ts": 1788760380.0,
+          "group": "gg_agencies",
+          "group_label": "경기도 산하기관"
+        },
+        {
+          "title": "광주시, 기업 옴부즈만 간담회 개최",
+          "url": "http://www.breaknews.com/1234583",
+          "snippet": "지난 3일 경기도경제과학진흥원과 함께 자금, 판로·마케팅, ESG 관리 등 3개 분야 전문 자문위원이 참석한 기업 옴부즈만 간담회를 열었다. 현장에서 즉시 답변이...",
+          "source": "breaknews.com",
+          "sources": [
+            {
+              "name": "breaknews.com",
+              "url": "http://www.breaknews.com/1234583",
+              "origin": "naver",
+              "title": "광주시, 기업 옴부즈만 간담회 개최"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-07T14:50:00+09:00",
+          "ts": 1788760200.0,
+          "group": "gg_agencies",
+          "group_label": "경기도 산하기관"
         }
       ]
     },
@@ -6590,14 +6618,14 @@
               "title": "문체부, 태국 왕립경찰과 손잡고 K-콘텐츠 저작권 보호 강화한다"
             },
             {
-              "name": "서남투데이",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaUW5uWUVvY19sa1REMWczeFhYaWZyV2YyLUV4UnRBX1ZBSVdKR3ZSQUxTcVRIU3VCc3p4T1VLYWdQSG9hN2pBUExNeXdZdTNyR3NrRkgwdXNGUQ?oc=5",
+              "name": "부산경제",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HbDdVWGplY09TYVFEMTJjVGpLNUUxYi1uaUF3Yjg1R2Nxd0xpUVZSc0VRY3RrWkFkVlZhLVNsaVk1T1E0R1FaTE5TU2VRcFJfMFRLMDBBdEFUWmRESVRHZXdjQ3dvUQ?oc=5",
               "origin": "google",
               "title": "문체부-태국 왕립경찰, `케이-콘텐츠` 저작권 보호 위해 손잡는다"
             },
             {
-              "name": "부산경제",
-              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HbDdVWGplY09TYVFEMTJjVGpLNUUxYi1uaUF3Yjg1R2Nxd0xpUVZSc0VRY3RrWkFkVlZhLVNsaVk1T1E0R1FaTE5TU2VRcFJfMFRLMDBBdEFUWmRESVRHZXdjQ3dvUQ?oc=5",
+              "name": "서남투데이",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaUW5uWUVvY19sa1REMWczeFhYaWZyV2YyLUV4UnRBX1ZBSVdKR3ZSQUxTcVRIU3VCc3p4T1VLYWdQSG9hN2pBUExNeXdZdTNyR3NrRkgwdXNGUQ?oc=5",
               "origin": "google",
               "title": "문체부-태국 왕립경찰, `케이-콘텐츠` 저작권 보호 위해 손잡는다"
             },
@@ -7070,10 +7098,10 @@
           "title": "문체부, K-콘텐츠 불법 유통 막는다… 글로벌 전문가 150명 결집",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOTkFsUUNjY0ozUHdjQkpYUS0tU1RodUhvYTE4RzV1X1RLeUpBSkJOZHVzODhwSHRsNERTTkljR0d6aE5GY25TWDBKcFpob2EtZ05wa2UzWWdLOVhrelE?oc=5",
           "snippet": "",
-          "source": "connecticheon.com",
+          "source": "커넥트이천",
           "sources": [
             {
-              "name": "connecticheon.com",
+              "name": "커넥트이천",
               "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOTkFsUUNjY0ozUHdjQkpYUS0tU1RodUhvYTE4RzV1X1RLeUpBSkJOZHVzODhwSHRsNERTTkljR0d6aE5GY25TWDBKcFpob2EtZ05wa2UzWWdLOVhrelE?oc=5",
               "origin": "google",
               "title": "문체부, K-콘텐츠 불법 유통 막는다… 글로벌 전문가 150명 결집"
@@ -7150,7 +7178,7 @@
       "priority": 11,
       "page": "trends",
       "preview": 3,
-      "count": 403,
+      "count": 401,
       "items": [
         {
           "title": "KT·카이스트·다임리서치 '피지컬 AI' 협력…\"제조 자율화 선도\"",
@@ -7484,7 +7512,13 @@
               "title": "KT, KAIST·다임리서치와 맞손…‘피지컬 AI’ 고도화"
             },
             {
-              "name": "굿모닝경제",
+              "name": "포인트경제",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MbThJcWp0d2xPZWNYV21RUlFnRjBmdGZXX01mV2xxYkZaSGpnQ0lNU05nakFDZHF2bUNyMmJnd0czRnJLZC1Zazh5VnZCbTZwNW9XMTFKUlpSUzl2ZXdHaVc0aWJtZWtlTVE?oc=5",
+              "origin": "google",
+              "title": "KT-KAIST-다임리서치, 피지컬 AI 기반 다크팩토리 플랫폼 구축"
+            },
+            {
+              "name": "굿모닝경기",
               "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DWFBrdGo5R2djQW5yazNBSVhvYkpCUzBMRjdaYm8xTzBaZlU0TkZpWVd1d2FydWw0d2lDaDhEQTNCMEYzN2xsY0tncU9lalRQaDVOSy1iUGdXRUtMRkZ3b0dmMzhsN0pZcG5mOQ?oc=5",
               "origin": "google",
               "title": "KT, KAIST·다임리서치와 MOU…'피지컬 AI' 손잡는다"
@@ -7526,7 +7560,7 @@
               "title": "[AI픽] KT·KAIST, 피지컬AI로 '다크팩토리' 만든다"
             }
           ],
-          "source_count": 23,
+          "source_count": 24,
           "published": "2026-09-08T16:47:00+09:00",
           "ts": 1788853620.0,
           "group": "trend_ai",
@@ -7702,8 +7736,14 @@
               "title": "[테크스냅] 에스투더블유, 자율형 수사 AI 에이전트 'DRI' 출시"
             },
             {
+              "name": "헬로티",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIUG04YlNoYTlTRXlxeTh6WUFFMl9UdEVSRmRxT29wRzRJTTFWYm9FRlpJUHkyN19lcUExaVhQRElQaV9Xb1R2MHRiRXdXSk9TSXktUGJtd1BKUQ?oc=5",
+              "origin": "google",
+              "title": "에스투더블유, 다크웹·딥웹 수사 특화 자율형 AI 에이전트 'DRI' 출시"
+            },
+            {
               "name": "뉴스웍스",
-              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhblAtVW5xWDBhVWIwMjNHTV9rT244cnpGMDhjbHowNW1jZmJremRzMVFsbzBsR25aSWdJdVFKSC1VMHA1NzRsa1RnM3gxdTRWajV2Y01Sb0l0eGozTEZxUGJCTTkzYld3RU1SY19wLXczeDjSAXNBVV95cUxQYW5QLVVucVgwYVViMDIzR01fa09uOHJ6RjA4Y2x6MDVtY2Zia3pkczFRbG8wbEduWklnSXVRSkgtVTBwNTc0bGtUZzN4MXU0Vmo1dmNNUm9JdHhqM0xGcVBiQk05M2JXd0VNUmNfcC13M3g4?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DWHNVUDZvZUZCMzgwdExvT192NlZzUXVMeDZ4anBLZzk5cmY2ajRlcjIzTkZxTGh5T25DWUJvSlFrV3p2UVRHOS1vRGNWZjQzZlJYUzNneWR6Mnh1eWNKTFFrU2ZubmxGdXVmVi1LSdIBc0FVX3lxTFBhblAtVW5xWDBhVWIwMjNHTV9rT244cnpGMDhjbHowNW1jZmJremRzMVFsbzBsR25aSWdJdVFKSC1VMHA1NzRsa1RnM3gxdTRWajV2Y01Sb0l0eGozTEZxUGJCTTkzYld3RU1SY19wLXczeDg?oc=5",
               "origin": "google",
               "title": "[시큐리티 포커스] NNSP '앤넷CDS V2.0' GS인증·S2W '수사 AI 에이전트 DRI' 출시"
             },
@@ -7712,12 +7752,6 @@
               "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKcnlqUnhFcXdoV1M1aFRoeU5fdFVuV0FkUS1zWHVVcXdLNU92dXFSZkhuSlhoSGF2OFQ2OVdqQU5Melk3dkVSVWZBWWlxRDJvd3N3?oc=5",
               "origin": "google",
               "title": "\"수사관 대신 자료 찾고 분석까지\"…S2W 자율형 AI 에이전트 출시"
-            },
-            {
-              "name": "헬로티",
-              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16eXdoZVlkQnJCM3ZHMGZMX0s4S3Jlend4NXpXTW1QYTlBNXotZzluWS1GWnpsX05KN2M5TmZ3YlFkVnhRS2pjV0FLbUVvWk1IbnJOMWlqSEE0RmZyRVZZ?oc=5",
-              "origin": "google",
-              "title": "에스투더블유, 다크웹·딥웹 수사 특화 자율형 AI 에이전트 'DRI' 출시"
             },
             {
               "name": "Chosunbiz",
@@ -7736,6 +7770,12 @@
               "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SOElkTXhjRkMwY0VMSWh6bDN5bjlac1E2UzY4ZUM1VzQzUnFIa0Nyc3JOMkNudUVORjlSamtXUnJaOEh0LURMS0w0d2VVMHhHbWRTMUpaMEs3U2ZyeHpwNDFmdWM1MTg?oc=5",
               "origin": "google",
               "title": "데이터·분석 도구 자율 활용하는 에이전트 구현...에스투더블유, 자율형 수사 AI 에이전트 ‘DRI’ 출시"
+            },
+            {
+              "name": "디지털데일리",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HQjlCeDJjVjJDcVVGRjkyV0NSTHVBSGlPRVZUVWVQWmhRVVA4bVlESmdyYngtUFNlbURZUjlnUEtBQ3FVWWc4MUhXNERkeUxvWFNBUlhET2tfVXZuX253LWZ0emI?oc=5",
+              "origin": "google",
+              "title": "S2W, 자율형 수사 AI 에이전트 `DRI` 출시"
             },
             {
               "name": "테크M",
@@ -7762,7 +7802,7 @@
               "title": "에스투더블유, 자율형 수사 AI 에이전트 ‘DRI’ 출시"
             },
             {
-              "name": "바이라인네트워크",
+              "name": "byline.network",
               "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBaLVhNRlQ5TW80bDJkcHI3QzA5YXdSUUYyZXJnM2lZSkh5VVJWNGlMa1BSYTFKTXduYklxVzFKU0prNVRycEpOYy1pTWtldw?oc=5",
               "origin": "google",
               "title": "S2W, 다크웹 수사 돕는 AI 에이전트 ‘DRI’ 출시"
@@ -7792,7 +7832,7 @@
               "title": "에스투더블유, 자율형 수사 AI 에이전트 ‘DRI’ 출시"
             }
           ],
-          "source_count": 19,
+          "source_count": 20,
           "published": "2026-09-08T16:30:00+09:00",
           "ts": 1788852600.0,
           "group": "trend_ai",
@@ -7898,103 +7938,6 @@
           "source_count": 15,
           "published": "2026-09-08T18:46:00+09:00",
           "ts": 1788860760.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "상주여중 구나윤, '경북 국제AI·메타버스 영상 공모전' 장려상 수상",
-          "url": "https://srn.hcn.co.kr/user/news/BD_newsView.do?news_category=03&story_id=NS2026090800013&story_seq=0&soCode=114&socttSn=NS2026090800013&socttSeq=0",
-          "snippet": "이번 공모전은 생성형 AI 기반 콘텐츠 제작에 관심 있는 국내외 참가자를 대상으로 창작영상과 게임영상, 광고영상과 숏폼 등 4개 분야로 진행되었으며, 구나윤 학생은 숏폼 청소년부에서 장려상을 받았습니다. 시상은...",
-          "source": "tk.newdaily.co.kr",
-          "sources": [
-            {
-              "name": "tk.newdaily.co.kr",
-              "url": "https://tk.newdaily.co.kr/site/data/html/2026/09/08/2026090800190.html",
-              "origin": "naver",
-              "title": "상주여중 1년생, 메타버스 영상공모전 장려상"
-            },
-            {
-              "name": "kbmaeil.com",
-              "url": "https://www.kbmaeil.com/article/20260908500248",
-              "origin": "naver",
-              "title": "구나윤 상주여중 1학년, 경북 국제AI.메타버스 영상 공모전 장려상"
-            },
-            {
-              "name": "wikitree.co.kr",
-              "url": "https://www.wikitree.co.kr/articles/1157973",
-              "origin": "naver",
-              "title": "'경북 국제AI·메타버스 영상제', 디지털 혁신과 기업 투자 산업으로 육..."
-            },
-            {
-              "name": "경상투데이",
-              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jUF9qQlZfLUhNZXhRbUxpOGtUYVRkOHNxWlRHeFBNWEJlMVBaZ0YtVXhrWEo4STJjOG5PVGdZNDNaMklOb1RnSVZTejZZM2RSeVZOc1VSdE5fWGlDcEdiZ1I0TWZTWUU?oc=5",
-              "origin": "google",
-              "title": "상주여자중학교 구나윤 학생 ‘2026 경북 국제AI·메타버스 영상 공모전’ 장려상 수상"
-            },
-            {
-              "name": "신경북뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9OMWFfVmpIZU12eVRpRFVmYzZqY3lOOGd0SndCb0JXRDJhdzZBSGkzeDY1YXRDTkVtWDNlUF9qanFHWHVaTGFIekk2SHJwaEw0dXlNMUtSQnk?oc=5",
-              "origin": "google",
-              "title": "'2026 경북 국제AI·메타버스 영상 공모전' 상주시 AI숏폼 청소년부 수상!"
-            },
-            {
-              "name": "데일리대구경북뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rRFNPcjU3UGxzeXRwVVFLRDdPbUxtOU5zOFhLbEdMNTFLbVdkczBVT3RFVE5KWThHTFlRTUEwV25HdEJVeThweVA0c3VQT3U4ZzlHaUJ3MkM4a3g3WEx1c0VNdEZpUQ?oc=5",
-              "origin": "google",
-              "title": "상주시, 2026 경북 국제AI·메타버스 영상 공모전 AI숏폼 청소년부 수상!"
-            },
-            {
-              "name": "경북TV",
-              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VVVpWa3hNR0h0d3RaM2xPTUx6ZkE2WGxIUmN4ZjMyRjAzUHJxalN4bTB4c2xzOVdzeVBteW1EZk13TVd6Y25DX1pZaEZVSFo5MjNKd0hpTWVIQ1ZzN3NSOW9GMEY?oc=5",
-              "origin": "google",
-              "title": "경북 국제 AI·메타버스 영상제, ‘산업형 영상제’로 도약"
-            },
-            {
-              "name": "신아일보",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5OTFaN0VtV0dNbWN4cllZeXc0MEhYTTJMYnFSbjlZT2MzNFlDSjVWajZKSXdTOEVaMllGa2dsSFRoZ2dxVDRteWgzOV9QY0lBV3NXaXM2dDVERzZBYUttZUxaVXlnTlRiXzhRYXozTFU?oc=5",
-              "origin": "google",
-              "title": "상주여중 구나윤 학생, 경북 국제 AI 영상공모전 청소년부 장려상"
-            },
-            {
-              "name": "경북신문",
-              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QeHZoZ2JkYmRvdjJHRHJQcEM4bmxqNGVjdnlnTGR3Vk1LaS1UbzBvbHhtS25SZjV3V3JELVhvS1hDSW9Lb0VrVHQ2WXdZazVuR1FyaHZ4ZVc?oc=5",
-              "origin": "google",
-              "title": "상주여중 구나윤, 경북 국제AI·메타버스 영상 공모전 '장려상'"
-            },
-            {
-              "name": "인사이드피플",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtaEIyWnl6YzJuZEVFeGFxTTdkZGZQdk85aTMtMVhUT2ExSUVKQlpySVpTZWhsQlNRdnl3emlvQjBIY0k3NHNGZEFFRWhEdDZxeVRUOUc2WGgzYW5tUTdMbG5LU08wV2ozQ1E?oc=5",
-              "origin": "google",
-              "title": "'2026 경북 국제AI·메타버스 영상 공모전' 상주시 AI숏폼 청소년부 수상!"
-            },
-            {
-              "name": "뉴스팟",
-              "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1yakxkZVU5RW5wNW1ZNlhFV0w4dzhkejhLRWlJUmVubUhMQWFCTktrOHhaMGh5cnZ0blg5RUN1TThzSms?oc=5",
-              "origin": "google",
-              "title": "상주여중 구나윤 학생, AI숏폼 청소년부 장려상 수상"
-            },
-            {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SWEpIRXRjaG9WbVhCLUEwaUpsVVd2c0xkSExvSkMzVUQ4WDlLWllvSUJjVFhDQjdrVDlTblpmXzI3dEtDckllVFl3NjNKY0NmeUt3?oc=5",
-              "origin": "google",
-              "title": "상주여중 구나윤, 경북 국제AI·메타버스 공모전 장려상"
-            },
-            {
-              "name": "데일리한국",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UcUZkSFVUYU1nMjc1cDhTVWpjazFFbGNKS1hYMmVzbnJyZkVwMnVDcEQxdTlwUlZDSkhTbzk3NV9ZUjZfQnJyS01ZRmxLOGdVeEVrUUM5R3cwVmMzTEptVUFUWFJMTEhETmN6VWVUa9IBc0FVX3lxTE52RkJ6bG9Za1U0WlFoNmJNRWVoaU00V3piODM0eFJKQTlPaGN6WWc3Ukl1eHRRSjlnYlZDXzluSWpJUElVamtTd05TV1BpQ3czVGhjYmI0ZExrQmJJM1BQb3FKZzhqTml6TTBNNC02b256dmc?oc=5",
-              "origin": "google",
-              "title": "상주여중 구나윤, 경북 국제AI·메타버스 공모전 장려상"
-            },
-            {
-              "name": "스트레이트뉴스",
-              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JRnh5bGFLRThobmYtS0llOGRURjRBYmdkY2VaOXR1eDBZcXhkT3QzTnN5ZEdvdFpfejQxMnhubGpKbndCX2V5eDVZWE5DMEI2dmxSNXFwSUluX2h6WnBNQktiSGhNMWZfd2hpMHFtSzZ1aFnSAXdBVV95cUxQNlRGMnFFN3FrcUtGeWdxdmpoS09VM1hhekRnQlNKdWI1TmlMQXE0SzhRZ2VDLVkxcXFDMzg3ZWprUlRyWjhaUm0zdk1OcWhPa2NxT3c5S2djQkR5MnJmTGdRYUhPNjBnU0kxLUVXd2ExNE0zRTBjVQ?oc=5",
-              "origin": "google",
-              "title": "상주시 AI 교육생, 경북 AI영상 공모전 장려상 수상"
-            }
-          ],
-          "source_count": 14,
-          "published": "2026-09-08T16:56:00+09:00",
-          "ts": 1788854160.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -8189,6 +8132,97 @@
           "source_count": 14,
           "published": "2026-09-08T08:44:00+09:00",
           "ts": 1788824640.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "상주여중 구나윤, '경북 국제AI·메타버스 영상 공모전' 장려상 수상",
+          "url": "https://srn.hcn.co.kr/user/news/BD_newsView.do?news_category=03&story_id=NS2026090800013&story_seq=0&soCode=114&socttSn=NS2026090800013&socttSeq=0",
+          "snippet": "이번 공모전은 생성형 AI 기반 콘텐츠 제작에 관심 있는 국내외 참가자를 대상으로 창작영상과 게임영상, 광고영상과 숏폼 등 4개 분야로 진행되었으며, 구나윤 학생은 숏폼 청소년부에서 장려상을 받았습니다. 시상은...",
+          "source": "tk.newdaily.co.kr",
+          "sources": [
+            {
+              "name": "tk.newdaily.co.kr",
+              "url": "https://tk.newdaily.co.kr/site/data/html/2026/09/08/2026090800190.html",
+              "origin": "naver",
+              "title": "상주여중 1년생, 메타버스 영상공모전 장려상"
+            },
+            {
+              "name": "kbmaeil.com",
+              "url": "https://www.kbmaeil.com/article/20260908500248",
+              "origin": "naver",
+              "title": "구나윤 상주여중 1학년, 경북 국제AI.메타버스 영상 공모전 장려상"
+            },
+            {
+              "name": "경상투데이",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jUF9qQlZfLUhNZXhRbUxpOGtUYVRkOHNxWlRHeFBNWEJlMVBaZ0YtVXhrWEo4STJjOG5PVGdZNDNaMklOb1RnSVZTejZZM2RSeVZOc1VSdE5fWGlDcEdiZ1I0TWZTWUU?oc=5",
+              "origin": "google",
+              "title": "상주여자중학교 구나윤 학생 ‘2026 경북 국제AI·메타버스 영상 공모전’ 장려상 수상"
+            },
+            {
+              "name": "신경북뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9OMWFfVmpIZU12eVRpRFVmYzZqY3lOOGd0SndCb0JXRDJhdzZBSGkzeDY1YXRDTkVtWDNlUF9qanFHWHVaTGFIekk2SHJwaEw0dXlNMUtSQnk?oc=5",
+              "origin": "google",
+              "title": "'2026 경북 국제AI·메타버스 영상 공모전' 상주시 AI숏폼 청소년부 수상!"
+            },
+            {
+              "name": "데일리대구경북뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rRFNPcjU3UGxzeXRwVVFLRDdPbUxtOU5zOFhLbEdMNTFLbVdkczBVT3RFVE5KWThHTFlRTUEwV25HdEJVeThweVA0c3VQT3U4ZzlHaUJ3MkM4a3g3WEx1c0VNdEZpUQ?oc=5",
+              "origin": "google",
+              "title": "상주시, 2026 경북 국제AI·메타버스 영상 공모전 AI숏폼 청소년부 수상!"
+            },
+            {
+              "name": "경북TV",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VVVpWa3hNR0h0d3RaM2xPTUx6ZkE2WGxIUmN4ZjMyRjAzUHJxalN4bTB4c2xzOVdzeVBteW1EZk13TVd6Y25DX1pZaEZVSFo5MjNKd0hpTWVIQ1ZzN3NSOW9GMEY?oc=5",
+              "origin": "google",
+              "title": "경북 국제 AI·메타버스 영상제, ‘산업형 영상제’로 도약"
+            },
+            {
+              "name": "신아일보",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5OTFaN0VtV0dNbWN4cllZeXc0MEhYTTJMYnFSbjlZT2MzNFlDSjVWajZKSXdTOEVaMllGa2dsSFRoZ2dxVDRteWgzOV9QY0lBV3NXaXM2dDVERzZBYUttZUxaVXlnTlRiXzhRYXozTFU?oc=5",
+              "origin": "google",
+              "title": "상주여중 구나윤 학생, 경북 국제 AI 영상공모전 청소년부 장려상"
+            },
+            {
+              "name": "경북신문",
+              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QeHZoZ2JkYmRvdjJHRHJQcEM4bmxqNGVjdnlnTGR3Vk1LaS1UbzBvbHhtS25SZjV3V3JELVhvS1hDSW9Lb0VrVHQ2WXdZazVuR1FyaHZ4ZVc?oc=5",
+              "origin": "google",
+              "title": "상주여중 구나윤, 경북 국제AI·메타버스 영상 공모전 '장려상'"
+            },
+            {
+              "name": "인사이드피플",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtaEIyWnl6YzJuZEVFeGFxTTdkZGZQdk85aTMtMVhUT2ExSUVKQlpySVpTZWhsQlNRdnl3emlvQjBIY0k3NHNGZEFFRWhEdDZxeVRUOUc2WGgzYW5tUTdMbG5LU08wV2ozQ1E?oc=5",
+              "origin": "google",
+              "title": "'2026 경북 국제AI·메타버스 영상 공모전' 상주시 AI숏폼 청소년부 수상!"
+            },
+            {
+              "name": "뉴스팟",
+              "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1yakxkZVU5RW5wNW1ZNlhFV0w4dzhkejhLRWlJUmVubUhMQWFCTktrOHhaMGh5cnZ0blg5RUN1TThzSms?oc=5",
+              "origin": "google",
+              "title": "상주여중 구나윤 학생, AI숏폼 청소년부 장려상 수상"
+            },
+            {
+              "name": "네이트",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SWEpIRXRjaG9WbVhCLUEwaUpsVVd2c0xkSExvSkMzVUQ4WDlLWllvSUJjVFhDQjdrVDlTblpmXzI3dEtDckllVFl3NjNKY0NmeUt3?oc=5",
+              "origin": "google",
+              "title": "상주여중 구나윤, 경북 국제AI·메타버스 공모전 장려상"
+            },
+            {
+              "name": "데일리한국",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UcUZkSFVUYU1nMjc1cDhTVWpjazFFbGNKS1hYMmVzbnJyZkVwMnVDcEQxdTlwUlZDSkhTbzk3NV9ZUjZfQnJyS01ZRmxLOGdVeEVrUUM5R3cwVmMzTEptVUFUWFJMTEhETmN6VWVUa9IBc0FVX3lxTE52RkJ6bG9Za1U0WlFoNmJNRWVoaU00V3piODM0eFJKQTlPaGN6WWc3Ukl1eHRRSjlnYlZDXzluSWpJUElVamtTd05TV1BpQ3czVGhjYmI0ZExrQmJJM1BQb3FKZzhqTml6TTBNNC02b256dmc?oc=5",
+              "origin": "google",
+              "title": "상주여중 구나윤, 경북 국제AI·메타버스 공모전 장려상"
+            },
+            {
+              "name": "스트레이트뉴스",
+              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JRnh5bGFLRThobmYtS0llOGRURjRBYmdkY2VaOXR1eDBZcXhkT3QzTnN5ZEdvdFpfejQxMnhubGpKbndCX2V5eDVZWE5DMEI2dmxSNXFwSUluX2h6WnBNQktiSGhNMWZfd2hpMHFtSzZ1aFnSAXdBVV95cUxQNlRGMnFFN3FrcUtGeWdxdmpoS09VM1hhekRnQlNKdWI1TmlMQXE0SzhRZ2VDLVkxcXFDMzg3ZWprUlRyWjhaUm0zdk1OcWhPa2NxT3c5S2djQkR5MnJmTGdRYUhPNjBnU0kxLUVXd2ExNE0zRTBjVQ?oc=5",
+              "origin": "google",
+              "title": "상주시 AI 교육생, 경북 AI영상 공모전 장려상 수상"
+            }
+          ],
+          "source_count": 13,
+          "published": "2026-09-08T16:56:00+09:00",
+          "ts": 1788854160.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -8709,16 +8743,16 @@
               "title": "일레븐랩스, 신임 CRO에 오픈AI 출신 애슐리 크레이머 선임"
             },
             {
-              "name": "지티티코리아",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BV1pHTHM4OG9pczVxd0FReXZfamtrakk0VnNaRG92aGc4SmRRVUc1UnJFeG9ZekVDYUs2V3VjOFVyTjZIWlNsUnA1ZmZGYmU4QTBQdHpvZVVWM29yRHB2c2xBYzRoYnBkamc?oc=5",
-              "origin": "google",
-              "title": "일레븐랩스, 오픈AI 출신 애슐리 크레이머 CRO 선임"
-            },
-            {
               "name": "더에이아이",
               "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zLWNhR1ZVRExQSUxEWjJKWUNsQjZzdHNnZGEwaEpfaHlkTVpodktMMWxqLVVROEFsNVJEeE14TlVYS1JxWHlXdHNMbmZOMlA4bFBrbFJpSWRXX1F0VEZWQWVVUlBlVUhyMlhz?oc=5",
               "origin": "google",
               "title": "일레븐랩스, ‘오픈AI 출신’ 엔터프라이즈 영업 수장 영입"
+            },
+            {
+              "name": "지티티코리아",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BV1pHTHM4OG9pczVxd0FReXZfamtrakk0VnNaRG92aGc4SmRRVUc1UnJFeG9ZekVDYUs2V3VjOFVyTjZIWlNsUnA1ZmZGYmU4QTBQdHpvZVVWM29yRHB2c2xBYzRoYnBkamc?oc=5",
+              "origin": "google",
+              "title": "일레븐랩스, 오픈AI 출신 애슐리 크레이머 CRO 선임"
             }
           ],
           "source_count": 9,
@@ -8752,16 +8786,16 @@
               "title": "스트라드비젼, Arm '피지컬 AI 생태계' 합류"
             },
             {
-              "name": "디일렉",
-              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MTVBKTXA2U2FFUVVOMWdvaW9FVGVJY05mLXI5TFV2OTkwcjB5aU9KODEzWGNHTEMzOEtpMEwxSEw2aDF3Z3NXNlRuUnd5U19JZDZxcllSZkQ2Vnk5bHhJZWtBS2hSQQ?oc=5",
-              "origin": "google",
-              "title": "스트라드비젼, Arm 피지컬 AI 생태계 합류"
-            },
-            {
               "name": "hellot.net",
               "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZNy1kWTVSa0tHUWZvRDdWQllPbjRqZEEtS2dJRUVGTlZBd2xsZ1A4UV8xVURwTDQxMnlRZEppXzhEa29BVFpMMGxCLXdlRHphR3pQQUpZM3Q4WWl2SkFZ?oc=5",
               "origin": "google",
               "title": "스트라드비젼, Arm 생태계 합류…양산 AI 기술 로봇 적용 확대"
+            },
+            {
+              "name": "디일렉",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MTVBKTXA2U2FFUVVOMWdvaW9FVGVJY05mLXI5TFV2OTkwcjB5aU9KODEzWGNHTEMzOEtpMEwxSEw2aDF3Z3NXNlRuUnd5U19JZDZxcllSZkQ2Vnk5bHhJZWtBS2hSQQ?oc=5",
+              "origin": "google",
+              "title": "스트라드비젼, Arm 피지컬 AI 생태계 합류"
             },
             {
               "name": "오토뷰",
@@ -8770,7 +8804,7 @@
               "title": "스트라드비젼, Arm 피지컬 AI 생태계 합류"
             },
             {
-              "name": "팍스경제TV",
+              "name": "paxetv.com",
               "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tdXB2NFJGSGFtYzl1d1M4VDE1bU40ZWluOThVV0JYcGdWUFBDWEUwUERZTFdBMlZ1cF8xTEhIQU1aLUYteXJDVy1WUW9vVkJBS24yN2ppdWZFMXJqOEV0RnppZXpqOU9Q?oc=5",
               "origin": "google",
               "title": "스트라드비젼, Arm 피지컬 AI 생태계 합류…\"로봇 인식 기술 확대\""
@@ -8813,6 +8847,12 @@
               "title": "돈 되는 영상 산업으로 본격 육성 경북도, AI·메타버스 영상제 성료"
             },
             {
+              "name": "wikitree.co.kr",
+              "url": "https://www.wikitree.co.kr/articles/1157973",
+              "origin": "naver",
+              "title": "'경북 국제AI·메타버스 영상제', 디지털 혁신과 기업 투자 산업으로 육..."
+            },
+            {
               "name": "대한투데이",
               "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03T2MwaE13YmM3c0VrY3BGUzlPeE5RMXlNNExHSWJaMExwUmJqZzhldk90X1ZWcGZzRUJoOG5MczVhMHlLb2NNS3E3dFdseU05THVvdGdLb0dxZnJFZFg3YUJuYUJUbzJTM2c?oc=5",
               "origin": "google",
@@ -8829,12 +8869,6 @@
               "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83dFUyX2FMdlhSNEhRTVRzRldJOVpYNWY0OVZkTFMtTUQ3NFdPYlJpWklUZ3RFSFJ5S1hudHRvTjg1c2I3R3lFZ1JQX01TMTExcXVRR2ZIMm1jSHhMUXJN?oc=5",
               "origin": "google",
               "title": "경북도, AI·메타버스 영상제, 돈 되는 산업으로 본격 육성"
-            },
-            {
-              "name": "hidomin.com",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zNmVpektPWm9OODN5TVA0bS1KdHcwX0VfZDg4dVZTX1JFZWgxQ21DY090bXhyYm5PcFZwcEVJT0ZCMjRueU5UbWgtcUpqa29zOTZwRVVZa0ZZNVFCb2FVcEVmcWlrcUwteUE?oc=5",
-              "origin": "google",
-              "title": "작품 상영을 넘어 비즈니스로… 경북도, AI·메타버스 영상제 '산업형' 체질 개선 성공"
             },
             {
               "name": "뷰티경제",
@@ -9069,12 +9103,6 @@
               "title": "“자연어로 다크웹 추적부터 보고서까지”…S2W, 수사 특화 AI ‘DRI’ 공개"
             },
             {
-              "name": "스페셜타임스",
-              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51TlBFel95TDhxNE5fdTJDQ1JIanZyMlpwOEdnNER3ODRpMWQ1X0MtR2dQVTQ4TDlfbEY3ZFE0X09CTzZXSHNHQlYyNmJHNzdiaWpGcGhaWFcteWNRTFhjaTBoUGNfTHRmRGZiVXhPc3NTd0U?oc=5",
-              "origin": "google",
-              "title": "에스투더블유, 범죄 수사 특화 자율형 AI 에이전트 ‘DRI’ 공개"
-            },
-            {
               "name": "AI타임스",
               "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4X1B3TU5kSUJNTjY4TFRBcU5iS1BoTnl0ZDJ5VTNzOC1sei1TX0h5N1pDSlJVNzZPWHR4SDl1WFdmTFQxeFpkdk5lVHBXaXdTcG5NdGE2RjR4OHhfcXNDdjViVEtiWDJxWEE?oc=5",
               "origin": "google",
@@ -9087,6 +9115,12 @@
               "title": "S2W, 범죄수사 특화 자율형 AI에이전트 ‘DRI’ 공개"
             },
             {
+              "name": "스페셜타임스",
+              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51TlBFel95TDhxNE5fdTJDQ1JIanZyMlpwOEdnNER3ODRpMWQ1X0MtR2dQVTQ4TDlfbEY3ZFE0X09CTzZXSHNHQlYyNmJHNzdiaWpGcGhaWFcteWNRTFhjaTBoUGNfTHRmRGZiVXhPc3NTd0U?oc=5",
+              "origin": "google",
+              "title": "에스투더블유, 범죄 수사 특화 자율형 AI 에이전트 ‘DRI’ 공개"
+            },
+            {
               "name": "MTN 머니투데이방송",
               "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TV3NOY1dob2dkc1h3ZWFiaUNmY0xhRTBueGVWaHBQNkNVc3U4NVZQOXl3SGI5dDg3NXVHemVPWjA5RnVYaEZCVUhBV0x0dHBqNUhoeFlUVkN6YTdRRkRRZ0JFVGM?oc=5",
               "origin": "google",
@@ -9096,6 +9130,61 @@
           "source_count": 7,
           "published": "2026-09-08T15:59:15+09:00",
           "ts": 1788850755.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "삼성SDS, AI 도입 넘어 ‘비즈니스 재설계’...AX서 RX까지 확장",
+          "url": "https://www.dizzotv.com/site/data/html_dir/2026/09/08/2026090880120.html",
+          "snippet": "제조 현장에서 로봇과 피지컬 AI를 활용해 수작업을 자동화하는 ‘RX(로봇 전환)’ 사업을 본격화한다. 지난 6월 RX사업팀과 RX실행팀을 신설했으며, 레인보우로보틱스와 월든 로보틱스, 에이로봇, 엔닷라이트 등...",
+          "source": "dizzotv.com",
+          "sources": [
+            {
+              "name": "dizzotv.com",
+              "url": "https://www.dizzotv.com/site/data/html_dir/2026/09/08/2026090880120.html",
+              "origin": "naver",
+              "title": "삼성SDS, AI 도입 넘어 ‘비즈니스 재설계’...AX서 RX까지 확장"
+            },
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260908018651017?input=1195m",
+              "origin": "naver",
+              "title": "[AI픽] 삼성SDS, AX 넘어 RX까지…글로벌 빅테크 총집결(종합)"
+            },
+            {
+              "name": "socialvalue.kr",
+              "url": "https://www.socialvalue.kr/news/view/1065578236191461",
+              "origin": "naver",
+              "title": "삼성SDS, 글로벌 AI 기업과 협업해 AX 혁신 주도…RX 사업도 본격화"
+            },
+            {
+              "name": "news.dealsitetv.com",
+              "url": "https://news.dealsitetv.com/articles/175738",
+              "origin": "naver",
+              "title": "삼성SDS, AX 넘어 피지컬 AI로…RX 사업 본격화"
+            },
+            {
+              "name": "머니투데이",
+              "url": "https://www.mt.co.kr/tech/2026/09/08/2026090810545141460",
+              "origin": "naver",
+              "title": "삼성SDS \"AI 단순 도입 넘어 성과내야…내년 RX 본격화\""
+            },
+            {
+              "name": "위키리크스한국",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51d2Q2Z2h4T1RlbjJLbjJtZmdEZEVhelNmZ28wX0lKbHJXOHFJQTlkcXg3YWRXNFozWlVPbVdkX2lMYldseHJZTzZ3akNZZ1F3OVNzOTdhR2kyVEpILXZwTXhUQVhZUFVCX1BfVWtkRQ?oc=5",
+              "origin": "google",
+              "title": "[WIKI 현장] 삼성SDS, AI 넘어 AX로…업무 재설계부터 로봇까지 넓힌다"
+            },
+            {
+              "name": "theggnews.com",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwRkJMR2V2dDF1eDFTZnVQb2prOWtjUGMzdjQwWTJnX2hOWDRxb29rZG1YU1NwUDRscEkzZDlXNHItVjFuRDdrUWoxenhYNU4zOTFOWQ?oc=5",
+              "origin": "google",
+              "title": "삼성SDS, AI 넘어 피지컬 AI로…‘RX 사업’ 본격화"
+            }
+          ],
+          "source_count": 7,
+          "published": "2026-09-08T14:28:00+09:00",
+          "ts": 1788845280.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -9371,6 +9460,55 @@
           "source_count": 7,
           "published": "2026-09-07T17:32:00+09:00",
           "ts": 1788769920.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "‘2026 창작선수단’ AI 해커톤, 3천만원 10일까지 참가자 모집",
+          "url": "https://sports.khan.co.kr/article/202609081940003?pt=nv",
+          "snippet": "이번 해커톤은 웹·영상 콘텐츠 분야의 신진 창작자들이 팀을 이뤄 하나의 주제를 바탕으로 아이디어와 세계관을 구체화하고, 생성형 AI를 활용해 실제 콘텐츠를 제작하는 실전형 프로그램으로 진행된다. 특히...",
+          "source": "경향신문",
+          "sources": [
+            {
+              "name": "경향신문",
+              "url": "https://sports.khan.co.kr/article/202609081940003?pt=nv",
+              "origin": "naver",
+              "title": "‘2026 창작선수단’ AI 해커톤, 3천만원 10일까지 참가자 모집"
+            },
+            {
+              "name": "스포츠경향",
+              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40SEY5YjJNUWV5RFJ6WERfQVpLOVFESDJxRkU1YklmZFg2SjZ4eGowYnladTc0bFkzU1RkbEpmdDFNOGE5MXVqU1lsTHdVcjRFQ3NFbVpHQ3hrNW5JZXfSAWNBVV95cUxQQXBUc3VJLW9FWGN3dTdwSldSOGJPQ2g0bktpMmNPM0tLNFpPVTVILTVSU1BSVUk4XzdnSEhTVExGTHNkOUw3eVdzQW9QdVdsT0czVXNyY2YyWi1VVDBLREh1bnM?oc=5",
+              "origin": "google",
+              "title": "‘2026 창작선수단’ AI 해커톤, 3천만원 10일까지 참가자 모집"
+            },
+            {
+              "name": "네이트",
+              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HcHBkYkJUNGtaVzZZWENZcXF5MHlMclI0MG4tTjU5OF9YNkhyX3c2M3hpMzUtQ2JXSnlrR1lYSmd2dHdYdzRkLU5BVVFHU0J1VVFIamJqVWUwcHB6TjdEMmo0Vi1kSjF2enR4eU0wZFpLTFY4aWVYUA?oc=5",
+              "origin": "google",
+              "title": "'2026 창작선수단' AI 해커톤 참가자 모집…9월 10일까지 총상금 3000만원"
+            },
+            {
+              "name": "시사타임즈",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSzRqNUVwaU9CdWMya1JnWjN0VjJIc21vQXd1dHY3RHVqSzN1NDRvQ1V2N1lJMFlkcllWNk9RWWg2RUdiRnM5MEhmZWd0MFZCOFZORWJrRVdhcHMtRWp6a3U0a0ZhcTJxdjZDX0JjMlF2THJ3NUo2TVVaTmE1RUlvUnJB?oc=5",
+              "origin": "google",
+              "title": "‘2026 창작선수단’ AI 해커톤, 총상금 3,000만원…9월 10일까지 참가자 모집"
+            },
+            {
+              "name": "ABC뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aQkVnVld3Rnh3SnFwNm54NHpSSDdLcy1MalA3d1V5VmRvZjE1WTFxWm81Z3Nzb2NrbWdKbDhsMWFfQWxVanlGamFGRFJFTUU4YjBWX2pPUVhwTmhhdTlJdWlQTjlOcXPSAWdBVV95cUxPWkJFZ1ZXd0Z4d0pxcDZueDR6Ukg3S3MtTGpQN3dVeVZkb2YxNVkxcVpvNWdzc29ja21nSmw4bDFhX0FsVWp5RmphRkRSRU1FOGIwVl9qT1FYcE5oYXU5SXVpUE45TnFz?oc=5",
+              "origin": "google",
+              "title": "‘2026 창작선수단’ AI 해커톤, 9월 10일까지 참가자 모집...총상금 3000만 원"
+            },
+            {
+              "name": "공감신문",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44TTlqYVc5MnhLck9BdTJQSWVmYkd3ekVmckJLZi00RWxqaGY0cGJXbDdPQ21TT3NMUkwxTnNDb29jS01CREVJZVg4SnVoeUFBMVVZZm5qcWpRZW14YUtSMzRLZmhQT0Zr?oc=5",
+              "origin": "google",
+              "title": "서울경제진흥원 ‘2026 창작선수단’ AI 해커톤 참가자 모집…총상금 3000만원"
+            }
+          ],
+          "source_count": 6,
+          "published": "2026-09-08T19:41:00+09:00",
+          "ts": 1788864060.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -9841,49 +9979,6 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "삼성SDS, AI 도입 넘어 ‘비즈니스 재설계’...AX서 RX까지 확장",
-          "url": "https://www.dizzotv.com/site/data/html_dir/2026/09/08/2026090880120.html",
-          "snippet": "제조 현장에서 로봇과 피지컬 AI를 활용해 수작업을 자동화하는 ‘RX(로봇 전환)’ 사업을 본격화한다. 지난 6월 RX사업팀과 RX실행팀을 신설했으며, 레인보우로보틱스와 월든 로보틱스, 에이로봇, 엔닷라이트 등...",
-          "source": "dizzotv.com",
-          "sources": [
-            {
-              "name": "dizzotv.com",
-              "url": "https://www.dizzotv.com/site/data/html_dir/2026/09/08/2026090880120.html",
-              "origin": "naver",
-              "title": "삼성SDS, AI 도입 넘어 ‘비즈니스 재설계’...AX서 RX까지 확장"
-            },
-            {
-              "name": "socialvalue.kr",
-              "url": "https://www.socialvalue.kr/news/view/1065578236191461",
-              "origin": "naver",
-              "title": "삼성SDS, 글로벌 AI 기업과 협업해 AX 혁신 주도…RX 사업도 본격화"
-            },
-            {
-              "name": "news.dealsitetv.com",
-              "url": "https://news.dealsitetv.com/articles/175738",
-              "origin": "naver",
-              "title": "삼성SDS, AX 넘어 피지컬 AI로…RX 사업 본격화"
-            },
-            {
-              "name": "머니투데이",
-              "url": "https://www.mt.co.kr/tech/2026/09/08/2026090810545141460",
-              "origin": "naver",
-              "title": "삼성SDS \"AI 단순 도입 넘어 성과내야…내년 RX 본격화\""
-            },
-            {
-              "name": "theggnews.com",
-              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwRkJMR2V2dDF1eDFTZnVQb2prOWtjUGMzdjQwWTJnX2hOWDRxb29rZG1YU1NwUDRscEkzZDlXNHItVjFuRDdrUWoxenhYNU4zOTFOWQ?oc=5",
-              "origin": "google",
-              "title": "삼성SDS, AI 넘어 피지컬 AI로…‘RX 사업’ 본격화"
-            }
-          ],
-          "source_count": 5,
-          "published": "2026-09-08T14:28:00+09:00",
-          "ts": 1788845280.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
           "title": "크래프톤 장병규 의장, 인도 모디 총리와 회담… 인도 게임 생태계에 5...",
           "url": "http://www.osen.co.kr/article/G1112871741",
           "snippet": "반경을 AI·로보틱스·딥테크 등 차세대 기술 영역으로 넓혀갈 방침이다. 현지 인재 육성과 지식재산권(IP) 확보를 위한 하부 구조 마련도 병행된다. 크래프톤은 게임 제작 및 디지털 창작 역량 강화를 위한 산학 협력...",
@@ -10120,43 +10215,6 @@
           "source_count": 4,
           "published": "2026-09-08T17:22:00+09:00",
           "ts": 1788855720.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "'2026 창작선수단' AI 해커톤 참가자 모집…9월 10일까지 총상금 3000만원",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HcHBkYkJUNGtaVzZZWENZcXF5MHlMclI0MG4tTjU5OF9YNkhyX3c2M3hpMzUtQ2JXSnlrR1lYSmd2dHdYdzRkLU5BVVFHU0J1VVFIamJqVWUwcHB6TjdEMmo0Vi1kSjF2enR4eU0wZFpLTFY4aWVYUA?oc=5",
-          "snippet": "",
-          "source": "네이트",
-          "sources": [
-            {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HcHBkYkJUNGtaVzZZWENZcXF5MHlMclI0MG4tTjU5OF9YNkhyX3c2M3hpMzUtQ2JXSnlrR1lYSmd2dHdYdzRkLU5BVVFHU0J1VVFIamJqVWUwcHB6TjdEMmo0Vi1kSjF2enR4eU0wZFpLTFY4aWVYUA?oc=5",
-              "origin": "google",
-              "title": "'2026 창작선수단' AI 해커톤 참가자 모집…9월 10일까지 총상금 3000만원"
-            },
-            {
-              "name": "시사타임즈",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSzRqNUVwaU9CdWMya1JnWjN0VjJIc21vQXd1dHY3RHVqSzN1NDRvQ1V2N1lJMFlkcllWNk9RWWg2RUdiRnM5MEhmZWd0MFZCOFZORWJrRVdhcHMtRWp6a3U0a0ZhcTJxdjZDX0JjMlF2THJ3NUo2TVVaTmE1RUlvUnJB?oc=5",
-              "origin": "google",
-              "title": "‘2026 창작선수단’ AI 해커톤, 총상금 3,000만원…9월 10일까지 참가자 모집"
-            },
-            {
-              "name": "ABC뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aQkVnVld3Rnh3SnFwNm54NHpSSDdLcy1MalA3d1V5VmRvZjE1WTFxWm81Z3Nzb2NrbWdKbDhsMWFfQWxVanlGamFGRFJFTUU4YjBWX2pPUVhwTmhhdTlJdWlQTjlOcXPSAWdBVV95cUxPWkJFZ1ZXd0Z4d0pxcDZueDR6Ukg3S3MtTGpQN3dVeVZkb2YxNVkxcVpvNWdzc29ja21nSmw4bDFhX0FsVWp5RmphRkRSRU1FOGIwVl9qT1FYcE5oYXU5SXVpUE45TnFz?oc=5",
-              "origin": "google",
-              "title": "‘2026 창작선수단’ AI 해커톤, 9월 10일까지 참가자 모집...총상금 3000만 원"
-            },
-            {
-              "name": "공감신문",
-              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44TTlqYVc5MnhLck9BdTJQSWVmYkd3ekVmckJLZi00RWxqaGY0cGJXbDdPQ21TT3NMUkwxTnNDb29jS01CREVJZVg4SnVoeUFBMVVZZm5qcWpRZW14YUtSMzRLZmhQT0Zr?oc=5",
-              "origin": "google",
-              "title": "서울경제진흥원 ‘2026 창작선수단’ AI 해커톤 참가자 모집…총상금 3000만원"
-            }
-          ],
-          "source_count": 4,
-          "published": "2026-09-08T17:21:00+09:00",
-          "ts": 1788855660.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -10581,6 +10639,37 @@
           "group_label": "AI · 생성형AI"
         },
         {
+          "title": "삼성SDS, 앤트로픽·오픈AI 맞손…RX 첫 공식화",
+          "url": "https://www.mk.co.kr/article/12147354",
+          "snippet": "리얼 서밋 2026 내년 로봇 운영 플랫폼 공개 글로벌 피지컬AI와도 파트너십 \"인공지능(AI) 전환(AX)은 단순히 AI를 도입해 시간과 비용을 절감하는 것과는 차원이 다른, 훨씬 더 근본적인 변화입니다. 어떤 영역을 부분...",
+          "source": "매일경제",
+          "sources": [
+            {
+              "name": "매일경제",
+              "url": "https://www.mk.co.kr/article/12147354",
+              "origin": "naver",
+              "title": "삼성SDS, 앤트로픽·오픈AI 맞손…RX 첫 공식화"
+            },
+            {
+              "name": "아이뉴스24",
+              "url": "http://www.inews24.com/view/2003197",
+              "origin": "naver",
+              "title": "[현장] 삼성SDS, 오픈AI·앤트로픽과 '기업 AX 동맹'⋯\"실험서 실행으로..."
+            },
+            {
+              "name": "연합뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13Z2x5V2YtUk92RVI0REl1RWdfblF5QXhYTm56eXBKZ2YwdFQ1V3pwZGRGWWp6REFqYlRIallLS2xxX3dCWGJ5eFIzUXA2azB2NFlTaU9fMDJ2RG_SAWBBVV95cUxQRTdlZW84NXdZZ09uUGVWSUE5S0NsZzlGT19manl4OVl6MnlEMjNxUFVxYl9BYmhWV2E3ajFiUEhYZHc0NXlXWHg0LXU3OUxxUVhuU0dpVmpzS2VhV1o5RFk?oc=5",
+              "origin": "google",
+              "title": "삼성SDS, 오픈AI·앤트로픽 손잡고 로봇까지…AX 영토 넓힌다"
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-09-08T17:49:00+09:00",
+          "ts": 1788857340.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
           "title": "베스핀글로벌, K-푸드 수출 돕는 AI 만든다…공공 AX 영역 확대",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10dGpkMDBNYVA2YkZ4U1pjY04xTVNpa2t3c2RYWVBXeERLTEYwcnZRbm90aWY3M0l6eTdnV1lZQVhseVFMcHlGVkg0a3JMN2pKMVgzTFlB?oc=5",
           "snippet": "",
@@ -10767,68 +10856,6 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "대구·경북, AI·로봇 인재 양성…국비 960억 확보",
-          "url": "http://www.yonhapnewstv.co.kr/news/AKR20260908165147p4w",
-          "snippet": "성장엔진 인재 양성 사업에는 금오공대와 포항공대, DGIST 등 대구·경북 8개 대학이 참여해 피지컬 AI 분야 인재 3천여 명을 양성합니다. 경북대가 중심이 되는 초광역 공유대학에서는 반도체와 로봇, 이차전지, 모빌리티...",
-          "source": "연합뉴스TV",
-          "sources": [
-            {
-              "name": "연합뉴스TV",
-              "url": "http://www.yonhapnewstv.co.kr/news/AKR20260908165147p4w",
-              "origin": "naver",
-              "title": "대구·경북, AI·로봇 인재 양성…국비 960억 확보"
-            },
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260908140300053?input=1195m",
-              "origin": "naver",
-              "title": "계명대·대구대, AI 인재 양성 및 사이버안보 국책사업에 참여"
-            },
-            {
-              "name": "아이뉴스24",
-              "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5Z1I5MFM0T0hReDZCWkliRlh4a3AtWWdmd2g0SkJJbGp4RllibXVjWkZzaWdZYkxNQnpkbEkyTzNxTHFtX1dSeklqdng?oc=5",
-              "origin": "google",
-              "title": "대구경북, ‘피지컬 AI·SDV’ 미래모빌리티 전환 속도전 나선다"
-            }
-          ],
-          "source_count": 3,
-          "published": "2026-09-08T16:52:00+09:00",
-          "ts": 1788853920.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "대구경북경자청, ‘피지컬 AI·미래모빌리티’ 산업전략 모색",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5valpHRy1DbVc4cWppYklWS3NQZnU4SU5mOUxMR3F4UVdkb1FLclNRclJMeEFIYlM1bGdhdEhHaHNMd2RRbkJuaTVFLTZLR0E?oc=5",
-          "snippet": "",
-          "source": "v.daum.net",
-          "sources": [
-            {
-              "name": "v.daum.net",
-              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5valpHRy1DbVc4cWppYklWS3NQZnU4SU5mOUxMR3F4UVdkb1FLclNRclJMeEFIYlM1bGdhdEhHaHNMd2RRbkJuaTVFLTZLR0E?oc=5",
-              "origin": "google",
-              "title": "대구경북경자청, ‘피지컬 AI·미래모빌리티’ 산업전략 모색"
-            },
-            {
-              "name": "kbmaeil.com",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nT29WOUtjX3kyZDBwQlRreHpreUVNWGtySVMtTVlkSzlLMEh2eFpPeWFaZnpRc0xIVGl0b19mYldocGVPZHl2WVhLTmtDaTlZSUFrVWdXSXFydw?oc=5",
-              "origin": "google",
-              "title": "대구경북경자청, ‘피지컬 AI·미래모빌리티’ 산업전략 모색"
-            },
-            {
-              "name": "매일신문",
-              "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00dXJCYWNSWVMxenBIdXJLZWMyVjdwNk9QZ04yb004TTdPMjFZTDJZWVI4MldyTzdaeWJ4dUwzS0tLNDRVd1pQZ3liakUzTi1yQVpiQ3V1NF8xSm9YdkM4NmVR?oc=5",
-              "origin": "google",
-              "title": "대구경북경제자유구역청, 피지컬 AI·미래모빌리티 혁신 포럼 개최"
-            }
-          ],
-          "source_count": 3,
-          "published": "2026-09-08T16:38:03+09:00",
-          "ts": 1788853083.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
           "title": "삼성전자, '유럽 AI 맹주' 미스트랄 AI에 베팅…30억 유로 펀딩 리드",
           "url": "https://www.smarttoday.co.kr/ko-kr/articles/111329",
           "snippet": "미스트랄 AI는 이번 라운드에 확보한 투자금을 산업용 AI 기술 고도화와 대규모 컴퓨팅 인프라 구축에... 미스트랄 AI는 오픈AI나 앤스로픽 같은 미국 거대 생성형 AI 기업들에 비해 규모는 작다. 하지만 유럽의 독자적인...",
@@ -10856,6 +10883,37 @@
           "source_count": 3,
           "published": "2026-09-08T16:10:00+09:00",
           "ts": 1788851400.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "DGFEZ, 8일 '피지컬 AI & 미래모빌리티 혁신 포럼' 개최",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ucW9SbGFXZzJKVHZoTmdJU2NDSlV1U0JSWm43VmZYRGx1ZGRHTVFUTzQtVE5qQWE1b2VXd21GSUpsbWMwQWJtQ2Q2djJlUQ?oc=5",
+          "snippet": "",
+          "source": "전자신문",
+          "sources": [
+            {
+              "name": "전자신문",
+              "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ucW9SbGFXZzJKVHZoTmdJU2NDSlV1U0JSWm43VmZYRGx1ZGRHTVFUTzQtVE5qQWE1b2VXd21GSUpsbWMwQWJtQ2Q2djJlUQ?oc=5",
+              "origin": "google",
+              "title": "DGFEZ, 8일 '피지컬 AI & 미래모빌리티 혁신 포럼' 개최"
+            },
+            {
+              "name": "뉴스프리존",
+              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZSUdRejl6Mlp5dlRUTkhKZk5XZ1hrWVlibVJpSmZrR0pPdE5LdnRPR3dQME5pbE9XUEM1cjJzQmtadzgzdGwxS25ScnU2Z3pGdU40R0E0VDVNUzMxQ3d2Sm0tdExBSkNRRTNjYlVyRDBVY0XSAXdBVV95cUxOMEpJOHpOZGRlcTNfSV85VmJkSVJpVk4wMTdYbjdsbTRfcXBiZ2Vqb0hRc3RrNjAwTkY1d2IwYXduWENrTFJ6RDdpazNBMWozd2t5U3FyY19McTZaQVl4bUdYNDNwemZFVW1KZ2d0bm4xcHRWeWx6NA?oc=5",
+              "origin": "google",
+              "title": "DGFEZ, '피지컬 AI & 미래모빌리티 혁신 포럼' 개최"
+            },
+            {
+              "name": "매일신문",
+              "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00dXJCYWNSWVMxenBIdXJLZWMyVjdwNk9QZ04yb004TTdPMjFZTDJZWVI4MldyTzdaeWJ4dUwzS0tLNDRVd1pQZ3liakUzTi1yQVpiQ3V1NF8xSm9YdkM4NmVR?oc=5",
+              "origin": "google",
+              "title": "대구경북경제자유구역청, 피지컬 AI·미래모빌리티 혁신 포럼 개최"
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-09-08T16:02:00+09:00",
+          "ts": 1788850920.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -10956,10 +11014,10 @@
           "title": "신진 창작자 위한 AI 콘텐츠 해커톤 개최, 총상금 3,000만 원",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PczFtd1dBNWNJamtvR3ZuS042TDR5RlUwQWFtSHFaZGhmeC1XTGhheFhJRFNzZlNhYlozUHNPb0ZYeXJsUlc0ek9NZVpBRVRSUWprZUZFZ2RHZERhU0xFc3VoazhrU3PSAWtBVV95cUxOSWxyWGxRT1JlZ2xSY0pzdk9rUFBnT2lKeFZ2UDNIN3JMR2lfb0tpaTk0NTJIRVluWmhFeHdfZ0pMcS0wR2dIN1ZwZkU4YXB6RC1uWUJqa0ZMTUlrZ1RPT3AzMllTb2xLV1JIYw?oc=5",
           "snippet": "",
-          "source": "핸드메이커",
+          "source": "handmk.com",
           "sources": [
             {
-              "name": "핸드메이커",
+              "name": "handmk.com",
               "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PczFtd1dBNWNJamtvR3ZuS042TDR5RlUwQWFtSHFaZGhmeC1XTGhheFhJRFNzZlNhYlozUHNPb0ZYeXJsUlc0ek9NZVpBRVRSUWprZUZFZ2RHZERhU0xFc3VoazhrU3PSAWtBVV95cUxOSWxyWGxRT1JlZ2xSY0pzdk9rUFBnT2lKeFZ2UDNIN3JMR2lfb0tpaTk0NTJIRVluWmhFeHdfZ0pMcS0wR2dIN1ZwZkU4YXB6RC1uWUJqa0ZMTUlrZ1RPT3AzMllTb2xLV1JIYw?oc=5",
               "origin": "google",
               "title": "신진 창작자 위한 AI 콘텐츠 해커톤 개최, 총상금 3,000만 원"
@@ -11244,16 +11302,16 @@
               "title": "페르소나AI, SKT 컨소시엄 '모두의 AI' 사업 합류…공공·기업용 AI 에이전트 구축 속도"
             },
             {
-              "name": "한국일보",
-              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YWi1TUUNha0Q5d1JnVk16UFJxZkt0UWkxczBaOEtCWnRScXZvdjFCTTAwVUpsMmtjdGlDOG1mQ1FrbmluT1djT1N1WXpmNHQyS1BYTTVEbGtIcVNjOHd2RVd0QlhnS3B5cHllS2p0ZlBLRjDSAXNBVV95cUxPWFotU1FDYWtEOXdSZ1ZNelBScWZLdFFpMXMwWjhLQlp0UnF2b3YxQk0wMFVKbDJrY3RpQzhtZkNRa25pbk9XY09TdVl6ZjR0MktQWE01RGxrSHFTYzh3dkVXdEJYZ0tweXB5ZUtqdGZQS0Yw?oc=5",
-              "origin": "google",
-              "title": "페르소나AI, ‘모두의 AI’ 사업 참여…공공데이터 기반 AI 에이전트 구축"
-            },
-            {
               "name": "동아일보",
               "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BTjQ5eHhzYzF5bkZLc2YxVWRBNW5GTGpldVFKQ21ZWVE3cnR4OG53dTZhVjZScl9tNXEzS2RBQXFqQk5ndERXMG1sZXUxUzgzYzVUU29VbzZkRHRVY3NTUUpKTExoUdIBZkFVX3lxTE5BTjQ5eHhzYzF5bkZLc2YxVWRBNW5GTGpldVFKQ21ZWVE3cnR4OG53dTZhVjZScl9tNXEzS2RBQXFqQk5ndERXMG1sZXUxUzgzYzVUU29VbzZkRHRVY3NTUUpKTExoUQ?oc=5",
               "origin": "google",
               "title": "페르소나AI, SKT 컨소시엄 ‘모두의 AI’ 사업 합류… 공공·기업용 AI 에이전트 구축 속도"
+            },
+            {
+              "name": "한국일보",
+              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YWi1TUUNha0Q5d1JnVk16UFJxZkt0UWkxczBaOEtCWnRScXZvdjFCTTAwVUpsMmtjdGlDOG1mQ1FrbmluT1djT1N1WXpmNHQyS1BYTTVEbGtIcVNjOHd2RVd0QlhnS3B5cHllS2p0ZlBLRjDSAXNBVV95cUxPWFotU1FDYWtEOXdSZ1ZNelBScWZLdFFpMXMwWjhLQlp0UnF2b3YxQk0wMFVKbDJrY3RpQzhtZkNRa25pbk9XY09TdVl6ZjR0MktQWE01RGxrSHFTYzh3dkVXdEJYZ0tweXB5ZUtqdGZQS0Yw?oc=5",
+              "origin": "google",
+              "title": "페르소나AI, ‘모두의 AI’ 사업 참여…공공데이터 기반 AI 에이전트 구축"
             }
           ],
           "source_count": 3,
@@ -11573,6 +11631,31 @@
           "group_label": "AI · 생성형AI"
         },
         {
+          "title": "대경경자청, 미래모빌리티·AI 결합…지역 산업 체질 개선 박차",
+          "url": "https://www.ajunews.com/view/20260908192935712",
+          "snippet": "com 대경경자청은 8일 대구 호텔인터불고에서 경북자동차임베디드연구원, 경북경산산학융합원과 공동으로'피지컬 AI & 미래모빌리티 혁신 포럼'을 개최했다.[사진=대경경자청] 대구경북경제자유구역청(DFEZ)이 인공지능...",
+          "source": "아주경제",
+          "sources": [
+            {
+              "name": "아주경제",
+              "url": "https://www.ajunews.com/view/20260908192935712",
+              "origin": "naver",
+              "title": "대경경자청, 미래모빌리티·AI 결합…지역 산업 체질 개선 박차"
+            },
+            {
+              "name": "hidomin.com",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zNmVpektPWm9OODN5TVA0bS1KdHcwX0VfZDg4dVZTX1JFZWgxQ21DY090bXhyYm5PcFZwcEVJT0ZCMjRueU5UbWgtcUpqa29zOTZwRVVZa0ZZNVFCb2FVcEVmcWlrcUwteUE?oc=5",
+              "origin": "google",
+              "title": "작품 상영을 넘어 비즈니스로… 경북도, AI·메타버스 영상제 '산업형' 체질 개선 성공"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-09-08T19:38:00+09:00",
+          "ts": 1788863880.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
           "title": "AI전략위 “대체불가 AI 공급망 국가 도약”",
           "url": "https://www.segye.com/newsView/20260908515834?OutUrl=naver",
           "snippet": "반도체·AIDC·피지컬 AI를 중심으로 한 3대 메가프로젝트와 첨단 기술을 양성하는 7대 SEED(시드) 프로젝트가 부처별로 분절되지 않도록 조정 기능을 강화하고, AI 행동계획도 기술·산업 환경 변화에 맞춰 지속해서...",
@@ -11661,7 +11744,7 @@
             },
             {
               "name": "전북일보 인터넷신문",
-              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jREFiTU5YTkhQeGZEeUx2Yy1famtkcmtkc0E3MWpYNDZXSThZYi0yUHZSdFZxUmlqY05ZS1FPeVdIN25fVjVYeFd6TE5IdVBtUjVOR9IBWEFVX3lxTE1CVFh0V1d3UkFiMXlXNjdEdlZwdzgwbzBNbFpicXNjS0FjZ3QwNDYwaVRHSlIyMkVZNmt2aW03VFFXVTZTRmtPNFBqSC1nSHJpVWNORjR5dXE?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CVFh0V1d3UkFiMXlXNjdEdlZwdzgwbzBNbFpicXNjS0FjZ3QwNDYwaVRHSlIyMkVZNmt2aW03VFFXVTZTRmtPNFBqSC1nSHJpVWNORjR5dXHSAVhBVV95cUxNQlRYdFdXd1JBYjF5VzY3RHZWcHc4MG8wTWxaYnFzY0tBY2d0MDQ2MGlUR0pSMjJFWTZrdmltN1RRV1U2U0ZrTzRQakgtZ0hyaVVjTkY0eXVx?oc=5",
               "origin": "google",
               "title": "전국 꼴찌 산업 집중도에 멈춰선 전북…피지컬AI·로봇 앵커기업 집적 승부수"
             }
@@ -11694,31 +11777,6 @@
           "source_count": 2,
           "published": "2026-09-08T18:19:00+09:00",
           "ts": 1788859140.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "[WIKI 현장] 삼성SDS, AI 넘어 AX로…업무 재설계부터 로봇까지 넓힌다",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51d2Q2Z2h4T1RlbjJLbjJtZmdEZEVhelNmZ28wX0lKbHJXOHFJQTlkcXg3YWRXNFozWlVPbVdkX2lMYldseHJZTzZ3akNZZ1F3OVNzOTdhR2kyVEpILXZwTXhUQVhZUFVCX1BfVWtkRQ?oc=5",
-          "snippet": "",
-          "source": "위키리크스한국",
-          "sources": [
-            {
-              "name": "위키리크스한국",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51d2Q2Z2h4T1RlbjJLbjJtZmdEZEVhelNmZ28wX0lKbHJXOHFJQTlkcXg3YWRXNFozWlVPbVdkX2lMYldseHJZTzZ3akNZZ1F3OVNzOTdhR2kyVEpILXZwTXhUQVhZUFVCX1BfVWtkRQ?oc=5",
-              "origin": "google",
-              "title": "[WIKI 현장] 삼성SDS, AI 넘어 AX로…업무 재설계부터 로봇까지 넓힌다"
-            },
-            {
-              "name": "연합뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13Z2x5V2YtUk92RVI0REl1RWdfblF5QXhYTm56eXBKZ2YwdFQ1V3pwZGRGWWp6REFqYlRIallLS2xxX3dCWGJ5eFIzUXA2azB2NFlTaU9fMDJ2RG_SAWBBVV95cUxQRTdlZW84NXdZZ09uUGVWSUE5S0NsZzlGT19manl4OVl6MnlEMjNxUFVxYl9BYmhWV2E3ajFiUEhYZHc0NXlXWHg0LXU3OUxxUVhuU0dpVmpzS2VhV1o5RFk?oc=5",
-              "origin": "google",
-              "title": "삼성SDS, 오픈AI·앤트로픽 손잡고 로봇까지…AX 영토 넓힌다"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-08T18:14:00+09:00",
-          "ts": 1788858840.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -11798,56 +11856,6 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "[현장] 삼성SDS, 글로벌 빅테크 뚫고 AX 결실…\"피지컬 AI·지능형 에이전트로 승부\"",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NclpOM25jTjNla0h4MFY0cUU2Nnc4ZnlPcHFqeHlJcW1rQnJ0UE5zS3p6aFozUS13R3h3eWpwUDk0RzkydGk3S2RweUdSclVoZzlr?oc=5",
-          "snippet": "",
-          "source": "네이트",
-          "sources": [
-            {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NclpOM25jTjNla0h4MFY0cUU2Nnc4ZnlPcHFqeHlJcW1rQnJ0UE5zS3p6aFozUS13R3h3eWpwUDk0RzkydGk3S2RweUdSclVoZzlr?oc=5",
-              "origin": "google",
-              "title": "[현장] 삼성SDS, 글로벌 빅테크 뚫고 AX 결실…\"피지컬 AI·지능형 에이전트로 승부\""
-            },
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260908018651017?input=1195m",
-              "origin": "naver",
-              "title": "[AI픽] 삼성SDS, AX 넘어 RX까지…글로벌 빅테크 총집결(종합)"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-08T17:55:00+09:00",
-          "ts": 1788857700.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "인스웨이브, 일본 IT 기업과 AI 개발 솔루션 협력 확대",
-          "url": "https://www.thelec.kr/news/articleView.html?idxno=61972",
-          "snippet": "웹스퀘어 AI는 생성형 AI를 활용해 퍼블리싱과 코딩부터 테스트, 운영 관리까지 웹 애플리케이션 개발 전 과정을 지원하는 AI 에이전트 기반 사용자환경·사용자경험(UI·UX) 개발 플랫폼이다. 회사는 특히 개발 명세를...",
-          "source": "thelec.kr",
-          "sources": [
-            {
-              "name": "thelec.kr",
-              "url": "https://www.thelec.kr/news/articleView.html?idxno=61972",
-              "origin": "naver",
-              "title": "인스웨이브, 일본 IT 기업과 AI 개발 솔루션 협력 확대"
-            },
-            {
-              "name": "전자신문",
-              "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1RQ0V1YWlNcWwzX0pXZ3VUbDZqRHhTN1hETUR3NS1neENzdWxaT1p1WnZzZ0VvLWFfYXozSkt3LXBpRDZpTDVVZmZBMkQwUQ?oc=5",
-              "origin": "google",
-              "title": "인스웨이브, 'AI 기반 개발'로 日 IT 시장 정조준… 日 주요 IT·SI 기업과 기술 교류 강화"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-08T17:54:00+09:00",
-          "ts": 1788857640.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
           "title": "허희수 사장, AI로 아이스크림 혁신 이끈다⋯ 배스킨라빈스 디지털 전환...",
           "url": "https://www.viva100.com/article/20260908501429",
           "snippet": "생성형 AI 기술이 산업 전반으로 확산되는 가운데, 배스킨라빈스가 제품 개발부터 고객 경험 전반에 AI를 접목하며 식음료(F&B) 업계의 디지털 혁신을 가속화하고 있다. 허희수 사장이 주도해 온 디지털 전환 전략 아래...",
@@ -11869,31 +11877,6 @@
           "source_count": 2,
           "published": "2026-09-08T17:54:00+09:00",
           "ts": 1788857640.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "삼성SDS, 앤트로픽·오픈AI 맞손…RX 첫 공식화",
-          "url": "https://www.mk.co.kr/article/12147354",
-          "snippet": "리얼 서밋 2026 내년 로봇 운영 플랫폼 공개 글로벌 피지컬AI와도 파트너십 \"인공지능(AI) 전환(AX)은 단순히 AI를 도입해 시간과 비용을 절감하는 것과는 차원이 다른, 훨씬 더 근본적인 변화입니다. 어떤 영역을 부분...",
-          "source": "매일경제",
-          "sources": [
-            {
-              "name": "매일경제",
-              "url": "https://www.mk.co.kr/article/12147354",
-              "origin": "naver",
-              "title": "삼성SDS, 앤트로픽·오픈AI 맞손…RX 첫 공식화"
-            },
-            {
-              "name": "아이뉴스24",
-              "url": "http://www.inews24.com/view/2003197",
-              "origin": "naver",
-              "title": "[현장] 삼성SDS, 오픈AI·앤트로픽과 '기업 AX 동맹'⋯\"실험서 실행으로..."
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-08T17:49:00+09:00",
-          "ts": 1788857340.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -11944,31 +11927,6 @@
           "source_count": 2,
           "published": "2026-09-08T17:43:00+09:00",
           "ts": 1788856980.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "\"AGI 시대 열렸다\"…젠슨 황 극찬한 '아스트라'에 국내외 뜨거운 관심",
-          "url": "https://www.banronbodo.com/news/articleView.html?idxno=32989",
-          "snippet": "웹사이트부터 3D 인터렉티브 콘텐츠까지…30분 만에 완성해 국내외 커뮤니티에는 아스트라를 이용해... 3D 지구와 시대별 지표면 변화를 구현한 이 사이트는 제작자에 따르면 약 30분 만에 완성됐다. AI 엔지니어...",
-          "source": "banronbodo.com",
-          "sources": [
-            {
-              "name": "banronbodo.com",
-              "url": "https://www.banronbodo.com/news/articleView.html?idxno=32989",
-              "origin": "naver",
-              "title": "\"AGI 시대 열렸다\"…젠슨 황 극찬한 '아스트라'에 국내외 뜨거운 관심"
-            },
-            {
-              "name": "조선비즈",
-              "url": "https://biz.chosun.com/stock/stock_general/2026/09/08/KOHHYWPF3NAHPBJKZ64EDJEVWA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-              "origin": "naver",
-              "title": "“AGI 시대 열렸다”…아스트라 쏘아 올린 공, 반도체주 추가 반등 이끌..."
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-08T17:36:00+09:00",
-          "ts": 1788856560.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -12044,6 +12002,56 @@
           "source_count": 2,
           "published": "2026-09-08T17:30:00+09:00",
           "ts": 1788856200.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "대구경북, ‘피지컬 AI·SDV’ 미래모빌리티 전환 속도전 나선다",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWOGlLVGQ3TTl1Qk90X21CN1FueTdjdGRPa1VDcUoyZXlpc2M3MGtaWVZKRjFRWG1jSS1lNmxOdTdYb09kSHRtbnRaVFpTb28?oc=5",
+          "snippet": "",
+          "source": "아이뉴스24",
+          "sources": [
+            {
+              "name": "아이뉴스24",
+              "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5Z1I5MFM0T0hReDZCWkliRlh4a3AtWWdmd2g0SkJJbGp4RllibXVjWkZzaWdZYkxNQnpkbEkyTzNxTHFtX1dSeklqdng?oc=5",
+              "origin": "google",
+              "title": "대구경북, ‘피지컬 AI·SDV’ 미래모빌리티 전환 속도전 나선다"
+            },
+            {
+              "name": "kbmaeil.com",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nT29WOUtjX3kyZDBwQlRreHpreUVNWGtySVMtTVlkSzlLMEh2eFpPeWFaZnpRc0xIVGl0b19mYldocGVPZHl2WVhLTmtDaTlZSUFrVWdXSXFydw?oc=5",
+              "origin": "google",
+              "title": "대구경북경자청, ‘피지컬 AI·미래모빌리티’ 산업전략 모색"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-09-08T17:23:28+09:00",
+          "ts": 1788855808.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "대구·경북, AI·로봇 인재 양성…국비 960억 확보",
+          "url": "http://www.yonhapnewstv.co.kr/news/AKR20260908165147p4w",
+          "snippet": "성장엔진 인재 양성 사업에는 금오공대와 포항공대, DGIST 등 대구·경북 8개 대학이 참여해 피지컬 AI 분야 인재 3천여 명을 양성합니다. 경북대가 중심이 되는 초광역 공유대학에서는 반도체와 로봇, 이차전지, 모빌리티...",
+          "source": "연합뉴스TV",
+          "sources": [
+            {
+              "name": "연합뉴스TV",
+              "url": "http://www.yonhapnewstv.co.kr/news/AKR20260908165147p4w",
+              "origin": "naver",
+              "title": "대구·경북, AI·로봇 인재 양성…국비 960억 확보"
+            },
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260908140300053?input=1195m",
+              "origin": "naver",
+              "title": "계명대·대구대, AI 인재 양성 및 사이버안보 국책사업에 참여"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-09-08T16:52:00+09:00",
+          "ts": 1788853920.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -12273,31 +12281,6 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "DGFEZ, 8일 '피지컬 AI & 미래모빌리티 혁신 포럼' 개최",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ucW9SbGFXZzJKVHZoTmdJU2NDSlV1U0JSWm43VmZYRGx1ZGRHTVFUTzQtVE5qQWE1b2VXd21GSUpsbWMwQWJtQ2Q2djJlUQ?oc=5",
-          "snippet": "",
-          "source": "전자신문",
-          "sources": [
-            {
-              "name": "전자신문",
-              "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ucW9SbGFXZzJKVHZoTmdJU2NDSlV1U0JSWm43VmZYRGx1ZGRHTVFUTzQtVE5qQWE1b2VXd21GSUpsbWMwQWJtQ2Q2djJlUQ?oc=5",
-              "origin": "google",
-              "title": "DGFEZ, 8일 '피지컬 AI & 미래모빌리티 혁신 포럼' 개최"
-            },
-            {
-              "name": "뉴스프리존",
-              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZSUdRejl6Mlp5dlRUTkhKZk5XZ1hrWVlibVJpSmZrR0pPdE5LdnRPR3dQME5pbE9XUEM1cjJzQmtadzgzdGwxS25ScnU2Z3pGdU40R0E0VDVNUzMxQ3d2Sm0tdExBSkNRRTNjYlVyRDBVY0XSAXdBVV95cUxOMEpJOHpOZGRlcTNfSV85VmJkSVJpVk4wMTdYbjdsbTRfcXBiZ2Vqb0hRc3RrNjAwTkY1d2IwYXduWENrTFJ6RDdpazNBMWozd2t5U3FyY19McTZaQVl4bUdYNDNwemZFVW1KZ2d0bm4xcHRWeWx6NA?oc=5",
-              "origin": "google",
-              "title": "DGFEZ, '피지컬 AI & 미래모빌리티 혁신 포럼' 개최"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-08T16:02:00+09:00",
-          "ts": 1788850920.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
           "title": "소비자법학회, ‘AI 시대 소비자보호’ 추계학술대회",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGd2VNOWJrc3UyRHhFdjZJdDNEbWFtWTdHbzltUzFuZ1hQWW1Va1lNYnh2RnkzUnM1STNMMXY1RjdzTkZKR2VZdkJFSUZmQS0yb0t1OUJaSkZ3aEZ0aUIwOVFzTktQQ0JKWHduSml0U1hKQdIBckFVX3lxTFBGd2VNOWJrc3UyRHhFdjZJdDNEbWFtWTdHbzltUzFuZ1hQWW1Va1lNYnh2RnkzUnM1STNMMXY1RjdzTkZKR2VZdkJFSUZmQS0yb0t1OUJaSkZ3aEZ0aUIwOVFzTktQQ0JKWHduSml0U1hKQQ?oc=5",
           "snippet": "",
@@ -12348,6 +12331,31 @@
           "group_label": "AI · 생성형AI"
         },
         {
+          "title": "\"AI가 만들어주는 시대, 콘텐츠 창작은 제작보다 '설계'가 핵심\" [AI Worl...",
+          "url": "https://www.fnnews.com/news/202609081400178383",
+          "snippet": "글로벌 AI 콘텐츠 시장에서는 한국이 보유한 스토리텔링 자산과 팬덤을 다루는 감각이 경쟁력이 될 것으로 전망했다. 다만 콘텐츠 산업의 투자 위축은 풀어야 할 과제로 꼽았다. 김 디렉터는 \"콘텐츠 분야 벤처투자는...",
+          "source": "파이낸셜뉴스",
+          "sources": [
+            {
+              "name": "파이낸셜뉴스",
+              "url": "https://www.fnnews.com/news/202609081400178383",
+              "origin": "naver",
+              "title": "\"AI가 만들어주는 시대, 콘텐츠 창작은 제작보다 '설계'가 핵심\" [AI Worl..."
+            },
+            {
+              "name": "v.daum.net",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83ZUlWNWNBcEFRcHJhQjhBdkt2UmR4WDNrcEtidGpINzdMTkJPYjZVZ0JhemgxQWl6bnJvbWJ3c0xoNlFtVTVndmZMSmVNSzQ?oc=5",
+              "origin": "google",
+              "title": "\"AI가 만들어주는 시대, 콘텐츠 창작은 제작보다 '설계'가 핵심\" [AI World 2026]"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-09-08T15:48:00+09:00",
+          "ts": 1788850080.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
           "title": "에프에이모스트, 리테일 아웃소싱에 AI 에이전트 시스템 도입",
           "url": "https://www.fashionbiz.co.kr/article/229325",
           "snippet": "최근 기업들이 생성형 AI를 검색이나 문서 작성 도구를 넘어 실제 업무를 수행하고 지원하는 AI 에이전트로... 기존 담당자가 직접 수행하던 자료 조사 · 정보 정리 · 콘텐츠 관련 업무 등 반복적인 업무를 AI 에이전트가...",
@@ -12371,6 +12379,56 @@
           "ts": 1788850080.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "AI 영화 시사회 참석한 하정우 \"AI 콘텐츠 전략 논의하겠다\"",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11OFlKVmh3WFFqMzJJeWE5cW5SVnVpeTRzVHNtQVhpaXpCVkpuWk82a2pJNXhVZzlEcUt5NVFYeTZtMHktSU1YZEdlWGprejZTTDVr?oc=5",
+          "snippet": "",
+          "source": "네이트",
+          "sources": [
+            {
+              "name": "네이트",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11OFlKVmh3WFFqMzJJeWE5cW5SVnVpeTRzVHNtQVhpaXpCVkpuWk82a2pJNXhVZzlEcUt5NVFYeTZtMHktSU1YZEdlWGprejZTTDVr?oc=5",
+              "origin": "google",
+              "title": "AI 영화 시사회 참석한 하정우 \"AI 콘텐츠 전략 논의하겠다\""
+            },
+            {
+              "name": "뉴스1",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PMmtHc2FwVWJaZlI3U0pmem9NRWtkTDdVa3VxbzRnN1hrbTNvYzB1UFlSTFBlMWRYRndnU1d4YnRNbHNkT0JTY1JDMlRObzlIYVUyR3lzS01aQnZfYjNPa1ZZZjBwQzdr0gFuQVVfeXFMUFNsQnZzR0xQdnlfR2hmWGZnM1p4Nm9lZkdHTlVyWWdYLTZ0NVJLRkRuSUswY0RyZ0dXdW42RDVFWV9VRE5xSzMyb1E0M3lwdkk0TUxfdzBFTl9TeUF0a0FCUlR3TDR0T2NGMWlGVEE?oc=5",
+              "origin": "google",
+              "title": "AI 영화 시사회 참석한 하정우 \"AI 콘텐츠 전략 논의하겠다\""
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-09-08T14:37:59+09:00",
+          "ts": 1788845879.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "에이서, IFA 2026서 신제품 공개…799g 초경량 노트북부터 AI·게이밍까지",
+          "url": "https://www.betanews.net/article/view/beta202609080042",
+          "snippet": "컴팩트한 폼팩터에서도 개인 AI 에이전트를 비롯한 에이전틱 AI 워크로드를 로컬 환경에서 처리할 수 있도록 설계돼 크리에이터와 AI 개발자, 게이머 등 다양한 사용 환경을 지원한다. 게이밍 핸드헬드...",
+          "source": "betanews.net",
+          "sources": [
+            {
+              "name": "betanews.net",
+              "url": "https://www.betanews.net/article/view/beta202609080042",
+              "origin": "naver",
+              "title": "에이서, IFA 2026서 신제품 공개…799g 초경량 노트북부터 AI·게이밍까지"
+            },
+            {
+              "name": "게임어바웃",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pWFgxMXZnb1NuRElqR3Z1Ri12RzBTLWNrM1FXS2RiSk9BSmh6a2JhQzVqRXVhN3ZYNDF5MmpfcG9ueVpqRmd1aGd2OXVVZUhTUTZ1ZllvVjNyR1lMWVVkdmhleEJlcm1ZZFYzTNIBb0FVX3lxTE9jeXc4Rm9La2VOTTNjdDZucWhiVXBGY3dZSUhJX1oxUk1KeGJRN01yaHdxZXRKZ1lqaW9YY09hRXdYdUgyX2xQdS12WVNBbllzYlhBU01CVi1IWkxDdFR3SWFZYkRQaEx6Ny1Zb296MA?oc=5",
+              "origin": "google",
+              "title": "에이서, IFA 2026서 신제품 대거 공개… 799g 초경량 노트북부터 AI·게이밍까지"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-09-08T13:32:00+09:00",
+          "ts": 1788841920.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
         }
       ]
     },
@@ -12380,7 +12438,7 @@
       "priority": 12,
       "page": "trends",
       "preview": 3,
-      "count": 152,
+      "count": 149,
       "items": [
         {
           "title": "마브렉스, ‘픽셀 테이머즈’ 앱스토어 인기 1위…웹3 퍼블리싱 성과",
@@ -12497,7 +12555,7 @@
               "title": "마브렉스 ‘픽셀 테이머즈’, 앱스토어 인기 1위… 웹3 게임 돌풍"
             },
             {
-              "name": "비욘드포스트",
+              "name": "beyondpost.co.kr",
               "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xdG9CVF9hR0RFTXhzaG1qSFZEZVJ3Vm1ERDlGZ3R1ZXJiV3FkR3pPdWJaRDJjLWZKZURERU5zN2h6ZVUzVm1ncEY4Qlh1VXZpaFlFb3l0TGV3cGo1aDNvS1dnREN1MWNHdTdqSUM1aUVzdmtOLWY1QlVCS0c?oc=5",
               "origin": "google",
               "title": "마브렉스 ‘픽셀 테이머즈’, 출시 3주 만에 애플 무료게임 1위"
@@ -12546,12 +12604,6 @@
               "title": "청송의 매력, 60초에 담아라…‘청송에 반하다’ 숏폼 공모전"
             },
             {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3RGRIN1RPQ29ScmFxeTFCSVVfYkowMFJmem9SMGo2NzRIRzdhQ3ZWT3Y2TTZxOXhqUXBJUUxNX1djT1JWOGJnTUlQd2JoeXV4QWpz?oc=5",
-              "origin": "google",
-              "title": "청송의 매력 숏폼 영상 공모전 개최…온라인 홍보 강화"
-            },
-            {
               "name": "청송군민신문",
               "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tSjlGUzdDejdqdjRUME4tTUoyUHZxWWRGUkdPSjhYcjNSb1dmNVBJOTl3WEw2Y3htbm1pUW1NZENNUlcyVC1oVXFrZ2VCdkNqMXlWMEQwcG1NcXh1T3FmQlpzMEtVSmw4SEEza21UaU1YSjg?oc=5",
               "origin": "google",
@@ -12562,6 +12614,12 @@
               "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRaUxyaU93b3JOZzhyMVdFQk9RUm1ab2lsemdnXy1QS1Y2VDVFMHF1Umd4aXdING9DNjluZGdlY0czYUphY25XMXFOdkRpeWltMWh4emZaOUdnZTJldWRPZFczbldRTnNqaW9B?oc=5",
               "origin": "google",
               "title": "청송군, ‘청송에 반하다’ 숏폼 영상 공모전...60초의 매력 발굴"
+            },
+            {
+              "name": "네이트",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3RGRIN1RPQ29ScmFxeTFCSVVfYkowMFJmem9SMGo2NzRIRzdhQ3ZWT3Y2TTZxOXhqUXBJUUxNX1djT1JWOGJnTUlQd2JoeXV4QWpz?oc=5",
+              "origin": "google",
+              "title": "청송의 매력 숏폼 영상 공모전 개최…온라인 홍보 강화"
             },
             {
               "name": "코리아투데이뉴스",
@@ -12707,43 +12765,6 @@
           "source_count": 5,
           "published": "2026-09-07T15:26:00+09:00",
           "ts": 1788762360.0,
-          "group": "trend_content",
-          "group_label": "콘텐츠 · 크리에이터"
-        },
-        {
-          "title": "[이슈/ 이재명 대통령, 미국 영화협회 대표단 접견] “문화가 곧 국가 경쟁력”…이 대통령, 넷플릭스·디즈니 등에 K콘텐츠 투자 당부",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBcFlpZVNDc2h6X1VxYnNPWW51a0VjRGE0X3BkNUxBd0IweW5OdUk5N3VCcU9rWVQyTXJ0YWlHVTN0aklwaWY0bEM4NFM2UWRCcnVneXlrZDVFeExVNGZfOTROMU9INzRUOTVidk1n?oc=5",
-          "snippet": "",
-          "source": "코리아포스트 한글판",
-          "sources": [
-            {
-              "name": "코리아포스트 한글판",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBcFlpZVNDc2h6X1VxYnNPWW51a0VjRGE0X3BkNUxBd0IweW5OdUk5N3VCcU9rWVQyTXJ0YWlHVTN0aklwaWY0bEM4NFM2UWRCcnVneXlrZDVFeExVNGZfOTROMU9INzRUOTVidk1n?oc=5",
-              "origin": "google",
-              "title": "[이슈/ 이재명 대통령, 미국 영화협회 대표단 접견] “문화가 곧 국가 경쟁력”…이 대통령, 넷플릭스·디즈니 등에 K콘텐츠 투자 당부"
-            },
-            {
-              "name": "매일경제",
-              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FQ1BNdlpDZy1DZDk4TmYtVlY1TGJ0bmhacGcxYmR3YjIzRHhuTmY4MlhKWExPanBFTzRUWVNodTAtR1lXSXJrRjdleHh4Uk5ETjhMTEdR?oc=5",
-              "origin": "google",
-              "title": "李대통령 “잘되는 K콘텐츠? 민주주의 덕분”…넷플릭스·디즈니에 韓투자 당부"
-            },
-            {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzVUJyanFEaWNlenhlbnFmNFc3S3N4RV9HQXdlWXRtb21ERE5JbjhWSUU2b0g2WDVwYTdzNjZTTlJFUUVNN2kzelJLREI4VlotYUNB?oc=5",
-              "origin": "google",
-              "title": "李대통령 \"로컬이 곧 글로벌 경쟁력\"…K콘텐츠 글로벌 협력모델 제시"
-            },
-            {
-              "name": "서울경제",
-              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50RXJ5RkJzVDlCQkZ1Yzl4Z213djdDY3JKdlBIbjJYZFlwZzVncldZVG1NV1JzSnBFam1BN18yLWdWQXVYd0NvTkZqNk1Na0s5clHSAVNBVV95cUxQaWxSNTN1R2l1MjdwOG5WWjAwTHBNeHFrbXdId2ItdTdUemYzYUQtXzJkR3FqUVJjRnhjdE9zTDZvSTRFVXlIQ29kTjIwVUMtcU90RQ?oc=5",
-              "origin": "google",
-              "title": "李대통령 “로컬이 곧 글로벌 경쟁력”…K콘텐츠 글로벌 협력모델 제시"
-            }
-          ],
-          "source_count": 4,
-          "published": "2026-09-08T16:49:08+09:00",
-          "ts": 1788853748.0,
           "group": "trend_content",
           "group_label": "콘텐츠 · 크리에이터"
         },
@@ -12997,6 +13018,37 @@
           "source_count": 3,
           "published": "2026-09-08T18:06:00+09:00",
           "ts": 1788858360.0,
+          "group": "trend_content",
+          "group_label": "콘텐츠 · 크리에이터"
+        },
+        {
+          "title": "[이슈/ 이재명 대통령, 미국 영화협회 대표단 접견] “문화가 곧 국가 경쟁력”…이 대통령, 넷플릭스·디즈니 등에 K콘텐츠 투자 당부",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBcFlpZVNDc2h6X1VxYnNPWW51a0VjRGE0X3BkNUxBd0IweW5OdUk5N3VCcU9rWVQyTXJ0YWlHVTN0aklwaWY0bEM4NFM2UWRCcnVneXlrZDVFeExVNGZfOTROMU9INzRUOTVidk1n?oc=5",
+          "snippet": "",
+          "source": "코리아포스트 한글판",
+          "sources": [
+            {
+              "name": "코리아포스트 한글판",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBcFlpZVNDc2h6X1VxYnNPWW51a0VjRGE0X3BkNUxBd0IweW5OdUk5N3VCcU9rWVQyTXJ0YWlHVTN0aklwaWY0bEM4NFM2UWRCcnVneXlrZDVFeExVNGZfOTROMU9INzRUOTVidk1n?oc=5",
+              "origin": "google",
+              "title": "[이슈/ 이재명 대통령, 미국 영화협회 대표단 접견] “문화가 곧 국가 경쟁력”…이 대통령, 넷플릭스·디즈니 등에 K콘텐츠 투자 당부"
+            },
+            {
+              "name": "네이트",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzVUJyanFEaWNlenhlbnFmNFc3S3N4RV9HQXdlWXRtb21ERE5JbjhWSUU2b0g2WDVwYTdzNjZTTlJFUUVNN2kzelJLREI4VlotYUNB?oc=5",
+              "origin": "google",
+              "title": "李대통령 \"로컬이 곧 글로벌 경쟁력\"…K콘텐츠 글로벌 협력모델 제시"
+            },
+            {
+              "name": "서울경제",
+              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50RXJ5RkJzVDlCQkZ1Yzl4Z213djdDY3JKdlBIbjJYZFlwZzVncldZVG1NV1JzSnBFam1BN18yLWdWQXVYd0NvTkZqNk1Na0s5clHSAVNBVV95cUxQaWxSNTN1R2l1MjdwOG5WWjAwTHBNeHFrbXdId2ItdTdUemYzYUQtXzJkR3FqUVJjRnhjdE9zTDZvSTRFVXlIQ29kTjIwVUMtcU90RQ?oc=5",
+              "origin": "google",
+              "title": "李대통령 “로컬이 곧 글로벌 경쟁력”…K콘텐츠 글로벌 협력모델 제시"
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-09-08T16:49:08+09:00",
+          "ts": 1788853748.0,
           "group": "trend_content",
           "group_label": "콘텐츠 · 크리에이터"
         },
@@ -13281,6 +13333,31 @@
           "group_label": "콘텐츠 · 크리에이터"
         },
         {
+          "title": "이 대통령, 미 영화협회 만나 \"K콘텐츠는 민주주의와 개방성이 만든 힘...",
+          "url": "https://www.the-today.com/news/articleView.html?idxno=89686",
+          "snippet": "이번 접견은 K콘텐츠를 단순한 문화 교류 수단이 아닌 투자와 일자리, 수출을 견인할 전략산업으로 육성하겠다는 정부의 정책 방향을 국제 미디어 업계에 알리는 자리로 풀이된다. 다만 정부 지원이 대형 제작사와 글로벌...",
+          "source": "the-today.com",
+          "sources": [
+            {
+              "name": "the-today.com",
+              "url": "https://www.the-today.com/news/articleView.html?idxno=89686",
+              "origin": "naver",
+              "title": "이 대통령, 미 영화협회 만나 \"K콘텐츠는 민주주의와 개방성이 만든 힘..."
+            },
+            {
+              "name": "매일경제",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FQ1BNdlpDZy1DZDk4TmYtVlY1TGJ0bmhacGcxYmR3YjIzRHhuTmY4MlhKWExPanBFTzRUWVNodTAtR1lXSXJrRjdleHh4Uk5ETjhMTEdR?oc=5",
+              "origin": "google",
+              "title": "李대통령 “잘되는 K콘텐츠? 민주주의 덕분”…넷플릭스·디즈니에 韓투자 당부"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-09-08T07:42:00+09:00",
+          "ts": 1788820920.0,
+          "group": "trend_content",
+          "group_label": "콘텐츠 · 크리에이터"
+        },
+        {
           "title": "네이버웹툰, 완결 후에도 작가 챙긴다⋯차기작 준비 지원",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NM1dqaUZxeG1iM2pFTUJrOUdqdmVjX0J5cFMtWkR4aUh3bTQyd295cDJiLUN6VUE3d2hUcGFjVnB0THprcm1TVE9FTFU0WmlHZXdKa0pfZ0gzN05EOHhhRXo1SEFHTGZ6bDJr0gFrQVVfeXFMTk0zV2ppRnF4bWIzakVNQms5R2p2ZWNfQnlwUy1aRHhpSHdtNDJ3b3lwMmItQ3pVQTd3aFRwYWNWcHRMemtybVNUT0VMVTRaaUdld0prSl9nSDM3TkQ4eGFFejVIQUdMZnpsMms?oc=5",
           "snippet": "",
@@ -13402,31 +13479,6 @@
           "source_count": 2,
           "published": "2026-09-07T17:37:09+09:00",
           "ts": 1788770229.0,
-          "group": "trend_content",
-          "group_label": "콘텐츠 · 크리에이터"
-        },
-        {
-          "title": "배민 자체 IP 확장 시도 : '도착의 기쁨' 담은 캐릭터 '도치학'으로 브랜...",
-          "url": "https://www.huffingtonpost.kr/article/260201",
-          "snippet": "",
-          "source": "huffingtonpost.kr",
-          "sources": [
-            {
-              "name": "huffingtonpost.kr",
-              "url": "https://www.huffingtonpost.kr/article/260201",
-              "origin": "naver",
-              "title": "배민 자체 IP 확장 시도 : '도착의 기쁨' 담은 캐릭터 '도치학'으로 브랜..."
-            },
-            {
-              "name": "허프포스트코리아",
-              "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBjV2wyWkx2UFl0SXJiTE5yNU9LM083WE9pcWRHaEdLWFFudEVCSWtjMXF4WkpUNzlUSDc0UWIyM1FqaGNGVl9aZEVBaEkwSEx3emJvUWJGaw?oc=5",
-              "origin": "google",
-              "title": "배민 자체 IP 확장 시도 : '도착의 기쁨' 담은 캐릭터 '도치학'으로 브랜드 세계관 키운다"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-07T13:44:00+09:00",
-          "ts": 1788756240.0,
           "group": "trend_content",
           "group_label": "콘텐츠 · 크리에이터"
         },
@@ -13598,25 +13650,6 @@
           "source_count": 1,
           "published": "2026-09-08T17:12:00+09:00",
           "ts": 1788855120.0,
-          "group": "trend_content",
-          "group_label": "콘텐츠 · 크리에이터"
-        },
-        {
-          "title": "[유통人] 서정호의 롯데웰푸드 새판짜기… 인도 1조·빼빼로 세계화 정...",
-          "url": "http://www.newsian.co.kr/news/articleView.html?idxno=95003",
-          "snippet": "롯데웰푸드는 두 시장에서 K-푸드에 대한 관심을 활용하되 한국 제품을 그대로 이식하는 방식에서... 제품만 수출하는 것도 아니다. 롯데웰푸드는 '빼빼로데이'라는 한국 특유의 문화를 하나의 글로벌 마케팅 콘텐츠로...",
-          "source": "newsian.co.kr",
-          "sources": [
-            {
-              "name": "newsian.co.kr",
-              "url": "http://www.newsian.co.kr/news/articleView.html?idxno=95003",
-              "origin": "naver",
-              "title": "[유통人] 서정호의 롯데웰푸드 새판짜기… 인도 1조·빼빼로 세계화 정..."
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-08T17:10:00+09:00",
-          "ts": 1788855000.0,
           "group": "trend_content",
           "group_label": "콘텐츠 · 크리에이터"
         },
@@ -14320,6 +14353,25 @@
           "source_count": 1,
           "published": "2026-09-08T11:11:00+09:00",
           "ts": 1788833460.0,
+          "group": "trend_content",
+          "group_label": "콘텐츠 · 크리에이터"
+        },
+        {
+          "title": "K콘텐츠 11개 협·단체 공동선언… \"2030년 매출 220조 목표\"",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vV1Zvd2Z1ZG1DbENSZmNKSGlBcG0yRDQyb3l0RUdUZHQ1anZXdVVNejZyV2NWcHY4dS1KXzIxOVhacHdUMHBPZzJVdHNadkJIdUZpQkVSb3Jxa2R1aU5DRUJmNXFFcUFfZVpIYTNGRlg?oc=5",
+          "snippet": "",
+          "source": "IT조선",
+          "sources": [
+            {
+              "name": "IT조선",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vV1Zvd2Z1ZG1DbENSZmNKSGlBcG0yRDQyb3l0RUdUZHQ1anZXdVVNejZyV2NWcHY4dS1KXzIxOVhacHdUMHBPZzJVdHNadkJIdUZpQkVSb3Jxa2R1aU5DRUJmNXFFcUFfZVpIYTNGRlg?oc=5",
+              "origin": "google",
+              "title": "K콘텐츠 11개 협·단체 공동선언… \"2030년 매출 220조 목표\""
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-08T11:10:15+09:00",
+          "ts": 1788833415.0,
           "group": "trend_content",
           "group_label": "콘텐츠 · 크리에이터"
         },
@@ -15186,7 +15238,7 @@
       "priority": 13,
       "page": "trends",
       "preview": 3,
-      "count": 153,
+      "count": 150,
       "items": [
         {
           "title": "한진, 아이치·나고야 아시안게임 방송장비 국제운송 전담",
@@ -15249,7 +15301,7 @@
               "title": "한진, 아이치·나고야 아시안게임 방송장비 국제운송 맡는다"
             },
             {
-              "name": "hellot.net",
+              "name": "헬로티",
               "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSWGc4Nm0wVTN4MHhuOEpqbUJXaE5tM1ZwM2RtWW9OMDh6RnBnd0ZZWkVTdTc0dkNXUDNhNjlFcGJsQkJVOGEtOTdvSUhUeTlvWDQ0clp2cFJzV3BETjlR?oc=5",
               "origin": "google",
               "title": "한진, 아이치-나고야 아시안게임 방송 중계장비 국제운송 전 과정 전담"
@@ -15444,6 +15496,12 @@
               "title": "한진, 아이치-나고야 아시안게임 방송 장비 운송"
             },
             {
+              "name": "지디넷코리아",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiNmZUVkhhakRWQW5UelRjck5ONHljSC15VGkxMVpndE40UUhPeng5T1huV2hPWmtEN0pLTVVKRTNMWnMwRmdsdjlzWjFuWmZUSm4tcmhn?oc=5",
+              "origin": "google",
+              "title": "한진, 아이치·나고야 아시안게임 중계장비 운송 전담"
+            },
+            {
               "name": "연합뉴스",
               "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mb0hHeXlIdmw1ZWdCTFdyLUtwVmZzekRPMk8zVXBfNTJ2Y0dIa0RxM1d0OFRSQ3JZX1BOOU01RG9VcE5WR2RTY1llai1qdTZGejRRZl85b2dZSFN3M0hZRtIBYEFVX3lxTE9mb0hHeXlIdmw1ZWdCTFdyLUtwVmZzekRPMk8zVXBfNTJ2Y0dIa0RxM1d0OFRSQ3JZX1BOOU01RG9VcE5WR2RTY1llai1qdTZGejRRZl85b2dZSFN3M0hZRg?oc=5",
               "origin": "google",
@@ -15462,7 +15520,7 @@
               "title": "한진, 아이치·나고야 아시안게임 방송 장비 운송 맡는다"
             }
           ],
-          "source_count": 7,
+          "source_count": 8,
           "published": "2026-09-08T11:21:00+09:00",
           "ts": 1788834060.0,
           "group": "trend_game",
@@ -15567,6 +15625,49 @@
           "group_label": "게임 · e스포츠"
         },
         {
+          "title": "넷마블문화재단, 장애학생 'e스포츠 올림픽' 개최…전국 1600명 한자리",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2em9yR2M5WHBxR0FWLWtKM1BNMnRzeTZIdnZ0SzZ2dTRFWnVmV1BKNldENXctZG1FQTFRZ3Q0dEdaUlRESjNWUHZ4YW1UNDFiX2pXZEVsUWNlb2UxaE1SUEZOY2JDZw?oc=5",
+          "snippet": "",
+          "source": "이로운넷",
+          "sources": [
+            {
+              "name": "이로운넷",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2em9yR2M5WHBxR0FWLWtKM1BNMnRzeTZIdnZ0SzZ2dTRFWnVmV1BKNldENXctZG1FQTFRZ3Q0dEdaUlRESjNWUHZ4YW1UNDFiX2pXZEVsUWNlb2UxaE1SUEZOY2JDZw?oc=5",
+              "origin": "google",
+              "title": "넷마블문화재단, 장애학생 'e스포츠 올림픽' 개최…전국 1600명 한자리"
+            },
+            {
+              "name": "뉴스핌",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fcWRwMFJrMl9IUjJJaF9Oem1oeGd4QkRTQ3ZpQTB1ZXY5X2NvekRhc0JrNWpWSjN5Skh4ckptMjdNekxSVW44YXlSai1lNHM0MHlXZ1VKT2hzLUk3?oc=5",
+              "origin": "google",
+              "title": "장애학생 1600명 AI·e스포츠로 실력 겨룬다…전국 e페스티벌 개최"
+            },
+            {
+              "name": "컨슈머타임스",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yU2RvSzhWX0EzREswSTZrTDdla1EwZ19tTTkxRXd0OGlfTVJpazQ0QXZ0SXZ3T3JSbHlONjN0eVVtVGhGdVdyYXBxS0FFbmdnQkZkcUlFeVpLeVY1Q1ZCZlB4b1EtbWFWNXc?oc=5",
+              "origin": "google",
+              "title": "넷마블문화재단, 홍천서 '장애학생 e스포츠 대회' 개최"
+            },
+            {
+              "name": "서울경제TV",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90eUJsckhuRlE3Tk9hY0VlU1NhMlVVaC02VDhRMjI5YzFITXRValFhYU13cU8yYlVCZFBpMEt1LWhBdm9WWEtfbTFkY2pYZEZ3a0xhLVBxeGRBWk95LXplVWo0WGU?oc=5",
+              "origin": "google",
+              "title": "넷마블문화재단, 장애학생 e스포츠 축제 개최…1600명 참가"
+            },
+            {
+              "name": "더게이트",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xcXRSbDJLMkk4dEdsSFlzM3BMdHNoaHJ2MVpTaVozd0s4RWtHaHZJa2pRUW1QWVpfNi12MDN2QnNYWEN2a21qMmk0TWRIa0JSd0wyeTg5Y3hHNUtvMHpaYkpoXzJtaDFZ0gFsQVVfeXFMTm9yaXpFN3M3bHRTMTNpdVBUYzVCOU5WUWVDMC1ZNE5HSXdPd3FzVG41bGR4M0g4ejJuTy1JSVV5NXNEYWtzdEctV0t3a2xvbnZ5TDI5bU9ObGFIeWRVS21HZnRhaFZudmEybGc4?oc=5",
+              "origin": "google",
+              "title": "“3천여 명 지역예선 거쳤다”…넷마블, 장애학생 ‘e스포츠 올림픽’ 개막"
+            }
+          ],
+          "source_count": 5,
+          "published": "2026-09-08T17:47:26+09:00",
+          "ts": 1788857246.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
           "title": "배틀그라운드, '주술회전'과 컬래버레이션...10일 업데이트",
           "url": "https://hbnpress.com/news/view/1065587025950109",
           "snippet": "컬래버레이션 기간에는 인게임 미션을 수행하고 아이템을 획득할 수 있는 이벤트가 운영된다. PC에서는 이달 10일부터 다음달 14일까지, 콘솔에서는 이달 17일부터 다음달 22일까지 진행된다.",
@@ -15622,12 +15723,6 @@
               "title": "현장 경험 쌓은 광명시장배 청소년 e스포츠 대회"
             },
             {
-              "name": "웹이코노미",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFByWGJxd2lHY3ZXYWVZTk5hbXlzdEpVSUE5OTZKdDdLeTI0dWdMWE80bWFQbDhsb18tRENFX2dDcml6UTlJUWNYaURxUXM0ekMwMm1LdFBNWXNlUklGVUZMM1hzUnZuZGZfR2FMSmRudGZOdw?oc=5",
-              "origin": "google",
-              "title": "광명시, 제3회 청소년 e스포츠 대회 성료… 160명 참가 열기"
-            },
-            {
               "name": "광명일보",
               "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaZU1BUFBVV2RXSExWMnV1SUYtZUdzMHpSandCTDBmNUxfbkJaQzZxNEdVVDkyZFZqMlA3cDRNUGtiUkRvTVRNdnNqZmpfRE5VRFZZYk1LTWR6Rmh0dGh4eGxYeTBLWEdHUFHSAWxBVV95cUxORjhRUFI2cWdzcUQ0R3Z4SjVObnBCWkQ4N0QzR1BoU3o2YWl1NS03OGU3TUd0QmxiRHFRUDAtRzcybFFucDlqT1FscnNvaUxzS1BYRW9DTzByOFh4aXRZVEV5UUxqRlh5ckhObWI?oc=5",
               "origin": "google",
@@ -15644,6 +15739,12 @@
               "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80bDBvZElPbl9XSkZwQ2twQTM4TVpDc3pUeG4tRjIxLW9uZlcwNmhUemV2c0M2aGZobEhxb1lBaFRCNVR5LTBvSm5UMFlHdlZ6dG1jeVlKSTZzRTJYQVQtb0huMk96dGM?oc=5",
               "origin": "google",
               "title": "광명시, 제3회 청소년 e스포츠 대회 마쳐… 진로 특강부터 결승까지 뜨거운 열기"
+            },
+            {
+              "name": "웹이코노미",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFByWGJxd2lHY3ZXYWVZTk5hbXlzdEpVSUE5OTZKdDdLeTI0dWdMWE80bWFQbDhsb18tRENFX2dDcml6UTlJUWNYaURxUXM0ekMwMm1LdFBNWXNlUklGVUZMM1hzUnZuZGZfR2FMSmRudGZOdw?oc=5",
+              "origin": "google",
+              "title": "광명시, 제3회 청소년 e스포츠 대회 성료… 160명 참가 열기"
             }
           ],
           "source_count": 5,
@@ -15720,7 +15821,7 @@
               "title": "韓 게임사, 日 도쿄게임쇼서 '서브컬처'로 집결?"
             },
             {
-              "name": "바이라인네트워크",
+              "name": "byline.network",
               "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5WV1hKN09UX08yVTVJcnB3cVFPQnMtZk80NXRuMHJVM3dNcWJJZWQ4N1Q5aEpKY0Q2eEQ5ejBOTGk2SDc5amRfMmZuaktvZw?oc=5",
               "origin": "google",
               "title": "서브컬처 본고장 공략 나선 ‘K-게임’, 도쿄게임쇼 총출동"
@@ -15733,76 +15834,39 @@
           "group_label": "게임 · e스포츠"
         },
         {
-          "title": "넷마블문화재단, 장애학생 'e스포츠 올림픽' 개최…전국 1600명 한자리",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2em9yR2M5WHBxR0FWLWtKM1BNMnRzeTZIdnZ0SzZ2dTRFWnVmV1BKNldENXctZG1FQTFRZ3Q0dEdaUlRESjNWUHZ4YW1UNDFiX2pXZEVsUWNlb2UxaE1SUEZOY2JDZw?oc=5",
+          "title": "오블리콘, 부산 ‘BIC 2026’서 로그라이크 덱빌딩 게임 ‘넷 레이더스’ 성황리 전시",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13bVJkXzZXbGltOG9qQ1Q5T3pUNWU3SHNjSzlFMWl6Ui1SWG9uX2ZwTzFwQUhqX3NweWxUMWtXZlc3XzlPMUw3cmliU2JEaS1HemVGWUg0YUxmdmszSk9UV0lVZVRkMkdQLVRkWnln?oc=5",
           "snippet": "",
-          "source": "이로운넷",
+          "source": "koreasprint.com",
           "sources": [
             {
-              "name": "이로운넷",
-              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2em9yR2M5WHBxR0FWLWtKM1BNMnRzeTZIdnZ0SzZ2dTRFWnVmV1BKNldENXctZG1FQTFRZ3Q0dEdaUlRESjNWUHZ4YW1UNDFiX2pXZEVsUWNlb2UxaE1SUEZOY2JDZw?oc=5",
+              "name": "koreasprint.com",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13bVJkXzZXbGltOG9qQ1Q5T3pUNWU3SHNjSzlFMWl6Ui1SWG9uX2ZwTzFwQUhqX3NweWxUMWtXZlc3XzlPMUw3cmliU2JEaS1HemVGWUg0YUxmdmszSk9UV0lVZVRkMkdQLVRkWnln?oc=5",
               "origin": "google",
-              "title": "넷마블문화재단, 장애학생 'e스포츠 올림픽' 개최…전국 1600명 한자리"
+              "title": "오블리콘, 부산 ‘BIC 2026’서 로그라이크 덱빌딩 게임 ‘넷 레이더스’ 성황리 전시"
             },
             {
-              "name": "뉴스핌",
-              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fcWRwMFJrMl9IUjJJaF9Oem1oeGd4QkRTQ3ZpQTB1ZXY5X2NvekRhc0JrNWpWSjN5Skh4ckptMjdNekxSVW44YXlSai1lNHM0MHlXZ1VKT2hzLUk3?oc=5",
+              "name": "한국인포맥스",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kdS1nN3llbUJ4TFlTOTk2a3ZFRkpVQWlaa1JkeGd4UGNRZ285eE9zenQ1aERQR1RBaGlBYklXbmdQQ1RKWGhRc1hiVl9hMWx0bVNmdnN0Z3NoUjhJUTFSam9lOVdEYWtSQl9QeA?oc=5",
               "origin": "google",
-              "title": "장애학생 1600명 AI·e스포츠로 실력 겨룬다…전국 e페스티벌 개최"
+              "title": "오디세이어, 부산 ‘BIC 2026’서 횡스크롤 소울라이크 게임 ‘벨라스터’ 성황리 전시"
             },
             {
-              "name": "컨슈머타임스",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yU2RvSzhWX0EzREswSTZrTDdla1EwZ19tTTkxRXd0OGlfTVJpazQ0QXZ0SXZ3T3JSbHlONjN0eVVtVGhGdVdyYXBxS0FFbmdnQkZkcUlFeVpLeVY1Q1ZCZlB4b1EtbWFWNXc?oc=5",
+              "name": "newfilenews.com",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MdUFyMkJQSm0zVTFsNFY3TUlkVTZiSldmSFhBR3llcTlEUzRLcWJ2TkZYa3gyY1phdjc2Tm51UEZBdVIyaDc0emItcjdpTDJiUFY3RzRLN2JoLXN3X05ZYklOZWVtM0VTNVlLbDNn?oc=5",
               "origin": "google",
-              "title": "넷마블문화재단, 홍천서 '장애학생 e스포츠 대회' 개최"
+              "title": "부산서 인디게임 축제…BIC 2026에 4만명 몰려"
             },
             {
-              "name": "더게이트",
-              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xcXRSbDJLMkk4dEdsSFlzM3BMdHNoaHJ2MVpTaVozd0s4RWtHaHZJa2pRUW1QWVpfNi12MDN2QnNYWEN2a21qMmk0TWRIa0JSd0wyeTg5Y3hHNUtvMHpaYkpoXzJtaDFZ0gFsQVVfeXFMTm9yaXpFN3M3bHRTMTNpdVBUYzVCOU5WUWVDMC1ZNE5HSXdPd3FzVG41bGR4M0g4ejJuTy1JSVV5NXNEYWtzdEctV0t3a2xvbnZ5TDI5bU9ObGFIeWRVS21HZnRhaFZudmEybGc4?oc=5",
+              "name": "press.theleader.kr",
+              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93NWtRRGlkLU9HZ3ZvVlNsdmFLQlAyM0RqTGJZSmR1a2dPNHktbUNlYldhYVRaZk1WM1ItVlFEcnpLVDVYenJPMXY5WHpiMGtZQXM5dGV5ckFqMm80YWRB?oc=5",
               "origin": "google",
-              "title": "“3천여 명 지역예선 거쳤다”…넷마블, 장애학생 ‘e스포츠 올림픽’ 개막"
+              "title": "프로젝트모름, 부산 ‘BIC 2026’서 메트로배니아 액션 게임 ‘론 셰프’ 성황리 전시"
             }
           ],
           "source_count": 4,
-          "published": "2026-09-08T17:47:26+09:00",
-          "ts": 1788857246.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
-          "title": "한진, 아이치·나고야 아시안게임 방송장비 국제운송 전담",
-          "url": "http://www.dailylog.co.kr/news/articleView.html?idxno=26744",
-          "snippet": "한진이 일본 아이치·나고야에서 열리는 아시안게임의 국내 방송중계 장비 국제운송을 맡아 현지... 운송해 수출통관과 선적을 거쳐 일본으로 보냈다. 부산항을 출발한 장비는 해상운송으로 일본 현지에 도착해...",
-          "source": "지디넷코리아",
-          "sources": [
-            {
-              "name": "지디넷코리아",
-              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiNmZUVkhhakRWQW5UelRjck5ONHljSC15VGkxMVpndE40UUhPeng5T1huV2hPWmtEN0pLTVVKRTNMWnMwRmdsdjlzWjFuWmZUSm4tcmhn?oc=5",
-              "origin": "google",
-              "title": "한진, 아이치·나고야 아시안게임 중계장비 운송 전담"
-            },
-            {
-              "name": "물류신문",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyWW44di1pYmVEWkxodlVXbEd0YWJiRUZVNDI1U1Z2aHFPZFZzVGlyc2laTjZZazl6S0hfOThfaEJhSEZtMlplZ3NkamRrRzJWUkVvQlZEQTFkQ20zUU5laU9Sa19RdUY4TG9j?oc=5",
-              "origin": "google",
-              "title": "한진, 아이치·나고야 아시안게임 중계장비 운송부터 회수까지 맡는다"
-            },
-            {
-              "name": "뉴스1",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wLXZreUktUlBpSVhaaHdjLXYxcVZ5OERuelBUMTBCT2k3blp6ZGltbE1BQWtUN20wQVhrUXhPMEY3anM3ZlRFRjJST0wxckFXdjdOcDhNb0R4Sl9KXzNWUExwWWVxQzhWS1HSAWpBVV95cUxOMC12a3lJLVJQaUlYWmh3Yy12MXFWeThEbnpQVDEwQk9pN25aemRpbWxNQUFrVDdtMEFYa1F4TzBGN2pzN2ZURUYyUk9MMXJBV3Y3TnA4TW9EeEpfSl8zVlBMcFllcUM4VktR?oc=5",
-              "origin": "google",
-              "title": "한진, 아이치·나고야 아시안게임 방송장비 국제운송"
-            },
-            {
-              "name": "한국정경신문",
-              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OcEdXVUJtNjF0MFhObW9fOUNiRzlsMWNINGFsM2JfMHNMcWxFQS12N0JCY1hXbGd0RjYweFpJd1VISWJEQzc2Tlc0ZnJLaWhMc2c?oc=5",
-              "origin": "google",
-              "title": "한진, 스포츠 물류 역량 재확인..아이치-나고야 아시안게임 방송장비 국제운송 전담"
-            }
-          ],
-          "source_count": 4,
-          "published": "2026-09-08T10:34:00+09:00",
-          "ts": 1788831240.0,
+          "published": "2026-09-08T11:33:00+09:00",
+          "ts": 1788834780.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
         },
@@ -15906,6 +15970,37 @@
           "group_label": "게임 · e스포츠"
         },
         {
+          "title": "한진, 아이치·나고야 아시안게임 방송장비 국제운송 전담",
+          "url": "http://www.dailylog.co.kr/news/articleView.html?idxno=26744",
+          "snippet": "한진이 일본 아이치·나고야에서 열리는 아시안게임의 국내 방송중계 장비 국제운송을 맡아 현지... 운송해 수출통관과 선적을 거쳐 일본으로 보냈다. 부산항을 출발한 장비는 해상운송으로 일본 현지에 도착해...",
+          "source": "물류신문",
+          "sources": [
+            {
+              "name": "물류신문",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyWW44di1pYmVEWkxodlVXbEd0YWJiRUZVNDI1U1Z2aHFPZFZzVGlyc2laTjZZazl6S0hfOThfaEJhSEZtMlplZ3NkamRrRzJWUkVvQlZEQTFkQ20zUU5laU9Sa19RdUY4TG9j?oc=5",
+              "origin": "google",
+              "title": "한진, 아이치·나고야 아시안게임 중계장비 운송부터 회수까지 맡는다"
+            },
+            {
+              "name": "뉴스1",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wLXZreUktUlBpSVhaaHdjLXYxcVZ5OERuelBUMTBCT2k3blp6ZGltbE1BQWtUN20wQVhrUXhPMEY3anM3ZlRFRjJST0wxckFXdjdOcDhNb0R4Sl9KXzNWUExwWWVxQzhWS1HSAWpBVV95cUxOMC12a3lJLVJQaUlYWmh3Yy12MXFWeThEbnpQVDEwQk9pN25aemRpbWxNQUFrVDdtMEFYa1F4TzBGN2pzN2ZURUYyUk9MMXJBV3Y3TnA4TW9EeEpfSl8zVlBMcFllcUM4VktR?oc=5",
+              "origin": "google",
+              "title": "한진, 아이치·나고야 아시안게임 방송장비 국제운송"
+            },
+            {
+              "name": "한국정경신문",
+              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OcEdXVUJtNjF0MFhObW9fOUNiRzlsMWNINGFsM2JfMHNMcWxFQS12N0JCY1hXbGd0RjYweFpJd1VISWJEQzc2Tlc0ZnJLaWhMc2c?oc=5",
+              "origin": "google",
+              "title": "한진, 스포츠 물류 역량 재확인..아이치-나고야 아시안게임 방송장비 국제운송 전담"
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-09-08T10:34:00+09:00",
+          "ts": 1788831240.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
           "title": "[Oh!쎈 초점] K-스포츠의 미래, '전통 스포츠'와 'e스포츠' 경계 허물어...",
           "url": "http://www.osen.co.kr/article/G1112871730",
           "snippet": "선수 시절의 현장 경험과 미디어 커리어, 그리고 산업 최전선에서의 비즈니스 감각까지 모두 갖춘 서 대표의 합류는 2040년 K-스포츠 비전에서 e스포츠가 단순한 '게임'이 아닌 '미래형 스포츠 산업'의 핵심 축으로 다뤄질...",
@@ -15964,37 +16059,6 @@
           "source_count": 3,
           "published": "2026-09-07T23:37:19+09:00",
           "ts": 1788791839.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
-          "title": "오디세이어, 부산 ‘BIC 2026’서 횡스크롤 소울라이크 게임 ‘벨라스터’ 성황리 전시",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kdS1nN3llbUJ4TFlTOTk2a3ZFRkpVQWlaa1JkeGd4UGNRZ285eE9zenQ1aERQR1RBaGlBYklXbmdQQ1RKWGhRc1hiVl9hMWx0bVNmdnN0Z3NoUjhJUTFSam9lOVdEYWtSQl9QeA?oc=5",
-          "snippet": "",
-          "source": "한국인포맥스",
-          "sources": [
-            {
-              "name": "한국인포맥스",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kdS1nN3llbUJ4TFlTOTk2a3ZFRkpVQWlaa1JkeGd4UGNRZ285eE9zenQ1aERQR1RBaGlBYklXbmdQQ1RKWGhRc1hiVl9hMWx0bVNmdnN0Z3NoUjhJUTFSam9lOVdEYWtSQl9QeA?oc=5",
-              "origin": "google",
-              "title": "오디세이어, 부산 ‘BIC 2026’서 횡스크롤 소울라이크 게임 ‘벨라스터’ 성황리 전시"
-            },
-            {
-              "name": "newfilenews.com",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MdUFyMkJQSm0zVTFsNFY3TUlkVTZiSldmSFhBR3llcTlEUzRLcWJ2TkZYa3gyY1phdjc2Tm51UEZBdVIyaDc0emItcjdpTDJiUFY3RzRLN2JoLXN3X05ZYklOZWVtM0VTNVlLbDNn?oc=5",
-              "origin": "google",
-              "title": "부산서 인디게임 축제…BIC 2026에 4만명 몰려"
-            },
-            {
-              "name": "press.theleader.kr",
-              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93NWtRRGlkLU9HZ3ZvVlNsdmFLQlAyM0RqTGJZSmR1a2dPNHktbUNlYldhYVRaZk1WM1ItVlFEcnpLVDVYenJPMXY5WHpiMGtZQXM5dGV5ckFqMm80YWRB?oc=5",
-              "origin": "google",
-              "title": "프로젝트모름, 부산 ‘BIC 2026’서 메트로배니아 액션 게임 ‘론 셰프’ 성황리 전시"
-            }
-          ],
-          "source_count": 3,
-          "published": "2026-09-07T17:09:00+09:00",
-          "ts": 1788768540.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
         },
@@ -16205,6 +16269,31 @@
           "group_label": "게임 · e스포츠"
         },
         {
+          "title": "“현대제철-포스코 美제철소, 연간 매출 5.4조 ‘게임 체인저’ 될 것”",
+          "url": "https://www.donga.com/news/Economy/article/all/20260907/134622524/2",
+          "snippet": "● “탄소 저감 강판 ‘게임체인저’ 될 것” 현대제철이 착공 전부터 예상 매출을 밝힌 것은 그만큼 생산... 지난해 한국의 대미 철강 수출은 254만 t으로 전년 276만 t보다 8% 줄어드는 등 위축되고 있다. 김 CEO는 “관세...",
+          "source": "동아일보",
+          "sources": [
+            {
+              "name": "동아일보",
+              "url": "https://www.donga.com/news/Economy/article/all/20260907/134622524/2",
+              "origin": "naver",
+              "title": "“현대제철-포스코 美제철소, 연간 매출 5.4조 ‘게임 체인저’ 될 것”"
+            },
+            {
+              "name": "한국경제",
+              "url": "https://www.hankyung.com/article/2026090794531",
+              "origin": "naver",
+              "title": "현대제철 \"美 철강 게임체인저 될 것…연 5조원 매출 목표\""
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-09-08T00:31:00+09:00",
+          "ts": 1788795060.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
           "title": "TFT 세트 18 첫 번째 e스포츠 대회 우승자는 ‘한국인’ 서일…전략가의 왕관 직행",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE44N1IyVGZ0Tm5sb0ltdS10M18ydWtJbXFINUNjNS1rOVZmNWhDUGMzcnhNY2ZwcU1LM3ZXUGVQdVlPOW1BUkhidVd3YzBVYmJtXzBOcTRUM2ZScmFkQ2IydlVfSQ?oc=5",
           "snippet": "",
@@ -16226,31 +16315,6 @@
           "source_count": 2,
           "published": "2026-09-07T18:17:44+09:00",
           "ts": 1788772664.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
-          "title": "현대제철 \"美 철강 게임체인저 될 것…연 5조원 매출 목표\"",
-          "url": "https://www.hankyung.com/article/2026090794531",
-          "snippet": "현지 생산으로 한국산 철강 제품 수출이 줄어들 수 있다는 우려에 그는 “미국의 관세 정책으로 이미... 분야에서 ‘게임 체인저’가 될 것으로 기대한다”고 강조했다. HPLS는 수소를 환원제로 활용해 2050년까지...",
-          "source": "한국경제",
-          "sources": [
-            {
-              "name": "한국경제",
-              "url": "https://www.hankyung.com/article/2026090794531",
-              "origin": "naver",
-              "title": "현대제철 \"美 철강 게임체인저 될 것…연 5조원 매출 목표\""
-            },
-            {
-              "name": "동아일보",
-              "url": "https://www.donga.com/news/Economy/article/all/20260907/134619644/1",
-              "origin": "naver",
-              "title": "현대제철-포스코 美제철소, 年매출 5.4조…저탄소 ‘게임 체인저’ 될 ..."
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-07T18:04:00+09:00",
-          "ts": 1788771840.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
         },
@@ -17089,6 +17153,25 @@
           "group_label": "게임 · e스포츠"
         },
         {
+          "title": "[TGS 길라잡이③] 서브컬처·日 IP로 승부…K게임, 도쿄 정조준",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XU1NYcDdzTzduSTlPTWdOcWJmYllnLVdGb3hSbUVzYy04QUhsU3N3Y1hram9XNFl4SEtEVkNRSEVFUjlKTHFuU3VJRFJHWWszbUM3eld4WE10Z3V6b0F3S1BfeTE?oc=5",
+          "snippet": "",
+          "source": "디지털데일리",
+          "sources": [
+            {
+              "name": "디지털데일리",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XU1NYcDdzTzduSTlPTWdOcWJmYllnLVdGb3hSbUVzYy04QUhsU3N3Y1hram9XNFl4SEtEVkNRSEVFUjlKTHFuU3VJRFJHWWszbUM3eld4WE10Z3V6b0F3S1BfeTE?oc=5",
+              "origin": "google",
+              "title": "[TGS 길라잡이③] 서브컬처·日 IP로 승부…K게임, 도쿄 정조준"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-08T12:00:00+09:00",
+          "ts": 1788836400.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
           "title": "[위클리오늘] 온라인 게임_넷마블, 컴투스(9.8)",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yX1YydTBIRWdQSjhHMUR2MFJ6bUFSeTNVcEJXQTNZdGlOUUFNeXJzWG8wTmRuVHp5dFlXUnFCVUxLUk5fb1h3enQ2Y2pVNzcyTTJNN3kzVHNLaURWVzNsZW03czFadDdOeGliSTc0Yw?oc=5",
           "snippet": "",
@@ -17336,25 +17419,6 @@
           "group_label": "게임 · e스포츠"
         },
         {
-          "title": "앤트로픽, 1년 새 컴퓨팅 14.8GW 확보…AI 전력 전쟁 본격화",
-          "url": "https://www.sedaily.com/article/20088288?ref=naver",
-          "snippet": "■ 환율 하락 역풍: 원·달러 환율이 가파른 내리막을 타면서 수출 기업의 실적 전망에 빨간불이 켜졌다.... 명령어 몇 개면 45분 만에 3D게임 완성…“아스트라 모멘트 온다” - 핵심 요약: 오픈AI가 공개한 AI 모델...",
-          "source": "서울경제",
-          "sources": [
-            {
-              "name": "서울경제",
-              "url": "https://www.sedaily.com/article/20088288?ref=naver",
-              "origin": "naver",
-              "title": "앤트로픽, 1년 새 컴퓨팅 14.8GW 확보…AI 전력 전쟁 본격화"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-08T10:01:00+09:00",
-          "ts": 1788829260.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
           "title": "“삼성 하반기 공채 시작”…19개 관계사 6000명 모집",
           "url": "https://www.sedaily.com/article/20088269?ref=naver",
           "snippet": "3D 게임을 완성하는 수준을 보이며 ‘AI 에이전트 대중화’ 시대가 본격화됐다는 평가가 나온다.... ▶기사 바로가기: ‘高환율 효과’ 끝나나…수출 기업 실적 비상 ▶기사 바로가기: 가스·석유공사 통합 본사...",
@@ -17384,6 +17448,25 @@
               "url": "https://www.sedaily.com/article/20088280?ref=naver",
               "origin": "naver",
               "title": "로보티즈, 휴머노이드 SW까지 확장…887억 자금도 투입"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-08T10:01:00+09:00",
+          "ts": 1788829260.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
+          "title": "앤트로픽, 1년 새 컴퓨팅 14.8GW 확보…AI 전력 전쟁 본격화",
+          "url": "https://www.sedaily.com/article/20088288?ref=naver",
+          "snippet": "■ 환율 하락 역풍: 원·달러 환율이 가파른 내리막을 타면서 수출 기업의 실적 전망에 빨간불이 켜졌다.... 명령어 몇 개면 45분 만에 3D게임 완성…“아스트라 모멘트 온다” - 핵심 요약: 오픈AI가 공개한 AI 모델...",
+          "source": "서울경제",
+          "sources": [
+            {
+              "name": "서울경제",
+              "url": "https://www.sedaily.com/article/20088288?ref=naver",
+              "origin": "naver",
+              "title": "앤트로픽, 1년 새 컴퓨팅 14.8GW 확보…AI 전력 전쟁 본격화"
             }
           ],
           "source_count": 1,
@@ -17491,10 +17574,10 @@
           "title": "0대2 극복한 글로벌 이스포츠, 부산서 퍼시픽 지형 뒤집었다",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Oay01cE9hbWZMUVlMb0hiWDY0V2liUFp0M2p1QU44YjFBUHljMkRhTmxDTndBSWdPcmlDdXBHRDN5a0NJajFsRHlCanlFRE8tWnVUbk1Xd3RqdDFZbFBkZGw0MVRXeHFMbkRCSA?oc=5",
           "snippet": "",
-          "source": "굿모닝경제",
+          "source": "굿모닝경기",
           "sources": [
             {
-              "name": "굿모닝경제",
+              "name": "굿모닝경기",
               "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Oay01cE9hbWZMUVlMb0hiWDY0V2liUFp0M2p1QU44YjFBUHljMkRhTmxDTndBSWdPcmlDdXBHRDN5a0NJajFsRHlCanlFRE8tWnVUbk1Xd3RqdDFZbFBkZGw0MVRXeHFMbkRCSA?oc=5",
               "origin": "google",
               "title": "0대2 극복한 글로벌 이스포츠, 부산서 퍼시픽 지형 뒤집었다"
@@ -17868,25 +17951,6 @@
           "group_label": "게임 · e스포츠"
         },
         {
-          "title": "“현대제철-포스코 美제철소, 연간 매출 5.4조 ‘게임 체인저’ 될 것”",
-          "url": "https://www.donga.com/news/Economy/article/all/20260907/134622524/2",
-          "snippet": "● “탄소 저감 강판 ‘게임체인저’ 될 것” 현대제철이 착공 전부터 예상 매출을 밝힌 것은 그만큼 생산... 지난해 한국의 대미 철강 수출은 254만 t으로 전년 276만 t보다 8% 줄어드는 등 위축되고 있다. 김 CEO는 “관세...",
-          "source": "동아일보",
-          "sources": [
-            {
-              "name": "동아일보",
-              "url": "https://www.donga.com/news/Economy/article/all/20260907/134622524/2",
-              "origin": "naver",
-              "title": "“현대제철-포스코 美제철소, 연간 매출 5.4조 ‘게임 체인저’ 될 것”"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-08T00:31:00+09:00",
-          "ts": 1788795060.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
           "title": "중국 게임 시장 500억 달러 첫 돌파",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XV3ZjTFhtcTFZOC03Q1o4RDlUenN1dk9SSlNYblNBV25PbXJ6S2lRZWdOSW9iaTFHMnpnU0d1dG5POTBwbHVSZ2FSSGRkYXJHMXU2Qk15LVh2NkNfbkVGdnc0U2pjbHMzSjFCSlBlWUk?oc=5",
           "snippet": "",
@@ -17928,10 +17992,10 @@
           "title": "돌고 돌아 ‘MMORPG’, 콘크리트 유저층 여전해",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yODFGR0xveklJWTI4OEpwd2ktVmVBdkw1SHIzeDVWNmJVZTBfM3pTVmJiekI4ZksxY1EyMERRc3JqSGtrQndNaGhTZjdZZw?oc=5",
           "snippet": "",
-          "source": "바이라인네트워크",
+          "source": "byline.network",
           "sources": [
             {
-              "name": "바이라인네트워크",
+              "name": "byline.network",
               "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yODFGR0xveklJWTI4OEpwd2ktVmVBdkw1SHIzeDVWNmJVZTBfM3pTVmJiekI4ZksxY1EyMERRc3JqSGtrQndNaGhTZjdZZw?oc=5",
               "origin": "google",
               "title": "돌고 돌아 ‘MMORPG’, 콘크리트 유저층 여전해"
@@ -18046,7 +18110,7 @@
       "priority": 14,
       "page": "trends",
       "preview": 3,
-      "count": 44,
+      "count": 45,
       "items": [
         {
           "title": "뉴엔AI, 패션플랫폼 W컨셉에 AI 맞춤형 분석 플랫폼 공급",
@@ -18140,6 +18204,12 @@
               "title": "NH농협은행, 블랙스톤 초청해 AI 데이터센터 투자 및 시장 전망 논의"
             },
             {
+              "name": "팝콘뉴스",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Odzk2bzZRVzlTa3ptM0xJMXllZ0dUcC1LMk5sdmx1ZjlXbURwVkYtd1RFNENOOWlpQUJBZTV0TzNaVEpGSWUwWXFid19KS0hSVzI4T25WMzZXVzYwLWdrY0FjbktZSXhBSVptUkhMc9IBckFVX3lxTE1waXZBaUhMZW9tTDcwQ3hEcmU4SVg5U0hDNmp5NXVLa0trdm9XSUw1SDVsd1ZreVhyc2xPSHlBYVhIRnVUYTBtOGRUdkFmMmhuQWhROTRtQXphV1NUUXZGek00U0JiTVdxYXpIdXZlUk50Zw?oc=5",
+              "origin": "google",
+              "title": "NH농협은행, 블랙스톤과 AI 데이터센터 투자전망 논의"
+            },
+            {
               "name": "일간투데이",
               "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqUktDRS0tMFk2bTFDTGVnYzEwVFd4cHVVOXNrN3hFZGpDZFlfUk9sQldwS2gxRnVwQXVxVVJ4OFdaLXJwQnV1UmluRDBEcDk1NHRTemY0MUZzQmNoY1R2a1hNV1BObDFDZ240?oc=5",
               "origin": "google",
@@ -18150,12 +18220,6 @@
               "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrVURGa1R1OURQNFpZMy14dEVteDlqUS1xZDNkZ0lLWk9pUUNtdl91R2tzX3VpVm82SVg1Y2lDcl83ZERvczE5YnZMVnlDUG9JQ3VDYmducnc0MmtNbllKWkVONGVXWnVD?oc=5",
               "origin": "google",
               "title": "AI 데이터센터 투자 폭발, 메모리 슈퍼사이클 장기화 전망"
-            },
-            {
-              "name": "팝콘뉴스",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Odzk2bzZRVzlTa3ptM0xJMXllZ0dUcC1LMk5sdmx1ZjlXbURwVkYtd1RFNENOOWlpQUJBZTV0TzNaVEpGSWUwWXFid19KS0hSVzI4T25WMzZXVzYwLWdrY0FjbktZSXhBSVptUkhMc9IBckFVX3lxTE1waXZBaUhMZW9tTDcwQ3hEcmU4SVg5U0hDNmp5NXVLa0trdm9XSUw1SDVsd1ZreVhyc2xPSHlBYVhIRnVUYTBtOGRUdkFmMmhuQWhROTRtQXphV1NUUXZGek00U0JiTVdxYXpIdXZlUk50Zw?oc=5",
-              "origin": "google",
-              "title": "NH농협은행, 블랙스톤과 AI 데이터센터 투자전망 논의"
             },
             {
               "name": "한국보험신문",
@@ -18637,6 +18701,25 @@
           "group_label": "전망 · 심층분석"
         },
         {
+          "title": "테니스 발리 손목 AI 시대 디자인 패턴: 역사, 현황 및 미래",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN0lVckFyX0hUQVpqd3dvNjJZQ0FGM3RxVGE1Y1lObEpjNTI3bGNDcnl6TFpXc3dwaEFkc2VPMEdWVExMcVotS0pqS3JlZWFYSlRMeE9ZcDVZY0VzTjhpYWljdnZnUE1XSXpoZFl6VkpnWG9TdUIxZmE2UGtrNEpuOUktc0lWUXVpT3ZsOHNsYVNrX0RYTzdUaHUyaUI3Tk5EOUE?oc=5",
+          "snippet": "",
+          "source": "Histoire pour tous",
+          "sources": [
+            {
+              "name": "Histoire pour tous",
+              "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN0lVckFyX0hUQVpqd3dvNjJZQ0FGM3RxVGE1Y1lObEpjNTI3bGNDcnl6TFpXc3dwaEFkc2VPMEdWVExMcVotS0pqS3JlZWFYSlRMeE9ZcDVZY0VzTjhpYWljdnZnUE1XSXpoZFl6VkpnWG9TdUIxZmE2UGtrNEpuOUktc0lWUXVpT3ZsOHNsYVNrX0RYTzdUaHUyaUI3Tk5EOUE?oc=5",
+              "origin": "google",
+              "title": "테니스 발리 손목 AI 시대 디자인 패턴: 역사, 현황 및 미래"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-08T01:39:17+09:00",
+          "ts": 1788799157.0,
+          "group": "trend_insight",
+          "group_label": "전망 · 심층분석"
+        },
+        {
           "title": "빠른 AI 에이전트 생성 도구 출시: FET 기술 전망",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObUxnZkxYaV9KRVhxam9OU0huWEZJOGp1aVpERmlILWVma055SjlOVTUyWmpUSjlzMXgyWFVObjJwSDZEQ21OUUhQcjMzZXVqSW5yRE1FV1Vhb0VRSTdMLUl4Rk5IZXVsXzRualFtQnV0b0NRMDVwMFA2d1RVSFEzalBmcXhOOXR2Tjl5VWcteDlUbFBLeDdHT0hBMmJENVJiSkstZEFjeW4?oc=5",
           "snippet": "",
@@ -19024,7 +19107,7 @@
       "priority": 15,
       "page": "trends",
       "preview": 3,
-      "count": 52,
+      "count": 53,
       "items": [
         {
           "title": "[동포의 창] 월드옥타, 美 애틀랜타서 '글로벌 스타트업 서밋'",
@@ -19441,6 +19524,25 @@
           "source_count": 2,
           "published": "2026-09-07T15:48:00+09:00",
           "ts": 1788763680.0,
+          "group": "trend_global",
+          "group_label": "글로벌 동향"
+        },
+        {
+          "title": "한 달에 개인당 19만 탕진, 실리콘밸리 직원 AI 청구서 소급 조사 착수",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55eno2cnozNmRDckd3U3ZzdmRHTFlPOThiNVFYT1lNZFpuOXQwN3RwRXhzN1g3MjlBNmM4OWQ3aEJFSUtLT1RBTjZSRUt5Rml2cWcyR2ZfR01qeFVl?oc=5",
+          "snippet": "",
+          "source": "深潮TechFlow",
+          "sources": [
+            {
+              "name": "深潮TechFlow",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55eno2cnozNmRDckd3U3ZzdmRHTFlPOThiNVFYT1lNZFpuOXQwN3RwRXhzN1g3MjlBNmM4OWQ3aEJFSUtLT1RBTjZSRUt5Rml2cWcyR2ZfR01qeFVl?oc=5",
+              "origin": "google",
+              "title": "한 달에 개인당 19만 탕진, 실리콘밸리 직원 AI 청구서 소급 조사 착수"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-08T19:26:58+09:00",
+          "ts": 1788863218.0,
           "group": "trend_global",
           "group_label": "글로벌 동향"
         },
