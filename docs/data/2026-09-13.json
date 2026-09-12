@@ -1,6 +1,6 @@
 {
   "date": "2026-09-13",
-  "generated_at": "2026-09-13T08:37:50.250497+09:00",
+  "generated_at": "2026-09-13T08:58:00.120961+09:00",
   "window_hours": 30,
   "sources": [
     "네이버뉴스(API HUB)",
@@ -9,11 +9,11 @@
   "use_naver": true,
   "preview_items": 5,
   "counts": {
-    "collected": 2137,
-    "kept": 858,
-    "excluded": 1279,
-    "consolidated": 509,
-    "multi": 121
+    "collected": 2148,
+    "kept": 867,
+    "excluded": 1281,
+    "consolidated": 514,
+    "multi": 125
   },
   "groups": [
     {
@@ -76,31 +76,25 @@
       "priority": 2,
       "page": "main",
       "preview": null,
-      "count": 35,
+      "count": 33,
       "items": [
         {
-          "title": "추미애 작심 비판 \"이재명 대통령, 내란세력에 업혀 민주화에 역행\"",
-          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000064765",
-          "snippet": "추미애 경기도지사는 12일 남양주시 모란공원 민주열사묘역에서 열린 '2026년 경기도 민주화운동희생자 추모제'에 참석해 검찰 개혁 문제와 관련해 이재명 대통령을 공개적으로 비판했다. 추미애 지사는 준비한 추모사 대신...",
-          "source": "jnilbo.com",
+          "title": "추미애, 李 대통령 직격 “왜 내란세력에 업혀 전전긍긍하나”",
+          "url": "https://www.joongang.co.kr/article/25461339",
+          "snippet": "추미애 경기도지사가 이재명 대통령을 향해 “대통령이 (내란) 세력을 징벌해야 하는데 왜 이들 세력에 업혀 전전긍긍하는 것인가”라고 비판했다. 추 지사는 12일 경기 남양주시 모란공원 민주열사묘역에서 열린 ‘2026년...",
+          "source": "중앙일보",
           "sources": [
             {
-              "name": "jnilbo.com",
-              "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000064765",
+              "name": "중앙일보",
+              "url": "https://www.joongang.co.kr/article/25461339",
               "origin": "naver",
-              "title": "추미애 작심 비판 \"이재명 대통령, 내란세력에 업혀 민주화에 역행\""
+              "title": "추미애, 李 대통령 직격 “왜 내란세력에 업혀 전전긍긍하나”"
             },
             {
-              "name": "조선비즈",
-              "url": "https://biz.chosun.com/policy/politics/2026/09/12/SKOZCAZ2DZFGVDHJYW2R2O5YGU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+              "name": "조선일보",
+              "url": "http://weekly.chosun.com/news/articleView.html?idxno=55233",
               "origin": "naver",
-              "title": "추미애 “李 대통령, 왜 내란세력에 쩔쩔매나” 작심 비판"
-            },
-            {
-              "name": "kwnews.co.kr",
-              "url": "https://www.kwnews.co.kr/article/20260912500289",
-              "origin": "naver",
-              "title": "추미애, 이재명 대통령 향해 작심 발언…“내란세력 징벌해야”"
+              "title": "추미애 \"李대통령 왜 내란세력에 업혀 전전긍긍하나…여기서 빌어야\""
             },
             {
               "name": "imaeil.com",
@@ -109,10 +103,34 @@
               "title": "추미애, 李대통령에 \"왜 내란세력에 업혀 전전긍긍하나\" 작심 비판"
             },
             {
+              "name": "viewsnnews.com",
+              "url": "https://www.viewsnnews.com/article?q=238474",
+              "origin": "naver",
+              "title": "추미애 \"李대통령, 내란세력에 업혀 전전긍긍\""
+            },
+            {
               "name": "한겨레",
               "url": "https://www.hani.co.kr/arti/politics/politics_general/1277482.html",
               "origin": "naver",
               "title": "추미애 “이 대통령, 내란 세력에 업혀 전전긍긍”…중수청장 인사 비판"
+            },
+            {
+              "name": "wikitree.co.kr",
+              "url": "https://www.wikitree.co.kr/articles/1159072",
+              "origin": "naver",
+              "title": "추미애 “이 대통령, 왜 내란 세력에 전전긍긍하나”"
+            },
+            {
+              "name": "헤럴드경제",
+              "url": "https://biz.heraldcorp.com/article/10871304?ref=naver",
+              "origin": "naver",
+              "title": "추미애, 李대통령 향한 작심 발언…“왜 내란세력에 전전긍긍하나”"
+            },
+            {
+              "name": "세계일보",
+              "url": "https://www.segye.com/newsView/20260912505754?OutUrl=naver",
+              "origin": "naver",
+              "title": "추미애, 李대통령 향해 “왜 내란 세력에 업혀서 전전긍긍하나”"
             },
             {
               "name": "연합뉴스TV",
@@ -121,21 +139,27 @@
               "title": "추미애, 이 대통령 작심 비판…\"왜 내란세력에 전전긍긍하나\""
             },
             {
+              "name": "아주경제",
+              "url": "https://www.ajunews.com/view/20260912194448457",
+              "origin": "naver",
+              "title": "추미애, 이 대통령 직격…\"왜 내란세력에 전전긍긍하나\""
+            },
+            {
               "name": "ikbc.co.kr",
               "url": "https://www.ikbc.co.kr/article/view/kbc202609120029",
               "origin": "naver",
               "title": "추미애, 작심 비판 \"대통령은 왜 내란세력에 전전긍긍하나\""
             },
             {
-              "name": "MBC",
-              "url": "https://imnews.imbc.com/news/2026/politics/article/6851391_36911.html",
+              "name": "아시아경제",
+              "url": "https://view.asiae.co.kr/article/2026091219225629656",
               "origin": "naver",
-              "title": "추미애, 이 대통령 향해 \"왜 내란세력에 전전긍긍하나\" 작심 비판"
+              "title": "추미애 \"李대통령, 왜 내란세력에 전전긍긍하나\""
             }
           ],
-          "source_count": 8,
-          "published": "2026-09-13T07:32:00+09:00",
-          "ts": 1789252320.0,
+          "source_count": 12,
+          "published": "2026-09-13T08:42:00+09:00",
+          "ts": 1789256520.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -176,7 +200,7 @@
               "title": "추미애 경기도지사, 민주화운동 희생자 추모제에서 강조한 정치의 새로운 과제"
             },
             {
-              "name": "내외뉴스통신",
+              "name": "nbnnews.co.kr",
               "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xa2o4MkVaX3RWcjRYR2dPMndBNlVKbFZIZGhiQ0dkQlJfSkhnWXdQdVdpNDU2QXhnZVRXaTRDZHFDallRbTk1RGtUdUFrUmVPVWFydDNlNElBMVhkSTU1bHhRd0JTZHNwaWFnc9IBcEFVX3lxTFAwN2lGdUlnV0hBUjcxbHNSbzlCSG1VZ0ZrSlpCakVCbnUtcGJWd1NLMEd5X3VpcGZraHh4dzBWTk1ITlIxTE00blhmTThpOV9SLWQ3UEM5aXFMWF8xczZ1a19GVTREWjBMSTA3cW5fYUk?oc=5",
               "origin": "google",
               "title": "추미애 경기도지사, 민주열사 추모제 참석"
@@ -219,10 +243,10 @@
               "title": "추미애, 이대통령 향해 \"왜 내란세력에 전전긍긍하나\" 작심 발언"
             },
             {
-              "name": "헤럴드경제",
-              "url": "https://biz.heraldcorp.com/article/10871304?ref=naver",
+              "name": "MBC",
+              "url": "https://imnews.imbc.com/news/2026/politics/article/6851391_36911.html",
               "origin": "naver",
-              "title": "추미애, 李대통령 향한 작심 발언…“왜 내란세력에 전전긍긍하나”"
+              "title": "추미애, 이 대통령 향해 \"왜 내란세력에 전전긍긍하나\" 작심 비판"
             }
           ],
           "source_count": 5,
@@ -318,43 +342,6 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "추미애 “이 대통령, 왜 내란 세력에 전전긍긍하나”",
-          "url": "https://www.wikitree.co.kr/articles/1159072",
-          "snippet": "추미애 경기도지사가 검찰 개혁과 초대 중대범죄수사청장 후보자 인선을 거론하며 이재명 대통령을 공개... 내놓았다.추미애 경기도지사. / 연합뉴스추미애 “민주화는 현재진행형”… 중수청장 후보 지명 비판추...",
-          "source": "wikitree.co.kr",
-          "sources": [
-            {
-              "name": "wikitree.co.kr",
-              "url": "https://www.wikitree.co.kr/articles/1159072",
-              "origin": "naver",
-              "title": "추미애 “이 대통령, 왜 내란 세력에 전전긍긍하나”"
-            },
-            {
-              "name": "세계일보",
-              "url": "https://www.segye.com/newsView/20260912505754?OutUrl=naver",
-              "origin": "naver",
-              "title": "추미애, 李대통령 향해 “왜 내란 세력에 업혀서 전전긍긍하나”"
-            },
-            {
-              "name": "아주경제",
-              "url": "https://www.ajunews.com/view/20260912194448457",
-              "origin": "naver",
-              "title": "추미애, 이 대통령 직격…\"왜 내란세력에 전전긍긍하나\""
-            },
-            {
-              "name": "아시아경제",
-              "url": "https://view.asiae.co.kr/article/2026091219225629656",
-              "origin": "naver",
-              "title": "추미애 \"李대통령, 왜 내란세력에 전전긍긍하나\""
-            }
-          ],
-          "source_count": 4,
-          "published": "2026-09-12T20:14:00+09:00",
-          "ts": 1789211640.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
           "title": "'산후조리비 지원 폐지'에 경기도민 반발…반대 청원 2만 명 돌파",
           "url": "https://news.tvchosun.com/site/data/html_dir/2026/09/12/2026091290094.html",
           "snippet": "추미애 / 경기도지사 (지난달 5일) \"(예산 부족으로) 경기도 산후 조리비 지원금 약 80억 원 예산이 반영되지 않았습니다.\" 경기도는 이번 결정으로 연간 190억 원의 예산을 절감할 수 있을 것으로 추산하고 있습니다. 하지만...",
@@ -429,6 +416,37 @@
           "group_label": "경기도지사"
         },
         {
+          "title": "추미애 작심 비판 \"이재명 대통령, 내란세력에 업혀 민주화에 역행\"",
+          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000064765",
+          "snippet": "추미애 경기도지사는 12일 남양주시 모란공원 민주열사묘역에서 열린 '2026년 경기도 민주화운동희생자 추모제'에 참석해 검찰 개혁 문제와 관련해 이재명 대통령을 공개적으로 비판했다. 추미애 지사는 준비한 추모사 대신...",
+          "source": "jnilbo.com",
+          "sources": [
+            {
+              "name": "jnilbo.com",
+              "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000064765",
+              "origin": "naver",
+              "title": "추미애 작심 비판 \"이재명 대통령, 내란세력에 업혀 민주화에 역행\""
+            },
+            {
+              "name": "조선비즈",
+              "url": "https://biz.chosun.com/policy/politics/2026/09/12/SKOZCAZ2DZFGVDHJYW2R2O5YGU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+              "origin": "naver",
+              "title": "추미애 “李 대통령, 왜 내란세력에 쩔쩔매나” 작심 비판"
+            },
+            {
+              "name": "kwnews.co.kr",
+              "url": "https://www.kwnews.co.kr/article/20260912500289",
+              "origin": "naver",
+              "title": "추미애, 이재명 대통령 향해 작심 발언…“내란세력 징벌해야”"
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-09-13T07:32:00+09:00",
+          "ts": 1789252320.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
           "title": "추미애 경기지사, 추석 꾸러미 포장하며 이웃에 온정",
           "url": "https://www.thepowernews.co.kr/view.php?ud=20260912232638299961d72a7352_7",
           "snippet": "추미애 경기도지사가 추석 명절을 앞두고 지역사회 이웃들에게 전달할 추석 꾸러미 포장에 참여하며 나눔의 의미를 되새겼다. 추 지사는 12일 광교종합사회복지관에서 권인욱 경기사회복지공동모금회장, 윤연희...",
@@ -491,27 +509,27 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "추미애 “李대통령, 왜 내란 세력에 업혀 전전긍긍하나”",
-          "url": "https://www.chosun.com/politics/assembly/2026/09/12/UBNNQRIAPZGPBI7GPLEVQX53DY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "snippet": "추미애 경기지사가 12일 “민주화가 끝나지 않았다”며 “대통령은 내란 세력을 징벌해야 하는데 왜 내란 세력에 업혀서 전전긍긍하는 것인가”라고 이재명 대통령을 비판했다. 추 지사는 이날 오전 경기 남양주시...",
-          "source": "조선일보",
+          "title": "'경기 부동산 콘퍼런스' 15일 개최…AI시대 거래 안전 논의",
+          "url": "https://www.newsis.com/view/NISX20260913_0003787055",
+          "snippet": "행사에는 추미애 경기도지사를 비롯해 손명수 국회의원, 과학기술정보통신부 제2차관, 관계기관장, 공인중개사 등 400여 명이 참석한다. 이날 경기도는 한국공인중개사협회 경기남부·북부회, 한국감정평가사협회...",
+          "source": "뉴시스",
           "sources": [
             {
-              "name": "조선일보",
-              "url": "https://www.chosun.com/politics/assembly/2026/09/12/UBNNQRIAPZGPBI7GPLEVQX53DY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+              "name": "뉴시스",
+              "url": "https://www.newsis.com/view/NISX20260913_0003787055",
               "origin": "naver",
-              "title": "추미애 “李대통령, 왜 내란 세력에 업혀 전전긍긍하나”"
+              "title": "'경기 부동산 콘퍼런스' 15일 개최…AI시대 거래 안전 논의"
             },
             {
-              "name": "viewsnnews.com",
-              "url": "https://www.viewsnnews.com/article?q=238474",
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260911115700061?input=1195m",
               "origin": "naver",
-              "title": "추미애 \"李대통령, 내란세력에 업혀 전전긍긍\""
+              "title": "경기도, '부동산 콘퍼런스' 15일 개최…AI 활용 등 논의"
             }
           ],
           "source_count": 2,
-          "published": "2026-09-12T21:16:00+09:00",
-          "ts": 1789215360.0,
+          "published": "2026-09-13T08:41:00+09:00",
+          "ts": 1789256460.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -600,44 +618,6 @@
           "source_count": 1,
           "published": "2026-09-13T07:00:00+09:00",
           "ts": 1789250400.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "경기도, '부동산 콘퍼런스' 15일 개최…AI 활용 등 논의",
-          "url": "https://www.yna.co.kr/view/AKR20260911115700061?input=1195m",
-          "snippet": "추미애 경기도지사를 비롯해 손명수 국회의원, 과학기술정보통신부 제2차관, 공인중개사 등 400여명이 참석할 예정이다. 콘퍼런스에서는 AI 시대 공인중개사의 역할, AI 기술의 부동산 중개 현장 활용 방안 등이...",
-          "source": "연합뉴스",
-          "sources": [
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260911115700061?input=1195m",
-              "origin": "naver",
-              "title": "경기도, '부동산 콘퍼런스' 15일 개최…AI 활용 등 논의"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-13T07:00:00+09:00",
-          "ts": 1789250400.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "추미애 \"李대통령 왜 내란세력에 업혀 전전긍긍하나…여기서 빌어야\"",
-          "url": "http://weekly.chosun.com/news/articleView.html?idxno=55233",
-          "snippet": "추미애 경기지사가 검찰개혁 문제를 두고 이재명 대통령을 향해 \"내란 세력에게 업혀서 전전긍긍하고 있다\"며 작심 비판을 쏟아냈다. 추 지사는 12일 경기 남양주시 모란공원 민주열사묘역에서 열린 '2026년 경기도...",
-          "source": "조선일보",
-          "sources": [
-            {
-              "name": "조선일보",
-              "url": "http://weekly.chosun.com/news/articleView.html?idxno=55233",
-              "origin": "naver",
-              "title": "추미애 \"李대통령 왜 내란세력에 업혀 전전긍긍하나…여기서 빌어야\""
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-13T06:50:00+09:00",
-          "ts": 1789249800.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -1774,20 +1754,20 @@
         },
         {
           "title": "경기관광공사 임직원들이 바닷가로 간 까닭...“관광만큼 환경도 중요”",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OSmtxYzQ2WWVjXzQ0d2xiWVdubXdLOFR6VjdHV3hTSWoyTkthZHZ6UTZPUnZacTlDaV9sV2REemg1b1hwWE01YXBvWkFaeTBxaVFGQ0VXUWxOOHJZeUpEd2c1S1B1U202bVFUS1AyYXXSAXRBVV95cUxNRTJPblFqMkh0VDdnNTV1SndJaTlfcUhGdTdGQzN0cF9QbHVwdlU1WklXNkh5TVZCWUJ4NnJOaG5aaVRnTEZkUkx1MG5XNnJqcldtaFZjdkJfYm9uck1SYUNJZVlDcVY4T3NXaGRlTmlfZDdjcA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FMk9uUWoySHRUN2c1NXVKd0lpOV9xSEZ1N0ZDM3RwX1BsdXB2VTVaSVc2SHlNVkJZQng2ck5oblppVGdMRmRSTHUwblc2cmpyV21oVmN2Ql9ib25yTVJhQ0llWUNxVjhPc1doZGVOaV9kN2Nw0gF0QVVfeXFMTUUyT25RajJIdFQ3ZzU1dUp3SWk5X3FIRnU3RkMzdHBfUGx1cHZVNVpJVzZIeU1WQllCeDZyTmhuWmlUZ0xGZFJMdTBuVzZyanJXbWhWY3ZCX2JvbnJNUmFDSWVZQ3FWOE9zV2hkZU5pX2Q3Y3A?oc=5",
           "snippet": "",
-          "source": "pointdaily.co.kr",
+          "source": "포인트데일리",
           "sources": [
             {
-              "name": "pointdaily.co.kr",
+              "name": "포인트데일리",
               "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OSmtxYzQ2WWVjXzQ0d2xiWVdubXdLOFR6VjdHV3hTSWoyTkthZHZ6UTZPUnZacTlDaV9sV2REemg1b1hwWE01YXBvWkFaeTBxaVFGQ0VXUWxOOHJZeUpEd2c1S1B1U202bVFUS1AyYXXSAXRBVV95cUxNRTJPblFqMkh0VDdnNTV1SndJaTlfcUhGdTdGQzN0cF9QbHVwdlU1WklXNkh5TVZCWUJ4NnJOaG5aaVRnTEZkUkx1MG5XNnJqcldtaFZjdkJfYm9uck1SYUNJZVlDcVY4T3NXaGRlTmlfZDdjcA?oc=5",
               "origin": "google",
               "title": "경기관광공사 임직원들이 바닷가로 간 까닭...“관광만큼 환경도 중요”"
             }
           ],
           "source_count": 1,
-          "published": "2026-09-12T08:54:49+09:00",
-          "ts": 1789170889.0,
+          "published": "2026-09-12T09:05:10+09:00",
+          "ts": 1789171510.0,
           "group": "gg_agencies",
           "group_label": "경기도 산하기관"
         }
@@ -1847,7 +1827,7 @@
       "priority": 11,
       "page": "trends",
       "preview": 3,
-      "count": 254,
+      "count": 259,
       "items": [
         {
           "title": "LG CNS, AI·로보틱스 인재 확보전… \"기술을 고객 가치로\"",
@@ -1983,16 +1963,22 @@
               "title": "필즈상 수상 25인, AI 수학 풀이에…‘인간 지적 활동’ 위협 우려"
             },
             {
+              "name": "아이뉴스24",
+              "url": "http://www.inews24.com/view/2004918",
+              "origin": "naver",
+              "title": "\"AI 수학풀이, 인류 지적활동 위협\"⋯필즈상 25인의 경고"
+            },
+            {
               "name": "매일경제",
               "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5218771",
               "origin": "naver",
               "title": "\"AI 수학풀이가 인류 지적활동 위협\"…필즈상 수상자 25인의 경고"
             },
             {
-              "name": "아이뉴스24",
-              "url": "http://www.inews24.com/view/2004918",
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260912030300009?input=1195m",
               "origin": "naver",
-              "title": "\"AI 수학풀이, 인류 지적활동 위협\"⋯필즈상 25인의 경고"
+              "title": "\"AI 수학풀이, 인류 지적활동 위협\"…최고권위 필즈상 25인 경고"
             },
             {
               "name": "연합뉴스TV",
@@ -2023,12 +2009,6 @@
               "url": "https://www.ytn.co.kr/_ln/0104_202609121508430590",
               "origin": "naver",
               "title": "\"AI 수학풀이, 인류 지적활동 위협\"...최고권위 필즈상 25인 경고"
-            },
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260912030300009?input=1195m",
-              "origin": "naver",
-              "title": "\"AI 수학풀이, 인류 지적활동 위협\"…최고권위 필즈상 25인 경고"
             }
           ],
           "source_count": 11,
@@ -2251,11 +2231,29 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "최태원 SK 회장 \"울산, 제조AI·시민행복·예술 아우른 'AI시티'로 도약...",
-          "url": "https://www.dailian.co.kr/news/view/1689601/?sc=Naver",
-          "snippet": "SK에너지는 울산CLX에서 내부 데이터와 현장 노하우를 활용한 '브레인AI'를 구축하고 피지컬AI와 결합한 운영체계를 추진하고 있다. 브레인AI가 설비와 안전 관련 데이터를 바탕으로 의사결정을 지원하고 로봇·드론 등...",
-          "source": "dailian.co.kr",
+          "title": "최태원 SK회장 “울산 산업 도시 넘어 ‘대한민국 AI 수도’로 도약해야...",
+          "url": "https://www.dt.co.kr/article/12083527?ref=naver",
+          "snippet": "최 회장은 AI의 미래에 대해 “AI는 에이전트와 피지컬 AI로 확산되고, 제조업을 넘어 일상으로 확산되고 있다”며 “이 거대한 변화는 AI 기술 뿐 아니라 메모리-데이터센터 에너지로 이어지는 AI산업 전반에 혁신으로...",
+          "source": "디지털타임스",
           "sources": [
+            {
+              "name": "디지털타임스",
+              "url": "https://www.dt.co.kr/article/12083527?ref=naver",
+              "origin": "naver",
+              "title": "최태원 SK회장 “울산 산업 도시 넘어 ‘대한민국 AI 수도’로 도약해야..."
+            },
+            {
+              "name": "fetv.co.kr",
+              "url": "https://www.fetv.co.kr/news/articleView.html?idxno=310090",
+              "origin": "naver",
+              "title": "최태원 SK 회장 \"미래 도시 울산, AI시티로 도약해야\""
+            },
+            {
+              "name": "YTN",
+              "url": "https://www.ytn.co.kr/_ln/0115_202609130840256827",
+              "origin": "naver",
+              "title": "\"울산을 AI 중심 도시로\"...SK 울산포럼 5번째 토론"
+            },
             {
               "name": "dailian.co.kr",
               "url": "https://www.dailian.co.kr/news/view/1689601/?sc=Naver",
@@ -2269,33 +2267,15 @@
               "title": "최태원 SK회장 \"산업도시 울산, 'AI 네이티브 시티'로 도약해야\""
             },
             {
-              "name": "헤럴드경제",
-              "url": "https://biz.heraldcorp.com/article/10871261?ref=naver",
-              "origin": "naver",
-              "title": "최태원 SK 회장 “글로벌 빅테크 기업과 AI 데이터센터 협업 속도 빨라..."
-            },
-            {
               "name": "연합뉴스",
               "url": "https://www.yna.co.kr/view/AKR20260912036600003?input=1195m",
               "origin": "naver",
               "title": "최태원 \"울산, 제조AX·시민 행복·예술 아우른 AI 도시로\""
-            },
-            {
-              "name": "etoday.co.kr",
-              "url": "https://www.etoday.co.kr/news/view/2624724",
-              "origin": "naver",
-              "title": "최태원 SK 회장 “울산 AI데이터센터, 글로벌 빅테크 협업 빠르게 진척..."
-            },
-            {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YNU9PNEN3S3N6V1VOUGpFcDR3U3A2bHg4V0NnYjhHMUlkSk9ZQXR4amRFaEVWUXZYZ21rQzBSVG1LMjVvSE1GWWlDa19Kek5VejNZ?oc=5",
-              "origin": "google",
-              "title": "\"100만 울산시민에 'AI 에이전트' 주면…\" 최태원 SK 회장의 제안"
             }
           ],
           "source_count": 6,
-          "published": "2026-09-13T08:01:00+09:00",
-          "ts": 1789254060.0,
+          "published": "2026-09-13T08:51:00+09:00",
+          "ts": 1789257060.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -2490,6 +2470,43 @@
           "group_label": "AI · 생성형AI"
         },
         {
+          "title": "\"100만 울산시민에 'AI 에이전트' 주면…\" 최태원 SK 회장의 제안",
+          "url": "https://www.mt.co.kr/industry/2026/09/13/2026091214343694124",
+          "snippet": "울산 시민 100만명에게 'AI 에이전트'를 제공해 삶의 질을 높이는 방안 역시 거론했다. 지난 11일 울산 울주군 울산전시컨벤션센터(UECO)에서는 '2026 울산포럼'이 열렸다. 올해 5회째를 맞은 울산포럼은 울산의 미래를...",
+          "source": "머니투데이",
+          "sources": [
+            {
+              "name": "머니투데이",
+              "url": "https://www.mt.co.kr/industry/2026/09/13/2026091214343694124",
+              "origin": "naver",
+              "title": "\"100만 울산시민에 'AI 에이전트' 주면…\" 최태원 SK 회장의 제안"
+            },
+            {
+              "name": "헤럴드경제",
+              "url": "https://biz.heraldcorp.com/article/10871261?ref=naver",
+              "origin": "naver",
+              "title": "최태원 SK 회장 “글로벌 빅테크 기업과 AI 데이터센터 협업 속도 빨라..."
+            },
+            {
+              "name": "etoday.co.kr",
+              "url": "https://www.etoday.co.kr/news/view/2624724",
+              "origin": "naver",
+              "title": "최태원 SK 회장 “울산 AI데이터센터, 글로벌 빅테크 협업 빠르게 진척..."
+            },
+            {
+              "name": "네이트",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YNU9PNEN3S3N6V1VOUGpFcDR3U3A2bHg4V0NnYjhHMUlkSk9ZQXR4amRFaEVWUXZYZ21rQzBSVG1LMjVvSE1GWWlDa19Kek5VejNZ?oc=5",
+              "origin": "google",
+              "title": "\"100만 울산시민에 'AI 에이전트' 주면…\" 최태원 SK 회장의 제안"
+            }
+          ],
+          "source_count": 4,
+          "published": "2026-09-13T08:30:00+09:00",
+          "ts": 1789255800.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
           "title": "허준이 등 필즈상 수상자 25명 \"수학 난제 푸는 AI, 학계에 해 끼쳐\"",
           "url": "https://www.hankookilbo.com/news/article/A2026091218210000154?did=NA",
           "snippet": "오픈AI는 새 AI모델과 수천 개의 AI 에이전트를 투입해 88시간 만에 나비에-스토크스 방정식 문제를 풀었다고 설명했다. 이 방정식은 물이나 공기를 연속적으로 이어진 물질로 보고, 각 부분이 어느 방향으로 얼마나...",
@@ -2566,7 +2583,7 @@
         {
           "title": "수출기업 45.5% 무역업무에 AI 못 쓴다…무협, AX 해법 연결",
           "url": "https://www.venturesquare.net/1112777/",
-          "snippet": "생성형 AI가 정보를 검색하고 요약하는 단계를 넘어 업무를 직접 수행하는 에이전트 AI로 진화하고 있다. 시장 조사와 바이어 발굴, 공급망 관리, 대금결제 등 반복...",
+          "snippet": "생성형 AI가 정보를 검색하고 요약하는 단계를 넘어 업무를 직접 수행하는... 문제해결형 산업 AI 에이전트 기술 개발사업’을 안내했다. 중소기업기술정보진흥원은...",
           "source": "아시아경제",
           "sources": [
             {
@@ -3029,31 +3046,6 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "“울산에 최고의 제조 데이터 있어…AX 먼저 나서야 주도권 장악”",
-          "url": "https://www.sedaily.com/article/20089886?ref=naver",
-          "snippet": "지역의 미래를 지자체 및 지역 시민들과 함께 고민하자는 최태원 SK 회장의 제안으로 시작됐다. 5회째를 맞은 이번 울산포럼은 ‘리딩 AX, 스마트 라이프 울산’을 주제로 피지컬 AI와 모두를 위한 AI 등을 논의한다.",
-          "source": "서울경제",
-          "sources": [
-            {
-              "name": "서울경제",
-              "url": "https://www.sedaily.com/article/20089886?ref=naver",
-              "origin": "naver",
-              "title": "“울산에 최고의 제조 데이터 있어…AX 먼저 나서야 주도권 장악”"
-            },
-            {
-              "name": "뉴스토마토",
-              "url": "http://www.newstomato.com/ReadNews.aspx?no=1313423&inflow=N",
-              "origin": "naver",
-              "title": "(2026 울산포럼①)“현장의 암묵지를 AI로”…제조 AX 중심에 선 울산"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-13T08:01:00+09:00",
-          "ts": 1789254060.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
           "title": "'카이스트 연구원' 허성범, 엘리트 집안이었네…누나들 의사·국세청 근...",
           "url": "https://www.xportsnews.com/article/2194989",
           "snippet": "카이스트에서 AI 연구원으로 일하는 그는 대중의 관심을 받게 되면서, 크리에이터 일과 함께 방송 일도 병행하고 있다. 특히 한국과학영재학교 출신인 허성범은 당시 학생들 사이에서 상위 1% 평가를 받았으며, IQ 측정...",
@@ -3075,6 +3067,31 @@
           "source_count": 2,
           "published": "2026-09-13T08:01:00+09:00",
           "ts": 1789254060.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "최태원 \"韓日 에너지 협력서 SK이노 핵심\"…AI·데이터센터 품고 사업 체질 전환",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzb0VsVkk3MEQtQjJaRUlBaWJ6cTl4N2h2V1RCNWNGTUZKWEZiZk51N2FJZ19VaF81SldpYlBmbW9EaEozXzZ3OGM4Tl9iVTB5aWprREJqSXpwVFplYmRadg?oc=5",
+          "snippet": "",
+          "source": "더구루",
+          "sources": [
+            {
+              "name": "더구루",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzb0VsVkk3MEQtQjJaRUlBaWJ6cTl4N2h2V1RCNWNGTUZKWEZiZk51N2FJZ19VaF81SldpYlBmbW9EaEozXzZ3OGM4Tl9iVTB5aWprREJqSXpwVFplYmRadg?oc=5",
+              "origin": "google",
+              "title": "최태원 \"韓日 에너지 협력서 SK이노 핵심\"…AI·데이터센터 품고 사업 체질 전환"
+            },
+            {
+              "name": "dailian.co.kr",
+              "url": "https://www.dailian.co.kr/news/view/1689605/?sc=Naver",
+              "origin": "naver",
+              "title": "최태원이 그린 SK이노 미래…\"AI 에너지·AIDC 전기화서 역할\""
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-09-13T08:00:20+09:00",
+          "ts": 1789254020.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -3117,7 +3134,7 @@
             },
             {
               "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sY3E5V25xNWUzUTRpY2s0bVRGZHF5elVNRURQS3Q1dWZ4eC1TOUxKdEJoZ0YtTUVTdHlNSkxhVVJTWlU1dnVKN0V0bnh4blJVZGpibTlyRXhYc1VNV0twWQ?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yRWRtUElvNFNWclVaSlo2bWVpYTBQWkZPakhKeTVWSkVIUHBOVHFWaFUzTEZzSUFaWERwamp1MFl1WllEZDMtb1U4Y0VHYnhlclNJ?oc=5",
               "origin": "google",
               "title": "스포츠 하이라이트 찾은 AI, 평가기술 개발"
             }
@@ -3441,7 +3458,7 @@
               "title": "HD현대로보틱스, 에이딘로보틱스에 130억원 투자…피지컬 AI 강화"
             },
             {
-              "name": "theggnews.com",
+              "name": "더글로벌기빙뉴스",
               "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGU1pzWVF2ZDZrOUJkWHJxNU9lNUdTU2c3cXVhejRkQm5KZ0RQRFlVUnFONkVheWlITmlJMWlpN3JQM08wTFpUN3htMlJpeXVrQmI2Sw?oc=5",
               "origin": "google",
               "title": "HD현대로보틱스, 에이딘로보틱스에 130억원 투자 …피지컬 AI 사업 본격화"
@@ -4079,6 +4096,82 @@
           "group_label": "AI · 생성형AI"
         },
         {
+          "title": "인간 VS AI 소상공인 소생을 위한 대결... ENA예능 '맡겨만 주십숏'",
+          "url": "https://kstar.kbs.co.kr/list_view.html?idx=409639",
+          "snippet": "인간미 넘치는 손맛과 기발한 아이디어로 승부하는 붐·곽범의 ‘IA팀’과 최첨단 생성형 AI 기술을 활용하는 신동·양세형의 ‘AI팀’이 홍보 영상 제작 대결을 펼친다. 공개된 티저 예고는 ‘영상 주문’이 적힌 의문의...",
+          "source": "KBS",
+          "sources": [
+            {
+              "name": "KBS",
+              "url": "https://kstar.kbs.co.kr/list_view.html?idx=409639",
+              "origin": "naver",
+              "title": "인간 VS AI 소상공인 소생을 위한 대결... ENA예능 '맡겨만 주십숏'"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T08:51:00+09:00",
+          "ts": 1789257060.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "피지컬 AI 자율제조 해법 찾는다 세미나허브, AI팩토리 전환 산업 적용 방안 논의",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1remw4UXVScmZiNExCemZ2QzU2dXBpNTRSUjNHdld6dUFJYXhON3JJNVBENmJNb0hjNGw2NndUUlh6Q19JSFlGblZiVnRvMGNVTFVkZ0ZBalUtVUxrS1NySkdjb0xMMERBU2p5SDlaMXE0VzDSAXdBVV95cUxOVG9TYVVvNDNjbjJKYlZDQzhLRWlfd3MwaU95TWVPMHluLVBoZGg3SFBueDdDaUZTdE5KQ05kSTJLMDZYLWg2NjlwLURGREY2LTRxUHRUTW1sckl1alI3TkdWZ3NxeHZrekpHMUZQaXVJX1g4N0Y2Yw?oc=5",
+          "snippet": "",
+          "source": "핀포인트뉴스",
+          "sources": [
+            {
+              "name": "핀포인트뉴스",
+              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1remw4UXVScmZiNExCemZ2QzU2dXBpNTRSUjNHdld6dUFJYXhON3JJNVBENmJNb0hjNGw2NndUUlh6Q19JSFlGblZiVnRvMGNVTFVkZ0ZBalUtVUxrS1NySkdjb0xMMERBU2p5SDlaMXE0VzDSAXdBVV95cUxOVG9TYVVvNDNjbjJKYlZDQzhLRWlfd3MwaU95TWVPMHluLVBoZGg3SFBueDdDaUZTdE5KQ05kSTJLMDZYLWg2NjlwLURGREY2LTRxUHRUTW1sckl1alI3TkdWZ3NxeHZrekpHMUZQaXVJX1g4N0Y2Yw?oc=5",
+              "origin": "google",
+              "title": "피지컬 AI 자율제조 해법 찾는다 세미나허브, AI팩토리 전환 산업 적용 방안 논의"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T08:50:00+09:00",
+          "ts": 1789257000.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "피지컬 AI 리드 ‘최고급 신진 연구자’ 육성…DGIST, 국가사업 선정",
+          "url": "https://www.munhwa.com/article/11616536?ref=naver",
+          "snippet": "이에 따라 주관기관인 DGIST는 한양대 ERICA와 함께 2026년부터 2031년까지 총 110억 원의 정부지원금을 투입해 ‘산업 인공지능전화(AX) 중심 자율-협력 피지컬 AI 에이전트 기술개발’에 본격 착수한다. 사업 총괄책임은...",
+          "source": "문화일보",
+          "sources": [
+            {
+              "name": "문화일보",
+              "url": "https://www.munhwa.com/article/11616536?ref=naver",
+              "origin": "naver",
+              "title": "피지컬 AI 리드 ‘최고급 신진 연구자’ 육성…DGIST, 국가사업 선정"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T08:41:00+09:00",
+          "ts": 1789256460.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "경남도, ‘2026 M.AX 지역 확산 컨퍼런스’ 개최",
+          "url": "https://www.viva100.com/article/20260913500034",
+          "snippet": "이미화 도 산업국장은 “경남은 조선·방산·기계 등 국가 전략산업과 탄탄한 제조 기반을 갖춘 만큼 정부의 M.AX 정책과 적극 연계해 경남 제조업의 새로운 경쟁력을 만들어 나가겠다”며 “제조 AX와 피지컬 AI가 실제...",
+          "source": "viva100.com",
+          "sources": [
+            {
+              "name": "viva100.com",
+              "url": "https://www.viva100.com/article/20260913500034",
+              "origin": "naver",
+              "title": "경남도, ‘2026 M.AX 지역 확산 컨퍼런스’ 개최"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T08:36:00+09:00",
+          "ts": 1789256160.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
           "title": "최태원 \"AI, 수익 못내면 거품처럼 꺼져…데이터 플랫폼이 관건\"",
           "url": "https://news.mtn.co.kr/news-detail/2026091308001196998",
           "snippet": "청년들에게는 AI 시대에 필요한 역량으로 '생각 근육'과 '공감의 힘', '적응 근육', '피지컬(Physical) 근육' 네 가지를 제시했다. AI에 사고를 맡기기보다 문제의 본질을 고민하고, 타인에게 공감하며, 실패를 딛고...",
@@ -4136,25 +4229,6 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "최태원 \"울산은 AI시티 돼야\"…제조AI·아트울산 비전 제시",
-          "url": "https://dealsite.co.kr/articles/168920",
-          "snippet": "청년들에게는 AI시대에 필요한 역량으로 ▲생각 근육 ▲공감의 힘 ▲적응 근육 ▲피지컬(Physical) 근육을 제시했다. AI에 사고를 맡기기보다 문제의 본질을 고민하고 타인에게 공감하는 힘, 실패를 딛고 다시 일어서는...",
-          "source": "dealsite.co.kr",
-          "sources": [
-            {
-              "name": "dealsite.co.kr",
-              "url": "https://dealsite.co.kr/articles/168920",
-              "origin": "naver",
-              "title": "최태원 \"울산은 AI시티 돼야\"…제조AI·아트울산 비전 제시"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-13T08:02:00+09:00",
-          "ts": 1789254120.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
           "title": "\"브레인 AI에 피지컬 AI 더한다\"…SK이노, 울산CLX AX 속도",
           "url": "https://dealsite.co.kr/articles/168919",
           "snippet": "이 실장은 \"영상 정보는 대부분 CCTV를 통해 확보할 수 있지만 지하 공간이나 고소 지역 등 위험 구역에서는 양질의 데이터를 지속적으로 확보하는 데 한계가 있다\"며 \"로봇과 드론 같은 피지컬AI가 이러한 사각지대를...",
@@ -4165,6 +4239,25 @@
               "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5d1RuRU40Rm02ZVMwUWNXLU82bUhrbnpma0FIZE9DM3NsQnN4ZW9ZSHYwSFg1RnRGSUVHMndFU29EOENoWmozRW9HcDFqbHc?oc=5",
               "origin": "google",
               "title": "\"브레인 AI에 피지컬 AI 더한다\"…SK이노, 울산CLX AX 속도"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T08:02:00+09:00",
+          "ts": 1789254120.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "최태원 \"울산은 AI시티 돼야\"…제조AI·아트울산 비전 제시",
+          "url": "https://dealsite.co.kr/articles/168920",
+          "snippet": "청년들에게는 AI시대에 필요한 역량으로 ▲생각 근육 ▲공감의 힘 ▲적응 근육 ▲피지컬(Physical) 근육을 제시했다. AI에 사고를 맡기기보다 문제의 본질을 고민하고 타인에게 공감하는 힘, 실패를 딛고 다시 일어서는...",
+          "source": "dealsite.co.kr",
+          "sources": [
+            {
+              "name": "dealsite.co.kr",
+              "url": "https://dealsite.co.kr/articles/168920",
+              "origin": "naver",
+              "title": "최태원 \"울산은 AI시티 돼야\"…제조AI·아트울산 비전 제시"
             }
           ],
           "source_count": 1,
@@ -4212,6 +4305,25 @@
           "group_label": "AI · 생성형AI"
         },
         {
+          "title": "“울산에 최고의 제조 데이터 있어…AX 먼저 나서야 주도권 장악”",
+          "url": "https://www.sedaily.com/article/20089886?ref=naver",
+          "snippet": "지역의 미래를 지자체 및 지역 시민들과 함께 고민하자는 최태원 SK 회장의 제안으로 시작됐다. 5회째를 맞은 이번 울산포럼은 ‘리딩 AX, 스마트 라이프 울산’을 주제로 피지컬 AI와 모두를 위한 AI 등을 논의한다.",
+          "source": "서울경제",
+          "sources": [
+            {
+              "name": "서울경제",
+              "url": "https://www.sedaily.com/article/20089886?ref=naver",
+              "origin": "naver",
+              "title": "“울산에 최고의 제조 데이터 있어…AX 먼저 나서야 주도권 장악”"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T08:01:00+09:00",
+          "ts": 1789254060.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
           "title": "피지컬 AI 춘추전국시대… 전 세계 ‘왕좌 전쟁’ [비즈앤피플]",
           "url": "https://www.busan.com/view/busan/view.php?code=2026091017310150501",
           "snippet": "사람 없이 피지컬AI 기반으로만 공장이 운영되는 ‘다크팩토리’의 실현 가능성을 증명한 것이다. 이처럼 피지컬 AI의 시대가 빠르게 다가오고 있다. 최근 인공지능(AI)는 언어와 이미지를 이해하는 생성형 AI 단계를...",
@@ -4222,25 +4334,6 @@
               "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Xb0ZWbk03VGFlTWttRWtEc0hEYXhsSVFueHRLT0VVMEwxMjBxNlFiaXRRci10a0FaNGxtXzU2dFdmczFWX05LOVFGdk5JbDdoeWVsLWsyc1JHdmZMSFhuOEpyTzFKX3B6UEx5bFB1c1VqZHNKbDdjRzY5Wmg?oc=5",
               "origin": "google",
               "title": "피지컬 AI 춘추전국시대… 전 세계 ‘왕좌 전쟁’ [비즈앤피플]"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-13T08:00:00+09:00",
-          "ts": 1789254000.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "AI가 2~3분마다 계정 파더니…개발자 사이트 신규 가입 나흘 중단",
-          "url": "https://www.newsis.com/view/NISX20260913_0003787010",
-          "snippet": "이번 사건의 AI는 외부 도구를 사용해 여러 단계의 업무를 수행하는 'AI 에이전트'로, 오픈AI 내부에서 훈련·평가를 받고 있었다. 오픈AI는 11일 자사 AI가 루비젬스 사건에 관여한 사실을 인정했다. 보안업계에서...",
-          "source": "뉴시스",
-          "sources": [
-            {
-              "name": "뉴시스",
-              "url": "https://www.newsis.com/view/NISX20260913_0003787010",
-              "origin": "naver",
-              "title": "AI가 2~3분마다 계정 파더니…개발자 사이트 신규 가입 나흘 중단"
             }
           ],
           "source_count": 1,
@@ -4269,16 +4362,16 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "韓日 '에너지 안보' 띄우는 최태원 \"재생에너지·수소·원전까지\"",
-          "url": "https://www.mt.co.kr/industry/2026/09/13/2026091213355843050",
-          "snippet": "최 회장은 \"울산시민 100만명에게 AI 에이전트를 모두 드리고 각 개인의 정보를 모으되 프라이버시 문제는 코드화 등을 통해 보호할 수 있다\"며 \"복지와 건강, 제조 AI까지 모은 정보를 공장 정보와 결합을 할 때...",
-          "source": "머니투데이",
+          "title": "AI가 2~3분마다 계정 파더니…개발자 사이트 신규 가입 나흘 중단",
+          "url": "https://www.newsis.com/view/NISX20260913_0003787010",
+          "snippet": "이번 사건의 AI는 외부 도구를 사용해 여러 단계의 업무를 수행하는 'AI 에이전트'로, 오픈AI 내부에서 훈련·평가를 받고 있었다. 오픈AI는 11일 자사 AI가 루비젬스 사건에 관여한 사실을 인정했다. 보안업계에서...",
+          "source": "뉴시스",
           "sources": [
             {
-              "name": "머니투데이",
-              "url": "https://www.mt.co.kr/industry/2026/09/13/2026091213355843050",
+              "name": "뉴시스",
+              "url": "https://www.newsis.com/view/NISX20260913_0003787010",
               "origin": "naver",
-              "title": "韓日 '에너지 안보' 띄우는 최태원 \"재생에너지·수소·원전까지\""
+              "title": "AI가 2~3분마다 계정 파더니…개발자 사이트 신규 가입 나흘 중단"
             }
           ],
           "source_count": 1,
@@ -4298,6 +4391,44 @@
               "url": "https://biz.heraldcorp.com/article/10870896?ref=naver",
               "origin": "naver",
               "title": "[르포] “글로벌 가전 전시회에 K-팹리스가 왜?”…AI 바리스타부터 ‘..."
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T08:00:00+09:00",
+          "ts": 1789254000.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "韓日 '에너지 안보' 띄우는 최태원 \"재생에너지·수소·원전까지\"",
+          "url": "https://www.mt.co.kr/industry/2026/09/13/2026091213355843050",
+          "snippet": "최 회장은 \"울산시민 100만명에게 AI 에이전트를 모두 드리고 각 개인의 정보를 모으되 프라이버시 문제는 코드화 등을 통해 보호할 수 있다\"며 \"복지와 건강, 제조 AI까지 모은 정보를 공장 정보와 결합을 할 때...",
+          "source": "머니투데이",
+          "sources": [
+            {
+              "name": "머니투데이",
+              "url": "https://www.mt.co.kr/industry/2026/09/13/2026091213355843050",
+              "origin": "naver",
+              "title": "韓日 '에너지 안보' 띄우는 최태원 \"재생에너지·수소·원전까지\""
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T08:00:00+09:00",
+          "ts": 1789254000.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "(2026 울산포럼①)“현장의 암묵지를 AI로”…제조 AX 중심에 선 울산",
+          "url": "http://www.newstomato.com/ReadNews.aspx?no=1313423&inflow=N",
+          "snippet": "이윤철 울산상공회의소 회장은 “울산은 피지컬AI 고도화에 필요한 다양한 현장 데이터를 축적하기에 최적의 환경을 갖춘 곳”이라며 “울산의 제조 데이터와 현장 경험이 결합하면 피지컬AI 실증과 확산을...",
+          "source": "뉴스토마토",
+          "sources": [
+            {
+              "name": "뉴스토마토",
+              "url": "http://www.newstomato.com/ReadNews.aspx?no=1313423&inflow=N",
+              "origin": "naver",
+              "title": "(2026 울산포럼①)“현장의 암묵지를 AI로”…제조 AX 중심에 선 울산"
             }
           ],
           "source_count": 1,
@@ -4573,25 +4704,6 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "AI가 돈을 빨아들이자…자본은 '대체 불가' 자산을 사기 시작했다",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NX05GVm5Ea1dTdUlOSk9KQ0FVX3Y4cGg0RzcxejJ3N1BneXpzOVlpdk9vUEVGYVNqcU9iNVJGRWpsQnFPRmwyZk1rRGhOZURBVlhJ?oc=5",
-          "snippet": "",
-          "source": "네이트",
-          "sources": [
-            {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NX05GVm5Ea1dTdUlOSk9KQ0FVX3Y4cGg0RzcxejJ3N1BneXpzOVlpdk9vUEVGYVNqcU9iNVJGRWpsQnFPRmwyZk1rRGhOZURBVlhJ?oc=5",
-              "origin": "google",
-              "title": "AI가 돈을 빨아들이자…자본은 '대체 불가' 자산을 사기 시작했다"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-13T06:01:00+09:00",
-          "ts": 1789246860.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
           "title": "“클로드가 그랬대” AI 중계기 돼버린 인간…‘미트 프록시’ 뭐길래",
           "url": "https://www.ddaily.co.kr/page/view/2026091209330995766",
           "snippet": "이 표현이 특히 개발자 커뮤니티에서 빠르게 확산한 배경에는 생성형 AI 기반 코딩 에이전트 활용 증가가 있다. 그룬은 코드 리뷰를 대표 사례로 들었다. 업무 티켓 내용을 클로드 코드 같은 코딩 에이전트에 넣어...",
@@ -4611,16 +4723,35 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "찍고, 보내고 \"이걸 일일이?\"...'쌍팔년도' 머물던 시장 확 바꾼 이 사람",
-          "url": "https://www.mt.co.kr/future/2026/09/13/2026082717531915467",
-          "snippet": "업무의 상당 부분을 AI에이전트에 효과적으로 맡긴 덕분이다. 지난해 중소벤처기업진흥공단의 '중소기업 AI 전환 우수사례'로도 뽑혔다. 양 대표는 \"월간 거래액도 창업 초기 20억원 수준에서 현재 600억원 수준까지 크게...",
-          "source": "머니투데이",
+          "title": "AI가 돈을 빨아들이자…자본은 '대체 불가' 자산을 사기 시작했다",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NX05GVm5Ea1dTdUlOSk9KQ0FVX3Y4cGg0RzcxejJ3N1BneXpzOVlpdk9vUEVGYVNqcU9iNVJGRWpsQnFPRmwyZk1rRGhOZURBVlhJ?oc=5",
+          "snippet": "",
+          "source": "네이트",
           "sources": [
             {
-              "name": "머니투데이",
-              "url": "https://www.mt.co.kr/future/2026/09/13/2026082717531915467",
+              "name": "네이트",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NX05GVm5Ea1dTdUlOSk9KQ0FVX3Y4cGg0RzcxejJ3N1BneXpzOVlpdk9vUEVGYVNqcU9iNVJGRWpsQnFPRmwyZk1rRGhOZURBVlhJ?oc=5",
+              "origin": "google",
+              "title": "AI가 돈을 빨아들이자…자본은 '대체 불가' 자산을 사기 시작했다"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T06:01:00+09:00",
+          "ts": 1789246860.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "올트먼 “오픈AI 상장, 올해엔 안해”",
+          "url": "https://www.dt.co.kr/article/12083518?ref=naver",
+          "snippet": "지난 7월 오픈AI 모델 기반 AI 에이전트 약 700개가 테스트 환경을 벗어나 오픈소스 플랫폼 허깅페이스를 해킹했고, 회사는 8월 2주간 모델 개발을 상당 부분 중단했다. 오픈AI와 앤트로픽에서 모두 일했던 연구원...",
+          "source": "디지털타임스",
+          "sources": [
+            {
+              "name": "디지털타임스",
+              "url": "https://www.dt.co.kr/article/12083518?ref=naver",
               "origin": "naver",
-              "title": "찍고, 보내고 \"이걸 일일이?\"...'쌍팔년도' 머물던 시장 확 바꾼 이 사람"
+              "title": "올트먼 “오픈AI 상장, 올해엔 안해”"
             }
           ],
           "source_count": 1,
@@ -4649,16 +4780,16 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "올트먼 “오픈AI 상장, 올해엔 안해”",
-          "url": "https://www.dt.co.kr/article/12083518?ref=naver",
-          "snippet": "지난 7월 오픈AI 모델 기반 AI 에이전트 약 700개가 테스트 환경을 벗어나 오픈소스 플랫폼 허깅페이스를 해킹했고, 회사는 8월 2주간 모델 개발을 상당 부분 중단했다. 오픈AI와 앤트로픽에서 모두 일했던 연구원...",
-          "source": "디지털타임스",
+          "title": "찍고, 보내고 \"이걸 일일이?\"...'쌍팔년도' 머물던 시장 확 바꾼 이 사람",
+          "url": "https://www.mt.co.kr/future/2026/09/13/2026082717531915467",
+          "snippet": "업무의 상당 부분을 AI에이전트에 효과적으로 맡긴 덕분이다. 지난해 중소벤처기업진흥공단의 '중소기업 AI 전환 우수사례'로도 뽑혔다. 양 대표는 \"월간 거래액도 창업 초기 20억원 수준에서 현재 600억원 수준까지 크게...",
+          "source": "머니투데이",
           "sources": [
             {
-              "name": "디지털타임스",
-              "url": "https://www.dt.co.kr/article/12083518?ref=naver",
+              "name": "머니투데이",
+              "url": "https://www.mt.co.kr/future/2026/09/13/2026082717531915467",
               "origin": "naver",
-              "title": "올트먼 “오픈AI 상장, 올해엔 안해”"
+              "title": "찍고, 보내고 \"이걸 일일이?\"...'쌍팔년도' 머물던 시장 확 바꾼 이 사람"
             }
           ],
           "source_count": 1,
@@ -4911,139 +5042,6 @@
           "source_count": 1,
           "published": "2026-09-13T00:00:00+09:00",
           "ts": 1789225200.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "AI 에이전트마다 ID·소유자 지정...무단 실행 막고 접근권한 즉시 회수",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQRE54LVBVWnhUTGxZTmFOSG0zMmZqTVg0YzZpM3FZenlTN2tqdDQwc3A1ck5qaFVPTkZrWFJaeDdjWnpLcXNoaHlxZTh6OVViQ2syRHRXT0I0eVRpd09Nb2hxV01xQjdCRnc?oc=5",
-          "snippet": "",
-          "source": "지티티코리아",
-          "sources": [
-            {
-              "name": "지티티코리아",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQRE54LVBVWnhUTGxZTmFOSG0zMmZqTVg0YzZpM3FZenlTN2tqdDQwc3A1ck5qaFVPTkZrWFJaeDdjWnpLcXNoaHlxZTh6OVViQ2syRHRXT0I0eVRpd09Nb2hxV01xQjdCRnc?oc=5",
-              "origin": "google",
-              "title": "AI 에이전트마다 ID·소유자 지정...무단 실행 막고 접근권한 즉시 회수"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-13T00:00:00+09:00",
-          "ts": 1789225200.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "[인터뷰] “AI는 모두의 평균… 자신만의 ‘이상함’을 지켜야 합니다” 무쿤드 올레티",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tNnFiakdRRVhsVFBnS3hpOFN4V2x0akFFT0cwdU5qSHljVmpJclNnNHNsMGYtSmxsRFpobXJUMlBObkRsVThKTzgzdnQ2eUNONzMxYzFUNUhrNmh3ZWMwLTNTWHVydWpSSWlLNA?oc=5",
-          "snippet": "",
-          "source": "매드타임스",
-          "sources": [
-            {
-              "name": "매드타임스",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tNnFiakdRRVhsVFBnS3hpOFN4V2x0akFFT0cwdU5qSHljVmpJclNnNHNsMGYtSmxsRFpobXJUMlBObkRsVThKTzgzdnQ2eUNONzMxYzFUNUhrNmh3ZWMwLTNTWHVydWpSSWlLNA?oc=5",
-              "origin": "google",
-              "title": "[인터뷰] “AI는 모두의 평균… 자신만의 ‘이상함’을 지켜야 합니다” 무쿤드 올레티"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-13T00:00:00+09:00",
-          "ts": 1789225200.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "SW엔지니어링도 ‘에이전트’가? “보안 등 ‘지뢰밭’ 많아”",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NOTkzMTFrU2lhNDVTUGxYa0NFWG90YUlTTGw3cjF6QXQ3aWk1d3BxT3RWNEJ6eV9qbWdxSVduQnI0ZTNaYU5pZUdXZ1JubF83eUNDeEhLNkduSDlOb2RLZjJtcXZ5dU5vcmwxYWZWbw?oc=5",
-          "snippet": "",
-          "source": "애플경제",
-          "sources": [
-            {
-              "name": "애플경제",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NOTkzMTFrU2lhNDVTUGxYa0NFWG90YUlTTGw3cjF6QXQ3aWk1d3BxT3RWNEJ6eV9qbWdxSVduQnI0ZTNaYU5pZUdXZ1JubF83eUNDeEhLNkduSDlOb2RLZjJtcXZ5dU5vcmwxYWZWbw?oc=5",
-              "origin": "google",
-              "title": "SW엔지니어링도 ‘에이전트’가? “보안 등 ‘지뢰밭’ 많아”"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-12T23:22:16+09:00",
-          "ts": 1789222936.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "[2026년, AI 에이전트가 SEO와 콘텐츠 전략을 바꾸는 방식] 이를 '에이전트 SEO'라고 부르며, 모바일 우선 인덱싱 도입 이후 가장 큰 변화로 평가한다. 검색 행동이 근본적으로 변했기 때문",
-          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFAzWVZJcmNzdXZDeU83dEpoS1ZhVDNJRzhISTJkb29PdmVDbmgya082VUtsUGY1ai1KWl9oSUhpbV8?oc=5",
-          "snippet": "",
-          "source": "AI넷",
-          "sources": [
-            {
-              "name": "AI넷",
-              "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFAzWVZJcmNzdXZDeU83dEpoS1ZhVDNJRzhISTJkb29PdmVDbmgya082VUtsUGY1ai1KWl9oSUhpbV8?oc=5",
-              "origin": "google",
-              "title": "[2026년, AI 에이전트가 SEO와 콘텐츠 전략을 바꾸는 방식] 이를 '에이전트 SEO'라고 부르며, 모바일 우선 인덱싱 도입 이후 가장 큰 변화로 평가한다. 검색 행동이 근본적으로 변했기 때문"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-12T23:18:30+09:00",
-          "ts": 1789222710.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "24시간 일하는 AI 쇼호스트, 중국이 보여준 ‘디지털 노동’의 경제학",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1VFNMWkJTREw0amtJeE4wMGFrazNYNjQ4d2o2Y3BsQ0RYdjRKVmpkRlE4T0xOSEZKdWstdi1WbFh2OGxDbzl2bDRjLTFrd3k3VUhhRm9PY0dSaHdybWFEZ21YY0dBNFJMNU1EMGJB?oc=5",
-          "snippet": "",
-          "source": "미디어피아",
-          "sources": [
-            {
-              "name": "미디어피아",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1VFNMWkJTREw0amtJeE4wMGFrazNYNjQ4d2o2Y3BsQ0RYdjRKVmpkRlE4T0xOSEZKdWstdi1WbFh2OGxDbzl2bDRjLTFrd3k3VUhhRm9PY0dSaHdybWFEZ21YY0dBNFJMNU1EMGJB?oc=5",
-              "origin": "google",
-              "title": "24시간 일하는 AI 쇼호스트, 중국이 보여준 ‘디지털 노동’의 경제학"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-12T23:07:02+09:00",
-          "ts": 1789222022.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "[전문가의 업무 효율을 높이는 2026년 AI 워크플로우 자동화 앱 5선] 전문가들은 모든 작업을 자동화하기보다, AI 에이전트가 자동화한 의사결정에 적합한 비즈니스 프로세스를 인식하는 것이 중요하다고 조언",
-          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1fbkdTNU9rWHZTU0FETTNUQVhaNWhxcS1jTVBpQnFxd3FZU2Nqc3pGUzc1MDhKODlLNXF5T0h0aEw?oc=5",
-          "snippet": "",
-          "source": "AI넷",
-          "sources": [
-            {
-              "name": "AI넷",
-              "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1fbkdTNU9rWHZTU0FETTNUQVhaNWhxcS1jTVBpQnFxd3FZU2Nqc3pGUzc1MDhKODlLNXF5T0h0aEw?oc=5",
-              "origin": "google",
-              "title": "[전문가의 업무 효율을 높이는 2026년 AI 워크플로우 자동화 앱 5선] 전문가들은 모든 작업을 자동화하기보다, AI 에이전트가 자동화한 의사결정에 적합한 비즈니스 프로세스를 인식하는 것이 중요하다고 조언"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-12T22:58:30+09:00",
-          "ts": 1789221510.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "퀄컴은 에이전트-AI 시대를 위한 획기적인 스냅드래곤 8 엘리트 6세대 프로 NPU 아키텍처를 공개했습니다.",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcFJUd2J6SXcyaGdYcmZxS05wOTdUWkhHQ1k2ZUx2U2JXYXItenNRcS1rdVBaamdKMXU5VE80UG1raVBuQ3hDVXF0cVh5dXVBdkFaa3A1ZUh6b3ZKYzNFWTl0NS1SNWJDZTdQazdWcFd4UXpiZkt0dEVzUUNqUWd0Uk9INW5BbXlCQU15LVNmNkZxTkF5M2hGMDM3ODhsT3lvSk5sdUdXTFVMMFR5aXc0Y1ZLaXo2Zw?oc=5",
-          "snippet": "",
-          "source": "Vietnam.vn",
-          "sources": [
-            {
-              "name": "Vietnam.vn",
-              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcFJUd2J6SXcyaGdYcmZxS05wOTdUWkhHQ1k2ZUx2U2JXYXItenNRcS1rdVBaamdKMXU5VE80UG1raVBuQ3hDVXF0cVh5dXVBdkFaa3A1ZUh6b3ZKYzNFWTl0NS1SNWJDZTdQazdWcFd4UXpiZkt0dEVzUUNqUWd0Uk9INW5BbXlCQU15LVNmNkZxTkF5M2hGMDM3ODhsT3lvSk5sdUdXTFVMMFR5aXc0Y1ZLaXo2Zw?oc=5",
-              "origin": "google",
-              "title": "퀄컴은 에이전트-AI 시대를 위한 획기적인 스냅드래곤 8 엘리트 6세대 프로 NPU 아키텍처를 공개했습니다."
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-12T22:54:36+09:00",
-          "ts": 1789221276.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         }
@@ -5791,25 +5789,19 @@
       "priority": 13,
       "page": "trends",
       "preview": 3,
-      "count": 112,
+      "count": 115,
       "items": [
         {
-          "title": "막 오른 블리즈컨⋯슈팅 '스타크래프트'·'디아블로5' 베일 벗어",
-          "url": "http://www.inews24.com/view/2004957",
-          "snippet": "신작 스타크래프트(STARCRAFT)는 스토리 중심의 오픈 월드 슈팅 게임이다. 오는 2030년 봄 출시 예정이다. 이 게임은 1998년 출시된 실시간 전략(RTS) 게임 '스타크래프트'와 '스타크래프트2'의 세계관을 바탕으로 한 신작이다....",
-          "source": "아이뉴스24",
+          "title": "스타크래프트 신작부터 디아블로5까지, 블리즈컨 2026 개막",
+          "url": "https://www.betanews.net/article/view/beta202609130002",
+          "snippet": "'스타크래프트'가 스토리 중심의 오픈 월드 슈팅 게임으로 돌아오며, 2030년 봄 출시 예정이다. 잘아타스가 9월 28일 '히어로즈 오브 더 스톰'에 신규 영웅으로 합류하며, 9월 14일부터 공개 테스트 서버에서 플레이할 수...",
+          "source": "betanews.net",
           "sources": [
             {
-              "name": "아이뉴스24",
-              "url": "http://www.inews24.com/view/2004957",
+              "name": "betanews.net",
+              "url": "https://www.betanews.net/article/view/beta202609130002",
               "origin": "naver",
-              "title": "막 오른 블리즈컨⋯슈팅 '스타크래프트'·'디아블로5' 베일 벗어"
-            },
-            {
-              "name": "매일경제",
-              "url": "https://www.mk.co.kr/article/12151208",
-              "origin": "naver",
-              "title": "3년 만에 돌아온 ‘블리즈컨’…‘스타크래프트’ 부활에 ‘디아블로5’..."
+              "title": "스타크래프트 신작부터 디아블로5까지, 블리즈컨 2026 개막"
             },
             {
               "name": "연합뉴스",
@@ -5824,21 +5816,15 @@
               "title": "블리자드 '블리즈컨 2026', '스타크래프트' 슈터와 '디아블로5' 최초 공..."
             },
             {
-              "name": "cwn.kr",
-              "url": "https://www.cwn.kr/news/articleView.html?idxno=56133",
-              "origin": "naver",
-              "title": "'스타크래프트 후속작 베일 벗나'…블리즈컨2026 신작 공개에 뜨거운 시..."
-            },
-            {
               "name": "네이트",
               "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VMnNsdzExYk1HRzlkVWd3NUxOclVWRUstQ18tTEtCMFlUOVZENjI5aklzNmVWcEF5RjdSMWx2MGxaX2FZTTVaLU1kOU9Bd1VseDZj?oc=5",
               "origin": "google",
               "title": "'스타' 슈팅게임·'디아블로Ⅴ'…초대형 신작으로 채운 블리즈컨(종합)"
             }
           ],
-          "source_count": 6,
-          "published": "2026-09-13T07:47:00+09:00",
-          "ts": 1789253220.0,
+          "source_count": 4,
+          "published": "2026-09-13T08:54:00+09:00",
+          "ts": 1789257240.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
         },
@@ -5855,6 +5841,12 @@
               "title": "3년 만에 돌아온 블리즈컨…‘스타크래프트’ 신작 공개되나"
             },
             {
+              "name": "매일경제",
+              "url": "https://www.mk.co.kr/article/12151208",
+              "origin": "naver",
+              "title": "3년 만에 돌아온 ‘블리즈컨’…‘스타크래프트’ 부활에 ‘디아블로5’..."
+            },
+            {
               "name": "연합뉴스",
               "url": "https://www.yna.co.kr/view/AKR20260913001600075?input=1195m",
               "origin": "naver",
@@ -5867,9 +5859,34 @@
               "title": "슈터 장르로 돌아온 '스타크래프트' 신작, 시네마틱 최초 공개"
             }
           ],
-          "source_count": 3,
+          "source_count": 4,
           "published": "2026-09-13T05:51:00+09:00",
           "ts": 1789246260.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
+          "title": "막 오른 블리즈컨⋯슈팅 '스타크래프트'·'디아블로5' 베일 벗어",
+          "url": "http://www.inews24.com/view/2004957",
+          "snippet": "신작 스타크래프트(STARCRAFT)는 스토리 중심의 오픈 월드 슈팅 게임이다. 오는 2030년 봄 출시 예정이다. 이 게임은 1998년 출시된 실시간 전략(RTS) 게임 '스타크래프트'와 '스타크래프트2'의 세계관을 바탕으로 한 신작이다....",
+          "source": "아이뉴스24",
+          "sources": [
+            {
+              "name": "아이뉴스24",
+              "url": "http://www.inews24.com/view/2004957",
+              "origin": "naver",
+              "title": "막 오른 블리즈컨⋯슈팅 '스타크래프트'·'디아블로5' 베일 벗어"
+            },
+            {
+              "name": "cwn.kr",
+              "url": "https://www.cwn.kr/news/articleView.html?idxno=56133",
+              "origin": "naver",
+              "title": "'스타크래프트 후속작 베일 벗나'…블리즈컨2026 신작 공개에 뜨거운 시..."
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-09-13T07:47:00+09:00",
+          "ts": 1789253220.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
         },
@@ -5920,6 +5937,31 @@
           "source_count": 2,
           "published": "2026-09-13T05:39:00+09:00",
           "ts": 1789245540.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
+          "title": "디자인과 조작성을 함께 보는 온라인 홀덤 디시 게임 선택",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zQ3BjRmUtam0xeGx2X2tOcV9iYTdIcGNuTWlLMlRubHR3R2Q5dGxHTlVZWnpzR295TTQ5RHNfaV96WVpSTTZfTmpTbmZEeTN4NGRYUFBuY3A4aE9xc0hzVy1mMUNJdC1kejVHU3p3?oc=5",
+          "snippet": "",
+          "source": "Histoire pour tous",
+          "sources": [
+            {
+              "name": "Histoire pour tous",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zQ3BjRmUtam0xeGx2X2tOcV9iYTdIcGNuTWlLMlRubHR3R2Q5dGxHTlVZWnpzR295TTQ5RHNfaV96WVpSTTZfTmpTbmZEeTN4NGRYUFBuY3A4aE9xc0hzVy1mMUNJdC1kejVHU3p3?oc=5",
+              "origin": "google",
+              "title": "디자인과 조작성을 함께 보는 온라인 홀덤 디시 게임 선택"
+            },
+            {
+              "name": "histoire-pour-tous.fr",
+              "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPbzBMWHNoTWR2allvZ1psU053dnlSU3lEaXhMT1FaaHJoTHZJR0ppOVluTjU2NDZSVkxpZXZ6Ti1zN1hqYXRPTWNYZ3FJODFXbTdvb01tVGNtekp6bDBzakJRdmkxRllHeXJzbWtwS2lOZDNqcU5idFBRaEFheHZXdGYtMl9adEQ5LWc4eklzOE1vX1VGTmVCLXB3eWprZ2V4M3BmNnNXUVM3Uk1VWFdQaW9XWC00WWNUTHQ1LUpmNHBPTkNSRGdLOGdfRURyeDhiSk1jaVBYNWRaRjVibVQxMjlvMGFUYnBlSFdfVkVnMGMwQ3FvdWV0bHgzZzNiNVdTaW5Icm5CbnVuQXE1eEVrT1M2c1lPTXFMclczVEFxb241T2x1cFE?oc=5",
+              "origin": "google",
+              "title": "디자인과 조작성을 함께 보는 파티 카지노 프로모션 코드 2022 게임 선택"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-09-13T04:05:10+09:00",
+          "ts": 1789239910.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
         },
@@ -6024,6 +6066,31 @@
           "group_label": "게임 · e스포츠"
         },
         {
+          "title": "비주얼 중심으로 둘러보는 크레타 문자 게임 디자인",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaTAyUHhPVmltUlpQRTllWTd4X2pPcmg4dGlXOS1EQ09faFhlbFdYY0hEWTRHM1VxWHNMbHlMcXlGUlFZaFl4QlI5S2N5MHNSZDVYaWdHQk5DWjZjNnhHYUp1MDlnQXlDQ3hMNk95S0F4WjRraHNlRlBvLVJqUkhoOEJhdzI1VnFLV3p2cTNIVzdfdnd0Zm1MXzNKUUpiY0VFeHQxTlZQclVsSDI5dG92T0RkcWhkX3R6UnpJ?oc=5",
+          "snippet": "",
+          "source": "Histoire pour tous",
+          "sources": [
+            {
+              "name": "Histoire pour tous",
+              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaTAyUHhPVmltUlpQRTllWTd4X2pPcmg4dGlXOS1EQ09faFhlbFdYY0hEWTRHM1VxWHNMbHlMcXlGUlFZaFl4QlI5S2N5MHNSZDVYaWdHQk5DWjZjNnhHYUp1MDlnQXlDQ3hMNk95S0F4WjRraHNlRlBvLVJqUkhoOEJhdzI1VnFLV3p2cTNIVzdfdnd0Zm1MXzNKUUpiY0VFeHQxTlZQclVsSDI5dG92T0RkcWhkX3R6UnpJ?oc=5",
+              "origin": "google",
+              "title": "비주얼 중심으로 둘러보는 크레타 문자 게임 디자인"
+            },
+            {
+              "name": "histoire-pour-tous.fr",
+              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmZzbUZTMFJsX2FwUDhBcXRBbUlOZ0RsbjlTMTktb0N4R0NvRXZqajVIbXNMcWlUN0p0bTNEeDQ5RHdZWWZEU0RxWnV6aVNMY1hkY29hd1YxWGRpUmRWQjZSZFd0NFMtUXVSSTNFbUxZX2pyMDVZNjlseVVDVVV4WVhoS05vUnpYbWNHWUdaVkhfNTZQSkFOS1I2dGptZnJGOTg1aGg2cTdVVmVUNHp2RE1LMmt6VXZ6S0VR?oc=5",
+              "origin": "google",
+              "title": "비주얼 중심으로 둘러보는 아이소이 슈게임 링크 게임 디자인"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-09-12T23:50:45+09:00",
+          "ts": 1789224645.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
           "title": "게임 제목 옆 부가 표기를 읽는 인터넷 블랙잭 정보 해설",
           "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOWUNJVXlnYUR0SHMzV1RIbVZOUFE2Qk5SRElqVzJyemVsR2UtUDNkODhXRXhEUGNORHB3SDZ0M1V6S1FDX0E2SHFCVjlPNVgyOWU4YTRzQW5obW5QUTRHejhpbTJFSGpueFJVS19Na0dzeld1cmJzRzd0a1pUbDNfUmRoZVpwMU9aMlJkeVh3d3Q0ZTAwMnpncEhvOE5fcDlIbzhFTjQyLXBqZEJVVk85VXNKbFFycnpDNy1OU1QxMXM4NXk3aFhuNEVxT1VEMU80TUdyZFNXTmlFMVJTUm1mbWtfQ2xDNGRWdjlUcjF5ZGQ2d2g4cURmZTJoalJVTEc4cmEwRFVyUG1jQzkwOWU0SS1qWTF3aXNBWmh6bmF2cXBHdWlBdEZwa29icjR6RDZ6WU10aXphUEg4TWtqbDZuMlJvZHk4ams4QjZkcnFMYUF2aWx2OWZXek1oMA?oc=5",
           "snippet": "",
@@ -6036,7 +6103,7 @@
               "title": "게임 제목 옆 부가 표기를 읽는 인터넷 블랙잭 정보 해설"
             },
             {
-              "name": "Histoire pour tous",
+              "name": "histoire-pour-tous.fr",
               "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTXFTRlN2UlFta1RMVlp6UlJGdGJQYVF5V2oycFZVSWRNUldlZGRmbjdiU1EtbnRJZWl1Y1lyNnU3cmFkLW9sU1VkR2hvZlZnVjBjRUtuWkJHcGxhc2xkWWtaeUdPR0J4dXI4ZWxOUGR0VXJ5cHB4THhTRFo1dGdaYTdCaEtWaTNqOXlxdUpNTl9uWDhQcnEwLTNXME4yM2VuSHpONTBDaXVEUUR2UmFOb202LU0xODJpZzlRV1dFb3JheFJoSzBaTg?oc=5",
               "origin": "google",
               "title": "헬로우 블랙잭 1권 게임 정보에서 확인할 제작사 표기"
@@ -6061,7 +6128,7 @@
               "title": "게임별로 달라지는 용어를 풀어보는 로얄 토토"
             },
             {
-              "name": "Histoire pour tous",
+              "name": "histoire-pour-tous.fr",
               "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOMjhnb0w4RVUxYUJYRkFwcWpkTnJkSkdUODRtcU9xTE9wdmJPbkFScUtGbUpkaGhUODdZVGFVYmJMSng2Wk05RnA2QWNibXRyOFhmdDlfOXNGckoyeXp6WHN2aHVNdGRxR2xtUWtKYk9OYVBEZXQ5MXdSaGwzZXBTTGdxSDJiZ1NpczR6dXdkblVKZHdsTUhsbGszTDJMa0tYZm5OUHhtZ1JIc2lXN0d3VTZURUpQUk82V2Q2TVJTRXJmUzJzdXR2ald4aUVsZVFOX1ctbzdKZFZzcHlDNE5Ga1YyYjlhNjhydTctTkJ0dFRsX3F3eExZUlhwOWNCSG5fRmJMTFZjSHRBWXdxVGFj?oc=5",
               "origin": "google",
               "title": "게임별로 달라지는 용어를 풀어보는 웹 브라우저 게임 만들기"
@@ -6175,8 +6242,8 @@
         },
         {
           "title": "日이 먼저 반응한다...K게임, 도쿄게임쇼서 글로벌 흥행 시험대",
-          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=311005",
-          "snippet": "글로벌 게임 개발사와 퍼블리셔, 이용자가 한자리에 모이는 행사인 만큼 신작에 대한 현지 반응은 향후 출시 전략과 마케팅 방향에도 상당한 영향을 미칠 수 있다. 올해 국내 업체들의 라인업에서 가장 눈에 띄는 장르는...",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XT05NVDdnQ1lQN2g2TGxPbHFTVEd5NFNCMVVoRVJqRHBWZVBKc05od25BOUxFcW5kRzdkYm9xTG1nZWxoRnFuTExieHdVdmszQTlXVkZNc09XU0dNaVE0bGdwZEtaOWNrNXhpMEJ2SkZPZlF5UElJ0gF3QVVfeXFMT1dPTk1UN2dDWVA3aDZMbE9scVNUR3k0U0IxVWhFUmpEcFZlUEpzTmh3bkE5TEVxbmRHN2Rib3FMbWdlbGhGcW5MTGJ4d1V2azNBOVdWRk1zT1dTR01pUTRsZ3BkS1o5Y2s1eGkwQnZKRk9mUXlQSUk?oc=5",
+          "snippet": "",
           "source": "스트레이트뉴스",
           "sources": [
             {
@@ -6193,8 +6260,8 @@
             }
           ],
           "source_count": 2,
-          "published": "2026-09-12T08:00:00+09:00",
-          "ts": 1789167600.0,
+          "published": "2026-09-12T08:22:42+09:00",
+          "ts": 1789168962.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
         },
@@ -6220,6 +6287,25 @@
           "source_count": 2,
           "published": "2026-09-12T05:04:00+09:00",
           "ts": 1789157040.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
+          "title": "블리자드, 디아블로5 공개…2029년 콘솔·PC 동시 출시",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45RDNPZ3VBTnRCMTJpalQybFpGdThGd3h2cURKaDZibzFFRmFnTEZKek9yb2xZdHRGQ2FVQXNrTXRZTExmUDhBMWhKa2VGMVhac0RzUVl4VjN2aC15OEtGT1hVa0xscHFfTEYwaEtLREU?oc=5",
+          "snippet": "",
+          "source": "디지털포커스",
+          "sources": [
+            {
+              "name": "디지털포커스",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45RDNPZ3VBTnRCMTJpalQybFpGdThGd3h2cURKaDZibzFFRmFnTEZKek9yb2xZdHRGQ2FVQXNrTXRZTExmUDhBMWhKa2VGMVhac0RzUVl4VjN2aC15OEtGT1hVa0xscHFfTEYwaEtLREU?oc=5",
+              "origin": "google",
+              "title": "블리자드, 디아블로5 공개…2029년 콘솔·PC 동시 출시"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T08:34:02+09:00",
+          "ts": 1789256042.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
         },
@@ -6376,6 +6462,25 @@
           "group_label": "게임 · e스포츠"
         },
         {
+          "title": "콘솔게임 순위 의 역사와 발전: 과거에서 현재까지 - 전문가의 관점에서",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUF85LWkyUXlrT1hyODFrZUhsb0FfVWdGY1loQ2I5ZjdVTl9HXzBjOHkySUxQMlRHcHRmSTNwVkp0V2RMQ1dveHJlcWNKcE5qdU9La0JNLXFEZTZ5by1lU0FsX3pUQ0xoMkVhOWVKQ05RUFA3a1BoOTRKX3RSWV9NWDlrRm9RV253X2VaWjd4dVR0U292c2w3Z0dNS0xXU3R3WHZQUW1KUnRZSjF0bVYtX0RhNXQ4YXVXUzdLbFBmWC1IdUtqNTdFbmpTVk43TnFxa0R1LWxZdldPM3hEbHVtUGg5N0ZsbFVyNWFFaGV1WG1aNHl3S2FhYUxB?oc=5",
+          "snippet": "",
+          "source": "histoire-pour-tous.fr",
+          "sources": [
+            {
+              "name": "histoire-pour-tous.fr",
+              "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUF85LWkyUXlrT1hyODFrZUhsb0FfVWdGY1loQ2I5ZjdVTl9HXzBjOHkySUxQMlRHcHRmSTNwVkp0V2RMQ1dveHJlcWNKcE5qdU9La0JNLXFEZTZ5by1lU0FsX3pUQ0xoMkVhOWVKQ05RUFA3a1BoOTRKX3RSWV9NWDlrRm9RV253X2VaWjd4dVR0U292c2w3Z0dNS0xXU3R3WHZQUW1KUnRZSjF0bVYtX0RhNXQ4YXVXUzdLbFBmWC1IdUtqNTdFbmpTVk43TnFxa0R1LWxZdldPM3hEbHVtUGg5N0ZsbFVyNWFFaGV1WG1aNHl3S2FhYUxB?oc=5",
+              "origin": "google",
+              "title": "콘솔게임 순위 의 역사와 발전: 과거에서 현재까지 - 전문가의 관점에서"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T06:36:38+09:00",
+          "ts": 1789248998.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
           "title": "“조여정 꿈 샀다”…이창동, 韓 최초 베니스영화제 심사위원대상",
           "url": "https://www.joongang.co.kr/article/25461331",
           "snippet": "권력 게임들이 다층적이고 완벽한 속도로 전개되는 영화”라고 평가했다. 전도연은 이번 영화로 “100년에 한 번 나올법한 명연기”(미국 연예매체 인디와이어)라 극찬받았지만 코파 볼피-여우주연상은 황금사자상...",
@@ -6471,25 +6576,6 @@
           "group_label": "게임 · e스포츠"
         },
         {
-          "title": "디자인과 조작성을 함께 보는 온라인 홀덤 디시 게임 선택",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zQ3BjRmUtam0xeGx2X2tOcV9iYTdIcGNuTWlLMlRubHR3R2Q5dGxHTlVZWnpzR295TTQ5RHNfaV96WVpSTTZfTmpTbmZEeTN4NGRYUFBuY3A4aE9xc0hzVy1mMUNJdC1kejVHU3p3?oc=5",
-          "snippet": "",
-          "source": "Histoire pour tous",
-          "sources": [
-            {
-              "name": "Histoire pour tous",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zQ3BjRmUtam0xeGx2X2tOcV9iYTdIcGNuTWlLMlRubHR3R2Q5dGxHTlVZWnpzR295TTQ5RHNfaV96WVpSTTZfTmpTbmZEeTN4NGRYUFBuY3A4aE9xc0hzVy1mMUNJdC1kejVHU3p3?oc=5",
-              "origin": "google",
-              "title": "디자인과 조작성을 함께 보는 온라인 홀덤 디시 게임 선택"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-13T04:05:10+09:00",
-          "ts": 1789239910.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
           "title": "[게임] 와우 클래식 플러스, 11월 출시",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MMmhQTGJKZmxESTJFVzVnREQ4dl9FelhfWDNYbFdhMDl3YXhlVEl2OTd0cHFFMV9oSnNzMERWQlVZX3dqYk1YRGlmOVRHdlM2R2V2dWJseHhzTnJzWnhF?oc=5",
           "snippet": "",
@@ -6512,10 +6598,10 @@
           "title": "삼성 도박 오승환 게임 테마와 시각 요소",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUHhwYjZIRnYwYzZGWVRqemJGaGpjTjFUa2hWSXpKYVVDMTdpQlVHV1NIY3FZWVhHWTd1dzc0Z1I1WWlMUGJQcURPejRTbWhqOXNUUnVIR1ppejRPRWU1NDA2TTRnamY3NFZlTnpJTzh1Rm9GZHZHVDYtd2RRTzBPUXgxQ19tMmFHbTJ4YXZMby1jVUlGYmtBRFRmNnY5aER5aDFTWmU5dHlCY003T0JETHRReFlJTU9PaXN2eTI0NkF1YUtpYkJxaDBRLUdWcWpQ?oc=5",
           "snippet": "",
-          "source": "Histoire pour tous",
+          "source": "histoire-pour-tous.fr",
           "sources": [
             {
-              "name": "Histoire pour tous",
+              "name": "histoire-pour-tous.fr",
               "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUHhwYjZIRnYwYzZGWVRqemJGaGpjTjFUa2hWSXpKYVVDMTdpQlVHV1NIY3FZWVhHWTd1dzc0Z1I1WWlMUGJQcURPejRTbWhqOXNUUnVIR1ppejRPRWU1NDA2TTRnamY3NFZlTnpJTzh1Rm9GZHZHVDYtd2RRTzBPUXgxQ19tMmFHbTJ4YXZMby1jVUlGYmtBRFRmNnY5aER5aDFTWmU5dHlCY003T0JETHRReFlJTU9PaXN2eTI0NkF1YUtpYkJxaDBRLUdWcWpQ?oc=5",
               "origin": "google",
               "title": "삼성 도박 오승환 게임 테마와 시각 요소"
@@ -6588,10 +6674,10 @@
           "title": "게임의 작동 순서부터 이해하는 캘빈리 포커고수",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTDlFd29CdHhlZ3BpT2c1QUd4dXRTNk9xcElULWM5WThDdXZOU1NhRHRneVJHMnZUNkhvUUNDMnFNYks3WjZEcmVEem93aXlWamdXRlJHLTlrVEZtNlRENjdmWU5sY2E2SDFkVDBpWGNObUhCSEN5S3RlVHlGZHNjd0U4ZDlxek1jbDVJVkNuUWVfdUNlbkFOWFl5N2FLZGhobHFoVHBEZWFWQQ?oc=5",
           "snippet": "",
-          "source": "Histoire pour tous",
+          "source": "histoire-pour-tous.fr",
           "sources": [
             {
-              "name": "Histoire pour tous",
+              "name": "histoire-pour-tous.fr",
               "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTDlFd29CdHhlZ3BpT2c1QUd4dXRTNk9xcElULWM5WThDdXZOU1NhRHRneVJHMnZUNkhvUUNDMnFNYks3WjZEcmVEem93aXlWamdXRlJHLTlrVEZtNlRENjdmWU5sY2E2SDFkVDBpWGNObUhCSEN5S3RlVHlGZHNjd0U4ZDlxek1jbDVJVkNuUWVfdUNlbkFOWFl5N2FLZGhobHFoVHBEZWFWQQ?oc=5",
               "origin": "google",
               "title": "게임의 작동 순서부터 이해하는 캘빈리 포커고수"
@@ -6626,10 +6712,10 @@
           "title": "미니 게임 무료 다운로드 기능이 비활성화된 상태의 표시",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUd4VkRRZ0Z4QWNjZXFpZ1Q4cmdOcnVseVNIYlFOc2ZrZ19GdHJ5eXF1ZC0tM3htbWZ4c0JqY3ZQZ2RMY09VSjdhcTVBcU1SYndMQ19fVHdhNmg2T19URnMyMW0xY195UDBvbGlSTTNPUDJFdjZVZHFDWk9CVHFmVUJjdDRacHJyZkNxVHZXZm16VzNTdGNyVlQwVVBiQnhtTGZ4SDg5TUpaaGhORnJPVw?oc=5",
           "snippet": "",
-          "source": "Histoire pour tous",
+          "source": "histoire-pour-tous.fr",
           "sources": [
             {
-              "name": "Histoire pour tous",
+              "name": "histoire-pour-tous.fr",
               "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUd4VkRRZ0Z4QWNjZXFpZ1Q4cmdOcnVseVNIYlFOc2ZrZ19GdHJ5eXF1ZC0tM3htbWZ4c0JqY3ZQZ2RMY09VSjdhcTVBcU1SYndMQ19fVHdhNmg2T19URnMyMW0xY195UDBvbGlSTTNPUDJFdjZVZHFDWk9CVHFmVUJjdDRacHJyZkNxVHZXZm16VzNTdGNyVlQwVVBiQnhtTGZ4SDg5TUpaaGhORnJPVw?oc=5",
               "origin": "google",
               "title": "미니 게임 무료 다운로드 기능이 비활성화된 상태의 표시"
@@ -6813,25 +6899,6 @@
           "group_label": "게임 · e스포츠"
         },
         {
-          "title": "비주얼 중심으로 둘러보는 크레타 문자 게임 디자인",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaTAyUHhPVmltUlpQRTllWTd4X2pPcmg4dGlXOS1EQ09faFhlbFdYY0hEWTRHM1VxWHNMbHlMcXlGUlFZaFl4QlI5S2N5MHNSZDVYaWdHQk5DWjZjNnhHYUp1MDlnQXlDQ3hMNk95S0F4WjRraHNlRlBvLVJqUkhoOEJhdzI1VnFLV3p2cTNIVzdfdnd0Zm1MXzNKUUpiY0VFeHQxTlZQclVsSDI5dG92T0RkcWhkX3R6UnpJ?oc=5",
-          "snippet": "",
-          "source": "Histoire pour tous",
-          "sources": [
-            {
-              "name": "Histoire pour tous",
-              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaTAyUHhPVmltUlpQRTllWTd4X2pPcmg4dGlXOS1EQ09faFhlbFdYY0hEWTRHM1VxWHNMbHlMcXlGUlFZaFl4QlI5S2N5MHNSZDVYaWdHQk5DWjZjNnhHYUp1MDlnQXlDQ3hMNk95S0F4WjRraHNlRlBvLVJqUkhoOEJhdzI1VnFLV3p2cTNIVzdfdnd0Zm1MXzNKUUpiY0VFeHQxTlZQclVsSDI5dG92T0RkcWhkX3R6UnpJ?oc=5",
-              "origin": "google",
-              "title": "비주얼 중심으로 둘러보는 크레타 문자 게임 디자인"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-12T23:50:45+09:00",
-          "ts": 1789224645.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
           "title": "자세한 규칙이 궁금해지는 게임, 오마하 포커고수",
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaGFDNFZrd2NhSjA1ekRTQmQ0TWRHQ0g2MW85ZTNJWlF0TU0zZXR3MGZBS3RRUTVOQ1ZmemhkSi0yNENjczJ5cEZnRU05dHVucUpCQ3YtT3A0OV9obDctT2pRMlhZaktQcDlDdVpqUG5TQjR6eTRraWd3ZXhMZlZCMnQ5OTROWTh3WXZ2N0dia2MwXzZjTDNfbzk1TE5mRXotTzJJT2FzaTFQamZUcWxNd1J1LXlzVFZHSUpwcndhd085SkRXQVRxX3VuSjBkTnZNUzFzc0JSc1A5NnpnMjJXR1dMQTI?oc=5",
           "snippet": "",
@@ -6873,10 +6940,10 @@
           "title": "게임 설명 속 변동성이라는 말, 카지노 로얄 스토리 용어 풀이",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU2NObzdxeG9rZ2k4eVdwNU5jeDZsaDQyZWVpMFhtRjNkdkFSU0NwMU1xQnFYekplMUdrS3V4b3RwdDh6MERKTllTQVpWVS1wbXg0TENsSHljT254MG1zc0pNek5fc0FmblV1ZEY3MDNvZzZEM2NucjlJc3BpOURHUWVLa2xNR1NPQXNZTnE4QVJJRGR1Vk8zWlpyblYwcUJRRUFHRVNyMnBZUFNUT3M2Uw?oc=5",
           "snippet": "",
-          "source": "Histoire pour tous",
+          "source": "histoire-pour-tous.fr",
           "sources": [
             {
-              "name": "Histoire pour tous",
+              "name": "histoire-pour-tous.fr",
               "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU2NObzdxeG9rZ2k4eVdwNU5jeDZsaDQyZWVpMFhtRjNkdkFSU0NwMU1xQnFYekplMUdrS3V4b3RwdDh6MERKTllTQVpWVS1wbXg0TENsSHljT254MG1zc0pNek5fc0FmblV1ZEY3MDNvZzZEM2NucjlJc3BpOURHUWVLa2xNR1NPQXNZTnE4QVJJRGR1Vk8zWlpyblYwcUJRRUFHRVNyMnBZUFNUT3M2Uw?oc=5",
               "origin": "google",
               "title": "게임 설명 속 변동성이라는 말, 카지노 로얄 스토리 용어 풀이"
@@ -6965,13 +7032,32 @@
           "group_label": "게임 · e스포츠"
         },
         {
+          "title": "게임 선택에 앞서 비교할 밀루유떼 콘솔게임 설명 접근성",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOTZVMVNQM1VXZ1lHa1BMb3ZTVGlISDhLbTdVQlZDNVJWRGxsbmlDYWQ3MDgxZHVsZUZDVXV2VzBEc2h6SnpqSjNlendVYk9WZlVvWjdsa2pHbTk0V2x6Nng5dVc5cF9SQ2NBTjAxRlNWSDA5M0kxcmwxQjRhNGxyZUViNGtVR0NyakI3bER0V3JNdnJCRHZxdzlFVllVSFplTjJj?oc=5",
+          "snippet": "",
+          "source": "Calgary Roughnecks",
+          "sources": [
+            {
+              "name": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOTZVMVNQM1VXZ1lHa1BMb3ZTVGlISDhLbTdVQlZDNVJWRGxsbmlDYWQ3MDgxZHVsZUZDVXV2VzBEc2h6SnpqSjNlendVYk9WZlVvWjdsa2pHbTk0V2x6Nng5dVc5cF9SQ2NBTjAxRlNWSDA5M0kxcmwxQjRhNGxyZUViNGtVR0NyakI3bER0V3JNdnJCRHZxdzlFVllVSFplTjJj?oc=5",
+              "origin": "google",
+              "title": "게임 선택에 앞서 비교할 밀루유떼 콘솔게임 설명 접근성"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-12T22:36:17+09:00",
+          "ts": 1789220177.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
           "title": "게임 테마를 분류할 때 참고하는 카지노 시즌2 다운로드 소재",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeGNzRFRyQlFlSkxvSTRmMkV1WVMxa1lsd056OHVwejJRWUM3NjBNVzhDYWhIVG9qeG9nOVdEYm1mT1pqTHRGVHBTSEdYcG1NYzdMYmhIcTdQSzl3djdHaEp4MnNNT3hoT21pbzRZaWoxZm02cDY5THNnLUZPVWRvY18tbHlRUzZDUmZvbS1kU0puRV9zaHdjSzBocHRKbnlxQ2JzUVplczhCOF9YRTVDaGhMTDlicy1ReHBsZW56Z2JaZ3pvQlhickp0QTZ2MlpDVmc?oc=5",
           "snippet": "",
-          "source": "Histoire pour tous",
+          "source": "histoire-pour-tous.fr",
           "sources": [
             {
-              "name": "Histoire pour tous",
+              "name": "histoire-pour-tous.fr",
               "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeGNzRFRyQlFlSkxvSTRmMkV1WVMxa1lsd056OHVwejJRWUM3NjBNVzhDYWhIVG9qeG9nOVdEYm1mT1pqTHRGVHBTSEdYcG1NYzdMYmhIcTdQSzl3djdHaEp4MnNNT3hoT21pbzRZaWoxZm02cDY5THNnLUZPVWRvY18tbHlRUzZDUmZvbS1kU0puRV9zaHdjSzBocHRKbnlxQ2JzUVplczhCOF9YRTVDaGhMTDlicy1ReHBsZW56Z2JaZ3pvQlhickp0QTZ2MlpDVmc?oc=5",
               "origin": "google",
               "title": "게임 테마를 분류할 때 참고하는 카지노 시즌2 다운로드 소재"
@@ -7177,10 +7263,10 @@
           "title": "크롬 게임 만들기 보너스 기능이 있는지 확인하는 곳",
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZk9xLXFIZ0dfT3Z0M3QtVWd4Q1VDYlQ1VnFMT3J1S1YxekszSm5aRHBLUlpyUnY2LUh5emdocHFQbnJuOGUwdDkwQnZlcVNhNjNiYU5feUx5MlVadTFpUXQwWjRRTFlneWo1ajRYeDZLQnJJcXZYQlp3VUt6SXpma20tNDdKWFlJRnNkLTFVcnNJUVhiQUFFZ3NBblVVeDhjc2g1RDZQbDlBb3p0V3pIUlN3bzBTMk5aeDZwaE9ZRV95YlRhaG0xNS1hRk91OHpUSVVsaDFVYUltbWdRbllQQmFNUGhnQQ?oc=5",
           "snippet": "",
-          "source": "Histoire pour tous",
+          "source": "histoire-pour-tous.fr",
           "sources": [
             {
-              "name": "Histoire pour tous",
+              "name": "histoire-pour-tous.fr",
               "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZk9xLXFIZ0dfT3Z0M3QtVWd4Q1VDYlQ1VnFMT3J1S1YxekszSm5aRHBLUlpyUnY2LUh5emdocHFQbnJuOGUwdDkwQnZlcVNhNjNiYU5feUx5MlVadTFpUXQwWjRRTFlneWo1ajRYeDZLQnJJcXZYQlp3VUt6SXpma20tNDdKWFlJRnNkLTFVcnNJUVhiQUFFZ3NBblVVeDhjc2g1RDZQbDlBb3p0V3pIUlN3bzBTMk5aeDZwaE9ZRV95YlRhaG0xNS1hRk91OHpUSVVsaDFVYUltbWdRbllQQmFNUGhnQQ?oc=5",
               "origin": "google",
               "title": "크롬 게임 만들기 보너스 기능이 있는지 확인하는 곳"
@@ -7272,10 +7358,10 @@
           "title": "한글 메뉴가 없을 때 참고할 게임 플레이어수 버튼 뜻",
           "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeFIzWjRUSkZEWjZSRmhDVWdMZTE3NnI5TGNSUTJGdU1uY0s5VmN4cGxuNFNtRlR5ejJuZ0VUVXZnQTA0Zkt2YkxOa1NPdkpXQzE1My1VMEVhNFE3T0U3SU9EWW1ZdkRXelMtTmJOa0IyNUJsblRKTmttVlVrT0lsTjNkZTFCbk4zMVFJMDhXV2hvTDBWXzQwRTVFeFNubjBBTUY2d0g4WkR5MjhxbjVQOTlqbGlLTTJycjhpZDlqMlFYMmVQWUdfLVRFVFM4WVI2bmY2QWxBU0ZVLU5nYzVGNE1RSmhNSUpNdExOamhSXzc0cXB0MFdZ?oc=5",
           "snippet": "",
-          "source": "Histoire pour tous",
+          "source": "histoire-pour-tous.fr",
           "sources": [
             {
-              "name": "Histoire pour tous",
+              "name": "histoire-pour-tous.fr",
               "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeFIzWjRUSkZEWjZSRmhDVWdMZTE3NnI5TGNSUTJGdU1uY0s5VmN4cGxuNFNtRlR5ejJuZ0VUVXZnQTA0Zkt2YkxOa1NPdkpXQzE1My1VMEVhNFE3T0U3SU9EWW1ZdkRXelMtTmJOa0IyNUJsblRKTmttVlVrT0lsTjNkZTFCbk4zMVFJMDhXV2hvTDBWXzQwRTVFeFNubjBBTUY2d0g4WkR5MjhxbjVQOTlqbGlLTTJycjhpZDlqMlFYMmVQWUdfLVRFVFM4WVI2bmY2QWxBU0ZVLU5nYzVGNE1RSmhNSUpNdExOamhSXzc0cXB0MFdZ?oc=5",
               "origin": "google",
               "title": "한글 메뉴가 없을 때 참고할 게임 플레이어수 버튼 뜻"
@@ -7329,10 +7415,10 @@
           "title": "심벌이 바뀌는 연출은 어떤 의미일까? 키즈 짱 24 게임",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTURSc2NBVHdfdW9XSDRHa3dVZEk3NlJpZ0g4ZlF5ZW45dFpvS2I2QlhwaHB5dUdFS1VnSi1kWlVpZXJUR1lzalRzX3FaR3k1c280ZngzYU5TRDkzV1RhVFFiUkNNWTgxckZTVTcyRElqR0oyTWxhOW44OW1aenFQdkNkU1lxdlBIUVFCNElhTWtQVG0zejd3a2VQRmFNamVpeTM1dVNiRmpvZHk3WGRPVlhHdXlTU2dfRWZGV0w3RE5FWUR2UDlMVlgxUQ?oc=5",
           "snippet": "",
-          "source": "Histoire pour tous",
+          "source": "histoire-pour-tous.fr",
           "sources": [
             {
-              "name": "Histoire pour tous",
+              "name": "histoire-pour-tous.fr",
               "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTURSc2NBVHdfdW9XSDRHa3dVZEk3NlJpZ0g4ZlF5ZW45dFpvS2I2QlhwaHB5dUdFS1VnSi1kWlVpZXJUR1lzalRzX3FaR3k1c280ZngzYU5TRDkzV1RhVFFiUkNNWTgxckZTVTcyRElqR0oyTWxhOW44OW1aenFQdkNkU1lxdlBIUVFCNElhTWtQVG0zejd3a2VQRmFNamVpeTM1dVNiRmpvZHk3WGRPVlhHdXlTU2dfRWZGV0w3RE5FWUR2UDlMVlgxUQ?oc=5",
               "origin": "google",
               "title": "심벌이 바뀌는 연출은 어떤 의미일까? 키즈 짱 24 게임"
@@ -7348,10 +7434,10 @@
           "title": "마작 발라트로 게임 분류와 테마 분류",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUjg5OWxhN3dXTUc2Ymd5SENKM1FZNEFxanZuTHh4QjByblg0TGtoRjVicnk5SURRdy00NERqVWM1UVFfRF90UHhJMUE1UWpLZVhzYU40eGlqYm1mU1RCZ1pDaElsMmFfTHpVWW5wWkt4YjlxdEZ4R2JmZ0NSMHJoNmN0dHdhODRObDYzZGlUdGhWazlIRGRNenFlWTNweDZXdHJYVjdCUjNjTGppZ1hSRGxiQU9BUEtmbU10cjloN3Rya0Y3S3o1TFZ4UVdTcnhudTdzQV9B?oc=5",
           "snippet": "",
-          "source": "Histoire pour tous",
+          "source": "histoire-pour-tous.fr",
           "sources": [
             {
-              "name": "Histoire pour tous",
+              "name": "histoire-pour-tous.fr",
               "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUjg5OWxhN3dXTUc2Ymd5SENKM1FZNEFxanZuTHh4QjByblg0TGtoRjVicnk5SURRdy00NERqVWM1UVFfRF90UHhJMUE1UWpLZVhzYU40eGlqYm1mU1RCZ1pDaElsMmFfTHpVWW5wWkt4YjlxdEZ4R2JmZ0NSMHJoNmN0dHdhODRObDYzZGlUdGhWazlIRGRNenFlWTNweDZXdHJYVjdCUjNjTGppZ1hSRGxiQU9BUEtmbU10cjloN3Rya0Y3S3o1TFZ4UVdTcnhudTdzQV9B?oc=5",
               "origin": "google",
               "title": "마작 발라트로 게임 분류와 테마 분류"
@@ -7405,10 +7491,10 @@
           "title": "게임 정보 페이지를 천천히 읽는 온라인 바카라 후기",
           "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQQTJaTkFQRW9yYnRKX0NqOE1XQzNoTktCTVhSdS0xVXNoVGZaUjQzSUt0anFWUnlsQi1iM2R2RW5oUmtzeTFrSEdORkswblZfQUJkQktxQUxLb282bFpOZ1J2S0pzRDBaT0FUMUpCdXFSTmc1dVR2OEFpWFN0ZWZwbmJMTnp4Nl84RE1MS1JVVmZjOXR2WDV5ZkRJTzF3RXQ1ZmY4ZGJLOGRRYTdaUW12RUFNUlo2enI0MkNzT2ZyaUFzMHdGRVhDUFplS2NveDZnV1JaZlBQRTM3MjJjUmFRTVVYdEJkY0tmRUhldUxINmpMMVB6RHpuMHdVYWtrd3R3Ny1UTU9MVjFKVVNGYk9Idk1PbWM?oc=5",
           "snippet": "",
-          "source": "Histoire pour tous",
+          "source": "histoire-pour-tous.fr",
           "sources": [
             {
-              "name": "Histoire pour tous",
+              "name": "histoire-pour-tous.fr",
               "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQQTJaTkFQRW9yYnRKX0NqOE1XQzNoTktCTVhSdS0xVXNoVGZaUjQzSUt0anFWUnlsQi1iM2R2RW5oUmtzeTFrSEdORkswblZfQUJkQktxQUxLb282bFpOZ1J2S0pzRDBaT0FUMUpCdXFSTmc1dVR2OEFpWFN0ZWZwbmJMTnp4Nl84RE1MS1JVVmZjOXR2WDV5ZkRJTzF3RXQ1ZmY4ZGJLOGRRYTdaUW12RUFNUlo2enI0MkNzT2ZyaUFzMHdGRVhDUFplS2NveDZnV1JaZlBQRTM3MjJjUmFRTVVYdEJkY0tmRUhldUxINmpMMVB6RHpuMHdVYWtrd3R3Ny1UTU9MVjFKVVNGYk9Idk1PbWM?oc=5",
               "origin": "google",
               "title": "게임 정보 페이지를 천천히 읽는 온라인 바카라 후기"
@@ -7519,10 +7605,10 @@
           "title": "주제별로 연결해 읽는 모바일 포커 추천 게임 해설",
           "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNVDFyeWEyckFWSXF1Rmp5ajN5VmNrNzZVWUczS3RpWnRHcElOMGJtQ1RRenBGOWJKamRlMW42TWdlZklxLW50dzRzQjhuQjJ4c21Wc2tPV05udFNTbk51cUpNYkVxRTJhQW84WEJVQm50dnpDMGlQTmhrMURXR3haTm00Z1kteUd4dmtIYjZla21hQ0dkY1B0alYzeVptUWNTQ2d5VEJvVWJLbXNIRXZjRXVIampRNHhwUW1CQ3FEVW5TVDZ0cnhNRFNtWEg5dGJRZWlfMTBNN29pUnlsX3VpRFZqRTlyYS04Ui1BOGlMSTJHZ0k?oc=5",
           "snippet": "",
-          "source": "Histoire pour tous",
+          "source": "histoire-pour-tous.fr",
           "sources": [
             {
-              "name": "Histoire pour tous",
+              "name": "histoire-pour-tous.fr",
               "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNVDFyeWEyckFWSXF1Rmp5ajN5VmNrNzZVWUczS3RpWnRHcElOMGJtQ1RRenBGOWJKamRlMW42TWdlZklxLW50dzRzQjhuQjJ4c21Wc2tPV05udFNTbk51cUpNYkVxRTJhQW84WEJVQm50dnpDMGlQTmhrMURXR3haTm00Z1kteUd4dmtIYjZla21hQ0dkY1B0alYzeVptUWNTQ2d5VEJvVWJLbXNIRXZjRXVIampRNHhwUW1CQ3FEVW5TVDZ0cnhNRFNtWEg5dGJRZWlfMTBNN29pUnlsX3VpRFZqRTlyYS04Ui1BOGlMSTJHZ0k?oc=5",
               "origin": "google",
               "title": "주제별로 연결해 읽는 모바일 포커 추천 게임 해설"
@@ -7538,10 +7624,10 @@
           "title": "테마부터 조작까지 이어지는 포켓몬 카드 게임 광산 상세 탐색",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS1AtTUxCOG8wYm85NWJEV0xRazZxcXVNUFhidFJOYndJZmx3XzdjOFlFSG1hM3pnek9TSWVQenR5MUNGVTRWRXgyTmNwTml3eHFvbzliRklNNHZ1ZjktejNhSGZGaUlLS0FpSFE5VmR0ZHJmMEZST2dwRTZ0U2tjV0JUMWRWVHZUREc2cjFtTTV4djA4Q2FIV05B?oc=5",
           "snippet": "",
-          "source": "Histoire pour tous",
+          "source": "histoire-pour-tous.fr",
           "sources": [
             {
-              "name": "Histoire pour tous",
+              "name": "histoire-pour-tous.fr",
               "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS1AtTUxCOG8wYm85NWJEV0xRazZxcXVNUFhidFJOYndJZmx3XzdjOFlFSG1hM3pnek9TSWVQenR5MUNGVTRWRXgyTmNwTml3eHFvbzliRklNNHZ1ZjktejNhSGZGaUlLS0FpSFE5VmR0ZHJmMEZST2dwRTZ0U2tjV0JUMWRWVHZUREc2cjFtTTV4djA4Q2FIV05B?oc=5",
               "origin": "google",
               "title": "테마부터 조작까지 이어지는 포켓몬 카드 게임 광산 상세 탐색"
@@ -7576,10 +7662,10 @@
           "title": "작은 기기에서 메뉴를 찾는 유명한 게임 순위 조작 팁",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkaHF3cDZjYzhnbWZEcmR2OVBhbURFRVVqeUFzUlBCLTg0OFFKWTFRX1JOc0FJX0J2dkJWVXBFYUkyU2NGYVdIUDE2QW1neVozeGkzbWkxUHJoaVFBUzBCWXdzeVc4TmRCRURvSS0zZXI1V2dq?oc=5",
           "snippet": "",
-          "source": "Histoire pour tous",
+          "source": "histoire-pour-tous.fr",
           "sources": [
             {
-              "name": "Histoire pour tous",
+              "name": "histoire-pour-tous.fr",
               "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkaHF3cDZjYzhnbWZEcmR2OVBhbURFRVVqeUFzUlBCLTg0OFFKWTFRX1JOc0FJX0J2dkJWVXBFYUkyU2NGYVdIUDE2QW1neVozeGkzbWkxUHJoaVFBUzBCWXdzeVc4TmRCRURvSS0zZXI1V2dq?oc=5",
               "origin": "google",
               "title": "작은 기기에서 메뉴를 찾는 유명한 게임 순위 조작 팁"
@@ -7595,10 +7681,10 @@
           "title": "게임을 분류할 때 볼 lol 토토 진행 특징",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOUVEMlZNdDNGLUhsS1ZwdGlsc0dWN0dVdEJQbmtjRXhsVFJTbWRLcFpneG0yTmhRUVRoMUpKaEE4RlJxWEdwN05GdFN1eHMwOXMxMm1EdkYtVnlLbzFNS1dkdzRsV29mUkJraWh6N3poNDB3R2tLaEJfOFZOU1BBRTRJVG4tMjFoaHRJeV91YVhYbVZpTnppZkZ3?oc=5",
           "snippet": "",
-          "source": "Histoire pour tous",
+          "source": "histoire-pour-tous.fr",
           "sources": [
             {
-              "name": "Histoire pour tous",
+              "name": "histoire-pour-tous.fr",
               "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOUVEMlZNdDNGLUhsS1ZwdGlsc0dWN0dVdEJQbmtjRXhsVFJTbWRLcFpneG0yTmhRUVRoMUpKaEE4RlJxWEdwN05GdFN1eHMwOXMxMm1EdkYtVnlLbzFNS1dkdzRsV29mUkJraWh6N3poNDB3R2tLaEJfOFZOU1BBRTRJVG4tMjFoaHRJeV91YVhYbVZpTnppZkZ3?oc=5",
               "origin": "google",
               "title": "게임을 분류할 때 볼 lol 토토 진행 특징"
@@ -7652,10 +7738,10 @@
           "title": "게임 정보가 서로 다를 때 확인할 메이플 도박중독 버전",
           "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdzNuU1pRMHZLMFlsdkpIb1JEMHhZaTFuaDFXX2lqUnl4Y053SngyeTdqR3JRU1I5TWlHaFlvVVozbHBBWmZjQ0lINnJyQlZIT3hiNERhNDctN3Z3WGM5UnFoLXp0WjdDZkZQbGZNVWNfRDlmdnNiTU55WWc5VVBHVlotU2lXcTdZNmRKcjFwQzBxc1pBYzdSWkt3NlFEVkxpODZHaG9kdkxqSDlTbXZBNUFQODBndjZYQjZQNEJHaF9uVEg4cks5akU5QlRIa3dSdmUtV0ZRRHVkQWUyQ29UYUxJdGJsOWNpQ1dVbVZn?oc=5",
           "snippet": "",
-          "source": "Histoire pour tous",
+          "source": "histoire-pour-tous.fr",
           "sources": [
             {
-              "name": "Histoire pour tous",
+              "name": "histoire-pour-tous.fr",
               "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdzNuU1pRMHZLMFlsdkpIb1JEMHhZaTFuaDFXX2lqUnl4Y053SngyeTdqR3JRU1I5TWlHaFlvVVozbHBBWmZjQ0lINnJyQlZIT3hiNERhNDctN3Z3WGM5UnFoLXp0WjdDZkZQbGZNVWNfRDlmdnNiTU55WWc5VVBHVlotU2lXcTdZNmRKcjFwQzBxc1pBYzdSWkt3NlFEVkxpODZHaG9kdkxqSDlTbXZBNUFQODBndjZYQjZQNEJHaF9uVEg4cks5akU5QlRIa3dSdmUtV0ZRRHVkQWUyQ29UYUxJdGJsOWNpQ1dVbVZn?oc=5",
               "origin": "google",
               "title": "게임 정보가 서로 다를 때 확인할 메이플 도박중독 버전"
@@ -7709,10 +7795,10 @@
           "title": "게임 진행 중 설정을 바꿀 수 있나요? 뱃사공 얼어 죽는 날",
           "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOcDlFam13ZmY4ckQ1WlNhNmFIci1vSTlQbS1mZ1VaMkU2ZEUxdk5IQTVXamwxSFc4QzB0UHZNNEFIUmVLTjV4QkhWeDZyZ2hVZVlBQmJKQXRENzE1ejhtQk8xdmF2R0wzMWNjVEczZDRnbHVEdVVIc2NOcUZUOHB4ejBOc0NYTWNSUURjRlg0UVZMY0VEcmhmSFc1ZmpMWTFKa1NKb1BkXzBFSTVtSUEyUDVfajVZTlByOFZLRDlwZlc4ajZCNXNGaTlSYVdRNnFkOGZNWXdpLXM5U3RFRmtjbTVPeERrdHJFQXNHX3RzVF9PTGhiUnZseWt0Q3g2OW0xUEZOQ3lGbkZ2T0pnV1RobDk1WQ?oc=5",
           "snippet": "",
-          "source": "Histoire pour tous",
+          "source": "histoire-pour-tous.fr",
           "sources": [
             {
-              "name": "Histoire pour tous",
+              "name": "histoire-pour-tous.fr",
               "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOcDlFam13ZmY4ckQ1WlNhNmFIci1vSTlQbS1mZ1VaMkU2ZEUxdk5IQTVXamwxSFc4QzB0UHZNNEFIUmVLTjV4QkhWeDZyZ2hVZVlBQmJKQXRENzE1ejhtQk8xdmF2R0wzMWNjVEczZDRnbHVEdVVIc2NOcUZUOHB4ejBOc0NYTWNSUURjRlg0UVZMY0VEcmhmSFc1ZmpMWTFKa1NKb1BkXzBFSTVtSUEyUDVfajVZTlByOFZLRDlwZlc4ajZCNXNGaTlSYVdRNnFkOGZNWXdpLXM5U3RFRmtjbTVPeERrdHJFQXNHX3RzVF9PTGhiUnZseWt0Q3g2OW0xUEZOQ3lGbkZ2T0pnV1RobDk1WQ?oc=5",
               "origin": "google",
               "title": "게임 진행 중 설정을 바꿀 수 있나요? 뱃사공 얼어 죽는 날"
@@ -8027,25 +8113,6 @@
           "ts": 1789150411.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
-        },
-        {
-          "title": "마이크로소프트의 뒤늦은 후회 [박신영의 개장전 요것만]",
-          "url": "https://www.hankyung.com/article/202609129941i",
-          "snippet": "우크라이나는 러시아 정유시설을 집중적으로 공격했고 이에 따라 러시아 정부는 디젤 수출을... 데이터센터 부족의 영향은 MS의 게임 사업에서도 나타나고 있습니다. 엑스박스는 기존에 사실상 무제한으로 제공하던...",
-          "source": "한국경제",
-          "sources": [
-            {
-              "name": "한국경제",
-              "url": "https://www.hankyung.com/article/202609129941i",
-              "origin": "naver",
-              "title": "마이크로소프트의 뒤늦은 후회 [박신영의 개장전 요것만]"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-12T02:48:00+09:00",
-          "ts": 1789148880.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
         }
       ]
     },
@@ -8055,7 +8122,7 @@
       "priority": 14,
       "page": "trends",
       "preview": 3,
-      "count": 23,
+      "count": 22,
       "items": [
         {
           "title": "환율 급락에 반도체 이익 전망도 하락…두달 새 21조 증발",
@@ -8183,25 +8250,6 @@
           "group_label": "전망 · 심층분석"
         },
         {
-          "title": "최태원이 그린 SK이노 미래…\"AI 에너지·AIDC 전기화서 역할\"",
-          "url": "https://www.dailian.co.kr/news/view/1689605/?sc=Naver",
-          "snippet": "울산의 산업 현장에서도 AI 활용이 빠르게 확산되고 있다고 평가했다. 최 회장은 AI 데이터센터와... SK이노베이션의 역할은 국내 에너지 사업에만 머물지 않을 전망이다. 최 회장은 한일 경제협력에서 에너지를 주요 협력...",
-          "source": "dailian.co.kr",
-          "sources": [
-            {
-              "name": "dailian.co.kr",
-              "url": "https://www.dailian.co.kr/news/view/1689605/?sc=Naver",
-              "origin": "naver",
-              "title": "최태원이 그린 SK이노 미래…\"AI 에너지·AIDC 전기화서 역할\""
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-13T08:01:00+09:00",
-          "ts": 1789254060.0,
-          "group": "trend_insight",
-          "group_label": "전망 · 심층분석"
-        },
-        {
           "title": "\"유가·금리 경계 vs AI 모멘텀 지속\"…FOMC 주목[주간증시전망]",
           "url": "https://www.newsis.com/view/NISX20260911_0003786213",
           "snippet": "인공지능(AI) 모멘텀간 힘겨루기 장세가 펼쳐지는 흐름이 이어질 전망이다. 주목해야 할 이벤트로는 9월... 나정환 NH투자증권 연구원도 \"금리 변동성이 높은 국면이지만 AI 산업의 변화에도 주목할 시점\"이라며...",
@@ -8281,10 +8329,10 @@
           "title": "모바일 19금 게임 에 대한 2026년 전망: 어디로 향하고 있는가",
           "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNUno0V2ZLbVg0SnEwQXNNdXZ6MUFtTlhvSG10Q1MxclF3SWdUWFZhMm82bTRWYzVxWXh3Wk9aUjNCZ3M1UnhYbDRqSVVZTzc3VDRjWXg2QlVmXzVHZXNjdE90dXdsMVNJMUpkLTZiYUtVWEY2NUMtT0VXaWhHWjF1Q1JQZk1XSXpCWUoweFZud2FGME13WXNkb3RHMDRvdkk1WDFqaFBJS3NGVEJNN0VjS1hXeThSRHhIMTh6dFdOX0VhQ0VEWFhaVnJiRU9WQ0I3SVMxRVFsTnE1QWNLQ2Q4Wl9yMmxOZ1UzcDRMXzZvdWtBdHZjNU50dDZWYVdJaUdKdW1sNVlzQjVTRG0zVEFSN2VVcw?oc=5",
           "snippet": "",
-          "source": "Histoire pour tous",
+          "source": "histoire-pour-tous.fr",
           "sources": [
             {
-              "name": "Histoire pour tous",
+              "name": "histoire-pour-tous.fr",
               "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNUno0V2ZLbVg0SnEwQXNNdXZ6MUFtTlhvSG10Q1MxclF3SWdUWFZhMm82bTRWYzVxWXh3Wk9aUjNCZ3M1UnhYbDRqSVVZTzc3VDRjWXg2QlVmXzVHZXNjdE90dXdsMVNJMUpkLTZiYUtVWEY2NUMtT0VXaWhHWjF1Q1JQZk1XSXpCWUoweFZud2FGME13WXNkb3RHMDRvdkk1WDFqaFBJS3NGVEJNN0VjS1hXeThSRHhIMTh6dFdOX0VhQ0VEWFhaVnJiRU9WQ0I3SVMxRVFsTnE1QWNLQ2Q4Wl9yMmxOZ1UzcDRMXzZvdWtBdHZjNU50dDZWYVdJaUdKdW1sNVlzQjVTRG0zVEFSN2VVcw?oc=5",
               "origin": "google",
               "title": "모바일 19금 게임 에 대한 2026년 전망: 어디로 향하고 있는가"
@@ -8376,10 +8424,10 @@
           "title": "카지노 룰렛 게임 분석 환경 보호 체계적 설명",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSzdkYzZPM1B2YkJ0OEdaOE9vWXRIczJQcF9MQXllSlB2ZS00czVET0ktTkpuTlphcEp2bWZ2XzJPZUdoZ09DMzVaSVNWNE10R1ZMX1E3Um92Z2NMUlpsRHF2SFpuX3dQdW93dG1EcThJTjlhT0VvZjJmWHlkVmotamg1enA2WVlxbDZoRWFvMW1NclhqTk93Q1VXRGtPS2V0cXhvZVh5YS1wdm1OdmRoeQ?oc=5",
           "snippet": "",
-          "source": "Histoire pour tous",
+          "source": "histoire-pour-tous.fr",
           "sources": [
             {
-              "name": "Histoire pour tous",
+              "name": "histoire-pour-tous.fr",
               "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSzdkYzZPM1B2YkJ0OEdaOE9vWXRIczJQcF9MQXllSlB2ZS00czVET0ktTkpuTlphcEp2bWZ2XzJPZUdoZ09DMzVaSVNWNE10R1ZMX1E3Um92Z2NMUlpsRHF2SFpuX3dQdW93dG1EcThJTjlhT0VvZjJmWHlkVmotamg1enA2WVlxbDZoRWFvMW1NclhqTk93Q1VXRGtPS2V0cXhvZVh5YS1wdm1OdmRoeQ?oc=5",
               "origin": "google",
               "title": "카지노 룰렛 게임 분석 환경 보호 체계적 설명"
