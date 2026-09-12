@@ -1,6 +1,6 @@
 {
   "date": "2026-09-12",
-  "generated_at": "2026-09-12T15:08:22.144552+09:00",
+  "generated_at": "2026-09-12T15:38:32.174384+09:00",
   "window_hours": 30,
   "sources": [
     "네이버뉴스(API HUB)",
@@ -9,11 +9,11 @@
   "use_naver": true,
   "preview_items": 5,
   "counts": {
-    "collected": 3664,
-    "kept": 1742,
-    "excluded": 1922,
-    "consolidated": 828,
-    "multi": 239
+    "collected": 3595,
+    "kept": 1722,
+    "excluded": 1873,
+    "consolidated": 810,
+    "multi": 238
   },
   "groups": [
     {
@@ -297,14 +297,20 @@
       "priority": 2,
       "page": "main",
       "preview": null,
-      "count": 44,
+      "count": 43,
       "items": [
         {
           "title": "추미애 경기도지사, 이광재 예결위원장 만나 국비 2,446억원 증액 요청",
-          "url": "http://www.breaknews.com/1236006",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAyM05NRl9WdVVrRHRyWVppTXVpbkJ3Nk9FcVdsczdEWGZ1akN4TjhKV0VxRnV4Y2dicExFUzlZZG52QQ?oc=5",
           "snippet": "추미애 경기도지사가 내년도 정부 예산안의 국회 심의를 앞두고 경기도 주요 사업에 대한 국비 지원 확대를 요청했다. 추 지사는 9일 국회를 찾아 이광재...",
-          "source": "vop.co.kr",
+          "source": "브레이크뉴스",
           "sources": [
+            {
+              "name": "브레이크뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAyM05NRl9WdVVrRHRyWVppTXVpbkJ3Nk9FcVdsczdEWGZ1akN4TjhKV0VxRnV4Y2dicExFUzlZZG52QQ?oc=5",
+              "origin": "google",
+              "title": "추미애 경기도지사, 이광재 예결위원장 만나 국비 2,446억원 증액 요청"
+            },
             {
               "name": "vop.co.kr",
               "url": "https://vop.co.kr/A00001696628.html",
@@ -324,12 +330,6 @@
               "title": "추미애 지사, 이광재 예결위원장 만나 국비 2446억 증액 요청...경기도 ..."
             },
             {
-              "name": "국민기자뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtblpZSjBzWHl1Z2ZxMDkzdEJ6Z3YxQS13NjF6Q0ZFNFNwQnVWdm13STJmODFVenNKYkhVaUNpdTJZOWxPb25PVFVqYWYzaGxjekFidmFfMXBTRUJpVWxid0FaOU02OFnSAWdBVV95cUxQbW5aWUowc1h5dWdmcTA5M3RCemd2MUEtdzYxekNGRTRTcEJ1VnZtd0kyZjgxVXpzSmJIVWlDaXUyWTlsT29uT1RVamFmM2hsY3pBYnZhXzFwU0VCaVVsYndBWjlNNjhZ?oc=5",
-              "origin": "google",
-              "title": "추미애 경기도지사, 이광재 국회 예결위원장 만나 2027년 경기도 주요 국비 사업 2,446억 원 증액 요청"
-            },
-            {
               "name": "경기남부저널",
               "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CR1plTVVoQ2lIeVoxbU9wbWNRZ1BZUkpFdlJkZkhQUUhNeUZDX3h2RVAxVmpZZ19iUGs5bFliWUczUXdLekt0ZHA2Ujc3Z1JQa0NLZUp5TldQZ1F0a0pUaU5JRE1aU2s?oc=5",
               "origin": "google",
@@ -340,12 +340,6 @@
               "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15b3oyRVF6c1hhNHJEckpRTjh5YjlUQk5QQzVGWVhfVjIybU5TbGhuQUEzZUFibVMxclpqY3R6MUFDcHNLX192NkJObzR4Sk5kS3JOVXZpb19pUl94REdZaA?oc=5",
               "origin": "google",
               "title": "추미애 경기도지사, 이광재 국회 예결위원장 만나 2027년 경기도 주요 국비 사업 2,446억 원 증액 요청"
-            },
-            {
-              "name": "브레이크뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAyM05NRl9WdVVrRHRyWVppTXVpbkJ3Nk9FcVdsczdEWGZ1akN4TjhKV0VxRnV4Y2dicExFUzlZZG52QQ?oc=5",
-              "origin": "google",
-              "title": "추미애 경기도지사, 이광재 예결위원장 만나 국비 2,446억원 증액 요청"
             },
             {
               "name": "중앙신문",
@@ -514,6 +508,12 @@
               "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEUDQ1UWQzTWtJM2NiTWpnZGhzOTFmZkFlUHItOGNOSDlwU01qNWE3OHRrcVhGd2FOR3NCV1dqVzV3ajE5SmF6TS1jZkdxb3NheFgwTFBTaXZLZng3eXZFUHBSWnh2RzdkeEFkT2M1eGxDVlI4?oc=5",
               "origin": "google",
               "title": "추미애 경기지사, 이광재 국회 예결위원장 만나 국비 2446억원 증액 요청"
+            },
+            {
+              "name": "국민기자뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtblpZSjBzWHl1Z2ZxMDkzdEJ6Z3YxQS13NjF6Q0ZFNFNwQnVWdm13STJmODFVenNKYkhVaUNpdTJZOWxPb25PVFVqYWYzaGxjekFidmFfMXBTRUJpVWxid0FaOU02OFnSAWdBVV95cUxQbW5aWUowc1h5dWdmcTA5M3RCemd2MUEtdzYxekNGRTRTcEJ1VnZtd0kyZjgxVXpzSmJIVWlDaXUyWTlsT29uT1RVamFmM2hsY3pBYnZhXzFwU0VCaVVsYndBWjlNNjhZ?oc=5",
+              "origin": "google",
+              "title": "추미애 경기도지사, 이광재 국회 예결위원장 만나 2027년 경기도 주요 국비 사업 2,446억 원 증액 요청"
             }
           ],
           "source_count": 35,
@@ -1065,7 +1065,7 @@
             },
             {
               "name": "뉴스1",
-              "url": "https://www.news1.kr/photos/8101352",
+              "url": "https://www.news1.kr/photos/8101351",
               "origin": "naver",
               "title": "인사말 하는 추미애 경기도지사"
             }
@@ -1178,13 +1178,13 @@
         },
         {
           "title": "추미애 경기도정 취임 70일, '재정 비상' 딛고 성과 구조 만들까",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05aTJUOFhMemo0YWxCTWxKdkFaMEU2T1hYdkllcVZ5Rm13ZHdLNm8xNmZDOTgxdHU1blRFSm5iZlNIekplNENnNnVyb1hvOUJlNjZDNVc5TlJoNS1QTkhnZDB3WkdsTnFPbXQwaQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CYUg3alFjR3hMc3lsWnBFN25FZjFXdjZSMC14cUM5RElWa2dVa05vU1VmOXNBSmxHWWhDOElEM1E2cG1GakRud1ZKeXpuU3J0WlgyOWRCRGtwbVNHY3JyMHgwZG9HcjA?oc=5",
           "snippet": "",
           "source": "파이낸스투데이",
           "sources": [
             {
               "name": "파이낸스투데이",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05aTJUOFhMemo0YWxCTWxKdkFaMEU2T1hYdkllcVZ5Rm13ZHdLNm8xNmZDOTgxdHU1blRFSm5iZlNIekplNENnNnVyb1hvOUJlNjZDNVc5TlJoNS1QTkhnZDB3WkdsTnFPbXQwaQ?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CYUg3alFjR3hMc3lsWnBFN25FZjFXdjZSMC14cUM5RElWa2dVa05vU1VmOXNBSmxHWWhDOElEM1E2cG1GakRud1ZKeXpuU3J0WlgyOWRCRGtwbVNHY3JyMHgwZG9HcjA?oc=5",
               "origin": "google",
               "title": "추미애 경기도정 취임 70일, '재정 비상' 딛고 성과 구조 만들까"
             }
@@ -1424,6 +1424,25 @@
           "group_label": "경기도지사"
         },
         {
+          "title": "추미애 경기도지사, 이광재 예결위원장 만나 국비 2,446억원 증액 요청",
+          "url": "http://www.breaknews.com/1236006",
+          "snippet": "추미애 경기도지사가 내년도 정부 예산안의 국회 심의를 앞두고 경기도 주요 사업에 대한 국비 지원 확대를 요청했다. 추 지사는 9일 국회를 찾아 이광재...",
+          "source": "breaknews.com",
+          "sources": [
+            {
+              "name": "breaknews.com",
+              "url": "http://www.breaknews.com/1236006",
+              "origin": "naver",
+              "title": "추미애 경기도지사, 이광재 예결위원장 만나 국비 2,446억원 증액 요청"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-11T15:34:00+09:00",
+          "ts": 1789108440.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
           "title": "열린도지사실",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUmdWR0J3bGlWaEFqRjV0SmludEUyeUstazBMamE1aG5IOEJEQXVaZkgxMF8tN0JZNjNObjNDbERnWENrYzctcFBkZFBjaktSaEtGVUFlcXpqaVRwVndwajdGSW9kZldNWjY4Vk4zRUJRd0JrQVVNTWVoeWtwWXZ1Tk05eGtPZw?oc=5",
           "snippet": "",
@@ -1612,44 +1631,6 @@
           "ts": 1789087260.0,
           "group": "governor",
           "group_label": "경기도지사"
-        },
-        {
-          "title": "“제도 다양해도 복지 사각 반복”… 추미애 경기도지사, 현장행정 중요성 강조",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XaDFlUHUxS0djSkNxbnUtNzdjQk1lTDdjQUlQSW5IX1BSWEc1TnFNTDc1bGFQNmw0eHEzN3poRXFmM1pPM3ktWTFDTFVVTVUxQkE?oc=5",
-          "snippet": "",
-          "source": "경인일보",
-          "sources": [
-            {
-              "name": "경인일보",
-              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XaDFlUHUxS0djSkNxbnUtNzdjQk1lTDdjQUlQSW5IX1BSWEc1TnFNTDc1bGFQNmw0eHEzN3poRXFmM1pPM3ktWTFDTFVVTVUxQkE?oc=5",
-              "origin": "google",
-              "title": "“제도 다양해도 복지 사각 반복”… 추미애 경기도지사, 현장행정 중요성 강조"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-11T09:26:55+09:00",
-          "ts": 1789086415.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "추미애 경기도지사, 복지는 현장이 중요…도움받을 사실 모르는 이웃 먼저 찾아야",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEZ2d6ZjJJZUJyaWFGLW1OYWgwMWZYSjJqb0JrQWxUczFobjJpNzhEZHZJTkhjLVVyejllSkpubEVuYnV5TDBRV01jYkhCVFMxV2d4bUNKczI4c0dOZ1ZlN3NSbV9HN1prSV9uONIBcEFVX3lxTE5vd0FqTGxVTEhoWTQ0NW04T2lHZ2ZXbUs4WUVBUjZHOUtTUk5BZWxLem1jNWExM2EyamRtaFBHX1l4R29ZN25iTmlYSjJjNnE3aVR5SDYxM2VNUHdLbllxUDFRTW14MERER3hwaG8wY0U?oc=5",
-          "snippet": "",
-          "source": "내외뉴스통신",
-          "sources": [
-            {
-              "name": "내외뉴스통신",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEZ2d6ZjJJZUJyaWFGLW1OYWgwMWZYSjJqb0JrQWxUczFobjJpNzhEZHZJTkhjLVVyejllSkpubEVuYnV5TDBRV01jYkhCVFMxV2d4bUNKczI4c0dOZ1ZlN3NSbV9HN1prSV9uONIBcEFVX3lxTE5vd0FqTGxVTEhoWTQ0NW04T2lHZ2ZXbUs4WUVBUjZHOUtTUk5BZWxLem1jNWExM2EyamRtaFBHX1l4R29ZN25iTmlYSjJjNnE3aVR5SDYxM2VNUHdLbllxUDFRTW14MERER3hwaG8wY0U?oc=5",
-              "origin": "google",
-              "title": "추미애 경기도지사, 복지는 현장이 중요…도움받을 사실 모르는 이웃 먼저 찾아야"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-11T09:26:55+09:00",
-          "ts": 1789086415.0,
-          "group": "governor",
-          "group_label": "경기도지사"
         }
       ]
     },
@@ -1659,87 +1640,20 @@
       "priority": 3,
       "page": "main",
       "preview": null,
-      "count": 8,
+      "count": 6,
       "items": [
         {
-          "title": "경기도의회 이영봉 의원, 글로벌 게임센터·수출지원사업 점검...지역 격차·지원체계 꼼꼼히 살펴",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84SnhqM0d4ZnJxZVFsTjFBVWNObHhDNVA3UUlVWlZXcm9iOVhXWlFEUlR3QjNCbDZWUXpSUVhjM19VNDc4ZG1mVHBPSkJPYUxzd3cwb1pjV3BOQlA5by12MHo0T3puemNpYndNWg?oc=5",
+          "title": "경기도의회 문체위, DMZ서 ‘평화의 기록’ 조명…제18회 국제다큐영화제 개막 축하",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vRjJVeWtWWFY2WGk5dnhDUlhDdmtVRG44QzFzSHhkTE9hSFdxMWxpbW14TmJ0UFZ3bWpCblZwY2xZQ3hHVEFXQ2M1QW9FdXByaXV6VmF0cDJQUFgzWFo5RUNiMVYxRHUwZHlsLUpB?oc=5",
           "snippet": "",
-          "source": "경기포커스",
+          "source": "투어코리아",
           "sources": [
             {
-              "name": "경기포커스",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84SnhqM0d4ZnJxZVFsTjFBVWNObHhDNVA3UUlVWlZXcm9iOVhXWlFEUlR3QjNCbDZWUXpSUVhjM19VNDc4ZG1mVHBPSkJPYUxzd3cwb1pjV3BOQlA5by12MHo0T3puemNpYndNWg?oc=5",
+              "name": "투어코리아",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vRjJVeWtWWFY2WGk5dnhDUlhDdmtVRG44QzFzSHhkTE9hSFdxMWxpbW14TmJ0UFZ3bWpCblZwY2xZQ3hHVEFXQ2M1QW9FdXByaXV6VmF0cDJQUFgzWFo5RUNiMVYxRHUwZHlsLUpB?oc=5",
               "origin": "google",
-              "title": "경기도의회 이영봉 의원, 글로벌 게임센터·수출지원사업 점검...지역 격차·지원체계 꼼꼼히 살펴"
+              "title": "경기도의회 문체위, DMZ서 ‘평화의 기록’ 조명…제18회 국제다큐영화제 개막 축하"
             },
-            {
-              "name": "서울신문",
-              "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/10/20260910500235?wlog_tag3=naver",
-              "origin": "naver",
-              "title": "이영봉 경기도의원, 글로벌 게임센터·수출지원사업 점검… 지역 격차·..."
-            },
-            {
-              "name": "서울Pn",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLRHFMU3ZQclN2bldIelRnZklYcjNVZFFSRFJhcER0MExwa05zbnI4cWRUWmdMZE5QakFaSF9lNUhneEJ2TEpFOUk4Mm5sNE5LNElWODJaQnF6UVZVd2U3QkVUTTNXR0hVSXc?oc=5",
-              "origin": "google",
-              "title": "이영봉 경기도의원, 글로벌 게임센터·수출지원사업 점검… 지역 격차·지원체계 꼼꼼히 살펴"
-            },
-            {
-              "name": "뉴스파노라마",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14ZDhWSzdlY1l0T0xCZk9jT0twYktHN0laUnlzd3JQZVA3MlhIY3JGRWZUZnVXbWtDNjBnaHV4MG1zVTJfMVdYQmFYUmRCb0pNX3p0UXRZTk9hWmNTb19YR05SOEJ0RE0ybEZiaVg3SQ?oc=5",
-              "origin": "google",
-              "title": "경기도의회 이영봉 의원, 글로벌 게임센터·수출지원사업 점검...지역 격차·지원체계 꼼꼼히 살펴"
-            },
-            {
-              "name": "엔디엔뉴스",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5bnNjSTlrNUZ1T1pqaVB3Skc3NjU4YVRuZ29sTkhwUEFEWm93aFB5MHk2c0dBTEgwd3ByOTNndlhfLVRrVm9iQkN4cy16M19OUHR6VkxqRHlId2NSSkdmWkdoamZmNVdCS3ZXNXdXcHVYZ9IBckFVX3lxTFA5bnNjSTlrNUZ1T1pqaVB3Skc3NjU4YVRuZ29sTkhwUEFEWm93aFB5MHk2c0dBTEgwd3ByOTNndlhfLVRrVm9iQkN4cy16M19OUHR6VkxqRHlId2NSSkdmWkdoamZmNVdCS3ZXNXdXcHVYZw?oc=5",
-              "origin": "google",
-              "title": "경기도의회 이영봉 의원, 글로벌 게임센터·수출지원사업 점검...지역 격차·지원체계 꼼꼼히 살펴"
-            },
-            {
-              "name": "경인매일",
-              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxNlB6SHNsaDlSeGFsTGlkaC1KU0RGTTdwYVVYWFNpekxtek5yMGdIOTRBTjF1bWRhOGxsekpndW5tYlh3YzFRd0dKNmZtYktXLUlnSkZTVlNIWG9WMU1ONkxlUXpCRHd2?oc=5",
-              "origin": "google",
-              "title": "경기도의회 이영봉의원, 글로벌 게임센터·수출지원사업 점검"
-            },
-            {
-              "name": "경기시사투데이",
-              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42bzBEN2F0ZnRjYjVlSVV1djRaYUNDUHZnSE5YZTJHNmhQQS1CaVZVRnhuT0RlZHR3N0xtMVN5N2pQNTVfVENiLU0xQ0F6Sk5IUTdsbHBKT3k5SU9oRHBCLTFUWEJ2cHow?oc=5",
-              "origin": "google",
-              "title": "경기도의회 이영봉의원, “글로벌 게임센터·수출지원사업 점검…지역 격차·지원체계 꼼꼼히 살펴”"
-            },
-            {
-              "name": "위클리오늘",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qV1JWeE1uR240bUJGRnVQM0NNbkFFRmxpeDVwLW5yN3F3UmxZWTk1eWV4c1RGSGZwNXVEOHlXM2twTXAtdW1YUkNRZmFLZFdhUXRDY2xkV2cwNllLUjV3QjF0SFgyWmx5bDlSV0pB?oc=5",
-              "origin": "google",
-              "title": "[위클리오늘] 경기도의회 이영봉의원, 게임·수출 지원사업 현장 실효성 점검"
-            },
-            {
-              "name": "웹이코노미",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NN29xa2k4SGd4bmtRZzJURzlhSG9BajhycVFnN0I5YjJiWDRkM2hHMFQxYnVrY21OS2xYRnR0dHFUN0dKZTRTX1lYaFFuMVd3ZVQyRDVDS0JjakRTU1A4OUZpdTE2LTNIeFEzSGd0WDVEUQ?oc=5",
-              "origin": "google",
-              "title": "경기도의회 이영봉 의원, 글로벌 게임센터·수출지원사업 점검…지역 격차 해소 강조"
-            },
-            {
-              "name": "일간투데이",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xZDNXbmRwSUI4SHRyUHpyaFlJWVlCR1Rjbk80WDFrc0hZc0J1UjA4VXJuNmNRUndnTk5uX2pyUkJsUVhmSmpua0Q2Rk03MXZaRDhMVkpQYVp1TUdKdVh0U2hMaFIzMGVHXzVZ?oc=5",
-              "origin": "google",
-              "title": "경기도의회 이영봉의원, “글로벌 게임센터·수출지원사업 점검…지역 격차·지원체계 꼼꼼히 살펴”"
-            }
-          ],
-          "source_count": 10,
-          "published": "2026-09-11T09:31:46+09:00",
-          "ts": 1789086706.0,
-          "group": "gg_council",
-          "group_label": "경기도의회(문체·미래위)"
-        },
-        {
-          "title": "경기도의회 채신덕 문화체육관광위원장, ‘제18회 DMZ국제다큐멘터리영화제’ 개막식 참석",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1EdENCZW9xUVl1TjloSTRxQXFHb3ozVkxkZzAweWhOTlFMVmpRSXgyeVZBU0J2dEFTajNBUnBhbGowc09TVTlPTWt3RzJPREs3MHM5eFNNbm9mTy1BSU5zcVI1WjJrWWVlREVTWVZzY3NSZ9IBckFVX3lxTE1EdENCZW9xUVl1TjloSTRxQXFHb3ozVkxkZzAweWhOTlFMVmpRSXgyeVZBU0J2dEFTajNBUnBhbGowc09TVTlPTWt3RzJPREs3MHM5eFNNbm9mTy1BSU5zcVI1WjJrWWVlREVTWVZzY3NSZw?oc=5",
-          "snippet": "",
-          "source": "경인종합일보",
-          "sources": [
             {
               "name": "경인종합일보",
               "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1EdENCZW9xUVl1TjloSTRxQXFHb3ozVkxkZzAweWhOTlFMVmpRSXgyeVZBU0J2dEFTajNBUnBhbGowc09TVTlPTWt3RzJPREs3MHM5eFNNbm9mTy1BSU5zcVI1WjJrWWVlREVTWVZzY3NSZ9IBckFVX3lxTE1EdENCZW9xUVl1TjloSTRxQXFHb3ozVkxkZzAweWhOTlFMVmpRSXgyeVZBU0J2dEFTajNBUnBhbGowc09TVTlPTWt3RzJPREs3MHM5eFNNbm9mTy1BSU5zcVI1WjJrWWVlREVTWVZzY3NSZw?oc=5",
@@ -1763,11 +1677,29 @@
               "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NYzhHZ2UzQ1JJQ2RwYWRhNWJESkg3V3hVMjhUM05FMWQwdEY2aFdER0tEWXZCYnpnNUNjcTJCdnlibWNSYnVfVWIyUWtObWhhNEhDUmcxVlhyZjZabnEyQjU2VFA?oc=5",
               "origin": "google",
               "title": "경기도의회 채신덕 문화체육관광위원장, 제18회 DMZ국제다큐멘터리영화제 개막식 참석"
+            },
+            {
+              "name": "경인매일",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YamE2cjRPaTRESEZBbHZhWU5JM2dIb3Z5Q0d2TC1xcUE2enFZQ2pZSXM1QzFEMVEtLUNDTnZCdmJmUFhGcWhjX19veUFJVXI2TXJKT0FXTDYybTF1SW1QOGpCb2RhQThv?oc=5",
+              "origin": "google",
+              "title": "채신덕 경기도의회 문체위원장, DMZ국제다큐영화제 개막식 참석"
+            },
+            {
+              "name": "성남포커스",
+              "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1iTndBbmNvZDgxTTJqVldib2V6eTJXUzJfSHVNZUtma1d6ZzVYZDBkSVdmOWk1MUZBaGtIQXZselV0V1k?oc=5",
+              "origin": "google",
+              "title": "경기도의회 채신덕 문화체육관광위원장, 제18회 DMZ국제다큐멘터리영화제 개막식 참석"
+            },
+            {
+              "name": "경기평화신문",
+              "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5xb2tGY004RHpvUXNJSUU5enB6UVZWQkxVdVNHdkkxcTFTTXRtQ24zNHFNVlhmZm1iSHJmZWFTYWt3TDkyMHdHT2t3?oc=5",
+              "origin": "google",
+              "title": "경기도의회 채신덕 문화체육관광위원장, 제18회 DMZ국제다큐멘터리영화제 개막식 참석"
             }
           ],
-          "source_count": 4,
-          "published": "2026-09-11T14:46:05+09:00",
-          "ts": 1789105565.0,
+          "source_count": 8,
+          "published": "2026-09-12T14:54:28+09:00",
+          "ts": 1789192468.0,
           "group": "gg_council",
           "group_label": "경기도의회(문체·미래위)"
         },
@@ -1805,62 +1737,6 @@
           "source_count": 4,
           "published": "2026-09-11T10:29:34+09:00",
           "ts": 1789090174.0,
-          "group": "gg_council",
-          "group_label": "경기도의회(문체·미래위)"
-        },
-        {
-          "title": "경기도의회 채신덕 위원장, DMZ국제다큐멘터리영화제 개막식 참석해 '평화' 메시지 강조",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MYzJraW9OclNycndMSVgzNVlscC02WWNwUmM5LU45UlFlN0c4UG1aRlFaZ1F0S29sU0FFVTNVVS16c05zVFNKMkYtWVBvVFVoUV9pVlNTc0hBaXll?oc=5",
-          "snippet": "",
-          "source": "피디언뉴스",
-          "sources": [
-            {
-              "name": "피디언뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MYzJraW9OclNycndMSVgzNVlscC02WWNwUmM5LU45UlFlN0c4UG1aRlFaZ1F0S29sU0FFVTNVVS16c05zVFNKMkYtWVBvVFVoUV9pVlNTc0hBaXll?oc=5",
-              "origin": "google",
-              "title": "경기도의회 채신덕 위원장, DMZ국제다큐멘터리영화제 개막식 참석해 '평화' 메시지 강조"
-            },
-            {
-              "name": "성남포커스",
-              "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1iTndBbmNvZDgxTTJqVldib2V6eTJXUzJfSHVNZUtma1d6ZzVYZDBkSVdmOWk1MUZBaGtIQXZselV0V1k?oc=5",
-              "origin": "google",
-              "title": "경기도의회 채신덕 문화체육관광위원장, 제18회 DMZ국제다큐멘터리영화제 개막식 참석"
-            },
-            {
-              "name": "경기평화신문",
-              "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5xb2tGY004RHpvUXNJSUU5enB6UVZWQkxVdVNHdkkxcTFTTXRtQ24zNHFNVlhmZm1iSHJmZWFTYWt3TDkyMHdHT2t3?oc=5",
-              "origin": "google",
-              "title": "경기도의회 채신덕 문화체육관광위원장, 제18회 DMZ국제다큐멘터리영화제 개막식 참석"
-            }
-          ],
-          "source_count": 3,
-          "published": "2026-09-11T14:46:05+09:00",
-          "ts": 1789105565.0,
-          "group": "gg_council",
-          "group_label": "경기도의회(문체·미래위)"
-        },
-        {
-          "title": "경기도의회 문체위, DMZ서 ‘평화의 기록’ 조명…제18회 국제다큐영화제 개막 축하",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vRjJVeWtWWFY2WGk5dnhDUlhDdmtVRG44QzFzSHhkTE9hSFdxMWxpbW14TmJ0UFZ3bWpCblZwY2xZQ3hHVEFXQ2M1QW9FdXByaXV6VmF0cDJQUFgzWFo5RUNiMVYxRHUwZHlsLUpB?oc=5",
-          "snippet": "",
-          "source": "투어코리아",
-          "sources": [
-            {
-              "name": "투어코리아",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vRjJVeWtWWFY2WGk5dnhDUlhDdmtVRG44QzFzSHhkTE9hSFdxMWxpbW14TmJ0UFZ3bWpCblZwY2xZQ3hHVEFXQ2M1QW9FdXByaXV6VmF0cDJQUFgzWFo5RUNiMVYxRHUwZHlsLUpB?oc=5",
-              "origin": "google",
-              "title": "경기도의회 문체위, DMZ서 ‘평화의 기록’ 조명…제18회 국제다큐영화제 개막 축하"
-            },
-            {
-              "name": "경인매일",
-              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YamE2cjRPaTRESEZBbHZhWU5JM2dIb3Z5Q0d2TC1xcUE2enFZQ2pZSXM1QzFEMVEtLUNDTnZCdmJmUFhGcWhjX19veUFJVXI2TXJKT0FXTDYybTF1SW1QOGpCb2RhQThv?oc=5",
-              "origin": "google",
-              "title": "채신덕 경기도의회 문체위원장, DMZ국제다큐영화제 개막식 참석"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-12T14:54:28+09:00",
-          "ts": 1789192468.0,
           "group": "gg_council",
           "group_label": "경기도의회(문체·미래위)"
         },
@@ -1920,6 +1796,25 @@
           "ts": 1789173120.0,
           "group": "gg_council",
           "group_label": "경기도의회(문체·미래위)"
+        },
+        {
+          "title": "경기도의회 채신덕 위원장, DMZ국제다큐멘터리영화제 개막식 참석해 '평화' 메시지 강조",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MYzJraW9OclNycndMSVgzNVlscC02WWNwUmM5LU45UlFlN0c4UG1aRlFaZ1F0S29sU0FFVTNVVS16c05zVFNKMkYtWVBvVFVoUV9pVlNTc0hBaXll?oc=5",
+          "snippet": "",
+          "source": "피디언뉴스",
+          "sources": [
+            {
+              "name": "피디언뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MYzJraW9OclNycndMSVgzNVlscC02WWNwUmM5LU45UlFlN0c4UG1aRlFaZ1F0S29sU0FFVTNVVS16c05zVFNKMkYtWVBvVFVoUV9pVlNTc0hBaXll?oc=5",
+              "origin": "google",
+              "title": "경기도의회 채신덕 위원장, DMZ국제다큐멘터리영화제 개막식 참석해 '평화' 메시지 강조"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-11T14:46:05+09:00",
+          "ts": 1789105565.0,
+          "group": "gg_council",
+          "group_label": "경기도의회(문체·미래위)"
         }
       ]
     },
@@ -1929,7 +1824,7 @@
       "priority": 4,
       "page": "main",
       "preview": null,
-      "count": 27,
+      "count": 26,
       "items": [
         {
           "title": "“하남의 일상을 30초에 담다”…하남시, ‘SNS 숏폼 영상 공모전’ 개...",
@@ -1950,16 +1845,28 @@
               "title": "하남시, 시민 숏폼 영상 공모전 개최…우수작 4편에 각 50만원"
             },
             {
+              "name": "투어코리아",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DNXd4M2lwbjVDSEdYNjhrWDBOcm5IVHNUWFNwTkNtOTJueEowY1d2SkhWaGpHSHNZOHVoTGJEb2N0b29MV0oyVHNQeGlnRzl0aEZJVE1HSWZ4VzdSRktpRmJ6cjhvWTRPQlVwbW1n?oc=5",
+              "origin": "google",
+              "title": "하남의 일상, 30초 영상에 담아라…하남시 숏폼 공모전 개최"
+            },
+            {
+              "name": "동방일보",
+              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MSUl3Y0U0a29kTFNxZnFtVGE5Um1VbmNCdFRVRUpWUVFoQ19LNHU0aGZHTlBTWU5IRjVnN1A1bEZGcjhyZFZHMHNDRXpJTWx3Y0NLdHhMeWFwY2dEVmZFWTZwV3gwSjdzMHhMcFkyQWVVaGM?oc=5",
+              "origin": "google",
+              "title": "하남시, 30~60초 숏폼 영상 공모전 개최"
+            },
+            {
+              "name": "위클리오늘",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xQjFRdDZwVFUzZ2pac3RUdTQzMEpOdlcwMkVLajdEOURoUHB1Q1AxUS00V0c3aXVHMGE2V0pwbnFsblhmUVpKeXhjWU5XbG1rUHFLT2pGbXNwRUpPdlljR2VldW9ncVZMT2hnOVF3?oc=5",
+              "origin": "google",
+              "title": "[위클리오늘] “30초면 충분해!”…하남시, 숏폼 영상 공모전 ‘내가 담은 하남’ 개최"
+            },
+            {
               "name": "경인매일",
               "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JVXhGSHpiMXBINVMwUGhpZnJMd2w4SXUtS3JZU21ScXVfMkFsUWJ3dGdUbkFXdTA3MnJyclM1WlEtOVdSdU5wMFBMMl90NnhIYzE2NFFKQlBaVnBRV1o2Z1lxcWZ5LW16?oc=5",
               "origin": "google",
               "title": "하남시, '내가 담은 하남' 숏폼 영상 공모전 개최"
-            },
-            {
-              "name": "시사팩트",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56R2pYUVVJLXY0SmhONmJWMl9fUER3dlFNelF3WUpWd2RvaHJRblI0N2ZITkJnZU5XcnlJTy1jYVR5NllLTFkxek5lOS1lQ08yWk5RMFozT0ZyZ2pzc3dYNDhkSFpLaHFER0l1bg?oc=5",
-              "origin": "google",
-              "title": "\"30초면 충분해!\"… 하남시, 숏폼 영상 공모전 '내가 담은 하남' 개최 |"
             },
             {
               "name": "세계환경신문",
@@ -1974,13 +1881,19 @@
               "title": "하남의 일상 숏폼에 담는다…10월 8일까지 영상 공모"
             },
             {
+              "name": "시사팩트",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56R2pYUVVJLXY0SmhONmJWMl9fUER3dlFNelF3WUpWd2RvaHJRblI0N2ZITkJnZU5XcnlJTy1jYVR5NllLTFkxek5lOS1lQ08yWk5RMFozT0ZyZ2pzc3dYNDhkSFpLaHFER0l1bg?oc=5",
+              "origin": "google",
+              "title": "\"30초면 충분해!\"… 하남시, 숏폼 영상 공모전 '내가 담은 하남' 개최 |"
+            },
+            {
               "name": "헤럴드경제",
               "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lU0NKTmNwVzg3dHZrWFVpak1WLWZkMkNtdmJwWHlaMXBNdWxQa3cxWWZNYzBiT0RqaHY2amk3WkExWEVfbEZEMEZvcUxpQmlJU2Z2R29B?oc=5",
               "origin": "google",
               "title": "‘2026년 하남시 SNS 숏폼 영상 공모전’ 10월 8일까지"
             }
           ],
-          "source_count": 7,
+          "source_count": 10,
           "published": "2026-09-11T10:59:00+09:00",
           "ts": 1789091940.0,
           "group": "province",
@@ -2075,6 +1988,49 @@
           "source_count": 5,
           "published": "2026-09-11T18:56:44+09:00",
           "ts": 1789120604.0,
+          "group": "province",
+          "group_label": "경기도(콘텐츠 관련)"
+        },
+        {
+          "title": "게임을 넘어 문화로…판교 달군 'GXG 2026' 가보니",
+          "url": "https://www.ddaily.co.kr/page/view/2026091117030694652",
+          "snippet": "11일 오후 찾은 성남 분당구 판교역 광장 일대는 게임을 다양한 방식으로 즐기는 공간으로 변해 있었다. 이날 성남시가 주최하고 성남산업진흥원과 게임문화재단이 주관하는 게임문화축제 'GXG 2026'이 막을 올렸다. 행사는...",
+          "source": "ddaily.co.kr",
+          "sources": [
+            {
+              "name": "ddaily.co.kr",
+              "url": "https://www.ddaily.co.kr/page/view/2026091117030694652",
+              "origin": "naver",
+              "title": "게임을 넘어 문화로…판교 달군 'GXG 2026' 가보니"
+            },
+            {
+              "name": "플레이포럼",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xUDlIa2tZMVFHTmxVR2lhZTd6YkhLaDZ5ZWxOTlBBV3lnUkpFUVc0bElsMWJ2TWJFTG1rc3VuenR5NWlQQV9hNm9sYmZRTHpna2pDaEU3R0Nld21Pd05ucW8yek9EVzA5QzJWVw?oc=5",
+              "origin": "google",
+              "title": "게임은 문화가 됐다...게임 성지 판교서 개막한 'GXG 2026'"
+            },
+            {
+              "name": "네이트",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85MVBseHZnbjRvc2N5UGxhWmNJV3loVGFSVEZDVVpRX0tmdXBwOFljUTFoZ3pSdE03c1RhSS1iUXRZNmoxNVkyVXdBUVdZb2ttN0RV?oc=5",
+              "origin": "google",
+              "title": "판교역에 게임문화 한자리…'GXG 2026' 게임을 넘어 문화로"
+            },
+            {
+              "name": "테크M",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53U0g2TDVyUTlrT1lNMkY4OVNBSm5aY2lOR0I4aDIwQ0xTY2JzYjRrUktma0dKdjN5ZFBWVk0yZ0xpandjYVZJbWQyT3NXRTdubnBPLTE0VUd5TjdHSU45Ykg2Wk9RQdIBakFVX3lxTE94Rmh3WUxsaGxKQ2FWOTVkdlpZTDd0dzNZT1d1dlRvaGxUcFptMVUxTGJ1SC14dWdIdDV2Z3RMeXJsR05NRkFuQlZ4VnJQbjhIX2xIZDkwd0RmOFFzNFc2MTFYYy1LRXhjUXc?oc=5",
+              "origin": "google",
+              "title": "[게임, 문화로 즐기다-GXG] 플레이 넘어 아트·공연으로 확장...판교역 광장 물들이는 'GXG 2026'"
+            },
+            {
+              "name": "fntimes.com",
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hVjNIYTNTZGlhX19JblJHcFdyS3Z4bzZTWjdnWC1rUW5DcGNTVlVDS2hBcUt5dXVreVYzaDNkdW9PZW05dEQyamJMekhQYl94azZhcVRXQzBYUExzSEM3bU8wSzFTQzQ5cV9DT0FTZFFwN25HMU10RDVCWVg?oc=5",
+              "origin": "google",
+              "title": "[현장] “게임도 문화로서 즐겨요”…한국 게임 심장부 판교서 만난 ‘GXG 2026’"
+            }
+          ],
+          "source_count": 5,
+          "published": "2026-09-11T17:21:00+09:00",
+          "ts": 1789114860.0,
           "group": "province",
           "group_label": "경기도(콘텐츠 관련)"
         },
@@ -2202,43 +2158,6 @@
           "group_label": "경기도(콘텐츠 관련)"
         },
         {
-          "title": "게임을 넘어 문화로…판교 달군 'GXG 2026' 가보니",
-          "url": "https://www.ddaily.co.kr/page/view/2026091117030694652",
-          "snippet": "11일 오후 찾은 성남 분당구 판교역 광장 일대는 게임을 다양한 방식으로 즐기는 공간으로 변해 있었다. 이날 성남시가 주최하고 성남산업진흥원과 게임문화재단이 주관하는 게임문화축제 'GXG 2026'이 막을 올렸다. 행사는...",
-          "source": "ddaily.co.kr",
-          "sources": [
-            {
-              "name": "ddaily.co.kr",
-              "url": "https://www.ddaily.co.kr/page/view/2026091117030694652",
-              "origin": "naver",
-              "title": "게임을 넘어 문화로…판교 달군 'GXG 2026' 가보니"
-            },
-            {
-              "name": "플레이포럼",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xUDlIa2tZMVFHTmxVR2lhZTd6YkhLaDZ5ZWxOTlBBV3lnUkpFUVc0bElsMWJ2TWJFTG1rc3VuenR5NWlQQV9hNm9sYmZRTHpna2pDaEU3R0Nld21Pd05ucW8yek9EVzA5QzJWVw?oc=5",
-              "origin": "google",
-              "title": "게임은 문화가 됐다...게임 성지 판교서 개막한 'GXG 2026'"
-            },
-            {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85MVBseHZnbjRvc2N5UGxhWmNJV3loVGFSVEZDVVpRX0tmdXBwOFljUTFoZ3pSdE03c1RhSS1iUXRZNmoxNVkyVXdBUVdZb2ttN0RV?oc=5",
-              "origin": "google",
-              "title": "판교역에 게임문화 한자리…'GXG 2026' 게임을 넘어 문화로"
-            },
-            {
-              "name": "테크M",
-              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53U0g2TDVyUTlrT1lNMkY4OVNBSm5aY2lOR0I4aDIwQ0xTY2JzYjRrUktma0dKdjN5ZFBWVk0yZ0xpandjYVZJbWQyT3NXRTdubnBPLTE0VUd5TjdHSU45Ykg2Wk9RQdIBakFVX3lxTE94Rmh3WUxsaGxKQ2FWOTVkdlpZTDd0dzNZT1d1dlRvaGxUcFptMVUxTGJ1SC14dWdIdDV2Z3RMeXJsR05NRkFuQlZ4VnJQbjhIX2xIZDkwd0RmOFFzNFc2MTFYYy1LRXhjUXc?oc=5",
-              "origin": "google",
-              "title": "[게임, 문화로 즐기다-GXG] 플레이 넘어 아트·공연으로 확장...판교역 광장 물들이는 'GXG 2026'"
-            }
-          ],
-          "source_count": 4,
-          "published": "2026-09-11T17:21:00+09:00",
-          "ts": 1789114860.0,
-          "group": "province",
-          "group_label": "경기도(콘텐츠 관련)"
-        },
-        {
           "title": "'성남게임문화축제' 개막…판교역 게임 문화장으로",
           "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1537273",
           "snippet": "게임문화축제 'GXG 2026'이 오늘부터 내일까지 판교역 광장 일대에서 열립니다. GXG는 경기 성남시가 주최하는 종합 게임 문화 축제로 올해 4회째를 맞습니다. 이번 축제는 게임을 중심으로 문화, 창작, 교류의 경험을 할...",
@@ -2297,6 +2216,37 @@
           "source_count": 3,
           "published": "2026-09-11T17:37:39+09:00",
           "ts": 1789115859.0,
+          "group": "province",
+          "group_label": "경기도(콘텐츠 관련)"
+        },
+        {
+          "title": "게임·음악·창작 한자리에…‘GXG 2026’ 11~12일 판교서 개최",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zSXFvaWxSYkhET3FQZXlJaWtHaEhFb1MwcGFiR1Rfd0RJa0Q2b2Zqc2RGNlN4Q2dnYXpGRkhiMXl4YkxhTUI5X3pFNlQxWnQ0WXI5aXY5Qk1QeDAtelN5dGhMOC02U2tqdGJLMkhR?oc=5",
+          "snippet": "",
+          "source": "weeklytoday.com",
+          "sources": [
+            {
+              "name": "weeklytoday.com",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zSXFvaWxSYkhET3FQZXlJaWtHaEhFb1MwcGFiR1Rfd0RJa0Q2b2Zqc2RGNlN4Q2dnYXpGRkhiMXl4YkxhTUI5X3pFNlQxWnQ0WXI5aXY5Qk1QeDAtelN5dGhMOC02U2tqdGJLMkhR?oc=5",
+              "origin": "google",
+              "title": "게임·음악·창작 한자리에…‘GXG 2026’ 11~12일 판교서 개최"
+            },
+            {
+              "name": "국제뉴스",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91YlB6QUdjaGpmdXQ3VUtzY2JFeVBfVVVkRkJ5WkVfNWQyOEswMFNvQ090SC11UTZCWDJoQnhHVGFScTBqM3VLdi1lWXZLc1gzU3VIYkNob1h0TkNkU3VtUWFkOXM3a21hank1Wmd3?oc=5",
+              "origin": "google",
+              "title": "'2026 창작선수단' 18일 개최…AI 시대 창작자 컨퍼런스 열린다"
+            },
+            {
+              "name": "게임메카",
+              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjZGdhajBPT0QtaVFldjFsaFU4dkhpUGlwVHdwWGp5SzJaVDRUdC1lTVc5SjI0WEF3NjlqRE9XU3dzRE5SQUlqd1NNWnlxcUZWTlRyVEhfSkbSAVtBVV95cUxOWFNGXzlRNkUwcHdNTU5SZTE4QzlSLTRGWHZGSUJkMGgwMnVFTDdjNndVcHZTeVJhLUlMS2NBZFJ0VnY2RW51WnVUaVRIMU5RZ2JaSl8zRHloQzZz?oc=5",
+              "origin": "google",
+              "title": "음악공연에 서브컬처 강화, GXG 2026 11일 판교서 개최"
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-09-11T11:26:24+09:00",
+          "ts": 1789093584.0,
           "group": "province",
           "group_label": "경기도(콘텐츠 관련)"
         },
@@ -2372,31 +2322,6 @@
           "source_count": 2,
           "published": "2026-09-11T16:11:00+09:00",
           "ts": 1789110660.0,
-          "group": "province",
-          "group_label": "경기도(콘텐츠 관련)"
-        },
-        {
-          "title": "[현장] “게임도 문화로서 즐겨요”…한국 게임 심장부 판교서 만난 ‘GXG 2026’",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hVjNIYTNTZGlhX19JblJHcFdyS3Z4bzZTWjdnWC1rUW5DcGNTVlVDS2hBcUt5dXVreVYzaDNkdW9PZW05dEQyamJMekhQYl94azZhcVRXQzBYUExzSEM3bU8wSzFTQzQ5cV9DT0FTZFFwN25HMU10RDVCWVg?oc=5",
-          "snippet": "",
-          "source": "한국금융신문",
-          "sources": [
-            {
-              "name": "한국금융신문",
-              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hVjNIYTNTZGlhX19JblJHcFdyS3Z4bzZTWjdnWC1rUW5DcGNTVlVDS2hBcUt5dXVreVYzaDNkdW9PZW05dEQyamJMekhQYl94azZhcVRXQzBYUExzSEM3bU8wSzFTQzQ5cV9DT0FTZFFwN25HMU10RDVCWVg?oc=5",
-              "origin": "google",
-              "title": "[현장] “게임도 문화로서 즐겨요”…한국 게임 심장부 판교서 만난 ‘GXG 2026’"
-            },
-            {
-              "name": "weeklytoday.com",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zSXFvaWxSYkhET3FQZXlJaWtHaEhFb1MwcGFiR1Rfd0RJa0Q2b2Zqc2RGNlN4Q2dnYXpGRkhiMXl4YkxhTUI5X3pFNlQxWnQ0WXI5aXY5Qk1QeDAtelN5dGhMOC02U2tqdGJLMkhR?oc=5",
-              "origin": "google",
-              "title": "게임·음악·창작 한자리에…‘GXG 2026’ 11~12일 판교서 개최"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-11T15:22:49+09:00",
-          "ts": 1789107769.0,
           "group": "province",
           "group_label": "경기도(콘텐츠 관련)"
         },
@@ -2631,25 +2556,6 @@
           "source_count": 1,
           "published": "2026-09-11T12:16:00+09:00",
           "ts": 1789096560.0,
-          "group": "province",
-          "group_label": "경기도(콘텐츠 관련)"
-        },
-        {
-          "title": "음악공연에 서브컬처 강화, GXG 2026 11일 판교서 개최",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjZGdhajBPT0QtaVFldjFsaFU4dkhpUGlwVHdwWGp5SzJaVDRUdC1lTVc5SjI0WEF3NjlqRE9XU3dzRE5SQUlqd1NNWnlxcUZWTlRyVEhfSkbSAVtBVV95cUxOWFNGXzlRNkUwcHdNTU5SZTE4QzlSLTRGWHZGSUJkMGgwMnVFTDdjNndVcHZTeVJhLUlMS2NBZFJ0VnY2RW51WnVUaVRIMU5RZ2JaSl8zRHloQzZz?oc=5",
-          "snippet": "",
-          "source": "게임메카",
-          "sources": [
-            {
-              "name": "게임메카",
-              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjZGdhajBPT0QtaVFldjFsaFU4dkhpUGlwVHdwWGp5SzJaVDRUdC1lTVc5SjI0WEF3NjlqRE9XU3dzRE5SQUlqd1NNWnlxcUZWTlRyVEhfSkbSAVtBVV95cUxOWFNGXzlRNkUwcHdNTU5SZTE4QzlSLTRGWHZGSUJkMGgwMnVFTDdjNndVcHZTeVJhLUlMS2NBZFJ0VnY2RW51WnVUaVRIMU5RZ2JaSl8zRHloQzZz?oc=5",
-              "origin": "google",
-              "title": "음악공연에 서브컬처 강화, GXG 2026 11일 판교서 개최"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-11T11:26:24+09:00",
-          "ts": 1789093584.0,
           "group": "province",
           "group_label": "경기도(콘텐츠 관련)"
         },
@@ -3071,6 +2977,12 @@
               "title": "경기관광공사, 가을맞이 '경기바다 함께海' 플로깅 캠페인 실시"
             },
             {
+              "name": "투데이경제",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NaWx4ZzBUZHJ4MUZ0Wk92ZE1RU1I2VzhxZ3ZqYWJ6c2l0VkdrdU9mN1BteE1SNW1uSmZFUW5QaWV5eDhWREF0dGFLZ0liS1BiMlo5cFVjc21SV0ZnajRYeld6R0VmSTNlMC1F?oc=5",
+              "origin": "google",
+              "title": "경기관광공사, 가을맞이 '경기바다 함께海' 플로깅 캠페인 실시"
+            },
+            {
               "name": "서울뉴스통신",
               "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Jdnl4NHlnelR2U3ByME5NSkowOFVhT3hlQ2xERFJySXhSQjFHQkU0RTdUd0djWTB3b1h1VkszdmVaOHJkenNEUkotV3BrRTdybnlBQU16WnRfNnlnOVgxeV9oNHRJUlJzRGpv?oc=5",
               "origin": "google",
@@ -3113,6 +3025,12 @@
               "title": "경기관광공사, 화성 궁평서 '경기바다 함께海' 플로깅 캠페인 실시"
             },
             {
+              "name": "nanumy.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaeEVRZXliVHlla2tzNzNqclYxYXlsU2pNWjl6SDNDSDBwNEdxR2FtTEtWSEZBa3ZjOWY3MHhQcHYxMEpZZGpjcUtVNTgyZmd1cldNOVk2T3QwMGQxMVdycXM5cjNSTnVKVGFseA?oc=5",
+              "origin": "google",
+              "title": "경기관광공사, 화성 궁평 솔밭해수욕장서 ‘경기바다 함께海’ 플로깅"
+            },
+            {
               "name": "전국매일신문",
               "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXY2xTNTAzbVJUMkN3N3MyZ3V1T0djLUNRcEhmRUJ1NDdLekt0Ui1YMDYzdHlCeGtSTWktLXhEOWhwMEZkSUdoUlJFblliVHlaOFlwZGRaVi1tMDlTd0FmUnA2NHBCMHltdDJ4Rlh3?oc=5",
               "origin": "google",
@@ -3143,6 +3061,12 @@
               "title": "경기관광공사, 가을맞이 '경기바다 함께海' 플로깅 캠페인 실시"
             },
             {
+              "name": "한국글로벌뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zYzE5THVadkQwN3NpanpJMTBNd3Bvd04xUXJSUHRTalAxbFRZLTkwVUlXOERmRzdXenNORXpHaHBnNmFaaW9hUWpKU2hrSGduTGRPWVNlM2hra2dRWWNRNA?oc=5",
+              "origin": "google",
+              "title": "경기관광공사, 가을맞이 '경기바다 함께海' 플로깅 캠페인 실시"
+            },
+            {
               "name": "웹이코노미",
               "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8yN05TbjBDQ1BLdm5GenZzRUc0NHRuWkFmNnNOakt5TGp0NE9YVmV6REcxSEJrRjJqLW1DM2ZHNV8zMS15aDhnSmxRbkhIMVhBdDNQbGE1aUVFMUFBY3NDSm43QmRncDFYNlhPMkIyYUdEZw?oc=5",
               "origin": "google",
@@ -3153,21 +3077,9 @@
               "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2bnRycHk0TTJocWVBdWFidC1iNjZ1OU5OdlVyRXdYbWE0LUZXdU9LcnVZTjBHb3lmYm00azE1a09md19XOGZ1RXBDVG4tXzR1Y2hBSFh1aXgyU0R0QndNakppelNHUGZjOUV0U0V6Qk9zbHhQ0gF0QVVfeXFMUHZudHJweTRNMmhxZUF1YWJ0LWI2NnU5Tk52VXJFd1htYTQtRld1T0tydVlOMEdveWZibTRrMTVrT2Z3X1c4ZnVFcENUbi1fNHVjaEFIWHVpeDJTRHRCd01qSml6U0dQZmM5RXRTRXpCT3NseFA?oc=5",
               "origin": "google",
               "title": "경기관광공사, 궁평 솔밭해수욕장 백사장·해송 숲 일대서 플로깅 활동 진행"
-            },
-            {
-              "name": "nanumy.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaeEVRZXliVHlla2tzNzNqclYxYXlsU2pNWjl6SDNDSDBwNEdxR2FtTEtWSEZBa3ZjOWY3MHhQcHYxMEpZZGpjcUtVNTgyZmd1cldNOVk2T3QwMGQxMVdycXM5cjNSTnVKVGFseA?oc=5",
-              "origin": "google",
-              "title": "경기관광공사, 화성 궁평 솔밭해수욕장서 ‘경기바다 함께海’ 플로깅"
-            },
-            {
-              "name": "한국글로벌뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zYzE5THVadkQwN3NpanpJMTBNd3Bvd04xUXJSUHRTalAxbFRZLTkwVUlXOERmRzdXenNORXpHaHBnNmFaaW9hUWpKU2hrSGduTGRPWVNlM2hra2dRWWNRNA?oc=5",
-              "origin": "google",
-              "title": "경기관광공사, 가을맞이 '경기바다 함께海' 플로깅 캠페인 실시"
             }
           ],
-          "source_count": 21,
+          "source_count": 22,
           "published": "2026-09-11T19:56:00+09:00",
           "ts": 1789124160.0,
           "group": "gg_agencies",
@@ -3280,14 +3192,8 @@
           "title": "경기평택항만공사, 평택 농가서 일손 돕기 봉사",
           "url": "http://www.econonews.co.kr/news/articleView.html?idxno=444217",
           "snippet": "경기평택항만공사 임직원들이 봉사활동을 마치고 기념촬영을 하고있다 (사진=경기평택항만공사) 경기평택항만공사는 평택시 포승읍 방림리와 안중읍 대반리의 배추·블루베리 농가 2곳에서 농촌 일손 돕기 봉사활동을...",
-          "source": "엔디엔뉴스",
+          "source": "웹이코노미",
           "sources": [
-            {
-              "name": "엔디엔뉴스",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tSmx0N19MRDhzTEJNLWZuSHRDQ0wtREFiSkVNbUdjU3g4SGRlZHpxTWZkeWVIVFJDQ3hpZVhQeVk2RHVDQ2hyaFJwTnVhcnNKaEpnSk9YdDZtTk5wcElzV0NsVWpIRnhJQzRVc1NVRFpyUdIBckFVX3lxTE4tSmx0N19MRDhzTEJNLWZuSHRDQ0wtREFiSkVNbUdjU3g4SGRlZHpxTWZkeWVIVFJDQ3hpZVhQeVk2RHVDQ2hyaFJwTnVhcnNKaEpnSk9YdDZtTk5wcElzV0NsVWpIRnhJQzRVc1NVRFpyUQ?oc=5",
-              "origin": "google",
-              "title": "경기평택항만공사, 평택 농가 찾아 가을철 일손 돕기"
-            },
             {
               "name": "웹이코노미",
               "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KWm80STZ4QmVmdGRfYm1zemp6WG1oLUEwM1VBamFZTE8wN3VTaklaSmt0ejUySlA5czJXMU81T3U3NGhRTFVrdGx2Yk52MEpGUC1xZ19DRVh2SzE0TG1sSmhERE4tRUhTV1lWYktyNWNqUQ?oc=5",
@@ -3343,6 +3249,12 @@
               "title": "경기평택항만공사, 평택 농가서 일손 돕기 봉사"
             },
             {
+              "name": "글로벌뉴스통신GNA",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwUFpjTWFfbDVWNEotTjNVMnpoZWYzcURkeTVYSDg4UExTQUV1UGpENURwLUN1LUdodnpoOWFpYjdCNURZX1lUVlFLM2ZFUDZua2FlRHlfYkIzeDlGTEFiNUxNcGctUGtXUDdZM016YmxOY1Zf?oc=5",
+              "origin": "google",
+              "title": "경기평택항만공사, 평택 농가 찾아 가을철 일손 돕기"
+            },
+            {
               "name": "월간친환경",
               "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iVGQ5cmVwdmh3dE5kdVAwaEZKa2FydFVVMjQ4aDdXSXA3V0VMVmpBVmtWRE5MMzRZeEJwcXJUZFZ5VFJsOHozcnROZy1aSDBJOFVKVnVicUxuUFJIb3JZUjh3OWNiVlBvQ1U0aEJUS0czdw?oc=5",
               "origin": "google",
@@ -3359,9 +3271,15 @@
               "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tak9tdFRlREtodXMzRGhjWlJqV0pONjl4WTVEOUVpRGlkRVZ5cnNGWDB6MXZnSkJaZGVJM2l5RmRzd3pjOEx3TlFrdV84VW15eUNLbHE3Y0ZzMkZRTEFNZXkxemQtUQ?oc=5",
               "origin": "google",
               "title": "경기평택항만공사, 평택 농가 찾아 가을철 일손 돕기"
+            },
+            {
+              "name": "엔디엔뉴스",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tSmx0N19MRDhzTEJNLWZuSHRDQ0wtREFiSkVNbUdjU3g4SGRlZHpxTWZkeWVIVFJDQ3hpZVhQeVk2RHVDQ2hyaFJwTnVhcnNKaEpnSk9YdDZtTk5wcElzV0NsVWpIRnhJQzRVc1NVRFpyUdIBckFVX3lxTE4tSmx0N19MRDhzTEJNLWZuSHRDQ0wtREFiSkVNbUdjU3g4SGRlZHpxTWZkeWVIVFJDQ3hpZVhQeVk2RHVDQ2hyaFJwTnVhcnNKaEpnSk9YdDZtTk5wcElzV0NsVWpIRnhJQzRVc1NVRFpyUQ?oc=5",
+              "origin": "google",
+              "title": "경기평택항만공사, 평택 농가 찾아 가을철 일손 돕기"
             }
           ],
-          "source_count": 13,
+          "source_count": 14,
           "published": "2026-09-11T14:46:00+09:00",
           "ts": 1789105560.0,
           "group": "gg_agencies",
@@ -3410,16 +3328,16 @@
               "title": "포천시, 경기도일자리재단 연계‘직업상담사 직무역량 강화교육’ 실시"
             },
             {
-              "name": "매일일보",
-              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PbGhyaVE0NlRlOXB5cGx4YmR5UFRvNVcwSkpfRHVSdDlaeWlFM0NoSHBfTDVuYW42S1RVaGlYRDFvYkRzQk5jbjFDZ1BxSzE4MjlzUzN1eGZSTXJnX194LWxWMVrSAWhBVV95cUxNVGIwOGwzcnFEYkgzSzltMEJzNm02U1JVQmpRSXVNNEJaWlNlOUdJUTJ4eDZoaWk4MWpRRWk5S1ZYc2RMTU5xYm8xR20yWlMyMGQzakJPVEQwM2RBNHhxeklMM2xZN3Y0Tg?oc=5",
-              "origin": "google",
-              "title": "포천시, 경기도일자리재단 연계 ‘직업상담사 직무역량 강화교육’ 실시"
-            },
-            {
               "name": "웹이코노미",
               "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nZ293MmdzdmJ4TkduY0xQWEF3a2Y2V2hHdkhLSGY4WmZxTXl6Q2tpeThxWGhRVzFfSUFhSzlNS2hNQW9lcEJWalBxbHdrUGlvN2JlSWtVYTNuOVN0cVo4ekV6dFVYblFzWjB1Y3VvMEw2Zw?oc=5",
               "origin": "google",
               "title": "포천시, 경기도일자리재단과 함께 직업상담사 역량 강화 교육 진행"
+            },
+            {
+              "name": "매일일보",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PbGhyaVE0NlRlOXB5cGx4YmR5UFRvNVcwSkpfRHVSdDlaeWlFM0NoSHBfTDVuYW42S1RVaGlYRDFvYkRzQk5jbjFDZ1BxSzE4MjlzUzN1eGZSTXJnX194LWxWMVrSAWhBVV95cUxNVGIwOGwzcnFEYkgzSzltMEJzNm02U1JVQmpRSXVNNEJaWlNlOUdJUTJ4eDZoaWk4MWpRRWk5S1ZYc2RMTU5xYm8xR20yWlMyMGQzakJPVEQwM2RBNHhxeklMM2xZN3Y0Tg?oc=5",
+              "origin": "google",
+              "title": "포천시, 경기도일자리재단 연계 ‘직업상담사 직무역량 강화교육’ 실시"
             }
           ],
           "source_count": 8,
@@ -3762,31 +3680,6 @@
           "group_label": "경기도 산하기관"
         },
         {
-          "title": "\"지원 끝나도 계속 이용 80%\"…경기도형 유연근무, 노동 현장 연착륙",
-          "url": "https://www.mt.co.kr/policy/2026/09/11/2026091114513484650",
-          "snippet": "경기도일자리재단 일자리연구센터는 11일 이 같은 내용이 담긴 GJF 고용이슈리포트 '경기도형 유연근무... 기업의 제도 만족도를 비롯해 조직문화 개선, 인력운영 안정성, 업무효율성 항목 평가는 5점 만점에 평균 4.30~4....",
-          "source": "머니투데이",
-          "sources": [
-            {
-              "name": "머니투데이",
-              "url": "https://www.mt.co.kr/policy/2026/09/11/2026091114513484650",
-              "origin": "naver",
-              "title": "\"지원 끝나도 계속 이용 80%\"…경기도형 유연근무, 노동 현장 연착륙"
-            },
-            {
-              "name": "시대일보",
-              "url": "https://www.sidae.com/article/2026091108441850162",
-              "origin": "naver",
-              "title": "'경기도형 유연근무제' 참여자 80% \"계속 활용 희망\""
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-11T15:14:00+09:00",
-          "ts": 1789107240.0,
-          "group": "gg_agencies",
-          "group_label": "경기도 산하기관"
-        },
-        {
           "title": "LH, 경기주택도시공사에 건설정보모델링 핵심기술 이전",
           "url": "https://news.tvchosun.com/site/data/html_dir/2026/09/11/2026091190151.html",
           "snippet": "한국토지주택공사(LH)는 독자 개발한 단지분야 건설정보모델링(BIM) 핵심기술을 경기주택도시공사(GH)에 이전한다고 11일 밝혔다. LH는 지난 10일 GH와 BIM 기술이전 및 3기 신도시 조성사업 등 다양한 분야 협력체계...",
@@ -4048,6 +3941,25 @@
           "source_count": 1,
           "published": "2026-09-11T15:20:00+09:00",
           "ts": 1789107600.0,
+          "group": "gg_agencies",
+          "group_label": "경기도 산하기관"
+        },
+        {
+          "title": "\"지원 끝나도 계속 이용 80%\"…경기도형 유연근무, 노동 현장 연착륙",
+          "url": "https://www.mt.co.kr/policy/2026/09/11/2026091114513484650",
+          "snippet": "경기도일자리재단 일자리연구센터는 11일 이 같은 내용이 담긴 GJF 고용이슈리포트 '경기도형 유연근무... 기업의 제도 만족도를 비롯해 조직문화 개선, 인력운영 안정성, 업무효율성 항목 평가는 5점 만점에 평균 4.30~4....",
+          "source": "머니투데이",
+          "sources": [
+            {
+              "name": "머니투데이",
+              "url": "https://www.mt.co.kr/policy/2026/09/11/2026091114513484650",
+              "origin": "naver",
+              "title": "\"지원 끝나도 계속 이용 80%\"…경기도형 유연근무, 노동 현장 연착륙"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-11T15:14:00+09:00",
+          "ts": 1789107240.0,
           "group": "gg_agencies",
           "group_label": "경기도 산하기관"
         },
@@ -4616,7 +4528,7 @@
       "priority": 11,
       "page": "trends",
       "preview": 3,
-      "count": 377,
+      "count": 374,
       "items": [
         {
           "title": "KB손보, AI 에이전트에 사원번호 부여…업무·성과 관리",
@@ -5288,6 +5200,12 @@
               "title": "HD현대로보틱스, 에이딘로보틱스에 130억 투자 … ‘피지컬 AI’ 강화"
             },
             {
+              "name": "mydaily.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52U3pfYnMzb3lRZzdYZW1WbloxMHdUMEtLd2dmUXZKXzFPM0xsTWV6UlpRS0psWF9BY2JRb1pDZlNlVFBtbmNZb0EyejBsdU1ZQmZsdFZSS0FlakNNdG9YcQ?oc=5",
+              "origin": "google",
+              "title": "HD현대로보틱스, 에이딘로보틱스에 130억 투자…‘피지컬 AI’ 정조준"
+            },
+            {
               "name": "ER 이코노믹리뷰",
               "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsN0lZT0pESm5zenR6VFVhZ3FoZXlCcFZraFFxTG5tcFhCS3dLb0FfdWc4VjVZOTZrU3FrX3NGVVdaNGZTcjV6VHV3Mm4wSjhUb1NQTHhTSVpqZXBfZEU1Tk9WNTlyVFN6WFhMSQ?oc=5",
               "origin": "google",
@@ -5334,12 +5252,6 @@
               "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ySXpSejc5eGJ6TDNlNUE5VjJBNHZnbnJkYUMzLXlLRXR0N2YxT0M1WmlRb0t3dnJYaTkta0pFTmRvbzY2R0haV2FWWVJYd0F0d2Q2czhLbkJhdUQ2NTUzNzdVTXRXSTBrQU0wNldB0gFyQVVfeXFMT19nUnkycTJTdGVBQTZSenlVT2FZa2F3Q1Zod3B0aEU1aURUZGxvYVpOOVdJYlZZN2hlZVhhU0VSUkJueHBQTm8wVjVERnNFc1E5THI0dGlvVTFPSWNYTVB0OFFoZlk5LVVCSERjUWR5dGlR?oc=5",
               "origin": "google",
               "title": "HD현대로보틱스, 에이딘로보틱스에 130억 투자…피지컬 AI 경쟁력 강화"
-            },
-            {
-              "name": "마이데일리",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52U3pfYnMzb3lRZzdYZW1WbloxMHdUMEtLd2dmUXZKXzFPM0xsTWV6UlpRS0psWF9BY2JRb1pDZlNlVFBtbmNZb0EyejBsdU1ZQmZsdFZSS0FlakNNdG9YcQ?oc=5",
-              "origin": "google",
-              "title": "HD현대로보틱스, 에이딘로보틱스에 130억 투자…‘피지컬 AI’ 정조준"
             }
           ],
           "source_count": 20,
@@ -5768,6 +5680,67 @@
           "group_label": "AI · 생성형AI"
         },
         {
+          "title": "경북농협, 대학생 AI 숏폼으로 경북 농산물 알리기",
+          "url": "https://tk.newdaily.co.kr/site/data/html/2026/09/12/2026091200035.html",
+          "snippet": "소재로 AI 기술을 활용한 숏폼 영상을 제작하는 방식이다. 공모 주제는 경북 농산물의 맛과 매력을 알리는 내용과 젊은 세대의 시선으로 경북 농산물을 새롭게 풀어낸 콘텐츠, 경북농협 농산물 소비를 유도하는 내용 등...",
+          "source": "tk.newdaily.co.kr",
+          "sources": [
+            {
+              "name": "tk.newdaily.co.kr",
+              "url": "https://tk.newdaily.co.kr/site/data/html/2026/09/12/2026091200035.html",
+              "origin": "naver",
+              "title": "경북농협, 대학생 AI 숏폼으로 경북 농산물 알리기"
+            },
+            {
+              "name": "노컷뉴스",
+              "url": "https://www.nocutnews.co.kr/news/6576895?utm_source=naver&utm_medium=article&utm_campaign=20260911032820",
+              "origin": "naver",
+              "title": "경북농협, 농산물 가치 알리고 소비 촉진 'AI 숏폼 대학생 공모전' 연다"
+            },
+            {
+              "name": "이뉴스투데이",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZQ2lJdHJCcTFjOERWS0pmMmwzNDhORmt0Y0R4a29qMWpkeHk1TnpFRkpubUgyemJiY0tUeEo2SDVGTzBTTllYYnpZV0h5SU1HUWpzNjU3THIyNUhXWl9jZlpjY1UxRFNRQmVXem81RkPSAXRBVV95cUxQNWExX0V2VFl4Z1NDRDA3QXltdmlHR2JRRk9QTVlLODE0U1U4emcyb19VYjUwTXFJZmNrNFRQS0YxbENwOTYybVVTSVEwQ0p4WldKYS1xYk1DR2lqSGtoNGRiOTZydUVlWWotYTFPcF9pbTh4NA?oc=5",
+              "origin": "google",
+              "title": "대학생의 시선으로 피어나는 경북 과일… 경북농협, ‘농산물 AI 숏폼 공모전’ 포문 열다"
+            },
+            {
+              "name": "웹이코노미",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sTVNZSmdORTFjYmpKSGRObTlDYnotaDAtSlU3ckZONzl2a2JkaVdUWWc2NXB4V1VjYzZodDFMdVh5dERabXVXTDByRFJaSzJ6TTluQWZMcllvdE5kWndobzZFdG5VUGlYRExNNWhVMUpEdw?oc=5",
+              "origin": "google",
+              "title": "경북농협, 대학생 대상 농산물 AI 숏폼 공모전 개최"
+            },
+            {
+              "name": "KNS뉴스통신",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nOXBxcE5HdzYzb01FUGJxaHVLMk5DdWRXY1J3OVBjajFqQnNBU2dBMWhqaUxib01JY0RILUpIenNpWHp6UmhmM09PVDc2cDBiWnA3V2tmVXJCc1BJTmw3RGpRLTc?oc=5",
+              "origin": "google",
+              "title": "경북농협, 농산물 AI 숏폼 대학생 공모전 실시"
+            },
+            {
+              "name": "광흥타임즈",
+              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nQzNVTnh0Z0NhbHVkRDBVN3dmaG12dGZ6WktaTF9XUVcxeHR5Sll6dkd3d296WV9YaklhQXdtOWdnVHRpNzhCTkNtZmV5dm9OQUk4UXdsa0FMSVZVaFhr?oc=5",
+              "origin": "google",
+              "title": "경북농협 농산물 AI 숏폼 대학생 공모전 실시"
+            },
+            {
+              "name": "네이트",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rcmFSWWNrRU5MWEhCaVhPRFRGWHJ3YmktdWRyWEZNWVdTb0hiZk9VTmhlamtxNFZpTzBKcmZLaGIzMTMxbkczZ3UtSU56dG52VlZN?oc=5",
+              "origin": "google",
+              "title": "경북농협, 농산물 가치 알리고 소비 촉진 'AI 숏폼 대학생 공모전' 연다"
+            },
+            {
+              "name": "매일신문",
+              "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrOFhmeXIybTVqTUdTbTc1cDk4Yi1jQjRpZGlSRWFpNkMzRVAzQXM4S0o0eUU5ZHlWdjBPbmNXVGJrUWMzMW1qWXUyLXNaUFBnMHVPaVBFVXRYajBab0dNWXJB?oc=5",
+              "origin": "google",
+              "title": "경북농협, `농산물 AI 숏폼 대학생 공모전` 개최"
+            }
+          ],
+          "source_count": 8,
+          "published": "2026-09-12T12:16:00+09:00",
+          "ts": 1789182960.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
           "title": "프리뉴, 한강 자살 예방·구조 위한 ‘피지컬 AI’ 자율주행 드론 개발 착수",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92VzcxT2VqaGxtbUZDSTRBXzdGVm14cmRLczdXQ1RpRS1rUGViZFR1aURWM1YtNGNpUzc2RDQydU9kbTNnTExpT2lNSlJkUFc1UVBMYVRjRUVTcS1BcXUyWWVGeTVMZVNuczBVTg?oc=5",
           "snippet": "",
@@ -5890,118 +5863,63 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "강릉 청소년이 AI로 그린 ‘강릉’…역사·문화·관광 홍보영상 직접 제...",
-          "url": "https://www.kukinews.com/article/view/kuk202609110095",
-          "snippet": "강미정 강릉시 인구가족과장은 “청소년들이 여러 생성형 AI 도구를 활용해 자신의 생각을 실제 콘텐츠로 구현하는 과정을 경험했다”며 “앞으로도 미래사회에 필요한 디지털 활용 능력을 키울 수 있는 청소년...",
-          "source": "쿠키뉴스",
+          "title": "농협, '농심천심' 경영리더십과정 운영…AI 기반 미래 대응 역량 강화",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95ekZRUTRjMlc4S1lpXzFabEl1MnN0VXlPSmRYd3paUXBDaWJCSHdzdGRidjZTcTl0SmVRU1pXc0o1ZmF0VDlHN0oyWDl2OTlkUGpWMTF0cGlsY1BjbUhFZm5EQ0dUYmRWVDVLMzJ3?oc=5",
+          "snippet": "",
+          "source": "뉴스후플러스",
           "sources": [
             {
-              "name": "쿠키뉴스",
-              "url": "https://www.kukinews.com/article/view/kuk202609110095",
+              "name": "뉴스후플러스",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95ekZRUTRjMlc4S1lpXzFabEl1MnN0VXlPSmRYd3paUXBDaWJCSHdzdGRidjZTcTl0SmVRU1pXc0o1ZmF0VDlHN0oyWDl2OTlkUGpWMTF0cGlsY1BjbUhFZm5EQ0dUYmRWVDVLMzJ3?oc=5",
+              "origin": "google",
+              "title": "농협, '농심천심' 경영리더십과정 운영…AI 기반 미래 대응 역량 강화"
+            },
+            {
+              "name": "아주경제",
+              "url": "https://www.ajunews.com/view/20260911130531059",
               "origin": "naver",
-              "title": "강릉 청소년이 AI로 그린 ‘강릉’…역사·문화·관광 홍보영상 직접 제..."
+              "title": "농협, '농심천심'으로 위기를 넘어 AI로 미래를 열다"
             },
             {
-              "name": "노컷뉴스",
-              "url": "https://www.nocutnews.co.kr/news/6576695?utm_source=naver&utm_medium=article&utm_campaign=20260911111119",
-              "origin": "naver",
-              "title": "청소년들이 제작한 'AI 강릉'…역사·문화·관광 영상에 담아"
-            },
-            {
-              "name": "해양레저신문",
-              "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lRVV2SExBUG50aXlOMGpuMDFaS0FpZDZDVWJPbWxpMFNRX3A4ODNGYU5tTTlOM1g5b2s0Ny1wQXJ6TFFmLVR4SjhzeHMtZGRWOUZnWE1LRQ?oc=5",
+              "name": "한국금융신문",
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XMGp1ZzFIVjhLejR3ODdIcTEzaWMtRE0zZmxpRHpPbVd2dWhmd2cwVV95VnQyUUJhb0dpbjJQMFkzUExsakpqdTV2THpSLWlTTFpaZ1BaR1YwMGMzWUk5VURGazJOaFFINGVmbmJMUzJQTGQyY2VJOUlsNDY?oc=5",
               "origin": "google",
-              "title": "어촌마을도 생성형 AI로 관광객 찾는다…홍보 콘텐츠 직접 제작"
+              "title": "농협, ‘농심천심’으로 위기 넘고 ‘AI’로 미래 연다"
             },
             {
-              "name": "강릉넷TV",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uX0c0U1JDZFVCaFd3aXM2TDhSeXc5aGZXaXJpV3l2UmxNYllUeWRYYWtTNXVLY1pqR0FpbWhiMVBFNUNYU1Utd1BvZXNwZnhpYlBYUDJjMFpBYUR4bDZYaF9TWE5Db0VmM2c?oc=5",
+              "name": "데일리안",
+              "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOOEVPLWIySHZpQldyaGZkb3BPNWZoV2pjX3R5WnNUR0tya3dZamlhZmtwWW9ZX1Qwb3VsVFpSaVFIbmRiOTRqS3lHNDYzVm9SdmlYS08wUWhGSUtPZS1JZzJET3lZX21KMll6VGNhRHJPQ0FnSHM5RW9Nb0drRm5jdFl5SHhsSWJXYmJTR19JWU16VGk1RHRaZTJZSmdHajcxZ0g5eXdFVDZ5TzZBb2JtS1VHLUNBM0d4Vk5LS2Rrb2t1M3MtRmxHTXpyZkZDaVRvaWxCQW5haUNlVTV1enlsZVdRVzU1UjlUR2ttdzVHMEs4VVdlNjNZcTh2UmotbUtUY1plaF9VRUtNTnFGLUE?oc=5",
               "origin": "google",
-              "title": "강릉시, 청소년 손에서 탄생한 ‘AI 강릉’, 역사·문화·관광을 영상에 담다"
+              "title": "농협중앙회, 조합장 대상 AI 경영교육…미래경영 역량 강화"
             },
             {
-              "name": "웹이코노미",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtUkpfbmxpV1Z3b2FXWEE3V21wT1p4SnlzdnhBZkxiQUZqSTBvdGQ3MVlTb3VlRjRHSWxmSlF0MVhCWFNKS09jdVpNQnFsVUJUVHRtOWNkMzFiWFhhckI2Q2FaVGI1ZFVWakIyTTlBejlsUQ?oc=5",
+              "name": "뉴스로드",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMNWJNZFhKeDVpdk9YYlllLUZhcEkxRE9TUjc2Y2xxUWpRV3VDa3piRVc1UU93djdfcVFUZVdSTkEyWkJUNHpxeXM0MlVaSjY5ZUQyNXhHUXQwTGlPUEY0eDQxYmluaWx0UzNj0gFvQVVfeXFMUElXU2gzSGFqRnQ3R2lfU2R1RE1sQ3VqRm96aTNkUDlEMzcxMUV0ZDlVejdUQXNYTWJmMTVXaWNOQlFRVWFsRTNIcG1wYmlDVUhPSFo0M1FnU3dXTk9ySUZqazJqcmVBQVYtc01tV184?oc=5",
               "origin": "google",
-              "title": "청소년 손에서 탄생한 ‘AI 강릉’, 역사·문화·관광을 영상에 담다"
+              "title": "농협, ‘농심천심’으로 위기 넘고 AI로 미래 연다"
             },
             {
-              "name": "한국시사경제",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55TV80QXJLNnRQLWZ5c3A1amIzdTB5MmFVU19YR1k2VC10MHZxMWhXNmxGYzY3dk9VRnRwUnJpUktWMVRpQ3Q1N1MwOS1FUDNvaXpEazQ5VnhTN2dCYnZaN0JqZmFNMUFQbEE?oc=5",
+              "name": "더트래커",
+              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53S1MxU3RUb1dhY0E0RV9kNVRvY1Y2NXpBT1phQUdJSTBDWGxkc0R2by1BRTNpdTZRUEpYUWJFeDJlUElHUDVjZzBQNnpTZmh4TUE1eTdQUmQ?oc=5",
               "origin": "google",
-              "title": "청소년 손에서 탄생한 ‘AI 강릉’, 역사·문화·관광을 영상에 담다"
+              "title": "농협, 조합장 경영교육에 AI 접목…미래경영 역량 강화"
             },
             {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mQmlsaTRROGoteDBLQXZ3Rmx5WmhjMXo0alh6TG1oeWx0WWtxdy1RUTBWQmY0RXBQRm1yR1F3NUQzVjZsMTZMdzM2YkRrMExzS1BJ?oc=5",
+              "name": "디스커버리뉴스(DISCOVERYNEWS)",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE93eXphTzVhd0lGN2xrQ29uRUx3ZmhJWjhfeVgwWHpGXzdtaEtqTXg0TmhNS2d4ajhsbUVDQnpPU0ROZUI1cnJkRVhqUFllT3lQSWFfSW5lSjg5TjRmZUxPSGpRREZlbTZVdGo1aXpPOXY5Zw?oc=5",
               "origin": "google",
-              "title": "청소년들이 제작한 'AI 강릉'…역사·문화·관광 영상에 담아"
+              "title": "농협, ‘농심천심’으로 위기 넘고 AI로 미래 연다"
             },
             {
-              "name": "한국사회복지저널",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13dmQyV1FHU2ZmUmpjanp2M3NOZ2plY19YYVh1WkJWbndmVVVmOWNDNDZQa01SQXltMGNEb0c5bmRpbUZxbzIwQjJVU3ZkMWtLVWFlaENQYTdreGdyX2tHM1QzSlVZcW85TDIw?oc=5",
+              "name": "the-pr.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ISjcxbzhBM3lGYjVwaEtqZ0NyM2J2c0o1bk55cFNuX0RUN28zZEdRUE12dFhfRHl0RWg2Vlo0UHhHZUR6dXNmclF1U1kwaXFEeVVOZUtscFZPRjlTR3RtQWFMN0UzSlpfVnfSAW5BVV95cUxOODJIbzNKTHZNWTNQOUpYVWx5SjVKZFpHMkNIWmJ3M1ZLalFndlF1SlhGZzJkZmpJdl9EZGJKaWZsbUxaeUN6VURXRWZPbVpqSEFDTzYyTWlZMUp3UXdETTNad3FSdndTS011SVR3dw?oc=5",
               "origin": "google",
-              "title": "강릉 청소년, AI로 지역 역사·문화 홍보영상 제작…미디아이 사업 성료"
+              "title": "농협, 농심천심으로 위기 대응… AI로 미래 연다"
             }
           ],
           "source_count": 8,
-          "published": "2026-09-11T13:28:00+09:00",
-          "ts": 1789100880.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "경북농협, 대학생 AI 숏폼으로 경북 농산물 알리기",
-          "url": "https://tk.newdaily.co.kr/site/data/html/2026/09/12/2026091200035.html",
-          "snippet": "소재로 AI 기술을 활용한 숏폼 영상을 제작하는 방식이다. 공모 주제는 경북 농산물의 맛과 매력을 알리는 내용과 젊은 세대의 시선으로 경북 농산물을 새롭게 풀어낸 콘텐츠, 경북농협 농산물 소비를 유도하는 내용 등...",
-          "source": "tk.newdaily.co.kr",
-          "sources": [
-            {
-              "name": "tk.newdaily.co.kr",
-              "url": "https://tk.newdaily.co.kr/site/data/html/2026/09/12/2026091200035.html",
-              "origin": "naver",
-              "title": "경북농협, 대학생 AI 숏폼으로 경북 농산물 알리기"
-            },
-            {
-              "name": "노컷뉴스",
-              "url": "https://www.nocutnews.co.kr/news/6576895?utm_source=naver&utm_medium=article&utm_campaign=20260911032820",
-              "origin": "naver",
-              "title": "경북농협, 농산물 가치 알리고 소비 촉진 'AI 숏폼 대학생 공모전' 연다"
-            },
-            {
-              "name": "웹이코노미",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sTVNZSmdORTFjYmpKSGRObTlDYnotaDAtSlU3ckZONzl2a2JkaVdUWWc2NXB4V1VjYzZodDFMdVh5dERabXVXTDByRFJaSzJ6TTluQWZMcllvdE5kWndobzZFdG5VUGlYRExNNWhVMUpEdw?oc=5",
-              "origin": "google",
-              "title": "경북농협, 대학생 대상 농산물 AI 숏폼 공모전 개최"
-            },
-            {
-              "name": "KNS뉴스통신",
-              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nOXBxcE5HdzYzb01FUGJxaHVLMk5DdWRXY1J3OVBjajFqQnNBU2dBMWhqaUxib01JY0RILUpIenNpWHp6UmhmM09PVDc2cDBiWnA3V2tmVXJCc1BJTmw3RGpRLTc?oc=5",
-              "origin": "google",
-              "title": "경북농협, 농산물 AI 숏폼 대학생 공모전 실시"
-            },
-            {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rcmFSWWNrRU5MWEhCaVhPRFRGWHJ3YmktdWRyWEZNWVdTb0hiZk9VTmhlamtxNFZpTzBKcmZLaGIzMTMxbkczZ3UtSU56dG52VlZN?oc=5",
-              "origin": "google",
-              "title": "경북농협, 농산물 가치 알리고 소비 촉진 'AI 숏폼 대학생 공모전' 연다"
-            },
-            {
-              "name": "광흥타임즈",
-              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nQzNVTnh0Z0NhbHVkRDBVN3dmaG12dGZ6WktaTF9XUVcxeHR5Sll6dkd3d296WV9YaklhQXdtOWdnVHRpNzhCTkNtZmV5dm9OQUk4UXdsa0FMSVZVaFhr?oc=5",
-              "origin": "google",
-              "title": "경북농협 농산물 AI 숏폼 대학생 공모전 실시"
-            },
-            {
-              "name": "매일신문",
-              "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrOFhmeXIybTVqTUdTbTc1cDk4Yi1jQjRpZGlSRWFpNkMzRVAzQXM4S0o0eUU5ZHlWdjBPbmNXVGJrUWMzMW1qWXUyLXNaUFBnMHVPaVBFVXRYajBab0dNWXJB?oc=5",
-              "origin": "google",
-              "title": "경북농협, `농산물 AI 숏폼 대학생 공모전` 개최"
-            }
-          ],
-          "source_count": 7,
-          "published": "2026-09-12T12:16:00+09:00",
-          "ts": 1789182960.0,
+          "published": "2026-09-11T09:50:56+09:00",
+          "ts": 1789087856.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -6057,6 +5975,61 @@
           "source_count": 7,
           "published": "2026-09-12T04:17:00+09:00",
           "ts": 1789154220.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "강릉 청소년이 AI로 그린 ‘강릉’…역사·문화·관광 홍보영상 직접 제...",
+          "url": "https://www.kukinews.com/article/view/kuk202609110095",
+          "snippet": "강미정 강릉시 인구가족과장은 “청소년들이 여러 생성형 AI 도구를 활용해 자신의 생각을 실제 콘텐츠로 구현하는 과정을 경험했다”며 “앞으로도 미래사회에 필요한 디지털 활용 능력을 키울 수 있는 청소년...",
+          "source": "쿠키뉴스",
+          "sources": [
+            {
+              "name": "쿠키뉴스",
+              "url": "https://www.kukinews.com/article/view/kuk202609110095",
+              "origin": "naver",
+              "title": "강릉 청소년이 AI로 그린 ‘강릉’…역사·문화·관광 홍보영상 직접 제..."
+            },
+            {
+              "name": "노컷뉴스",
+              "url": "https://www.nocutnews.co.kr/news/6576695?utm_source=naver&utm_medium=article&utm_campaign=20260911111119",
+              "origin": "naver",
+              "title": "청소년들이 제작한 'AI 강릉'…역사·문화·관광 영상에 담아"
+            },
+            {
+              "name": "강릉넷TV",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uX0c0U1JDZFVCaFd3aXM2TDhSeXc5aGZXaXJpV3l2UmxNYllUeWRYYWtTNXVLY1pqR0FpbWhiMVBFNUNYU1Utd1BvZXNwZnhpYlBYUDJjMFpBYUR4bDZYaF9TWE5Db0VmM2c?oc=5",
+              "origin": "google",
+              "title": "강릉시, 청소년 손에서 탄생한 ‘AI 강릉’, 역사·문화·관광을 영상에 담다"
+            },
+            {
+              "name": "웹이코노미",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtUkpfbmxpV1Z3b2FXWEE3V21wT1p4SnlzdnhBZkxiQUZqSTBvdGQ3MVlTb3VlRjRHSWxmSlF0MVhCWFNKS09jdVpNQnFsVUJUVHRtOWNkMzFiWFhhckI2Q2FaVGI1ZFVWakIyTTlBejlsUQ?oc=5",
+              "origin": "google",
+              "title": "청소년 손에서 탄생한 ‘AI 강릉’, 역사·문화·관광을 영상에 담다"
+            },
+            {
+              "name": "한국시사경제",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55TV80QXJLNnRQLWZ5c3A1amIzdTB5MmFVU19YR1k2VC10MHZxMWhXNmxGYzY3dk9VRnRwUnJpUktWMVRpQ3Q1N1MwOS1FUDNvaXpEazQ5VnhTN2dCYnZaN0JqZmFNMUFQbEE?oc=5",
+              "origin": "google",
+              "title": "청소년 손에서 탄생한 ‘AI 강릉’, 역사·문화·관광을 영상에 담다"
+            },
+            {
+              "name": "네이트",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mQmlsaTRROGoteDBLQXZ3Rmx5WmhjMXo0alh6TG1oeWx0WWtxdy1RUTBWQmY0RXBQRm1yR1F3NUQzVjZsMTZMdzM2YkRrMExzS1BJ?oc=5",
+              "origin": "google",
+              "title": "청소년들이 제작한 'AI 강릉'…역사·문화·관광 영상에 담아"
+            },
+            {
+              "name": "한국사회복지저널",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13dmQyV1FHU2ZmUmpjanp2M3NOZ2plY19YYVh1WkJWbndmVVVmOWNDNDZQa01SQXltMGNEb0c5bmRpbUZxbzIwQjJVU3ZkMWtLVWFlaENQYTdreGdyX2tHM1QzSlVZcW85TDIw?oc=5",
+              "origin": "google",
+              "title": "강릉 청소년, AI로 지역 역사·문화 홍보영상 제작…미디아이 사업 성료"
+            }
+          ],
+          "source_count": 7,
+          "published": "2026-09-11T13:28:00+09:00",
+          "ts": 1789100880.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -6167,61 +6140,6 @@
           "source_count": 7,
           "published": "2026-09-11T10:44:00+09:00",
           "ts": 1789091040.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "농협, '농심천심' 경영리더십과정 운영…AI 기반 미래 대응 역량 강화",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95ekZRUTRjMlc4S1lpXzFabEl1MnN0VXlPSmRYd3paUXBDaWJCSHdzdGRidjZTcTl0SmVRU1pXc0o1ZmF0VDlHN0oyWDl2OTlkUGpWMTF0cGlsY1BjbUhFZm5EQ0dUYmRWVDVLMzJ3?oc=5",
-          "snippet": "",
-          "source": "뉴스후플러스",
-          "sources": [
-            {
-              "name": "뉴스후플러스",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95ekZRUTRjMlc4S1lpXzFabEl1MnN0VXlPSmRYd3paUXBDaWJCSHdzdGRidjZTcTl0SmVRU1pXc0o1ZmF0VDlHN0oyWDl2OTlkUGpWMTF0cGlsY1BjbUhFZm5EQ0dUYmRWVDVLMzJ3?oc=5",
-              "origin": "google",
-              "title": "농협, '농심천심' 경영리더십과정 운영…AI 기반 미래 대응 역량 강화"
-            },
-            {
-              "name": "아주경제",
-              "url": "https://www.ajunews.com/view/20260911130531059",
-              "origin": "naver",
-              "title": "농협, '농심천심'으로 위기를 넘어 AI로 미래를 열다"
-            },
-            {
-              "name": "한국금융신문",
-              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XMGp1ZzFIVjhLejR3ODdIcTEzaWMtRE0zZmxpRHpPbVd2dWhmd2cwVV95VnQyUUJhb0dpbjJQMFkzUExsakpqdTV2THpSLWlTTFpaZ1BaR1YwMGMzWUk5VURGazJOaFFINGVmbmJMUzJQTGQyY2VJOUlsNDY?oc=5",
-              "origin": "google",
-              "title": "농협, ‘농심천심’으로 위기 넘고 ‘AI’로 미래 연다"
-            },
-            {
-              "name": "뉴스로드",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMNWJNZFhKeDVpdk9YYlllLUZhcEkxRE9TUjc2Y2xxUWpRV3VDa3piRVc1UU93djdfcVFUZVdSTkEyWkJUNHpxeXM0MlVaSjY5ZUQyNXhHUXQwTGlPUEY0eDQxYmluaWx0UzNj0gFvQVVfeXFMUElXU2gzSGFqRnQ3R2lfU2R1RE1sQ3VqRm96aTNkUDlEMzcxMUV0ZDlVejdUQXNYTWJmMTVXaWNOQlFRVWFsRTNIcG1wYmlDVUhPSFo0M1FnU3dXTk9ySUZqazJqcmVBQVYtc01tV184?oc=5",
-              "origin": "google",
-              "title": "농협, ‘농심천심’으로 위기 넘고 AI로 미래 연다"
-            },
-            {
-              "name": "더트래커",
-              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53S1MxU3RUb1dhY0E0RV9kNVRvY1Y2NXpBT1phQUdJSTBDWGxkc0R2by1BRTNpdTZRUEpYUWJFeDJlUElHUDVjZzBQNnpTZmh4TUE1eTdQUmQ?oc=5",
-              "origin": "google",
-              "title": "농협, 조합장 경영교육에 AI 접목…미래경영 역량 강화"
-            },
-            {
-              "name": "디스커버리뉴스(DISCOVERYNEWS)",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE93eXphTzVhd0lGN2xrQ29uRUx3ZmhJWjhfeVgwWHpGXzdtaEtqTXg0TmhNS2d4ajhsbUVDQnpPU0ROZUI1cnJkRVhqUFllT3lQSWFfSW5lSjg5TjRmZUxPSGpRREZlbTZVdGo1aXpPOXY5Zw?oc=5",
-              "origin": "google",
-              "title": "농협, ‘농심천심’으로 위기 넘고 AI로 미래 연다"
-            },
-            {
-              "name": "the-pr.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ISjcxbzhBM3lGYjVwaEtqZ0NyM2J2c0o1bk55cFNuX0RUN28zZEdRUE12dFhfRHl0RWg2Vlo0UHhHZUR6dXNmclF1U1kwaXFEeVVOZUtscFZPRjlTR3RtQWFMN0UzSlpfVnfSAW5BVV95cUxOODJIbzNKTHZNWTNQOUpYVWx5SjVKZFpHMkNIWmJ3M1ZLalFndlF1SlhGZzJkZmpJdl9EZGJKaWZsbUxaeUN6VURXRWZPbVpqSEFDTzYyTWlZMUp3UXdETTNad3FSdndTS011SVR3dw?oc=5",
-              "origin": "google",
-              "title": "농협, 농심천심으로 위기 대응… AI로 미래 연다"
-            }
-          ],
-          "source_count": 7,
-          "published": "2026-09-11T09:50:56+09:00",
-          "ts": 1789087856.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -6784,6 +6702,43 @@
           "group_label": "AI · 생성형AI"
         },
         {
+          "title": "필즈상 25인, 오픈AI ‘밀레니엄 난제 해결’에 경고…“인류 지적 활동...",
+          "url": "https://www.dt.co.kr/article/12083495?ref=naver",
+          "snippet": "문제 해결에는 수천 개의 AI 에이전트가 동시에 투입된 것으로 전해졌다. 오픈AI는 나비에-스토크스 방정식 문제 해결을 위해 에이전트들이 270만개의 메시지를 주고받았으며 약 1300억개의 토큰을 썼다고 밝혔다. 이...",
+          "source": "디지털타임스",
+          "sources": [
+            {
+              "name": "디지털타임스",
+              "url": "https://www.dt.co.kr/article/12083495?ref=naver",
+              "origin": "naver",
+              "title": "필즈상 25인, 오픈AI ‘밀레니엄 난제 해결’에 경고…“인류 지적 활동..."
+            },
+            {
+              "name": "아시아경제",
+              "url": "https://view.asiae.co.kr/article/2026091215271205287",
+              "origin": "naver",
+              "title": "\"AI 수학 풀이 경쟁, 지적 활동 위협\"…필즈상 수상자 25인의 경고"
+            },
+            {
+              "name": "YTN",
+              "url": "https://www.ytn.co.kr/_ln/0104_202609121508430590",
+              "origin": "naver",
+              "title": "\"AI 수학풀이, 인류 지적활동 위협\"...최고권위 필즈상 25인 경고"
+            },
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260912030300009?input=1195m",
+              "origin": "naver",
+              "title": "\"AI 수학풀이, 인류 지적활동 위협\"…최고권위 필즈상 25인 경고"
+            }
+          ],
+          "source_count": 4,
+          "published": "2026-09-12T15:27:00+09:00",
+          "ts": 1789194420.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
           "title": "컴투스홀딩스, AI 게임 개발 플랫폼 '하이브 액실' 비전 공개",
           "url": "https://www.sportschosun.com/entertainment/2026-09-12/202609120100082590005370",
           "snippet": "하이브 액실은 이 과정을 간소화해 창작자가 게임 콘텐츠 개발에 집중하면서 서비스와 라이브 운영까지 연결할 수 있도록 지원한다. AI를 활용한 게임 제작이 빠르게 확산되면서 '게임을 얼마나 빨리 만들 수 있느냐...",
@@ -6928,6 +6883,43 @@
           "source_count": 4,
           "published": "2026-09-11T20:11:10+09:00",
           "ts": 1789125070.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "AI로 경제통계 정밀도 높인다…한은·통계학회, 활용 방안 논의",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvY0xJb1hWR0JXSWZvem91STBGRFYwdHZMYXI4dWVHVkRKeXlzc3JhWXZuemhfTzQtNWttS3k2dGpqMjk1VjZiQ1hOWGdDR0U1andaeHVmWUlvLTBPSWZkM0UzUk10b2kxZ3BWbA?oc=5",
+          "snippet": "",
+          "source": "ER 이코노믹리뷰",
+          "sources": [
+            {
+              "name": "ER 이코노믹리뷰",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvY0xJb1hWR0JXSWZvem91STBGRFYwdHZMYXI4dWVHVkRKeXlzc3JhWXZuemhfTzQtNWttS3k2dGpqMjk1VjZiQ1hOWGdDR0U1andaeHVmWUlvLTBPSWZkM0UzUk10b2kxZ3BWbA?oc=5",
+              "origin": "google",
+              "title": "AI로 경제통계 정밀도 높인다…한은·통계학회, 활용 방안 논의"
+            },
+            {
+              "name": "이데일리",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLUVwcUdfN2JJSXkxSk51QjIyU3Q0WXJaYzlvVVh2TDBqa2JrLTUwVnh3RE42YUhzWXRrMU9MWnl2YjdHbHhqS2tKSVZuN0U2NnZqUGtfNlZJREEybUR1Wmh5UV9Jc05jVjlGb2FUNVNjMHd6N3ZqVzNlbElZakNGUw?oc=5",
+              "origin": "google",
+              "title": "한은-한국통계학회, AI 시대 경제통계 해법 논의…'공동포럼' 개최"
+            },
+            {
+              "name": "조세일보",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PVldyUGk3VHoyVHdjLUhpMVBZZF9JMHlBemg5Sml1MVh4MVdQV1JEUzh5dFljQXF2TTFUNE5EcGhjUG10Z3NuTEttVXBSUTEweVBva2JCeTNwTlBPUjhQZnJGWVJ4NmZCSnZFOWVhZUMxVGpJ?oc=5",
+              "origin": "google",
+              "title": "통계의 빈틈, AI로 메운다…한은-통계학회 공동포럼 개최"
+            },
+            {
+              "name": "smarttoday.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aNE5Dd1Njem11TElXa0JMOE5ieFhaQ1dEWTU0QlpIc3NMTjJ0MG5iQkFtSlIwT2VfVWNMTlJIUGVlMDhSM2d4X1lHMXhfRGVjakVXZ2llQmJqS01mc3Jv?oc=5",
+              "origin": "google",
+              "title": "한은·통계학회, AI 경제통계 활용 논의…환각·편향 통제 필요성 제시"
+            }
+          ],
+          "source_count": 4,
+          "published": "2026-09-11T19:22:41+09:00",
+          "ts": 1789122161.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -7271,16 +7263,16 @@
               "title": "한동대 포스코DX와 AI/피지컬AI 산학협력 업무협약.. 심민석 대표이사 초청 특강도"
             },
             {
-              "name": "대학IN",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xZnd0Q0N4ZkhhbVlub09MbUQwUGxuandNbWJzM29IRDhYaVhxOU1KS3IyRkhURFUtdzVmd1F5ZGhTRDluZ2FaR3dFTE5peWQtdHpmUG1kMUVxWjlJVU5tMGFYNlEySHNOZWttcNIBcEFVX3lxTE5NOFp6cHdQUjB0WVhLWGdRcUVPeG5sSmVnRXZKQ0lmcDI3cjNWQlQwRDNKbTJ1MWxJTm5zRzA3VFdrbXh5QlhidHlkMzFHMVg4R0xCOWtNOEtXVEpJWTJKRTRyMnZnOFZXaG83VzlObTc?oc=5",
-              "origin": "google",
-              "title": "한동대, 포스코DX와 AI·피지컬AI 산학협력 업무협약"
-            },
-            {
               "name": "국제신문",
               "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSmR1bEtHZm1PVTlGbTVPdkh0M0RMaGlSSm5lUkROUVIzNU9jaC1SMndOQ2V3cGFXeDZNVDRxWG01SjBDcEprZ2EzSW9KY0NPdXFLandOT2llRkNIWEhLRm56by1NQzh6di01dTYzNUZJbGl3cHptOTFla2VLd2plbXV4aTlYa081RGZwS2pR?oc=5",
               "origin": "google",
               "title": "동명대 K-sports 태권도학과, AI 전문가 초청 특강"
+            },
+            {
+              "name": "대학IN",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xZnd0Q0N4ZkhhbVlub09MbUQwUGxuandNbWJzM29IRDhYaVhxOU1KS3IyRkhURFUtdzVmd1F5ZGhTRDluZ2FaR3dFTE5peWQtdHpmUG1kMUVxWjlJVU5tMGFYNlEySHNOZWttcNIBcEFVX3lxTE5NOFp6cHdQUjB0WVhLWGdRcUVPeG5sSmVnRXZKQ0lmcDI3cjNWQlQwRDNKbTJ1MWxJTm5zRzA3VFdrbXh5QlhidHlkMzFHMVg4R0xCOWtNOEtXVEpJWTJKRTRyMnZnOFZXaG83VzlObTc?oc=5",
+              "origin": "google",
+              "title": "한동대, 포스코DX와 AI·피지컬AI 산학협력 업무협약"
             }
           ],
           "source_count": 3,
@@ -7352,37 +7344,6 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "'2026 창작선수단' 18일 개최…AI 시대 창작자 컨퍼런스 열린다",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91YlB6QUdjaGpmdXQ3VUtzY2JFeVBfVVVkRkJ5WkVfNWQyOEswMFNvQ090SC11UTZCWDJoQnhHVGFScTBqM3VLdi1lWXZLc1gzU3VIYkNob1h0TkNkU3VtUWFkOXM3a21hank1Wmd3?oc=5",
-          "snippet": "",
-          "source": "국제뉴스",
-          "sources": [
-            {
-              "name": "국제뉴스",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91YlB6QUdjaGpmdXQ3VUtzY2JFeVBfVVVkRkJ5WkVfNWQyOEswMFNvQ090SC11UTZCWDJoQnhHVGFScTBqM3VLdi1lWXZLc1gzU3VIYkNob1h0TkNkU3VtUWFkOXM3a21hank1Wmd3?oc=5",
-              "origin": "google",
-              "title": "'2026 창작선수단' 18일 개최…AI 시대 창작자 컨퍼런스 열린다"
-            },
-            {
-              "name": "피앤피뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2ZVpDNzdqZlFjbW1WWTVyd0pULUZVS29NYWJ1TTdkcGRGRXV6QldCMEhZLWdGeXR1TDA2UG5pM05ScDhsVkYzZjhFdmFRaUpfeU05VVh30gFWQVVfeXFMUDZlWkM3N2pmUWNtbVZZNXJ3SlQtRlVLb01hYnVNN2RwZEZFdXpCV0IwSFktZ0Z5dHVMMDZQbmkzTlJwOGxWRjNmOEV2YVFpSl95TTlVWHc?oc=5",
-              "origin": "google",
-              "title": "‘2026 창작선수단’에 궤도·권경현·구주원 참여…AI 시대 창작 전략 공유"
-            },
-            {
-              "name": "thebigdata.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PNUw2aXZyTU45QXAzbmQ1dzhGR2p6bGZpVTM5SFFWakc3RXUwTkRsM2dmXzJ3M0dyT1daM052NXUzSmdMVWRCdnB6U181VkE0OS1RRERNQzBUSnpldUJTZWlDdWtJRkxfTE9uUTBJcHV6LURtOWU5MkxlTDA?oc=5",
-              "origin": "google",
-              "title": "'2026 창작선수단', AI 시대 창작자의 '세계관' 확장...'100만 과학 유튜버' 궤도 등 전문가 한자리에"
-            }
-          ],
-          "source_count": 3,
-          "published": "2026-09-11T20:15:17+09:00",
-          "ts": 1789125317.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
           "title": "카카오 'AI 에이전트' 몸집 키운다⋯카카오툴즈 28개 서비스로",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZYnNvMXRtR2d6bU9meWQ1SkMyY3dDUzAtM1ExVFl0cFliUm9Vc3VWS1g2SEtJcEhCekFDdG9hSzRocVVCSURFZnF1Xy05bGdvM240cXZLRWVrTHdSVUJsbHJpU2M5QXo4XzJ30gFrQVVfeXFMTVlic28xdG1HZ3ptT2Z5ZDVKQzJjd0NTMC0zUTFUWXRwWWJSb1VzdVZLWDZIS0lwSEJ6QUN0b2FLNGhxVUJJREVmcXVfLTlsZ28zbjRxdktFZWtMd1JVQmxscmlTYzlBejhfMnc?oc=5",
           "snippet": "",
@@ -7441,37 +7402,6 @@
           "source_count": 3,
           "published": "2026-09-11T19:38:00+09:00",
           "ts": 1789123080.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "AI가 바꾼 뮤직비디오 제작…기획부터 영상·편집까지 ‘1인 제작’",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zLTlZbE84MEM2WUFVYU8wOVR3RmNlR0ZVRkUzcnFVX2dYdDVsNXA2cnVsZFZzazZEMGF3NEUwYnBxWWRrekhTRUZjMzhmU19wVDc1R3lGUnlWelhYc3JHdDFhWUkxdTljMWtfelFR?oc=5",
-          "snippet": "",
-          "source": "newskorea.ne.kr",
-          "sources": [
-            {
-              "name": "newskorea.ne.kr",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zLTlZbE84MEM2WUFVYU8wOVR3RmNlR0ZVRkUzcnFVX2dYdDVsNXA2cnVsZFZzazZEMGF3NEUwYnBxWWRrekhTRUZjMzhmU19wVDc1R3lGUnlWelhYc3JHdDFhWUkxdTljMWtfelFR?oc=5",
-              "origin": "google",
-              "title": "AI가 바꾼 뮤직비디오 제작…기획부터 영상·편집까지 ‘1인 제작’"
-            },
-            {
-              "name": "한국데이터경제신문",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzZnVPYk1abEYteFNuYmRqZUl1Vmo3ZnN2ajdFQjlVcFFiSmV4X1ZnUjVSeHBCYzAwOVFCQmppNjFuaFFGX0R1VFhoUzBZcExLalQyTDl4ekt0X2V3R3FtT1Q3YlNYbkFIMUJiZ0IxV2HSAXRBVV95cUxPTU9yLWFEUDhNNFpfV2lWWEU1RGtfOWJoTkVTVWUzTVFmTTIzdkFkbzdFblBRSnU0ellDQXlNeXVoSndjNGVwWC01Y2Rxc3JybXlyYnNsQUxpbXVjQ0s5VXo2aEM1Qy02TUEyaXRxZ242ZHJhNA?oc=5",
-              "origin": "google",
-              "title": "치과의사가 기획·제작한 AI 영상, 조회수 100만 돌파…치아모아 미디어랩 콘텐츠 사업 확장"
-            },
-            {
-              "name": "trend-korea.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GUHFoeVJHeVlYMWlmd3pNS3VkNm5aWGhERmp1T21zYUV3cG5MOVhKWndZZk02Nlo2ekJqM240Nlg3X3pyTWxSeDFpNjNfVFA2VGNBQUtXWFNWY0VhbXBRdWRkNFJwdlBKeUhlaGtpbw?oc=5",
-              "origin": "google",
-              "title": "\"1인 제작 한계 획기적으로 낮춘다\"...세종사이버대 박성배 교수, AI 뮤직비디오 'Go!' 공개"
-            }
-          ],
-          "source_count": 3,
-          "published": "2026-09-11T17:39:26+09:00",
-          "ts": 1789115966.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -7569,33 +7499,33 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "샵링커지앤씨, ‘코리아 이커머스 페어’ 참가... 'AI 솔루션' 5종 공개",
-          "url": "https://www.fnnews.com/news/202609111535536690",
-          "snippet": "생성형 AI를 활용해 상세페이지 제작 과정을 자동화하는 ‘AI 메이커스(AI Makers)’는 상품등록 기능과 연동해 콘텐츠 제작부터 판매 개시까지의 작업 시간을 단축하도록 설계됐다. 연동해 사용하는 이미지호스팅...",
-          "source": "파이낸셜뉴스",
+          "title": "대한민국 AI 전력 경쟁 본격화…반도체·전력망·AI 안전 규제가 글로벌 산업 판도를 바꾼다",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1oUnB0Z3NfY2ZqMlpKcUVoNlZxQmFTM2FiLTBBOE5mS1ZTZnhlYTNuQjYxOUk1NGw5Y0g3LU13bXgtSmFzSUROcGhB?oc=5",
+          "snippet": "",
+          "source": "뉴스N연합",
           "sources": [
             {
-              "name": "파이낸셜뉴스",
-              "url": "https://www.fnnews.com/news/202609111535536690",
-              "origin": "naver",
-              "title": "샵링커지앤씨, ‘코리아 이커머스 페어’ 참가... 'AI 솔루션' 5종 공개"
-            },
-            {
-              "name": "businesskorea.co.kr",
-              "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=276774",
-              "origin": "naver",
-              "title": "샵링커지앤씨, '2026 코리아 이커머스 페어' 참가…AI 솔루션 5종 시연"
-            },
-            {
-              "name": "시선뉴스",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XWE16d1dOeE9aR2tBTXBpOExPR3N6Wm1FMmhVMV9lVnkwZGYydHdsNWdhaFZqU0phM3A0MURGVDJRcTJZQUZtUW1YWXA5WXBEZmttNW0xWFhfQUE0bkNCRmZRR1hUbGRadEVLN1N2Z2FwZw?oc=5",
+              "name": "뉴스N연합",
+              "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1oUnB0Z3NfY2ZqMlpKcUVoNlZxQmFTM2FiLTBBOE5mS1ZTZnhlYTNuQjYxOUk1NGw5Y0g3LU13bXgtSmFzSUROcGhB?oc=5",
               "origin": "google",
-              "title": "로보로보, 2026 에듀테크 코리아 페어 첫 참가…\"원스톱 피지컬 AI 교육 솔루션 제시\" |"
+              "title": "대한민국 AI 전력 경쟁 본격화…반도체·전력망·AI 안전 규제가 글로벌 산업 판도를 바꾼다"
+            },
+            {
+              "name": "대한청년일보",
+              "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE8wZVVrQlAxa3lGdndNckhQM2lQdXp5NWtyYjM1NjV5ODdFaDc4T3JWa2ZlYldIMTFEZDNYcTlOV1g4ZzA?oc=5",
+              "origin": "google",
+              "title": "대한민국 AI 전력 경쟁 본격화…반도체·전력망·AI 안전 규제가 글로벌 산업 판도를 바꾼다"
+            },
+            {
+              "name": "얼리어답터뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ZTHNCX0VhSldUUV9QNE9SY29od0tTclpUd3ZwcGZuOVBWMjFYLWZBS3YxMndzblhUMWhTX3ZwaFIzTUZ2TGRxdzhn?oc=5",
+              "origin": "google",
+              "title": "대한민국 AI 전력 경쟁 본격화…반도체·전력망·AI 안전 규제가 글로벌 산업 판도를 바꾼다"
             }
           ],
           "source_count": 3,
-          "published": "2026-09-11T17:03:00+09:00",
-          "ts": 1789113780.0,
+          "published": "2026-09-11T17:04:13+09:00",
+          "ts": 1789113853.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -7613,7 +7543,7 @@
             },
             {
               "name": "일간스포츠",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJbUl3Sld5c05waU9aQWgxVDlsbUFoSG0xTlpwbVdfTmg5SHNwOGlEb2pmWTliT3VMdlR3dG9Ja2JTNDNxaDY4cDJZY3Y3bzNfSGdaTGl1RXAxaXc?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pb3duNlE5dVN0SG1GUjhsSl9yUFFlUzBmZERlNkJoMml2eHlZcDI0VGZmS25GRWdHbGF1dXZBTXFSMkhQVnNrR25TY05Nb29EcFlMR01zMWJQQ2JvUTI1UzhkVEdxX1hI?oc=5",
               "origin": "google",
               "title": "한국방송연기자노동조합, AI 시대 ‘디지털 권리’ 대응…얼굴·목소리 보호 나선다"
             },
@@ -7693,6 +7623,37 @@
           "group_label": "AI · 생성형AI"
         },
         {
+          "title": "청주가경터미널시장, 상인 대상 AI 홍보마케팅 교육…점포 홍보물 직접...",
+          "url": "https://www.job-post.co.kr/news/articleView.html?idxno=227204",
+          "snippet": "교육은 생성형 AI 기능을 소개하는 데 그치지 않고, 상인들이 자신의 상품과 고객 정보를 활용해 홍보문구와... 긍정·불만 리뷰에 점포 특성에 맞는 말투로 답변하는 고객 소통 실습도 진행해 콘텐츠 제작부터 온라인...",
+          "source": "job-post.co.kr",
+          "sources": [
+            {
+              "name": "job-post.co.kr",
+              "url": "https://www.job-post.co.kr/news/articleView.html?idxno=227204",
+              "origin": "naver",
+              "title": "청주가경터미널시장, 상인 대상 AI 홍보마케팅 교육…점포 홍보물 직접..."
+            },
+            {
+              "name": "해양레저신문",
+              "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lRVV2SExBUG50aXlOMGpuMDFaS0FpZDZDVWJPbWxpMFNRX3A4ODNGYU5tTTlOM1g5b2s0Ny1wQXJ6TFFmLVR4SjhzeHMtZGRWOUZnWE1LRQ?oc=5",
+              "origin": "google",
+              "title": "어촌마을도 생성형 AI로 관광객 찾는다…홍보 콘텐츠 직접 제작"
+            },
+            {
+              "name": "잡포스트",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfTUpCTjc2akFKLXZOVndrYmJkX2ZRU0VBVnhtdXAxTFFpRjBIYm1fY2JkTWdaeURGQm94eDRCUDZJV1I1WTM4eHNIZENkbmUyLUZhdzFtMFhRTDZwUEc3d1pNYlhkQVJReUpZLVFn0gFyQVVfeXFMTWFHNXhTNUZtWFZLUFJYeWFlYlhwOFpWT1Exd3gyUER3VGQ1R2dnUzlKMlBYVm91OHA0THVwVDVCbDFYbFkzY0IzSHlzQUlzenFneWJoLXMtQkl1U1MtcjI4cGRCT3UxeUM2Ymdmb1JncExn?oc=5",
+              "origin": "google",
+              "title": "청주가경터미널시장, 상인 대상 AI 홍보마케팅 교육…점포 홍보물 직접 제작"
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-09-11T16:32:00+09:00",
+          "ts": 1789111920.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
           "title": "부하직원과 '백허그 합성 사진' 만든 50대 공무원 벌금형",
           "url": "https://www.sidae.com/article/2026091114575213020",
           "snippet": "인공지능(AI) 애플리케이션을 활용해 부하직원의 몸에 밀착된 옷을 합성하고 연인처럼 끌어안고 있는 합성... 허위 영상물을 제작했다\"고 진술했다. 또 7~8년 전부터 사진 합성 취미가 있었다며, 평소 연인 사진을 활용해...",
@@ -7724,33 +7685,33 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "한은-한국통계학회, AI 시대 경제통계 해법 논의…'공동포럼' 개최",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLUVwcUdfN2JJSXkxSk51QjIyU3Q0WXJaYzlvVVh2TDBqa2JrLTUwVnh3RE42YUhzWXRrMU9MWnl2YjdHbHhqS2tKSVZuN0U2NnZqUGtfNlZJREEybUR1Wmh5UV9Jc05jVjlGb2FUNVNjMHd6N3ZqVzNlbElZakNGUw?oc=5",
-          "snippet": "",
-          "source": "이데일리",
+          "title": "샵링커지앤씨, '2026 코리아 이커머스 페어' 참가…AI 솔루션 5종 시연",
+          "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=276774",
+          "snippet": "지난달 출시한 'AI Makers'는 생성형 AI를 활용해 상품 상세페이지 제작을 지원하는 기능이다. 샵링커의 상품등록 기능과 연계해 콘텐츠 제작부터 상품 등록까지 이어지도록 구성했다. 함께 제공하는 이미지호스팅...",
+          "source": "businesskorea.co.kr",
           "sources": [
             {
-              "name": "이데일리",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLUVwcUdfN2JJSXkxSk51QjIyU3Q0WXJaYzlvVVh2TDBqa2JrLTUwVnh3RE42YUhzWXRrMU9MWnl2YjdHbHhqS2tKSVZuN0U2NnZqUGtfNlZJREEybUR1Wmh5UV9Jc05jVjlGb2FUNVNjMHd6N3ZqVzNlbElZakNGUw?oc=5",
-              "origin": "google",
-              "title": "한은-한국통계학회, AI 시대 경제통계 해법 논의…'공동포럼' 개최"
+              "name": "businesskorea.co.kr",
+              "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=276774",
+              "origin": "naver",
+              "title": "샵링커지앤씨, '2026 코리아 이커머스 페어' 참가…AI 솔루션 5종 시연"
             },
             {
-              "name": "조세일보",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PVldyUGk3VHoyVHdjLUhpMVBZZF9JMHlBemg5Sml1MVh4MVdQV1JEUzh5dFljQXF2TTFUNE5EcGhjUG10Z3NuTEttVXBSUTEweVBva2JCeTNwTlBPUjhQZnJGWVJ4NmZCSnZFOWVhZUMxVGpJ?oc=5",
-              "origin": "google",
-              "title": "통계의 빈틈, AI로 메운다…한은-통계학회 공동포럼 개최"
+              "name": "kdpress.co.kr",
+              "url": "https://www.kdpress.co.kr/news/articleView.html?idxno=208541",
+              "origin": "naver",
+              "title": "샵링커지앤씨, 'AI 커머스 랩'으로 2026 코리아 이커머스 페어 참가"
             },
             {
-              "name": "smarttoday.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aNE5Dd1Njem11TElXa0JMOE5ieFhaQ1dEWTU0QlpIc3NMTjJ0MG5iQkFtSlIwT2VfVWNMTlJIUGVlMDhSM2d4X1lHMXhfRGVjakVXZ2llQmJqS01mc3Jv?oc=5",
+              "name": "시선뉴스",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XWE16d1dOeE9aR2tBTXBpOExPR3N6Wm1FMmhVMV9lVnkwZGYydHdsNWdhaFZqU0phM3A0MURGVDJRcTJZQUZtUW1YWXA5WXBEZmttNW0xWFhfQUE0bkNCRmZRR1hUbGRadEVLN1N2Z2FwZw?oc=5",
               "origin": "google",
-              "title": "한은·통계학회, AI 경제통계 활용 논의…환각·편향 통제 필요성 제시"
+              "title": "로보로보, 2026 에듀테크 코리아 페어 첫 참가…\"원스톱 피지컬 AI 교육 솔루션 제시\" |"
             }
           ],
           "source_count": 3,
-          "published": "2026-09-11T14:48:00+09:00",
-          "ts": 1789105680.0,
+          "published": "2026-09-11T15:48:00+09:00",
+          "ts": 1789109280.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -7941,27 +7902,52 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "\"AI 수학풀이, 인류 지적활동 위협\"…최고권위 필즈상 25인 경고",
-          "url": "https://www.yna.co.kr/view/AKR20260912030300009?input=1195m",
-          "snippet": "문제 해결에는 수천 개의 AI 에이전트가 동시에 투입된 것으로 전해졌다. 오픈AI는 나비에-스토크스 방정식 문제 해결을 위해 에이전트들이 270만개의 메시지를 주고받았으며 약 1천300억개의 토큰을 썼다고 밝혔다. 다만...",
-          "source": "연합뉴스",
+          "title": "AI도 '악마의 게임'에 무릎 꿇었다…\"23전 3승 20패\"",
+          "url": "https://view.asiae.co.kr/article/2026091215300664827",
+          "snippet": "영국 옥스퍼드대 등이 참여한 공동 연구진은 이달초 논문 사전 공개 사이트 '아카이브(arXiv)'에 'CivBench: 문명 6에서 도구를 사용하는 에이전트의 장기 수행 능력을 평가하는 벤치마크'를 공개했다. 주요 AI 모델 4종에...",
+          "source": "아시아경제",
           "sources": [
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260912030300009?input=1195m",
+              "name": "아시아경제",
+              "url": "https://view.asiae.co.kr/article/2026091215300664827",
               "origin": "naver",
-              "title": "\"AI 수학풀이, 인류 지적활동 위협\"…최고권위 필즈상 25인 경고"
+              "title": "AI도 '악마의 게임'에 무릎 꿇었다…\"23전 3승 20패\""
             },
             {
-              "name": "뉴시스",
-              "url": "https://www.newsis.com/view/NISX20260911_0003786004",
+              "name": "머니투데이",
+              "url": "https://www.mt.co.kr/tech/2026/09/12/2026091110413121986",
               "origin": "naver",
-              "title": "\"10년 내 인류 위협\" 잇단 경고…'AI 폭군' 출현 대비해야[AGI 시대 下]"
+              "title": "악마의 게임 앞에 AI도 별수 없다...'3승20패' 굴욕, 왜?"
             }
           ],
           "source_count": 2,
-          "published": "2026-09-12T15:00:00+09:00",
-          "ts": 1789192800.0,
+          "published": "2026-09-12T15:34:00+09:00",
+          "ts": 1789194840.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "‘수학계 노벨상’ 필즈상 수상자 25인의 경고…“AI의 문제풀이 경쟁 ...",
+          "url": "https://www.khan.co.kr/article/202609121527001",
+          "snippet": "문제 해결에는 수천개의 AI 에이전트가 동시에 투입된 것으로 전해졌다. 오픈AI는 나비에-스토크스 방정식 문제 해결을 위해 에이전트들이 270만개의 메시지를 주고받았으며 약 1300억개의 토큰을 썼다고 밝혔다. 다만 이...",
+          "source": "경향신문",
+          "sources": [
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202609121527001",
+              "origin": "naver",
+              "title": "‘수학계 노벨상’ 필즈상 수상자 25인의 경고…“AI의 문제풀이 경쟁 ..."
+            },
+            {
+              "name": "etoday.co.kr",
+              "url": "https://www.etoday.co.kr/news/view/2624727",
+              "origin": "naver",
+              "title": "허준이 등 필즈상 수상자 25명 “AI 수학 경쟁, 장기적 피해 우려”"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-09-12T15:27:00+09:00",
+          "ts": 1789194420.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -8241,6 +8227,31 @@
           "group_label": "AI · 생성형AI"
         },
         {
+          "title": "\"10년 내 인류 위협\" 잇단 경고…'AI 폭군' 출현 대비해야[AGI 시대 下]",
+          "url": "https://www.newsis.com/view/NISX20260911_0003786004",
+          "snippet": "또 다른 AI 에이전트들은 운영자가 자리를 비운 동안에도 정부·군사기관의 공개자료를 수집·분석했다. 범용인공지능(AGI) 시대가 성큼 다가오면서 인간의 통제 범위를 벗어난 '초지능 AI의 사이버 폭주' 가능성을...",
+          "source": "뉴시스",
+          "sources": [
+            {
+              "name": "뉴시스",
+              "url": "https://www.newsis.com/view/NISX20260911_0003786004",
+              "origin": "naver",
+              "title": "\"10년 내 인류 위협\" 잇단 경고…'AI 폭군' 출현 대비해야[AGI 시대 下]"
+            },
+            {
+              "name": "한국경제",
+              "url": "https://www.hankyung.com/article/2026091196571",
+              "origin": "naver",
+              "title": "'인류 멸망' 다급한 경고…\"AI가 10년 안에 모든 인간 죽인다\""
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-09-12T08:00:00+09:00",
+          "ts": 1789167600.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
           "title": "90년 묵은 난제도 88시간 만에 '뚝딱'…'아스트라'發 AI 격변기 왔나[AGI...",
           "url": "https://www.newsis.com/view/NISX20260910_0003784830",
           "snippet": "앤트로픽은 '클로드' 계열 모델의 코딩·에이전트 역량을 강화하며 오픈AI를 바짝 추격 중이며, 메타는 사용자를 대신해 이메일을 발송하거나 여행지 숙소를 예약할 수 있는 세계 최초의 개인용 AI 에이전트 '뮤즈'를...",
@@ -8387,6 +8398,31 @@
           "source_count": 2,
           "published": "2026-09-11T23:05:28+09:00",
           "ts": 1789135528.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "세종사이버대 유튜버학과 박성배 학과장, AI 뮤직비디오 ‘Go!’ 공개 > 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5JZTF3a0VfMTJFNFR0czNlRlVEc1gzUWRkQ1FuYkVMNF9Zd1Jtb1JZaHJTUy1nSjdfY3lyczA0b0pCWkluRGN5STF5emo?oc=5",
+          "snippet": "",
+          "source": "대출몰.net",
+          "sources": [
+            {
+              "name": "대출몰.net",
+              "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5JZTF3a0VfMTJFNFR0czNlRlVEc1gzUWRkQ1FuYkVMNF9Zd1Jtb1JZaHJTUy1nSjdfY3lyczA0b0pCWkluRGN5STF5emo?oc=5",
+              "origin": "google",
+              "title": "세종사이버대 유튜버학과 박성배 학과장, AI 뮤직비디오 ‘Go!’ 공개 > 뉴스"
+            },
+            {
+              "name": "trend-korea.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GUHFoeVJHeVlYMWlmd3pNS3VkNm5aWGhERmp1T21zYUV3cG5MOVhKWndZZk02Nlo2ekJqM240Nlg3X3pyTWxSeDFpNjNfVFA2VGNBQUtXWFNWY0VhbXBRdWRkNFJwdlBKeUhlaGtpbw?oc=5",
+              "origin": "google",
+              "title": "\"1인 제작 한계 획기적으로 낮춘다\"...세종사이버대 박성배 교수, AI 뮤직비디오 'Go!' 공개"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-09-11T21:52:58+09:00",
+          "ts": 1789131178.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -8566,31 +8602,6 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "LG·엔비디아 합작 ‘AI 팩토리’ 시동… LG CNS, 3814억 베라루빈 확보",
-          "url": "https://www.sedaily.com/article/20090008?ref=naver",
-          "snippet": "아울러 LG CNS의 로봇 학습 플랫폼 ‘피지컬 웍스’를 통해 로봇 학습용 데이터 수집, 생성, 강화학습 등을 수행하는 ‘피지컬 AI 데이터 팩토리’를 구축하기로 했다.",
-          "source": "서울경제",
-          "sources": [
-            {
-              "name": "서울경제",
-              "url": "https://www.sedaily.com/article/20090008?ref=naver",
-              "origin": "naver",
-              "title": "LG·엔비디아 합작 ‘AI 팩토리’ 시동… LG CNS, 3814억 베라루빈 확보"
-            },
-            {
-              "name": "블로터",
-              "url": "https://www.bloter.net/news/articleView.html?idxno=673453",
-              "origin": "naver",
-              "title": "LG CNS, 엔비디아 '베라 루빈' 확보에 3814억원 투입"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-11T18:20:00+09:00",
-          "ts": 1789118400.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
           "title": "금융위 “AI 에이전트 결제, 신용정보법·망분리 규제 단계적 완화”",
           "url": "https://www.mk.co.kr/article/12150730",
           "snippet": "국회 블록체인산업 진흥 토론회서 “AI결제 관련 금융규제 단계적 완화” 강조 과기부, “규율 확립 전 R&D 선제 지원” 인공지능(AI)이 사람을 대신해 상품을 비교하고 결제까지 스스로 수행하는 ‘AI 에이전트’가 시대가...",
@@ -8766,6 +8777,31 @@
           "group_label": "AI · 생성형AI"
         },
         {
+          "title": "AI가 바꾼 뮤직비디오 제작…기획부터 영상·편집까지 ‘1인 제작’",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zLTlZbE84MEM2WUFVYU8wOVR3RmNlR0ZVRkUzcnFVX2dYdDVsNXA2cnVsZFZzazZEMGF3NEUwYnBxWWRrekhTRUZjMzhmU19wVDc1R3lGUnlWelhYc3JHdDFhWUkxdTljMWtfelFR?oc=5",
+          "snippet": "",
+          "source": "newskorea.ne.kr",
+          "sources": [
+            {
+              "name": "newskorea.ne.kr",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zLTlZbE84MEM2WUFVYU8wOVR3RmNlR0ZVRkUzcnFVX2dYdDVsNXA2cnVsZFZzazZEMGF3NEUwYnBxWWRrekhTRUZjMzhmU19wVDc1R3lGUnlWelhYc3JHdDFhWUkxdTljMWtfelFR?oc=5",
+              "origin": "google",
+              "title": "AI가 바꾼 뮤직비디오 제작…기획부터 영상·편집까지 ‘1인 제작’"
+            },
+            {
+              "name": "한국데이터경제신문",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzZnVPYk1abEYteFNuYmRqZUl1Vmo3ZnN2ajdFQjlVcFFiSmV4X1ZnUjVSeHBCYzAwOVFCQmppNjFuaFFGX0R1VFhoUzBZcExLalQyTDl4ekt0X2V3R3FtT1Q3YlNYbkFIMUJiZ0IxV2HSAXRBVV95cUxPTU9yLWFEUDhNNFpfV2lWWEU1RGtfOWJoTkVTVWUzTVFmTTIzdkFkbzdFblBRSnU0ellDQXlNeXVoSndjNGVwWC01Y2Rxc3JybXlyYnNsQUxpbXVjQ0s5VXo2aEM1Qy02TUEyaXRxZ242ZHJhNA?oc=5",
+              "origin": "google",
+              "title": "치과의사가 기획·제작한 AI 영상, 조회수 100만 돌파…치아모아 미디어랩 콘텐츠 사업 확장"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-09-11T17:39:26+09:00",
+          "ts": 1789115966.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
           "title": "포항 영일만산단에 1800억 ‘피지컬 AI 로봇 파운드리’",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwNFhlYnF4S3ZuX21ENUtKWnF0Yi01dFR4dHBIc3hGWkNuTkRIYy1XVmZ4VEhoNkNvNjJXOVJHb3dfd0J4Smo0ZlotLUZrY3ZjWWxJaXJyT0s?oc=5",
           "snippet": "",
@@ -8878,7 +8914,7 @@
               "title": "(주)한진, 물류 현장 인공지능 기술 확대"
             },
             {
-              "name": "시사일보",
+              "name": "koreasisailbo.com",
               "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9FMENuWDBxbXo5YUF3cno3cF90dTA5UVNkVmowS1BCTmNWb2NMZm9ucHBDdVJISEtnckgzbzVmbWZmRHdpeDhtNDE3d2w?oc=5",
               "origin": "google",
               "title": "고용노동부, 인공지능(AI)부터 제조·물류까지... 기업이 만든 현장형 인재양성, 우수사례로 확산"
@@ -8987,31 +9023,6 @@
           "source_count": 2,
           "published": "2026-09-11T16:09:38+09:00",
           "ts": 1789110578.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "대한민국 AI 전력 경쟁 본격화…반도체·전력망·AI 안전 규제가 글로벌 산업 판도를 바꾼다",
-          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE8wZVVrQlAxa3lGdndNckhQM2lQdXp5NWtyYjM1NjV5ODdFaDc4T3JWa2ZlYldIMTFEZDNYcTlOV1g4ZzA?oc=5",
-          "snippet": "",
-          "source": "대한청년일보",
-          "sources": [
-            {
-              "name": "대한청년일보",
-              "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE8wZVVrQlAxa3lGdndNckhQM2lQdXp5NWtyYjM1NjV5ODdFaDc4T3JWa2ZlYldIMTFEZDNYcTlOV1g4ZzA?oc=5",
-              "origin": "google",
-              "title": "대한민국 AI 전력 경쟁 본격화…반도체·전력망·AI 안전 규제가 글로벌 산업 판도를 바꾼다"
-            },
-            {
-              "name": "얼리어답터뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ZTHNCX0VhSldUUV9QNE9SY29od0tTclpUd3ZwcGZuOVBWMjFYLWZBS3YxMndzblhUMWhTX3ZwaFIzTUZ2TGRxdzhn?oc=5",
-              "origin": "google",
-              "title": "대한민국 AI 전력 경쟁 본격화…반도체·전력망·AI 안전 규제가 글로벌 산업 판도를 바꾼다"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-11T15:31:26+09:00",
-          "ts": 1789108286.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -9166,6 +9177,31 @@
           "group_label": "AI · 생성형AI"
         },
         {
+          "title": "\"과학문화, 남도를 적시다\"…국립광주과학관서 '2026 호남권 과학페스타...",
+          "url": "https://www.ikbc.co.kr/article/view/kbc202609110034",
+          "snippet": "과학문화 콘텐츠를 생생하게 소개합니다. 이와 함께 광주과학문화협회 소속 과학교사와 자원봉사 학생 150여... 인공지능관에서는 청소년들이 생성형 인공지능(AI) 작동 원리를 배우고 프롬프트를 작성해 예술 작품을...",
+          "source": "ikbc.co.kr",
+          "sources": [
+            {
+              "name": "ikbc.co.kr",
+              "url": "https://www.ikbc.co.kr/article/view/kbc202609110034",
+              "origin": "naver",
+              "title": "\"과학문화, 남도를 적시다\"…국립광주과학관서 '2026 호남권 과학페스타..."
+            },
+            {
+              "name": "thebigdata.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PNUw2aXZyTU45QXAzbmQ1dzhGR2p6bGZpVTM5SFFWakc3RXUwTkRsM2dmXzJ3M0dyT1daM052NXUzSmdMVWRCdnB6U181VkE0OS1RRERNQzBUSnpldUJTZWlDdWtJRkxfTE9uUTBJcHV6LURtOWU5MkxlTDA?oc=5",
+              "origin": "google",
+              "title": "'2026 창작선수단', AI 시대 창작자의 '세계관' 확장...'100만 과학 유튜버' 궤도 등 전문가 한자리에"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-09-11T14:15:00+09:00",
+          "ts": 1789103700.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
           "title": "'AI 만난 아기상어' 말조심 교육…셀렉트스타, 1만개 질문으로 AI 안전성 점검",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1la09relZaNmpMY3JjbFFJSjY5NUU3OXR4OHRlcXQzdmphYXVyR2NFNWZNdWNkWng0cEZqQWEtR2hsdVBoQzJLSUM2cWNSN0REdjl3?oc=5",
           "snippet": "",
@@ -9239,106 +9275,6 @@
           "ts": 1789101000.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "원니스코리아, 스케일업 팁스 선정... AI 시네마 솔루션 개발",
-          "url": "https://www.mt.co.kr/industry/2026/09/11/2026091014241059657",
-          "snippet": "이번 과제로 개발하는 'MAPP(Movie AI Production Pipeline)'은 감독과 크리에이터가 촬영 현장처럼 음성으로 지시하면 연출 의도를 반영한 영상을 만들어 내는 '시네마 제작 AI 에이전트'다. 원니스코리아는 자사 AI...",
-          "source": "머니투데이",
-          "sources": [
-            {
-              "name": "머니투데이",
-              "url": "https://www.mt.co.kr/industry/2026/09/11/2026091014241059657",
-              "origin": "naver",
-              "title": "원니스코리아, 스케일업 팁스 선정... AI 시네마 솔루션 개발"
-            },
-            {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92VjlRaFlRZGlyVjUxZ3Zyc28xN09uS1VWNTRyQ0F4TWxlc1FON29FYmtDWkpqTFBTaWxfSUU0VVlabEEwaUpRVXNyaUNPZlNKOXp3?oc=5",
-              "origin": "google",
-              "title": "원니스코리아, 스케일업 팁스 선정…AI 시네마 솔루션 개발"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-11T13:03:00+09:00",
-          "ts": 1789099380.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "KB손해보험, AI 에이전트 조직 구성원수준 관리",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBaDhJRWpfbGswcndKY0tBNm1vWjloaHd3TTVHRGx0U2xHTDZKVy1kM1RPX0tzX1FaMDk4ZUEzUlRsZTJ4bnROMDRTSVRvbEdUZUxWWUdxa1J0bm9tTlpWWmxLMEdmVk5xdWRoemdBRjZ2QdIBckFVX3lxTFBBaDhJRWpfbGswcndKY0tBNm1vWjloaHd3TTVHRGx0U2xHTDZKVy1kM1RPX0tzX1FaMDk4ZUEzUlRsZTJ4bnROMDRTSVRvbEdUZUxWWUdxa1J0bm9tTlpWWmxLMEdmVk5xdWRoemdBRjZ2QQ?oc=5",
-          "snippet": "",
-          "source": "메가경제",
-          "sources": [
-            {
-              "name": "메가경제",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBaDhJRWpfbGswcndKY0tBNm1vWjloaHd3TTVHRGx0U2xHTDZKVy1kM1RPX0tzX1FaMDk4ZUEzUlRsZTJ4bnROMDRTSVRvbEdUZUxWWUdxa1J0bm9tTlpWWmxLMEdmVk5xdWRoemdBRjZ2QdIBckFVX3lxTFBBaDhJRWpfbGswcndKY0tBNm1vWjloaHd3TTVHRGx0U2xHTDZKVy1kM1RPX0tzX1FaMDk4ZUEzUlRsZTJ4bnROMDRTSVRvbEdUZUxWWUdxa1J0bm9tTlpWWmxLMEdmVk5xdWRoemdBRjZ2QQ?oc=5",
-              "origin": "google",
-              "title": "KB손해보험, AI 에이전트 조직 구성원수준 관리"
-            },
-            {
-              "name": "비즈니스리포트",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11R2dCWlJENGhabUw1WVV4dnplNC1SSGtaOGpfOFlqVVJBVnVsdUtEd3V5VVZhWXl4ZHV2OGJoTUxHalptUGJlVTZZVWUtYjJiTjk0LUo4aG5OSVAyNVl0UThUNVl1WTFFZnBuemMzWQ?oc=5",
-              "origin": "google",
-              "title": "KB손해보험, AI도 ‘사원번호’ 받는다… 조직 구성원처럼 관리"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-11T11:22:40+09:00",
-          "ts": 1789093360.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "AI 에이전트 6개에 ‘사번’ 준 KB손보…성과 따라 등급도 매긴다",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvbFBCc0UyVXRfcEpqRUdDd3VIYlk0OEt0QWZkaDRUT2d4QUJNa0cyVnFYcFRHWlRRSGxhbXRkNWs1VFNEbFozVVkyRWtpNUV1ZnFkQlA2UnBoUmpBcnNPclBxRTc0Q3hPUlR5R9IBbEFVX3lxTFBvbFBCc0UyVXRfcEpqRUdDd3VIYlk0OEt0QWZkaDRUT2d4QUJNa0cyVnFYcFRHWlRRSGxhbXRkNWs1VFNEbFozVVkyRWtpNUV1ZnFkQlA2UnBoUmpBcnNPclBxRTc0Q3hPUlR5Rw?oc=5",
-          "snippet": "",
-          "source": "apnews.kr",
-          "sources": [
-            {
-              "name": "apnews.kr",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvbFBCc0UyVXRfcEpqRUdDd3VIYlk0OEt0QWZkaDRUT2d4QUJNa0cyVnFYcFRHWlRRSGxhbXRkNWs1VFNEbFozVVkyRWtpNUV1ZnFkQlA2UnBoUmpBcnNPclBxRTc0Q3hPUlR5R9IBbEFVX3lxTFBvbFBCc0UyVXRfcEpqRUdDd3VIYlk0OEt0QWZkaDRUT2d4QUJNa0cyVnFYcFRHWlRRSGxhbXRkNWs1VFNEbFozVVkyRWtpNUV1ZnFkQlA2UnBoUmpBcnNPclBxRTc0Q3hPUlR5Rw?oc=5",
-              "origin": "google",
-              "title": "AI 에이전트 6개에 ‘사번’ 준 KB손보…성과 따라 등급도 매긴다"
-            },
-            {
-              "name": "경제타임스",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oTm5kbHZoemNUc2gzQ29UTGdJRnpTSkhrRGZJX2NvQ3hoRVpnVTVQWFJUbVpLYncxcHlmXzNUclVrbi1Db0g0M2JTUnFCVkpPbVlr?oc=5",
-              "origin": "google",
-              "title": "\"AI도 사번 받는다\"…KB손보, AI 에이전트 사번 부여"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-11T11:21:31+09:00",
-          "ts": 1789093291.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "KMI, 피지컬 AI 시대 항만·물류 혁신 방향 논의",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MWWJSM1plSG5EZDN0a1pNeHg5UVloR2VMbEkzRW4tTmhLWnIyTi1iVTMxNzhxTjNfMXpGS2luSC1GazlLUTFDUXJLMHo5ZEdrb3pSdzA0Y3hmSDByVUlNYTZIUW9obHRBUDRINUJZdXY0TjVMZThCYlhn?oc=5",
-          "snippet": "",
-          "source": "monthlymaritimekorea.com",
-          "sources": [
-            {
-              "name": "monthlymaritimekorea.com",
-              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MWWJSM1plSG5EZDN0a1pNeHg5UVloR2VMbEkzRW4tTmhLWnIyTi1iVTMxNzhxTjNfMXpGS2luSC1GazlLUTFDUXJLMHo5ZEdrb3pSdzA0Y3hmSDByVUlNYTZIUW9obHRBUDRINUJZdXY0TjVMZThCYlhn?oc=5",
-              "origin": "google",
-              "title": "KMI, 피지컬 AI 시대 항만·물류 혁신 방향 논의"
-            },
-            {
-              "name": "haesanews.com",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53M0U3M09sTkMxUkpZdXBfNV9VeDVKXzVId0N0M0lhcS1WQXhWM3hibUJjYnBzWU5saEgyb2pobDZKd2RzVWphRkROLUxXeVNGeFRpb25nNGlPS1ZrX1Z6SGxoMTRfMUNkWUFr?oc=5",
-              "origin": "google",
-              "title": "KMI, ‘피지컬 AI 항만’ 전환 본격 논의…진해신항 중심 기술·제도 구축 제안"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-11T10:14:09+09:00",
-          "ts": 1789089249.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
         }
       ]
     },
@@ -9348,25 +9284,31 @@
       "priority": 12,
       "page": "trends",
       "preview": 3,
-      "count": 90,
+      "count": 86,
       "items": [
         {
           "title": "승가원, '제7회 장애바로알기 콘텐츠 공모전' 작품 접수",
           "url": "https://www.beopbo.com/news/articleView.html?idxno=337770",
           "snippet": "사회복지법인 승가원(이사장 현각 스님)이 8월 31일부터 11월 6일까지 '제7회 승가원 장애바로알기콘텐츠... 분야는 롱폼 영상(1~4분 가로 영상)과 숏폼 영상(60초 미만 세로 영상), AI 영상(30초~4분 자유 형식), 웹툰·컷툰...",
-          "source": "beopbo.com",
+          "source": "ablenews.co.kr",
           "sources": [
-            {
-              "name": "beopbo.com",
-              "url": "https://www.beopbo.com/news/articleView.html?idxno=337770",
-              "origin": "naver",
-              "title": "승가원, '제7회 장애바로알기 콘텐츠 공모전' 작품 접수"
-            },
             {
               "name": "ablenews.co.kr",
               "url": "https://www.ablenews.co.kr/news/articleView.html?idxno=233264",
               "origin": "naver",
               "title": "'제7회 승가원 장애바로알기콘텐츠 공모전' 11월 6일까지 진행"
+            },
+            {
+              "name": "뉴스N연합",
+              "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4xclZxUE1CRFhFNXpiOGRmZGNHR2FEZGplZ0VHVTZnczVhY1ZqUjFvWjhkYVFfS0RCa0RjNGFpU0I0YlNBNzBXT0h3?oc=5",
+              "origin": "google",
+              "title": "승가원, 제7회 장애바로알기콘텐츠 공모전 개최…“나다운 삶을 이루는 행복한 세상”"
+            },
+            {
+              "name": "법보신문",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2dmU1WEhHU0RERDdWOHVGV2dUX2trZ0pVamJFR0pOcjVrb2NGS2M0WGFDVURQVHhFN2F3UFFhRzVKc0pseU44M2IyMXJZUDEzeVRCRkdQeXBhcGNtM29XdUxKUkM2OVBH?oc=5",
+              "origin": "google",
+              "title": "승가원, ‘제7회 장애바로알기 콘텐츠 공모전’ 작품 접수"
             },
             {
               "name": "장애인인식개선신문",
@@ -9381,7 +9323,7 @@
               "title": "승가원, 제7회 장애바로알기콘텐츠 공모전 개최… 11월까지 접수"
             }
           ],
-          "source_count": 4,
+          "source_count": 5,
           "published": "2026-09-11T15:44:00+09:00",
           "ts": 1789109040.0,
           "group": "trend_content",
@@ -9400,7 +9342,7 @@
               "title": "경남교육 알리는 '30초 숏폼 공모전'…내달 11일까지 접수"
             },
             {
-              "name": "더쎈뉴스",
+              "name": "mhns.co.kr",
               "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EQnhYZWttWWdVZXdETlpERDQzcGZma3RRY3FxZHBmbGV3a0JSN1FyOEZSRl9jYzdvZU5YSkR0S05tREJZRk1aQl9XYkRFMFEtUnZhVlRVTVhzT19ZZWlTVG8xbHdyek1F?oc=5",
               "origin": "google",
               "title": "경남교육청, ‘경남교육 숏폼 영상 공모전’ 개최"
@@ -9633,31 +9575,6 @@
           "source_count": 2,
           "published": "2026-09-11T14:18:00+09:00",
           "ts": 1789103880.0,
-          "group": "trend_content",
-          "group_label": "콘텐츠 · 크리에이터"
-        },
-        {
-          "title": "백성현 논산시장부터 황인호 동구청장까지...K-브랜드지수, 빅데이터 51...",
-          "url": "https://swtvnews.com/news/newsview.php?ncode=1065571055738750",
-          "snippet": "부문별 트렌드·미디어·소셜·긍정·부정·활성화·커뮤니티·AI 인덱스 등의 가중치 배제 기준을 적용한... 검색과 콘텐츠 소비, 긍·부정 반응 등 디지털 데이터를 종합 반영하는 점이 차별화다. 이번 충청남도 지자체장...",
-          "source": "swtvnews.com",
-          "sources": [
-            {
-              "name": "swtvnews.com",
-              "url": "https://swtvnews.com/news/newsview.php?ncode=1065571055738750",
-              "origin": "naver",
-              "title": "백성현 논산시장부터 황인호 동구청장까지...K-브랜드지수, 빅데이터 51..."
-            },
-            {
-              "name": "hbnpress.com",
-              "url": "https://hbnpress.com/news/view/1065570942262738",
-              "origin": "naver",
-              "title": "백성현 논산시장, 오세현 아산시장 제치고 K-브랜드지수 충남 지자체장..."
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-11T10:50:00+09:00",
-          "ts": 1789091400.0,
           "group": "trend_content",
           "group_label": "콘텐츠 · 크리에이터"
         },
@@ -10073,25 +9990,6 @@
           "group_label": "콘텐츠 · 크리에이터"
         },
         {
-          "title": "K웹툰 원작 드라마 올해만 86편… K콘텐츠의 새 엔진으로",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSmFYbWpPU1RjUlcydFl4TXhfLU4xNlVqMF9GTFpVVl8tbHdubVBHQmR6MDFNRVd3UDR1aG13b09MelhMZ0ppdERtOVloR0xjR1FueWtzMF90Zy12LWRhY0YydUJYcGlpeUpLTHdOczV2TXNyaDVyb1hsWDhTSGxrM0U1QmdTdnRyMnJLakk1MkFmcGE4?oc=5",
-          "snippet": "",
-          "source": "조선일보",
-          "sources": [
-            {
-              "name": "조선일보",
-              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSmFYbWpPU1RjUlcydFl4TXhfLU4xNlVqMF9GTFpVVl8tbHdubVBHQmR6MDFNRVd3UDR1aG13b09MelhMZ0ppdERtOVloR0xjR1FueWtzMF90Zy12LWRhY0YydUJYcGlpeUpLTHdOczV2TXNyaDVyb1hsWDhTSGxrM0U1QmdTdnRyMnJLakk1MkFmcGE4?oc=5",
-              "origin": "google",
-              "title": "K웹툰 원작 드라마 올해만 86편… K콘텐츠의 새 엔진으로"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-12T00:36:00+09:00",
-          "ts": 1789140960.0,
-          "group": "trend_content",
-          "group_label": "콘텐츠 · 크리에이터"
-        },
-        {
           "title": "라이브클럽에서 춤을 추면 불법이라고? [영상]",
           "url": "https://www.hankookilbo.com/news/article/A2026091114230001574?did=NA",
           "snippet": "'휙'은 최신 이슈를 알기 쉽게 해석하고 유쾌하게 풍자하는 한국일보 기획영상부의 데일리 숏폼 콘텐츠입니다. 하루 1분, '휙'의 시각으로 세상을 바라보세요. 혹시 라이브클럽을 가본 적 있나요? 라이브클럽은 인디밴드가...",
@@ -10107,6 +10005,25 @@
           "source_count": 1,
           "published": "2026-09-11T21:01:00+09:00",
           "ts": 1789128060.0,
+          "group": "trend_content",
+          "group_label": "콘텐츠 · 크리에이터"
+        },
+        {
+          "title": "시각 효과를 중심으로 모아보는 럭스 토토 먹튀 테마 콘텐츠",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObFkyMGtJUlZmSFpyZ0JjNlh1TWNMQ1FtdGxLNGtZT2U3UkFnZEJyYkdMdHhnMVpfSk1yRFo4c3M3bnJnbGdZYjBXWXFPTExkX2g1bTNxWHpZOEdQZm9lVWpxQTBHRjFKQjUyeGkxUEhSVmZJYWRWVmhEZHhyeFo2al9CeERBSTdFUFdYczNoN1FVQ01j?oc=5",
+          "snippet": "",
+          "source": "Histoire pour tous",
+          "sources": [
+            {
+              "name": "Histoire pour tous",
+              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObFkyMGtJUlZmSFpyZ0JjNlh1TWNMQ1FtdGxLNGtZT2U3UkFnZEJyYkdMdHhnMVpfSk1yRFo4c3M3bnJnbGdZYjBXWXFPTExkX2g1bTNxWHpZOEdQZm9lVWpxQTBHRjFKQjUyeGkxUEhSVmZJYWRWVmhEZHhyeFo2al9CeERBSTdFUFdYczNoN1FVQ01j?oc=5",
+              "origin": "google",
+              "title": "시각 효과를 중심으로 모아보는 럭스 토토 먹튀 테마 콘텐츠"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-11T20:54:09+09:00",
+          "ts": 1789127649.0,
           "group": "trend_content",
           "group_label": "콘텐츠 · 크리에이터"
         },
@@ -10380,10 +10297,10 @@
           "title": "정다인 작가 ‘스토리텔링의 발상전략’ 출간…문화콘텐츠 IP 창작 전략 담았다",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2dklsN25CN0ZUbzhuYUEzWkV1R0ExUjdkcU9kSllSd0g1LWZqMHJjUmpfV25GLW16dkg0YmsyMEpfWkVXY3ExUGxNaWNEcWx6dE94cTlVTkFnT0RsSzh2RlQybEdrTE1T?oc=5",
           "snippet": "",
-          "source": "더쎈뉴스",
+          "source": "mhns.co.kr",
           "sources": [
             {
-              "name": "더쎈뉴스",
+              "name": "mhns.co.kr",
               "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2dklsN25CN0ZUbzhuYUEzWkV1R0ExUjdkcU9kSllSd0g1LWZqMHJjUmpfV25GLW16dkg0YmsyMEpfWkVXY3ExUGxNaWNEcWx6dE94cTlVTkFnT0RsSzh2RlQybEdrTE1T?oc=5",
               "origin": "google",
               "title": "정다인 작가 ‘스토리텔링의 발상전략’ 출간…문화콘텐츠 IP 창작 전략 담았다"
@@ -10411,25 +10328,6 @@
           "source_count": 1,
           "published": "2026-09-11T15:54:00+09:00",
           "ts": 1789109640.0,
-          "group": "trend_content",
-          "group_label": "콘텐츠 · 크리에이터"
-        },
-        {
-          "title": "[미디어의 미래 컨퍼런스 2026] AI 시대 승부수, “유연한 조직·사람에...",
-          "url": "https://www.newsmin.co.kr/news/137124/",
-          "snippet": "그건 기본이고 이제는 IP 비즈니스를 해야 한다\"라며 \"상설 매장을 기획하고 있다. 굿즈만 파는 곳이 아니라, 콘텐츠가 현실에 존재하는 것처럼 느낄 수 있는 공간으로 만들 것\"이라고 말했다. ▲10일 <미디어오늘> 주최로...",
-          "source": "newsmin.co.kr",
-          "sources": [
-            {
-              "name": "newsmin.co.kr",
-              "url": "https://www.newsmin.co.kr/news/137124/",
-              "origin": "naver",
-              "title": "[미디어의 미래 컨퍼런스 2026] AI 시대 승부수, “유연한 조직·사람에..."
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-11T15:52:00+09:00",
-          "ts": 1789109520.0,
           "group": "trend_content",
           "group_label": "콘텐츠 · 크리에이터"
         },
@@ -11004,6 +10902,25 @@
           "group_label": "콘텐츠 · 크리에이터"
         },
         {
+          "title": "백성현 논산시장부터 황인호 동구청장까지...K-브랜드지수, 빅데이터 51...",
+          "url": "https://swtvnews.com/news/newsview.php?ncode=1065571055738750",
+          "snippet": "부문별 트렌드·미디어·소셜·긍정·부정·활성화·커뮤니티·AI 인덱스 등의 가중치 배제 기준을 적용한... 검색과 콘텐츠 소비, 긍·부정 반응 등 디지털 데이터를 종합 반영하는 점이 차별화다. 이번 충청남도 지자체장...",
+          "source": "swtvnews.com",
+          "sources": [
+            {
+              "name": "swtvnews.com",
+              "url": "https://swtvnews.com/news/newsview.php?ncode=1065571055738750",
+              "origin": "naver",
+              "title": "백성현 논산시장부터 황인호 동구청장까지...K-브랜드지수, 빅데이터 51..."
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-11T10:50:00+09:00",
+          "ts": 1789091400.0,
+          "group": "trend_content",
+          "group_label": "콘텐츠 · 크리에이터"
+        },
+        {
           "title": "\"청년을 응원합니다\" DB손해보험, '보통의 하루' 광고 온에어",
           "url": "https://www.ajunews.com/view/20260911104314818",
           "snippet": "DB손해보험은 TV광고와 함께 보험의 의미를 일상적인 이야기로 풀어낸 디지털 숏폼 콘텐츠 ‘보통의 하루’ 시리즈도 순차적으로 선보일 예정이다. DB손해보험 관계자는 “보험은 사고가 발생했을 때만 필요한 것이...",
@@ -11116,63 +11033,6 @@
           "ts": 1789088580.0,
           "group": "trend_content",
           "group_label": "콘텐츠 · 크리에이터"
-        },
-        {
-          "title": "K-콘텐츠 글로벌 수출 모멘텀 지속... 엔터·미디어주 장중 훈풍",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91bXExRFp2WGJoV0ZpbFdKY2VjRVBYMVR4akNvaXd3OXhLdld1d3Z5VU5uRzRvQ25SQlNRRm1KR0NhcmtTTEp6YTFLN3pfR3kzMXF6TlN6T1JSZEN1V2xUYng5Z20xNWtZOFZtZUFfTi00SndMMnE40gF3QVVfeXFMT3VtcTFEWnZYYmhXRmlsV0pjZWNFUFgxVHhqQ29pd3c5eEt2V3V3dnlVTm5HNG9DblJCU1FGbUpHQ2Fya1NMSnphMUs3el9HeTMxcXpOU3pPUlJkQ3VXbFRieDlnbTE1a1k4Vm1lQV9OLTRKd0wycTg?oc=5",
-          "snippet": "",
-          "source": "핀포인트뉴스",
-          "sources": [
-            {
-              "name": "핀포인트뉴스",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91bXExRFp2WGJoV0ZpbFdKY2VjRVBYMVR4akNvaXd3OXhLdld1d3Z5VU5uRzRvQ25SQlNRRm1KR0NhcmtTTEp6YTFLN3pfR3kzMXF6TlN6T1JSZEN1V2xUYng5Z20xNWtZOFZtZUFfTi00SndMMnE40gF3QVVfeXFMT3VtcTFEWnZYYmhXRmlsV0pjZWNFUFgxVHhqQ29pd3c5eEt2V3V3dnlVTm5HNG9DblJCU1FGbUpHQ2Fya1NMSnphMUs3el9HeTMxcXpOU3pPUlJkQ3VXbFRieDlnbTE1a1k4Vm1lQV9OLTRKd0wycTg?oc=5",
-              "origin": "google",
-              "title": "K-콘텐츠 글로벌 수출 모멘텀 지속... 엔터·미디어주 장중 훈풍"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-11T09:29:30+09:00",
-          "ts": 1789086570.0,
-          "group": "trend_content",
-          "group_label": "콘텐츠 · 크리에이터"
-        },
-        {
-          "title": "'들쥐' 류준열, '아웃백' 간다 [공식]",
-          "url": "https://www.starnewskorea.com/star/2026/09/11/2026091109053451096",
-          "snippet": "배우 류준열이 '들쥐'에 이어 OTT 넷플릭스 새 오리지널 시리즈 '아웃백'(가제)으로 전 세계 시청자들을 찾아간다. '아웃백'은 누나의 갑작스러운 사망 소식을 듣고 호주로 향한 시온이 낯선 도시에서 그녀의 죽음을 둘러싼...",
-          "source": "starnewskorea.com",
-          "sources": [
-            {
-              "name": "starnewskorea.com",
-              "url": "https://www.starnewskorea.com/star/2026/09/11/2026091109053451096",
-              "origin": "naver",
-              "title": "'들쥐' 류준열, '아웃백' 간다 [공식]"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-11T09:18:00+09:00",
-          "ts": 1789085880.0,
-          "group": "trend_content",
-          "group_label": "콘텐츠 · 크리에이터"
-        },
-        {
-          "title": "[인터뷰] 김도영 감독이 영화 ‘인턴’에 담은 진심",
-          "url": "http://www.withinnews.co.kr/news/view.html?section=169&category=189&item=&no=40378",
-          "snippet": "여전히 오리지널을 계속 쓰는 감독들한테 엄청난 존경심이 있다. 저도 그렇게 돼야겠다고 생각하고 있다”고... OTT로 영화를 보다가 끄기도 하고 넘기기도 하는데 극장에서 같이 경험하는 그 즐거움이 있었던 것 같다”고...",
-          "source": "withinnews.co.kr",
-          "sources": [
-            {
-              "name": "withinnews.co.kr",
-              "url": "http://www.withinnews.co.kr/news/view.html?section=169&category=189&item=&no=40378",
-              "origin": "naver",
-              "title": "[인터뷰] 김도영 감독이 영화 ‘인턴’에 담은 진심"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-11T09:08:00+09:00",
-          "ts": 1789085280.0,
-          "group": "trend_content",
-          "group_label": "콘텐츠 · 크리에이터"
         }
       ]
     },
@@ -11182,7 +11042,7 @@
       "priority": 13,
       "page": "trends",
       "preview": 3,
-      "count": 146,
+      "count": 140,
       "items": [
         {
           "title": "젠지, 2년 연속 LCK 우승 도전…한화생명e스포츠-T1 결승 진출전 승부",
@@ -11295,12 +11155,6 @@
               "title": "넷마블, 도쿄게임쇼 2026 출품작 3종 무대 이벤트 공개"
             },
             {
-              "name": "청년일보",
-              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vNlVmcm92ZEhOdDB2dVhiZU9mZkFrcW9pMGpWc1RUbXBnWkQxclpsWE1FZ09sLXB0dG9uZDBPU1BPak9Ja0MtcThGVHZLRExoMG00aThocG1rYnMxOEhpd1N2TVptNjg?oc=5",
-              "origin": "google",
-              "title": "넷마블, TGS 2026 무대 라인업 공개…신작 3종 일본 시장 공략"
-            },
-            {
               "name": "포쓰저널",
               "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QRy0yaHdmbWRvZUplNTBPaHlFbm5lSnJFN284Vlgzc3FzcnhCUnU0ck9KSlhDc0VfU2VhRllZZkJ0M1NKTzFvVFpYbFVMY3hJQzJpRm95TTYwSkM5bDJ3UFZmLUc?oc=5",
               "origin": "google",
@@ -11311,6 +11165,12 @@
               "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVY0lFWlBQSUlWakdGS2dlcDE2aG00ejA2Sk1PN255MHZnTFI1MER0MlJKWHo0U0txNXROOEJFd29VNVBXU3ZOVUNuaTlvTWZkdW9xVG03SmtaNE1OS2Y3dDFmUFlwZWJH0gFsQVVfeXFMTW56RHRLQmdyUnV0bDh6dWJNN20zR2dYMzl4RUlMQlFqY205X3c4RXh0MWRNMmlOMU1LMmpKZVZLdlFFWjJ3dWtkRzltX1dYSDFVaTNQbVBBWmNDTzZYNmpRd09VMEVCNEZoX202?oc=5",
               "origin": "google",
               "title": "“코스프레부터 스트리머 대결까지”…넷마블, TGS 2026 신작 3종 무대 공개"
+            },
+            {
+              "name": "청년일보",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vNlVmcm92ZEhOdDB2dVhiZU9mZkFrcW9pMGpWc1RUbXBnWkQxclpsWE1FZ09sLXB0dG9uZDBPU1BPak9Ja0MtcThGVHZLRExoMG00aThocG1rYnMxOEhpd1N2TVptNjg?oc=5",
+              "origin": "google",
+              "title": "넷마블, TGS 2026 무대 라인업 공개…신작 3종 일본 시장 공략"
             }
           ],
           "source_count": 5,
@@ -12850,25 +12710,6 @@
           "group_label": "게임 · e스포츠"
         },
         {
-          "title": "세계가 주목하는 대한민국 이스포츠🕹️ 2026 LoL KeSPA Cup : 네이버 블로그",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNC1iVm5PME5laDZoWm5lYXFncUlUSndLbElKNVpyQnpSSjlwRzRiUDlNVkFweUhfYUlVUmE4VlVELTRScjEtbjhiOGE2WVIyVFVLZXFrTEV0bUtuSU9KMVFIMzFkZ2NTbHA2SWo3SDBVMENzMDV3d1dzMEpENnpidGwwdDBoR1lRVVZEWl90cVU?oc=5",
-          "snippet": "",
-          "source": "Naver Blog",
-          "sources": [
-            {
-              "name": "Naver Blog",
-              "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNC1iVm5PME5laDZoWm5lYXFncUlUSndLbElKNVpyQnpSSjlwRzRiUDlNVkFweUhfYUlVUmE4VlVELTRScjEtbjhiOGE2WVIyVFVLZXFrTEV0bUtuSU9KMVFIMzFkZ2NTbHA2SWo3SDBVMENzMDV3d1dzMEpENnpidGwwdDBoR1lRVVZEWl90cVU?oc=5",
-              "origin": "google",
-              "title": "세계가 주목하는 대한민국 이스포츠🕹️ 2026 LoL KeSPA Cup : 네이버 블로그"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-11T20:09:52+09:00",
-          "ts": 1789124992.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
           "title": "300억 원 제천 e스포츠 경기장…사실상 백지화",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZi1VSk5sV0dfd0p0eUtIQVZubnZOMi1ZX2E2NFRHTnU3eVVZTjI4U3pobVkxM3lPelVKRm84QXNzMGM1WVVlQ3NPWmpNLUpQaWtlaGZGdFFXU0k?oc=5",
           "snippet": "",
@@ -13211,25 +13052,6 @@
           "group_label": "게임 · e스포츠"
         },
         {
-          "title": "[현장]GXG 2026, 게임을 입고 듣는다···판교에서 게임 즐기는 법",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZcjlnbE9iX0tRdFNGSnZoWkdUSElDUWNuT0puSWc0dU9uRFNHZVpSZ2huVTZHcTlIQjVFNXl3MGc1QXJ1SXBLM2FCb0xndC15ZERmREdRWmo5djRfbGE0MG94WExrdEUx0gFrQVVfeXFMUEk1NHcyelBkOGRpcVF1WXNDMksxbGtnMjNjLXhhYU14cC1EY2d2QTlrVjllb3UzOEtCTktFcC11cWlrQ0xlakRHR3d4aUozWktuOS1nUk1SckhBMjhUa005VnI2MV9tVlA0MFk?oc=5",
-          "snippet": "",
-          "source": "현대경제신문",
-          "sources": [
-            {
-              "name": "현대경제신문",
-              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZcjlnbE9iX0tRdFNGSnZoWkdUSElDUWNuT0puSWc0dU9uRFNHZVpSZ2huVTZHcTlIQjVFNXl3MGc1QXJ1SXBLM2FCb0xndC15ZERmREdRWmo5djRfbGE0MG94WExrdEUx0gFrQVVfeXFMUEk1NHcyelBkOGRpcVF1WXNDMksxbGtnMjNjLXhhYU14cC1EY2d2QTlrVjllb3UzOEtCTktFcC11cWlrQ0xlakRHR3d4aUozWktuOS1nUk1SckhBMjhUa005VnI2MV9tVlA0MFk?oc=5",
-              "origin": "google",
-              "title": "[현장]GXG 2026, 게임을 입고 듣는다···판교에서 게임 즐기는 법"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-11T16:25:04+09:00",
-          "ts": 1789111504.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
           "title": "자세한 규칙이 궁금해지는 게임, 토토 방방이 출출이",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdkl5eXg1ZXV1Z1ZNdHU5SjhidDFvYWFWelhoTG5iazR5SndIVkdRWTcxWHZoT3dIaW1EQ0wxb3hsd0ZGbzJBQ1ZuSENlQV8wVXlobnk1UlpERFZfVGdGZUVtSms4T1JWeWhvWmh5dzVwRENTdVZaNHF1THg0RHBGVUUtemRDbkZKWmw4cEdMcFdoMldDN2t4N3QxYlFXOXZNVzdjX0pzVkdRWGJsX2ROSVEzalRaYUloOThFOEZva3p1YWhuMDZPRWlaaktVOVJJ?oc=5",
           "snippet": "",
@@ -13321,25 +13143,6 @@
           "source_count": 1,
           "published": "2026-09-11T15:44:00+09:00",
           "ts": 1789109040.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
-          "title": "[GXG 26] '개성있는 게임 직접 해보니 재미있다'...관람객 발길 사로잡은 '인디크래트프' 북적",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00YjYyLXo5eUVwZnM1MEFWeVliejI2Wk10QkxnTWZwMVRnN1IxUXdBY2dmdGwwSEt6Y0R2RG1Demp1ZXJial9seWxzWVFnUVVQa2xQWFNGX3F5TjZFZDdicWgyOVQxd9IBakFVX3lxTFB1enkwUHhqN051UHl0Vy1QSHhQQnVvejF4T3N4LWlhVWx1R2FXUTREVGd1djhPOGRCVG1xOXk4a1NsQlZrbDhoLUpYNU9VbFZraFg0MzQ3ZjhqVUhZZUJ5dURabm1jX0xJaHc?oc=5",
-          "snippet": "",
-          "source": "테크M",
-          "sources": [
-            {
-              "name": "테크M",
-              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00YjYyLXo5eUVwZnM1MEFWeVliejI2Wk10QkxnTWZwMVRnN1IxUXdBY2dmdGwwSEt6Y0R2RG1Demp1ZXJial9seWxzWVFnUVVQa2xQWFNGX3F5TjZFZDdicWgyOVQxd9IBakFVX3lxTFB1enkwUHhqN051UHl0Vy1QSHhQQnVvejF4T3N4LWlhVWx1R2FXUTREVGd1djhPOGRCVG1xOXk4a1NsQlZrbDhoLUpYNU9VbFZraFg0MzQ3ZjhqVUhZZUJ5dURabm1jX0xJaHc?oc=5",
-              "origin": "google",
-              "title": "[GXG 26] '개성있는 게임 직접 해보니 재미있다'...관람객 발길 사로잡은 '인디크래트프' 북적"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-11T15:38:04+09:00",
-          "ts": 1789108684.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
         },
@@ -13703,6 +13506,63 @@
           "ts": 1789098420.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
+        },
+        {
+          "title": "메탈슬러그 2 게임하기 : 장점, 단점 및 활용 방법",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRXV3U3FPWHc5a0VmWW1iU2ktRk8zbmRpTDJ0RG1JY0NwRVY5ci1hdnZsM0llb09sTFBaV1pOaVNMc3dtR2tkUS1rN05yVFJTMUtXWUtKVXYxTDJCazVWTkRuNW1iYkZ6SUVwR0hWRWxzWTJPQVZRZEstRlQ2SGoyUlpxcTRXQWNPblc5cFQ3UWVIcXNnVzN2R1BMWFA2bWtkRTRjYzZCakxqTW02Z3ZvNUQ2ZjRUci1YZ1E?oc=5",
+          "snippet": "",
+          "source": "Histoire pour tous",
+          "sources": [
+            {
+              "name": "Histoire pour tous",
+              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRXV3U3FPWHc5a0VmWW1iU2ktRk8zbmRpTDJ0RG1JY0NwRVY5ci1hdnZsM0llb09sTFBaV1pOaVNMc3dtR2tkUS1rN05yVFJTMUtXWUtKVXYxTDJCazVWTkRuNW1iYkZ6SUVwR0hWRWxzWTJPQVZRZEstRlQ2SGoyUlpxcTRXQWNPblc5cFQ3UWVIcXNnVzN2R1BMWFA2bWtkRTRjYzZCakxqTW02Z3ZvNUQ2ZjRUci1YZ1E?oc=5",
+              "origin": "google",
+              "title": "메탈슬러그 2 게임하기 : 장점, 단점 및 활용 방법"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-11T12:35:48+09:00",
+          "ts": 1789097748.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
+          "title": "[게임] 2026년 상반기 일본 콘솔 판매량 - 스위치2 vs PS5",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSHBiVlhOeXJTWmZ2QW9QZEQwczU2MUt1NHFpNzc0ZXRQd3JGSlp1alJ6WFZZTEowS0YxU1dMNXBSanBsRV92OUhZOXRwZ2trcjJDNkJyeHBWc3NXY0ZRT19YbU5YcHRqN3Z6bmI0VzRBSXdlSW9uSFQyN1hVX1JFQUlGUE9wZV9VNmJUX2l2Z1BYN2Z1bEE?oc=5",
+          "snippet": "",
+          "source": "인벤",
+          "sources": [
+            {
+              "name": "인벤",
+              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSHBiVlhOeXJTWmZ2QW9QZEQwczU2MUt1NHFpNzc0ZXRQd3JGSlp1alJ6WFZZTEowS0YxU1dMNXBSanBsRV92OUhZOXRwZ2trcjJDNkJyeHBWc3NXY0ZRT19YbU5YcHRqN3Z6bmI0VzRBSXdlSW9uSFQyN1hVX1JFQUlGUE9wZV9VNmJUX2l2Z1BYN2Z1bEE?oc=5",
+              "origin": "google",
+              "title": "[게임] 2026년 상반기 일본 콘솔 판매량 - 스위치2 vs PS5"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-11T12:28:52+09:00",
+          "ts": 1789097332.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
+          "title": "[아시아포럼] \"인도 경제 빠르게 성장…韓 기업, 조선업·AI 주목해야\"",
+          "url": "https://www.newspim.com/news/view/20260911000674",
+          "snippet": "인도에서 벌고 있는 수익을 게임 산업의 성장을 위해 e스포츠 기업, 스타트업에 투자를 시작했다\"고 설명했다. [서울=뉴스핌] 이건주 기자 = 판카즈 아가르왈 태그하이브 대표가 11일 오전 서울 여의도 페어몬트호텔...",
+          "source": "뉴스핌",
+          "sources": [
+            {
+              "name": "뉴스핌",
+              "url": "https://www.newspim.com/news/view/20260911000674",
+              "origin": "naver",
+              "title": "[아시아포럼] \"인도 경제 빠르게 성장…韓 기업, 조선업·AI 주목해야\""
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-11T12:26:00+09:00",
+          "ts": 1789097160.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
         }
       ]
     },
@@ -13712,7 +13572,7 @@
       "priority": 14,
       "page": "trends",
       "preview": 3,
-      "count": 32,
+      "count": 30,
       "items": [
         {
           "title": "캔 크기 위성으로 산불 예측·AI 분석…학생들이 띄운 '작은 우주'",
@@ -13902,50 +13762,6 @@
           "group_label": "전망 · 심층분석"
         },
         {
-          "title": "“AI 발전에 통계분석 큰 변화…머신러닝 기술 융합해야”",
-          "url": "https://biz.heraldcorp.com/article/10870006?ref=naver",
-          "snippet": "카드매출·검색 트렌드 등 고빈도 데이터에 기반한 ‘머신러닝 기술’을 융합해야 한다”고 제언했다.... “최근 AI 기술의 급격한 발전과 데이터 환경의 변화로, 통계의 생산과 분석 방식 역시 큰 변화를 맞이하고 있다”...",
-          "source": "헤럴드경제",
-          "sources": [
-            {
-              "name": "헤럴드경제",
-              "url": "https://biz.heraldcorp.com/article/10870006?ref=naver",
-              "origin": "naver",
-              "title": "“AI 발전에 통계분석 큰 변화…머신러닝 기술 융합해야”"
-            },
-            {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aeWlxMTN2ZU1RejBfaG5uaXN2TTk0NkxnQnI1aWE5YVJNQTh6eGxDZUxxc0Z6MllNbHZndFdXbzN1NFlZYkxlc3UySmxXUXBLblFv?oc=5",
-              "origin": "google",
-              "title": "\"AI 발전에 통계분석 큰 변화…머신러닝 기술 융합해야\""
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-11T09:30:00+09:00",
-          "ts": 1789086600.0,
-          "group": "trend_insight",
-          "group_label": "전망 · 심층분석"
-        },
-        {
-          "title": "[심층분석]① ‘AI 쓰는 교사’에서 ‘AI로 수업 바꾸는 교사’로…교원양성도 AX 전환 -1부-",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BNG9oYklxMzk0RmlqT1NMUWtCWnU1YjJpWWl2eTBhbjR5dU9VNS1neXB6WENvOUo4Q1NMU21iMmZkRnFnMzFaNHRwQlpDUWRaZFFDR1pUbVVVM0lSYUg0dElHd0RnemtEWHc?oc=5",
-          "snippet": "",
-          "source": "뉴스밸류",
-          "sources": [
-            {
-              "name": "뉴스밸류",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BNG9oYklxMzk0RmlqT1NMUWtCWnU1YjJpWWl2eTBhbjR5dU9VNS1neXB6WENvOUo4Q1NMU21iMmZkRnFnMzFaNHRwQlpDUWRaZFFDR1pUbVVVM0lSYUg0dElHd0RnemtEWHc?oc=5",
-              "origin": "google",
-              "title": "[심층분석]① ‘AI 쓰는 교사’에서 ‘AI로 수업 바꾸는 교사’로…교원양성도 AX 전환 -1부-"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-12T13:34:21+09:00",
-          "ts": 1789187661.0,
-          "group": "trend_insight",
-          "group_label": "전망 · 심층분석"
-        },
-        {
           "title": "\"반도체 산업은 항상 사이클\"…현재 국면에서 투자 전략은?",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhMjFHbmYyWHUtR2JJMGV0cnNvcEJzZEM4Ylp0SnJTazJxak45RUd0UUFOOW5SVG1DTFJhNElja1hpMU1OcVEtMnd6SGsydUhGNlFLM0J3aGRZZw?oc=5",
           "snippet": "",
@@ -14037,6 +13853,25 @@
           "source_count": 1,
           "published": "2026-09-11T19:05:27+09:00",
           "ts": 1789121127.0,
+          "group": "trend_insight",
+          "group_label": "전망 · 심층분석"
+        },
+        {
+          "title": "‘바다에서 찾는 인류의 미래’… 서천군, AI와 만난 ‘해양 바이오’ 신기원 열다",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xaDR3WmhlWmtPLXFYLWdobUlEY3B2MUtYRnR5d1RvNGxZSjMtbGFEdXlSLTZBWjhjeWcycEVtMGg0ekJBTzdvY3hKaGs0em5zN1pEeUZvMEo4MGdPdVE?oc=5",
+          "snippet": "",
+          "source": "서해신문",
+          "sources": [
+            {
+              "name": "서해신문",
+              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xaDR3WmhlWmtPLXFYLWdobUlEY3B2MUtYRnR5d1RvNGxZSjMtbGFEdXlSLTZBWjhjeWcycEVtMGg0ekJBTzdvY3hKaGs0em5zN1pEeUZvMEo4MGdPdVE?oc=5",
+              "origin": "google",
+              "title": "‘바다에서 찾는 인류의 미래’… 서천군, AI와 만난 ‘해양 바이오’ 신기원 열다"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-11T17:58:38+09:00",
+          "ts": 1789117118.0,
           "group": "trend_insight",
           "group_label": "전망 · 심층분석"
         },
@@ -14139,12 +13974,12 @@
           "title": "농협중앙회, 조합장 대상 AI 경영교육…미래경영 역량 강화",
           "url": "https://www.dailian.co.kr/news/view/1689377/?sc=Naver",
           "snippet": "교육은 농업·농촌 트렌드와 경제전망을 비롯해 리더십·소통, 생성형 인공지능(AI)을 활용한 조합경영 혁신 등 현장 중심 프로그램으로 구성됐다. 강호동 농협중앙회장은 \"농업·농촌의 위기를 극복하기 위해서는...",
-          "source": "데일리안",
+          "source": "dailian.co.kr",
           "sources": [
             {
-              "name": "데일리안",
-              "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOOEVPLWIySHZpQldyaGZkb3BPNWZoV2pjX3R5WnNUR0tya3dZamlhZmtwWW9ZX1Qwb3VsVFpSaVFIbmRiOTRqS3lHNDYzVm9SdmlYS08wUWhGSUtPZS1JZzJET3lZX21KMll6VGNhRHJPQ0FnSHM5RW9Nb0drRm5jdFl5SHhsSWJXYmJTR19JWU16VGk1RHRaZTJZSmdHajcxZ0g5eXdFVDZ5TzZBb2JtS1VHLUNBM0d4Vk5LS2Rrb2t1M3MtRmxHTXpyZkZDaVRvaWxCQW5haUNlVTV1enlsZVdRVzU1UjlUR2ttdzVHMEs4VVdlNjNZcTh2UmotbUtUY1plaF9VRUtNTnFGLUE?oc=5",
-              "origin": "google",
+              "name": "dailian.co.kr",
+              "url": "https://www.dailian.co.kr/news/view/1689377/?sc=Naver",
+              "origin": "naver",
               "title": "농협중앙회, 조합장 대상 AI 경영교육…미래경영 역량 강화"
             }
           ],
@@ -14362,25 +14197,6 @@
           "ts": 1789089480.0,
           "group": "trend_insight",
           "group_label": "전망 · 심층분석"
-        },
-        {
-          "title": "aT, AI 데이터 분석으로 화훼농가 맞춤형 컨설팅 전개",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPYm9nWEU5cWMwSExTT2pNTlhMb1I2dUllQ2VEMWhQTnFvOUxWVGVSZTgwREtmRkFVWWJNNHZfd29PNWYwTDdnQk5ISjF2NEZBS1IzcFNWQllObWxjMUkwYUhxYTc0NDluNmhmTg?oc=5",
-          "snippet": "",
-          "source": "농업인신문",
-          "sources": [
-            {
-              "name": "농업인신문",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPYm9nWEU5cWMwSExTT2pNTlhMb1I2dUllQ2VEMWhQTnFvOUxWVGVSZTgwREtmRkFVWWJNNHZfd29PNWYwTDdnQk5ISjF2NEZBS1IzcFNWQllObWxjMUkwYUhxYTc0NDluNmhmTg?oc=5",
-              "origin": "google",
-              "title": "aT, AI 데이터 분석으로 화훼농가 맞춤형 컨설팅 전개"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-11T09:29:07+09:00",
-          "ts": 1789086547.0,
-          "group": "trend_insight",
-          "group_label": "전망 · 심층분석"
         }
       ]
     },
@@ -14390,7 +14206,7 @@
       "priority": 15,
       "page": "trends",
       "preview": 3,
-      "count": 37,
+      "count": 38,
       "items": [
         {
           "title": "모비데이즈 유범령 대표, K-파운더스 커넥트인 파리 글로벌 스타트업 네트워크 강조 > 뉴스",
@@ -14557,6 +14373,31 @@
           "source_count": 2,
           "published": "2026-09-11T16:24:00+09:00",
           "ts": 1789111440.0,
+          "group": "trend_global",
+          "group_label": "글로벌 동향"
+        },
+        {
+          "title": "[중국증시 마감] 일제히 하락...AI 인프라·전자부품주는 '선방'",
+          "url": "https://www.newspim.com/news/view/20260911000962",
+          "snippet": "반면, 다원화 금융과 산업금속·귀금속 등은 최근 주가 상승에 따른 차익실현 압력이 상대적으로 크게... 개별종목 중에서는 이날 과창판(科創板∙커촹반)에 상장한 중국 AI 반도체 기업 엔플레임(燧原科技...",
+          "source": "뉴스핌",
+          "sources": [
+            {
+              "name": "뉴스핌",
+              "url": "https://www.newspim.com/news/view/20260911000962",
+              "origin": "naver",
+              "title": "[중국증시 마감] 일제히 하락...AI 인프라·전자부품주는 '선방'"
+            },
+            {
+              "name": "네이트",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lWVpsWlhxUHlFZ3dHMVZ3QnVxSmMzR3k5YWM1N0Z3Wld3Z3pheFp5amVmVjhEa0o4OUdob2dCUFRYM3ltdkY5aXZSNm1MZVBEVWhZ?oc=5",
+              "origin": "google",
+              "title": "[중국증시 마감] 일제히 하락…AI 인프라·전자부품주는 '선방'"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-09-11T16:19:00+09:00",
+          "ts": 1789111140.0,
           "group": "trend_global",
           "group_label": "글로벌 동향"
         },
@@ -14788,6 +14629,25 @@
           "group_label": "글로벌 동향"
         },
         {
+          "title": "CIA 정보전, 중국 AI·반도체 기업까지…베이징 “필요한 조치”",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FWVZqdzJIcVVKeHZkQzNsSlptcE5aNUVTOGRKc2FZMGNJQm53Q28xaGJwTWVpRl9mT1BkVzVSVWNrbW8wSVVvcDNsazYtUzRKT1k4SEdB?oc=5",
+          "snippet": "",
+          "source": "인터내셔널포커스",
+          "sources": [
+            {
+              "name": "인터내셔널포커스",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FWVZqdzJIcVVKeHZkQzNsSlptcE5aNUVTOGRKc2FZMGNJQm53Q28xaGJwTWVpRl9mT1BkVzVSVWNrbW8wSVVvcDNsazYtUzRKT1k4SEdB?oc=5",
+              "origin": "google",
+              "title": "CIA 정보전, 중국 AI·반도체 기업까지…베이징 “필요한 조치”"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-11T21:30:55+09:00",
+          "ts": 1789129855.0,
+          "group": "trend_global",
+          "group_label": "글로벌 동향"
+        },
+        {
           "title": "한국 대미투자 ‘위험 분산 모델’ 변경 요구한 미국 원금 회수 불리 우...",
           "url": "https://vop.co.kr/A00001696655.html",
           "snippet": "이 경우 한국은 실패한 프로젝트의 손실을 떠안게 될 우려가 있다.11일 산업통상부에 따르면, 김정관 장관은... 진보당은 해당 사업에 대해 엑손모빌 등 석유 메이저와 중국도 일찌감치 사업타당성을 평가하며 두 손 두...",
@@ -14921,40 +14781,21 @@
           "group_label": "글로벌 동향"
         },
         {
-          "title": "[중국증시 마감] 일제히 하락...AI 인프라·전자부품주는 '선방'",
-          "url": "https://www.newspim.com/news/view/20260911000962",
-          "snippet": "반면, 다원화 금융과 산업금속·귀금속 등은 최근 주가 상승에 따른 차익실현 압력이 상대적으로 크게... 개별종목 중에서는 이날 과창판(科創板∙커촹반)에 상장한 중국 AI 반도체 기업 엔플레임(燧原科技...",
-          "source": "뉴스핌",
-          "sources": [
-            {
-              "name": "뉴스핌",
-              "url": "https://www.newspim.com/news/view/20260911000962",
-              "origin": "naver",
-              "title": "[중국증시 마감] 일제히 하락...AI 인프라·전자부품주는 '선방'"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-11T16:19:00+09:00",
-          "ts": 1789111140.0,
-          "group": "trend_global",
-          "group_label": "글로벌 동향"
-        },
-        {
           "title": "현대차그룹, 美 실리콘밸리 인재 쓸어담는다⋯AI·로봇 9개사 총출동",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyMFhxTjhyTGV2R2o2dGJXNEhURzU0akJkZWdQT0JzTU4zSmhiZW9yYXdGUHdhdjVpNTMxRnBFYWFfUWtNMmZqaE9NMzRuVENnbHVHcjZhWVBnV1otamdPUVlKZnVmdE8tYUxGVHJIVQ?oc=5",
-          "snippet": "",
-          "source": "autodaily.co.kr",
+          "snippet": "현대자동차그룹이 미국 실리콘밸리에서 인공지능(AI)·로보틱스·자율주행 분야의 글로벌 기술인재 확보에 나선다. 현대차와 기아뿐 아니라 보스턴다이내믹스, 모셔널, 포티투닷(42dot)까지 한자리에 모여 그룹의...",
+          "source": "엠투데이",
           "sources": [
             {
-              "name": "autodaily.co.kr",
+              "name": "엠투데이",
               "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyMFhxTjhyTGV2R2o2dGJXNEhURzU0akJkZWdQT0JzTU4zSmhiZW9yYXdGUHdhdjVpNTMxRnBFYWFfUWtNMmZqaE9NMzRuVENnbHVHcjZhWVBnV1otamdPUVlKZnVmdE8tYUxGVHJIVQ?oc=5",
               "origin": "google",
               "title": "현대차그룹, 美 실리콘밸리 인재 쓸어담는다⋯AI·로봇 9개사 총출동"
             }
           ],
           "source_count": 1,
-          "published": "2026-09-11T15:15:00+09:00",
-          "ts": 1789107300.0,
+          "published": "2026-09-11T15:16:00+09:00",
+          "ts": 1789107360.0,
           "group": "trend_global",
           "group_label": "글로벌 동향"
         },
