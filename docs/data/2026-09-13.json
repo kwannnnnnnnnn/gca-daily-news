@@ -1,6 +1,6 @@
 {
   "date": "2026-09-13",
-  "generated_at": "2026-09-13T21:08:24.245621+09:00",
+  "generated_at": "2026-09-13T21:38:04.194883+09:00",
   "window_hours": 30,
   "sources": [
     "네이버뉴스(API HUB)",
@@ -9,11 +9,11 @@
   "use_naver": true,
   "preview_items": 5,
   "counts": {
-    "collected": 2746,
-    "kept": 1206,
-    "excluded": 1540,
-    "consolidated": 637,
-    "multi": 182
+    "collected": 2735,
+    "kept": 1203,
+    "excluded": 1532,
+    "consolidated": 641,
+    "multi": 176
   },
   "groups": [
     {
@@ -137,31 +137,31 @@
       "priority": 2,
       "page": "main",
       "preview": null,
-      "count": 65,
+      "count": 69,
       "items": [
         {
-          "title": "추미애 \"산후조리비 중단은 불가피한 선택\"",
-          "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1537337",
-          "snippet": "추미애 경기도지사는 산후조리비 지원 사업 종료에 대해 \"불가피한 선택\"이라고 이해를 구했습니다. SNS를 통해 \"올해 예산은 애초부터 9개월 치만 편성돼 있었고 석 달 치 공백을 메울 돈이 남아 있지 않은 가운데 아이들...",
-          "source": "뉴스1",
+          "title": "경기도 산후조리비 돌연 종료…추미애 \"난임부부 지원이 더 우선\"",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=55237",
+          "snippet": "추미애 경기도지사는 한정된 재정 여건에서 난임부부 지원을 우선하기 위한 불가피한 결정이라고 설명했다. 추 지사는 13일 자신의 소셜미디어(SNS)에 \"산후조리비 지원 예산을 민선 9기 도정이 임의로 깎은 것이 아니다...",
+          "source": "조선일보",
           "sources": [
             {
-              "name": "뉴스1",
-              "url": "https://www.news1.kr/local/gyeonggi/6288957",
+              "name": "조선일보",
+              "url": "http://weekly.chosun.com/news/articleView.html?idxno=55237",
               "origin": "naver",
-              "title": "추미애 경기지사 \"산후조리비 지원 중단은 불가피한 선택…이해해라\""
+              "title": "경기도 산후조리비 돌연 종료…추미애 \"난임부부 지원이 더 우선\""
             },
             {
-              "name": "한국경제TV",
-              "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609130076&t=NN",
+              "name": "m-economynews.com",
+              "url": "https://www.m-economynews.com/news/article.html?no=70682",
               "origin": "naver",
-              "title": "추미애 \"산후조리비 지원 중단, 불가피한 선택…수차례 논의\""
+              "title": "추미애 “산후조리비보다 난임 지원 우선”…재정난에 사업 조정"
             },
             {
-              "name": "아이뉴스24",
-              "url": "http://www.inews24.com/view/2005041",
+              "name": "문화일보",
+              "url": "https://www.munhwa.com/article/11616622?ref=naver",
               "origin": "naver",
-              "title": "추미애 \"산후조리비 중단은 불가피한 선택\""
+              "title": "추미애, 산후조리비 지원 종료에 “집행부, 난임부부 지원 우선 제안”"
             },
             {
               "name": "중앙일보",
@@ -170,106 +170,106 @@
               "title": "秋 “산후조리비 중단은 불가피한 선택…난임부부 지원 우선”"
             },
             {
+              "name": "더팩트",
+              "url": "https://news.tf.co.kr/read/national/2365242.htm",
+              "origin": "naver",
+              "title": "추미애 \"산후조리비 임의 삭감 아냐…난임부부 지원 우선\""
+            },
+            {
+              "name": "thepowernews.co.kr",
+              "url": "https://www.thepowernews.co.kr/view.php?ud=20260913161838359861d72a7352_7",
+              "origin": "naver",
+              "title": "추미애 경기지사 “산후조리비보다 난임부부 지원 중단 막는 게 우선”"
+            },
+            {
+              "name": "세계일보",
+              "url": "https://www.segye.com/newsView/20260913508926?OutUrl=naver",
+              "origin": "naver",
+              "title": "[속보] 산후조리비 중단 논란에…추미애 “난임부부 지원 우선”"
+            },
+            {
+              "name": "경기일보",
+              "url": "https://www.kyeonggi.com/article/20260913580269",
+              "origin": "naver",
+              "title": "산후조리비 지원 중단 논란… 추미애 “재정난 속 난임 우선”"
+            }
+          ],
+          "source_count": 8,
+          "published": "2026-09-13T21:25:00+09:00",
+          "ts": 1789302300.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "추미애, 산후조리비 지원 사업 종료에 “불가피한 선택”",
+          "url": "https://www.mk.co.kr/article/12151578",
+          "snippet": "추미애 경기도지사는 경기도가 산후조리비 지원 사업 종료를 결정한 것에 대해 “불가피한 선택”이라고 밝혔다. 추 지사는 13일 자신의 페이스북을 통해 “올해 예산은 애초부터 9개월 치만 편성돼 있었고 석 달 치...",
+          "source": "매일경제",
+          "sources": [
+            {
+              "name": "매일경제",
+              "url": "https://www.mk.co.kr/article/12151578",
+              "origin": "naver",
+              "title": "추미애, 산후조리비 지원 사업 종료에 “불가피한 선택”"
+            },
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202609131758001",
+              "origin": "naver",
+              "title": "추미애 경기지사, 산후조리비 지원 사업 종료에 “불가피한 선택”"
+            },
+            {
+              "name": "연합뉴스TV",
+              "url": "http://www.yonhapnewstv.co.kr/news/AKR202609131755523xw",
+              "origin": "naver",
+              "title": "경기도 '산후조리비 50만 원 지원 폐지'에…추미애 \"불가피한 선택\""
+            },
+            {
               "name": "YTN",
               "url": "https://www.ytn.co.kr/_ln/0115_202609131742566488",
               "origin": "naver",
               "title": "추미애 \"산후조리비 지원 중단은 불가피한 선택\""
             },
             {
-              "name": "한국경제",
-              "url": "https://www.hankyung.com/article/2026091312857",
+              "name": "뉴시스",
+              "url": "https://www.newsis.com/view/NISX20260913_0003787369",
               "origin": "naver",
-              "title": "추미애 \"산후조리비 중단은 불가피한 선택\""
+              "title": "추미애 \"산후조리비 지원 종료…불가피한 예산 상황\""
             },
             {
-              "name": "조선비즈",
-              "url": "https://biz.chosun.com/topics/topics_social/2026/09/13/7QN7VEMJFNBGTIXE2SJFFAFPEY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-              "origin": "naver",
-              "title": "추미애 “산후조리비 중단 불가피…급식·취약계층 지원 멈출 수 없어”"
-            },
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260913044500061?input=1195m",
-              "origin": "naver",
-              "title": "추미애 \"산후조리비 중단은 불가피한 선택…수차례 논의 거듭\""
+              "name": "네이트",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBya043Tkh0bkRYRHRUbkg1NDBJRW4wRHlYUnh0SUk1UEcxT2wwS2VFTWZXc2xnbVNBS0lfZjRfMUZsbW4ybDB2Y0RfS094MUdleVBR?oc=5",
+              "origin": "google",
+              "title": "추미애 경기지사, 산후조리비 지원 사업 종료에 \"불가피한 선택\""
             }
           ],
-          "source_count": 8,
-          "published": "2026-09-13T19:58:00+09:00",
-          "ts": 1789297080.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "추미애 “민주화는 현재진행형…주권자인 국민 뜻 받들어야”",
-          "url": "https://www.m-economynews.com/news/article.html?no=70680",
-          "snippet": "지원 추미애 경기도지사가 민주주의를 선거로 완성되는 제도가 아닌 국민의 뜻을 정치와 민생에 구현해... 미래세대가 민주주의의 가치를 이해할 수 있도록 관련 사업을 이어갈 계획이다 추미애 경기도지사 <경기도 제공>",
-          "source": "m-economynews.com",
-          "sources": [
-            {
-              "name": "m-economynews.com",
-              "url": "https://www.m-economynews.com/news/article.html?no=70680",
-              "origin": "naver",
-              "title": "추미애 “민주화는 현재진행형…주권자인 국민 뜻 받들어야”"
-            },
-            {
-              "name": "웹이코노미",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9EUkdDdWtLSVBkR25NeGwwU2Zoa1diR2tuUkhDcUdrVnl2Wk9PRXdFRlNyNUlXdVJicjhQVmJmRVVEdHllSFVHNGFIaXR1YUdRYmVLZjF0Mk4yeGZ3SzlrbWRDMjFOM0hfcW50WEFFUlppQQ?oc=5",
-              "origin": "google",
-              "title": "추미애, 경기도 민주화운동희생자 추모제 참석 “민주화는 현재진행형…주권자인 국민의 뜻 받들어야”"
-            },
-            {
-              "name": "뉴스파노라마",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XT3RRcUk0YlBMSm5jVGJGV1dIRFpiZUVsUER3SUtVSEVBcld2WmhHYlRKNmJOYmRDTWNIWEp0N1JGOWxONUNwVXV2WXM1QWVRX1RFZ3lwTENaU2ZfUlY0YWF1OEJXdVdTamZLOUFqRQ?oc=5",
-              "origin": "google",
-              "title": "추미애, 경기도 민주화운동희생자 추모제 참석 “민주화는 현재진행형…주권자인 국민의 뜻 받들어야”"
-            },
-            {
-              "name": "중부시사신문",
-              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBYWRmVkJWOGhnV05CSkk2RlBDWHR4Zm1IdEEwTFcybm55NzNqZmRfazlzT1BuQWZWaElkSUdZOTZkb3ktSDU2am9uaU5MRVg0b3pMYzh2YVZkOWtablpRc0NDVQ?oc=5",
-              "origin": "google",
-              "title": "추미애, 경기도 민주화운동희생자 추모제 참석 “민주화는 현재진행형…주권자인 국민의 뜻 받들어야”"
-            },
-            {
-              "name": "팝콘뉴스",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3alZSZlQ0UW9GT0V2a1kzYjFQOVFkUXFDRG05UjdNXzlTNmVGRjR0X0hneGVCOHVwQ0VPVXhSWXdsbld2UXBqR0ZsRmFBWm1OVkl4Y2p2YUxyYTVSOElmOGl6dzloMUlhRllUVkNn0gFyQVVfeXFMTWhpeVNOR3dibTZoUzNjWFlaQU5mOEN3bGI4OENxUkxGNnh5c0ZvWkNZazVzeV9RemJVTFl0aXFfMzRvVy0wdm56YlhwSjQzX3kyUF9qejdRQVFucU5NU0Rwc20xTkFGclpyMW1VemthTmNn?oc=5",
-              "origin": "google",
-              "title": "추미애 경기도지사, “민주화는 현재진행형…주권자인 국민의 뜻 받들어야”"
-            },
-            {
-              "name": "프레스뉴스",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3RzlFV2ZSem9vcnR5WktXN1ZVakEwRi00Ml9ndGVkRmhQWjRsNG5RVXpFeWVnWXhVTHZiU0ROQk1zOUV0XzhNTHREWTltbHY3enlFYkR1cWd3MmxGU29YVzFnRVJvcWtfZ2dQdU9ld20?oc=5",
-              "origin": "google",
-              "title": "추미애 지사, 경기도 민주화운동희생자 추모제 참석 “민주화는 현재진행형…주권자인 국민의 뜻 받들어야”"
-            },
-            {
-              "name": "뉴데일리 경기",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8ta1dyTUE1b0FGdmh5WTJkN05GSVo2N3M1RF9fMzI0ZnpkeHFzV1U2bGczRWZnYTJWUHAtRElYZ0tqaW52T0RPdFltNXpYSWp4akl0Y1RqOUJBem5PME9yN2x2Y3VQM3NoWHBQZU9oQ2t3TVl2UzE1MUJuUzVqS0HSAX9BVV95cUxPLWtXck1BNW9BRnZoeVkyZDdORklaNjdzNURfXzMyNGZ6ZHhxc1dVNmxnM0VmZ2EyVlBwLURJWGdLamludk9ET3RZbTV6WElqeGpJdGNUajlCQXpuTzBPcjdsdmN1UDNzaFhwUGVPaENrd01ZdlMxNTFCblM1aktB?oc=5",
-              "origin": "google",
-              "title": "추미애 경기지사 \"민주화는 현재진행형… 국민 뜻 받들어야\""
-            }
-          ],
-          "source_count": 7,
-          "published": "2026-09-13T20:36:00+09:00",
-          "ts": 1789299360.0,
+          "source_count": 6,
+          "published": "2026-09-13T18:52:00+09:00",
+          "ts": 1789293120.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
         {
           "title": "경기신용보증재단, 추석맞이 전통시장 장보기로 현장의 목소리 청취",
-          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1015551",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15ZmlaalVzYkVhX1dNLXpLdGRvWDVJSm1jVVdyalZYd2hlLVg5UWJzN3gtQVlQc0pSTTg0SkJ0T2hTTkdfNDZhUHJlRWh4Q1daSXc?oc=5",
           "snippet": "특히, 민선9기 추미애 경기도지사가 취임사를 통해 \"도민의 목소리를 도정의 출발점으로 삼겠다\"고 강조한 만큼, 경기신보도 이번 행사에서 민생 현장의 목소리를 직접 듣는 데 초점을 맞췄다. 이날 행사에는 시석중...",
-          "source": "경기평화신문",
+          "source": "케이에스피뉴스",
           "sources": [
             {
-              "name": "경기평화신문",
+              "name": "케이에스피뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15ZmlaalVzYkVhX1dNLXpLdGRvWDVJSm1jVVdyalZYd2hlLVg5UWJzN3gtQVlQc0pSTTg0SkJ0T2hTTkdfNDZhUHJlRWh4Q1daSXc?oc=5",
+              "origin": "google",
+              "title": "경기신용보증재단, 추석맞이 전통시장 장보기로 현장의 목소리 청취"
+            },
+            {
+              "name": "ggpyeonghwa.com",
               "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9DWHVYUU1tb2FDclVMbWV1NWpBZVRwNFo2Sm9TNHdJMWQzWXFWR0VSZjZ4bGlITC0xdkpKdmUwZ1c1dzVscjVORE93?oc=5",
               "origin": "google",
               "title": "경기신용보증재단, 추석 앞두고 파주서 전통시장 장보기 행사"
             },
             {
-              "name": "OhmyNews",
-              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY1hyZl9yb1I0VjFqU3BlQUY2VllpZWZSYzBXZ3NsbVpCOGxpaFI0THl4Zk9TaldjWGdsUHEtVC1MSkxqd3JxaTNsTkFqUE9meWNuMUxwckVwaXVxUFZadEtITUticXI5NEUyei1qOWQ2VWFRcGVSUE9rUFBRa1BkVExCeV9yY3Ffa25GOXRDWXhGNk1CcFZ5X2tQTTQyS0ltQmhoSjVoYVM?oc=5",
+              "name": "v.daum.net",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxck5TSXZsOXduYWhDM1JvYWJHQ05IVG4wVlNWZkt0Y0ZqVTNRWmhfUVhicUhycHFCOFZtYktCTW9PQXU1b3ZOSHduN1RpMWM?oc=5",
               "origin": "google",
               "title": "경기신보, 추석 앞두고 전통시장 찾아 상인 목소리 청취"
             },
@@ -286,12 +286,6 @@
               "title": "경기신용보증재단, 추석맞이 전통시장 장보기로 현장의 목소리 청취"
             },
             {
-              "name": "케이에스피뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15ZmlaalVzYkVhX1dNLXpLdGRvWDVJSm1jVVdyalZYd2hlLVg5UWJzN3gtQVlQc0pSTTg0SkJ0T2hTTkdfNDZhUHJlRWh4Q1daSXc?oc=5",
-              "origin": "google",
-              "title": "경기신용보증재단, 추석맞이 전통시장 장보기로 현장의 목소리 청취"
-            },
-            {
               "name": "투데이경제",
               "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0dFU5SExJLWxFRGI4b1h6RlhrYkxpQTlSQThPclNCdnd6NFBQUHJiNHFQc3EtT0pfVjhMSndPSlg4dEpLT1BZVzVoSUJLUGhPeWljQXRzTG40X1hLOGVWX1ZzZjBHTkZ0WHJR?oc=5",
               "origin": "google",
@@ -301,6 +295,98 @@
           "source_count": 6,
           "published": "2026-09-13T15:44:00+09:00",
           "ts": 1789281840.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "추미애 경기지사 \"민주화는 현재진행형… 국민 뜻 받들어야\"",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8ta1dyTUE1b0FGdmh5WTJkN05GSVo2N3M1RF9fMzI0ZnpkeHFzV1U2bGczRWZnYTJWUHAtRElYZ0tqaW52T0RPdFltNXpYSWp4akl0Y1RqOUJBem5PME9yN2x2Y3VQM3NoWHBQZU9oQ2t3TVl2UzE1MUJuUzVqS0HSAX9BVV95cUxPLWtXck1BNW9BRnZoeVkyZDdORklaNjdzNURfXzMyNGZ6ZHhxc1dVNmxnM0VmZ2EyVlBwLURJWGdLamludk9ET3RZbTV6WElqeGpJdGNUajlCQXpuTzBPcjdsdmN1UDNzaFhwUGVPaENrd01ZdlMxNTFCblM1aktB?oc=5",
+          "snippet": "뉴데일리 김현우 기자 = 추미애 경기도지사가 12일 남양주시 모란공원 민주열사묘역에서 열린 '2026년 경기도 민주화운동희생자 추모제'에 참석해 민주주의를 위해 헌신한 희생자들을 추모하고 유가족을 위로했다....",
+          "source": "뉴데일리 경기",
+          "sources": [
+            {
+              "name": "뉴데일리 경기",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8ta1dyTUE1b0FGdmh5WTJkN05GSVo2N3M1RF9fMzI0ZnpkeHFzV1U2bGczRWZnYTJWUHAtRElYZ0tqaW52T0RPdFltNXpYSWp4akl0Y1RqOUJBem5PME9yN2x2Y3VQM3NoWHBQZU9oQ2t3TVl2UzE1MUJuUzVqS0HSAX9BVV95cUxPLWtXck1BNW9BRnZoeVkyZDdORklaNjdzNURfXzMyNGZ6ZHhxc1dVNmxnM0VmZ2EyVlBwLURJWGdLamludk9ET3RZbTV6WElqeGpJdGNUajlCQXpuTzBPcjdsdmN1UDNzaFhwUGVPaENrd01ZdlMxNTFCblM1aktB?oc=5",
+              "origin": "google",
+              "title": "추미애 경기지사 \"민주화는 현재진행형… 국민 뜻 받들어야\""
+            },
+            {
+              "name": "뉴스파노라마",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XT3RRcUk0YlBMSm5jVGJGV1dIRFpiZUVsUER3SUtVSEVBcld2WmhHYlRKNmJOYmRDTWNIWEp0N1JGOWxONUNwVXV2WXM1QWVRX1RFZ3lwTENaU2ZfUlY0YWF1OEJXdVdTamZLOUFqRQ?oc=5",
+              "origin": "google",
+              "title": "추미애, 경기도 민주화운동희생자 추모제 참석 “민주화는 현재진행형…주권자인 국민의 뜻 받들어야”"
+            },
+            {
+              "name": "팝콘뉴스",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3alZSZlQ0UW9GT0V2a1kzYjFQOVFkUXFDRG05UjdNXzlTNmVGRjR0X0hneGVCOHVwQ0VPVXhSWXdsbld2UXBqR0ZsRmFBWm1OVkl4Y2p2YUxyYTVSOElmOGl6dzloMUlhRllUVkNn0gFyQVVfeXFMTWhpeVNOR3dibTZoUzNjWFlaQU5mOEN3bGI4OENxUkxGNnh5c0ZvWkNZazVzeV9RemJVTFl0aXFfMzRvVy0wdm56YlhwSjQzX3kyUF9qejdRQVFucU5NU0Rwc20xTkFGclpyMW1VemthTmNn?oc=5",
+              "origin": "google",
+              "title": "추미애 경기도지사, “민주화는 현재진행형…주권자인 국민의 뜻 받들어야”"
+            },
+            {
+              "name": "웹이코노미",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9EUkdDdWtLSVBkR25NeGwwU2Zoa1diR2tuUkhDcUdrVnl2Wk9PRXdFRlNyNUlXdVJicjhQVmJmRVVEdHllSFVHNGFIaXR1YUdRYmVLZjF0Mk4yeGZ3SzlrbWRDMjFOM0hfcW50WEFFUlppQQ?oc=5",
+              "origin": "google",
+              "title": "추미애, 경기도 민주화운동희생자 추모제 참석 “민주화는 현재진행형…주권자인 국민의 뜻 받들어야”"
+            },
+            {
+              "name": "중부시사신문",
+              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBYWRmVkJWOGhnV05CSkk2RlBDWHR4Zm1IdEEwTFcybm55NzNqZmRfazlzT1BuQWZWaElkSUdZOTZkb3ktSDU2am9uaU5MRVg0b3pMYzh2YVZkOWtablpRc0NDVQ?oc=5",
+              "origin": "google",
+              "title": "추미애, 경기도 민주화운동희생자 추모제 참석 “민주화는 현재진행형…주권자인 국민의 뜻 받들어야”"
+            },
+            {
+              "name": "프레스뉴스",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3RzlFV2ZSem9vcnR5WktXN1ZVakEwRi00Ml9ndGVkRmhQWjRsNG5RVXpFeWVnWXhVTHZiU0ROQk1zOUV0XzhNTHREWTltbHY3enlFYkR1cWd3MmxGU29YVzFnRVJvcWtfZ2dQdU9ld20?oc=5",
+              "origin": "google",
+              "title": "추미애 지사, 경기도 민주화운동희생자 추모제 참석 “민주화는 현재진행형…주권자인 국민의 뜻 받들어야”"
+            }
+          ],
+          "source_count": 6,
+          "published": "2026-09-12T19:36:00+09:00",
+          "ts": 1789209360.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "秋 \"왜 내락세력에 전전긍긍하나\"‥李 \"과격한 선동은 개혁 방해\"",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6851517_37004.html",
+          "snippet": "◀ 앵커 ▶ 최근 추미애 경지지사가 이재명 대통령을 향해 \"왜 내란세력에 업혀 전전긍긍하냐\"고 비판하는 등... ◀ 리포트 ▶ 경기도 민주화운동 희생자 추모제를 찾은 추미애 경기지사. 준비된 원고 없이 마이크를 잡더니...",
+          "source": "MBC",
+          "sources": [
+            {
+              "name": "MBC",
+              "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6851517_37004.html",
+              "origin": "naver",
+              "title": "秋 \"왜 내락세력에 전전긍긍하나\"‥李 \"과격한 선동은 개혁 방해\""
+            },
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202609132102005",
+              "origin": "naver",
+              "title": "이 대통령 “과격 선동으로 개혁 방해 경계해야”…코어 지지층 설득 나..."
+            },
+            {
+              "name": "매일경제",
+              "url": "https://www.mk.co.kr/article/12151498",
+              "origin": "naver",
+              "title": "李대통령, 與강경파 직격 …\"과격 선동으로 개혁 방해하면 안돼\""
+            },
+            {
+              "name": "디지털타임스",
+              "url": "https://www.dt.co.kr/article/12083647?ref=naver",
+              "origin": "naver",
+              "title": "추미애, 李대통령 직격에… 李 “지나친 선동이 개혁 방해”"
+            },
+            {
+              "name": "노컷뉴스",
+              "url": "https://www.nocutnews.co.kr/news/6577153?utm_source=naver&utm_medium=article&utm_campaign=20260912083834",
+              "origin": "naver",
+              "title": "李대통령 \"선명성 드러내는 과격한 선동 경계…결과적으로 개혁 방해\""
+            }
+          ],
+          "source_count": 5,
+          "published": "2026-09-13T21:18:00+09:00",
+          "ts": 1789301880.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -348,172 +434,6 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "추미애, 산후조리비 지원 사업 종료에 “불가피한 선택”",
-          "url": "https://www.mk.co.kr/article/12151578",
-          "snippet": "추미애 경기도지사는 경기도가 산후조리비 지원 사업 종료를 결정한 것에 대해 “불가피한 선택”이라고 밝혔다. 추 지사는 13일 자신의 페이스북을 통해 “올해 예산은 애초부터 9개월 치만 편성돼 있었고 석 달 치...",
-          "source": "매일경제",
-          "sources": [
-            {
-              "name": "매일경제",
-              "url": "https://www.mk.co.kr/article/12151578",
-              "origin": "naver",
-              "title": "추미애, 산후조리비 지원 사업 종료에 “불가피한 선택”"
-            },
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202609131758001",
-              "origin": "naver",
-              "title": "추미애 경기지사, 산후조리비 지원 사업 종료에 “불가피한 선택”"
-            },
-            {
-              "name": "연합뉴스TV",
-              "url": "http://www.yonhapnewstv.co.kr/news/AKR202609131755523xw",
-              "origin": "naver",
-              "title": "경기도 '산후조리비 50만 원 지원 폐지'에…추미애 \"불가피한 선택\""
-            },
-            {
-              "name": "뉴시스",
-              "url": "https://www.newsis.com/view/NISX20260913_0003787369",
-              "origin": "naver",
-              "title": "추미애 \"산후조리비 지원 종료…불가피한 예산 상황\""
-            },
-            {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBya043Tkh0bkRYRHRUbkg1NDBJRW4wRHlYUnh0SUk1UEcxT2wwS2VFTWZXc2xnbVNBS0lfZjRfMUZsbW4ybDB2Y0RfS094MUdleVBR?oc=5",
-              "origin": "google",
-              "title": "추미애 경기지사, 산후조리비 지원 사업 종료에 \"불가피한 선택\""
-            }
-          ],
-          "source_count": 5,
-          "published": "2026-09-13T18:52:00+09:00",
-          "ts": 1789293120.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "李대통령, 여권 강경파 직격…\"개혁의 이름으로 개혁 방해\"",
-          "url": "https://www.hankyung.com/article/2026091313641",
-          "snippet": "추미애 경기지사는 이날 “한동훈과 한배를 탔던 사람이 초대 중수청장이 된다면 그것이 민주화냐”며 이 대통령을 비판했다. 정부는 “검찰 출신을 배제의 조건으로 삼기보다는 신설 조직인 중수청을 이끌어나갈 자질을...",
-          "source": "한국경제",
-          "sources": [
-            {
-              "name": "한국경제",
-              "url": "https://www.hankyung.com/article/2026091313641",
-              "origin": "naver",
-              "title": "李대통령, 여권 강경파 직격…\"개혁의 이름으로 개혁 방해\""
-            },
-            {
-              "name": "서울경제",
-              "url": "https://www.sedaily.com/article/20090324?ref=naver",
-              "origin": "naver",
-              "title": "與 강경파 겨눈 李 “개혁의 이름으로 개혁 방해…가장 큰 걸림돌”"
-            },
-            {
-              "name": "매일경제",
-              "url": "https://www.mk.co.kr/article/12151545",
-              "origin": "naver",
-              "title": "\"개혁 이름으로 개혁 방해\" 극단 직격한 李…중도확장이 통합의 길 [사설..."
-            },
-            {
-              "name": "kado.net",
-              "url": "https://www.kado.net/news/articleView.html?idxno=2072205",
-              "origin": "naver",
-              "title": "이 대통령 \"개혁의 가장 큰 걸림돌은 개혁의 이름으로 개혁 방해하는 것..."
-            },
-            {
-              "name": "디지털타임스",
-              "url": "https://www.dt.co.kr/article/12083647?ref=naver",
-              "origin": "naver",
-              "title": "추미애, 李대통령 직격에… 李 “지나친 선동이 개혁 방해”"
-            }
-          ],
-          "source_count": 5,
-          "published": "2026-09-13T18:20:00+09:00",
-          "ts": 1789291200.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "추미애 \"산후조리비 임의 삭감 아냐…난임부부 지원 우선\"",
-          "url": "https://news.tf.co.kr/read/national/2365242.htm",
-          "snippet": "\"9개월치만 편성된 '미생예산'…한정 재원 속 불가피한 선택\" 경기도 산후조리비 지원 종료로 논란이 커지자, 추미애 경기도지사가 13일 \"민선 9기 도정이 임의로 깎은 것이 아니다\"라고 해명했다. 추 지사는 이날 자신의...",
-          "source": "더팩트",
-          "sources": [
-            {
-              "name": "더팩트",
-              "url": "https://news.tf.co.kr/read/national/2365242.htm",
-              "origin": "naver",
-              "title": "추미애 \"산후조리비 임의 삭감 아냐…난임부부 지원 우선\""
-            },
-            {
-              "name": "thepowernews.co.kr",
-              "url": "https://www.thepowernews.co.kr/view.php?ud=20260913161838359861d72a7352_7",
-              "origin": "naver",
-              "title": "추미애 경기지사 “산후조리비보다 난임부부 지원 중단 막는 게 우선”"
-            },
-            {
-              "name": "세계일보",
-              "url": "https://www.segye.com/newsView/20260913508926?OutUrl=naver",
-              "origin": "naver",
-              "title": "[속보] 산후조리비 중단 논란에…추미애 “난임부부 지원 우선”"
-            },
-            {
-              "name": "경기일보",
-              "url": "https://www.kyeonggi.com/article/20260913580269",
-              "origin": "naver",
-              "title": "산후조리비 지원 중단 논란… 추미애 “재정난 속 난임 우선”"
-            },
-            {
-              "name": "etoday.co.kr",
-              "url": "https://www.etoday.co.kr/news/view/2624861",
-              "origin": "naver",
-              "title": "추미애 \"산후조리비 임의 삭감 아니다\"…난임 296억원 추가"
-            }
-          ],
-          "source_count": 5,
-          "published": "2026-09-13T16:48:00+09:00",
-          "ts": 1789285680.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "추미애, 경기도 민주화운동희생자 추모제 참석",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jdXFSTndkc0NtQUNrZFVjWU5XT3p1c0w0eHJvcUwxYWVUZWJoSE1VRE15U3hmcFBWZjZmYkJJU3Jmc1RGc3VmNDdJZE5mTW1kZ2djQjF4NFpzaUhwbmpMVk80Y0dvZGJadWVEZlROWDMyQ2h5?oc=5",
-          "snippet": "",
-          "source": "글로벌뉴스통신GNA",
-          "sources": [
-            {
-              "name": "글로벌뉴스통신GNA",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jdXFSTndkc0NtQUNrZFVjWU5XT3p1c0w0eHJvcUwxYWVUZWJoSE1VRE15U3hmcFBWZjZmYkJJU3Jmc1RGc3VmNDdJZE5mTW1kZ2djQjF4NFpzaUhwbmpMVk80Y0dvZGJadWVEZlROWDMyQ2h5?oc=5",
-              "origin": "google",
-              "title": "추미애, 경기도 민주화운동희생자 추모제 참석"
-            },
-            {
-              "name": "hbnpress.com",
-              "url": "https://hbnpress.com/news/view/1065611097463963",
-              "origin": "naver",
-              "title": "추미애 경기지사, ‘2026 경기도 민주화운동희생자 추모제’ 참석 \"민주..."
-            },
-            {
-              "name": "서울일보",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rVWlLMWtSU1dDbE9jM1pBVHJIVzhIMk5hMmw1UTlQd1B5d25iYW9EMnVfeWZITlZzdFlBSmM1V2JoVHZ3LVIzTWxidjBWLUJ6YV9QenRES2w5a1VVSVJidjNsOU5Jam4zQmxKOdIBb0FVX3lxTFBwZFdhWnh3dlpGWmMtTy0tdWg3eFlnelhsUnFZLTVacVVKUDktT29xWm0zcGFrb1o4MVlrVlZRQUUtV0phZ2FPZi1PcVBVMEllYnk4SGd4a1UxUFlpenp4ZHlrT0ViTnlqWUFJRjVSaw?oc=5",
-              "origin": "google",
-              "title": "추미애, 경기도 민주화운동희생자 추모제 참석"
-            },
-            {
-              "name": "이코노뉴스",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wbnJidnJJRE9pbmdTcDJBQUctY3lUZDlVN2hGaVVXRFM5djhTUS1YNzBTU1RWLU1IX3ZGSDJEeG1NYjBZamZHQ2pPQnVCc2huSng3VV9DTWpBZUw0aWlvNU5GWnlHcWl0U1lBV0x2bw?oc=5",
-              "origin": "google",
-              "title": "추미애 “민주화는 현재진행형”…경기도 민주화운동 희생자 추모제 참석"
-            }
-          ],
-          "source_count": 4,
-          "published": "2026-09-13T17:51:55+09:00",
-          "ts": 1789289515.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
           "title": "박원석 \"추미애 '하극상' 방치하면 대통령 아무나 걷어차는 존재 돼\"",
           "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2300866",
           "snippet": "박원석 전 정의당 의원이 추미애 경기도지사가 이재명 대통령을 향해 \"내란 세력에 업혀 전전긍긍한다\"고... 그는 \"'선을 넘었다', '더 이상 법사위원이 아니다' 정도의 비판에 그칠 일이 아니다\"며 \"추미애 지사의 본분을...",
@@ -547,6 +467,43 @@
           "source_count": 4,
           "published": "2026-09-13T17:35:00+09:00",
           "ts": 1789288500.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "추미애 경기도지사, 민주화운동 희생자 추모제에서 강조한 정치의 새로...",
+          "url": "https://www.gokorea.kr/news/articleView.html?idxno=878137",
+          "snippet": "추미애 경기도지사는 최근 모란공원에서 열린 경기도 민주화운동 희생자 추모제에 참석했다. 그는 민주화 과정이 여전히 진행 중이라고 강조하며, 국민의 뜻을 진정으로 반영하는 정치가 되어야 한다고 밝혔다. 추 지사는...",
+          "source": "gokorea.kr",
+          "sources": [
+            {
+              "name": "gokorea.kr",
+              "url": "https://www.gokorea.kr/news/articleView.html?idxno=878137",
+              "origin": "naver",
+              "title": "추미애 경기도지사, 민주화운동 희생자 추모제에서 강조한 정치의 새로..."
+            },
+            {
+              "name": "hbnpress.com",
+              "url": "https://hbnpress.com/news/view/1065611097463963",
+              "origin": "naver",
+              "title": "추미애 경기지사, ‘2026 경기도 민주화운동희생자 추모제’ 참석 \"민주..."
+            },
+            {
+              "name": "공감신문",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iOXYwa3BJb2E4bHJGN1FxUVQ5NmdxYngtYlVHLTlBUGZscUlORGFzaE1WNzZrNVpkNDBpS29nMDgxRlBWOGt4SXFKRm4tY1RQWmhZaW9HdWk1QXBQTExXM1BJUXNvZ1Bl?oc=5",
+              "origin": "google",
+              "title": "추미애 경기도지사, 민주화운동 희생자 추모제에서 강조한 정치의 새로운 과제"
+            },
+            {
+              "name": "이코노뉴스",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wbnJidnJJRE9pbmdTcDJBQUctY3lUZDlVN2hGaVVXRFM5djhTUS1YNzBTU1RWLU1IX3ZGSDJEeG1NYjBZamZHQ2pPQnVCc2huSng3VV9DTWpBZUw0aWlvNU5GWnlHcWl0U1lBV0x2bw?oc=5",
+              "origin": "google",
+              "title": "추미애 “민주화는 현재진행형”…경기도 민주화운동 희생자 추모제 참석"
+            }
+          ],
+          "source_count": 4,
+          "published": "2026-09-12T20:56:00+09:00",
+          "ts": 1789214160.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -588,6 +545,68 @@
           "group_label": "경기도지사"
         },
         {
+          "title": "추미애 \"산후조리비 중단은 불가피한 선택\"",
+          "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1537337",
+          "snippet": "추미애 경기도지사는 산후조리비 지원 사업 종료에 대해 \"불가피한 선택\"이라고 이해를 구했습니다. SNS를 통해 \"올해 예산은 애초부터 9개월 치만 편성돼 있었고 석 달 치 공백을 메울 돈이 남아 있지 않은 가운데 아이들...",
+          "source": "뉴스1",
+          "sources": [
+            {
+              "name": "뉴스1",
+              "url": "https://www.news1.kr/local/gyeonggi/6288957",
+              "origin": "naver",
+              "title": "추미애 경기지사 \"산후조리비 지원 중단은 불가피한 선택…이해해라\""
+            },
+            {
+              "name": "한국경제TV",
+              "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609130076&t=NN",
+              "origin": "naver",
+              "title": "추미애 \"산후조리비 지원 중단, 불가피한 선택…수차례 논의\""
+            },
+            {
+              "name": "아이뉴스24",
+              "url": "http://www.inews24.com/view/2005041",
+              "origin": "naver",
+              "title": "추미애 \"산후조리비 중단은 불가피한 선택\""
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-09-13T19:58:00+09:00",
+          "ts": 1789297080.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "경기도 산후조리비 폐지…추미애 “불가피한 선택, 수차례 논의 거듭”",
+          "url": "https://www.dt.co.kr/article/12083676?ref=naver",
+          "snippet": "경기도가 출산 가정에 50만원씩 지급해 온 산후조리비 지원 사업이 폐지되자 추미애 경기도지사는 13일 “불가피한 선택”이라고 입장을 밝혔다. 추 지사는 이날 자신의 페이스북을 통해 “올해 본예산 편성 당시 9개월...",
+          "source": "디지털타임스",
+          "sources": [
+            {
+              "name": "디지털타임스",
+              "url": "https://www.dt.co.kr/article/12083676?ref=naver",
+              "origin": "naver",
+              "title": "경기도 산후조리비 폐지…추미애 “불가피한 선택, 수차례 논의 거듭”"
+            },
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260913044500061?input=1195m",
+              "origin": "naver",
+              "title": "추미애 \"산후조리비 중단은 불가피한 선택…수차례 논의 거듭\""
+            },
+            {
+              "name": "헤럴드경제",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aYzFvMW9zUnVzaE5PakR2MVpXYnRCX1dLeXMzRF8wQjRSYXFHQmdqRGRvaFFRanFxWmlVbWlZaFV3cDBvS0FjdVpDMjExVGt3WnBzX0Zn?oc=5",
+              "origin": "google",
+              "title": "경기도 산후조리비 폐지…추미애 “불가피한 선택…수차례 논의 거듭”"
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-09-13T18:47:00+09:00",
+          "ts": 1789292820.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
           "title": "추미애 경기지사, 모란공원서 민주열사 추모…“민주화는 민생 정의 실...",
           "url": "https://www.etnews.com/20260913000083",
           "snippet": "추미애 경기지사가 민주화운동 희생자들을 추모하며 민주주의를 국민주권과 민생 정의로 확장해야 한다고 강조했다. 경기도는 올해 민주화운동 기념·교육사업에 도비 3억원을 지원하고 있다. 경기도는 추 지사가 지난...",
@@ -615,6 +634,37 @@
           "source_count": 3,
           "published": "2026-09-13T18:44:00+09:00",
           "ts": 1789292640.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "李대통령, 여권 강경파 직격…\"개혁의 이름으로 개혁 방해\"",
+          "url": "https://www.hankyung.com/article/2026091313641",
+          "snippet": "추미애 경기지사는 이날 “한동훈과 한배를 탔던 사람이 초대 중수청장이 된다면 그것이 민주화냐”며 이 대통령을 비판했다. 정부는 “검찰 출신을 배제의 조건으로 삼기보다는 신설 조직인 중수청을 이끌어나갈 자질을...",
+          "source": "한국경제",
+          "sources": [
+            {
+              "name": "한국경제",
+              "url": "https://www.hankyung.com/article/2026091313641",
+              "origin": "naver",
+              "title": "李대통령, 여권 강경파 직격…\"개혁의 이름으로 개혁 방해\""
+            },
+            {
+              "name": "서울경제",
+              "url": "https://www.sedaily.com/article/20090324?ref=naver",
+              "origin": "naver",
+              "title": "與 강경파 겨눈 李 “개혁의 이름으로 개혁 방해…가장 큰 걸림돌”"
+            },
+            {
+              "name": "매일경제",
+              "url": "https://www.mk.co.kr/article/12151545",
+              "origin": "naver",
+              "title": "\"개혁 이름으로 개혁 방해\" 극단 직격한 李…중도확장이 통합의 길 [사설..."
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-09-13T18:20:00+09:00",
+          "ts": 1789291200.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -650,37 +700,6 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "이 대통령 “개혁 걸림돌은 과격한 선동으로 초래될 반동”…4050도 ‘데...",
-          "url": "https://www.khan.co.kr/article/202609131728001",
-          "snippet": "이 대통령의 이 같은 언급은 추미애 경기지사의 발언이 발단이 된 것으로 보인다. 추 지사는 같은 날 경기 남양주시 모란공원 민주열사 묘역에서 열린 민주화운동 희생자 추모제에 참석해 “한동훈과 한배를 탔던 사람이...",
-          "source": "경향신문",
-          "sources": [
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202609131728001",
-              "origin": "naver",
-              "title": "이 대통령 “개혁 걸림돌은 과격한 선동으로 초래될 반동”…4050도 ‘데..."
-            },
-            {
-              "name": "한국일보",
-              "url": "https://www.hankookilbo.com/news/article/A2026091315320000020?did=NA",
-              "origin": "naver",
-              "title": "이 대통령 \"과격한 선동으로 역결집 초래... 필히 경계해야\"... 여권 내 ..."
-            },
-            {
-              "name": "노컷뉴스",
-              "url": "https://www.nocutnews.co.kr/news/6577153?utm_source=naver&utm_medium=article&utm_campaign=20260912083834",
-              "origin": "naver",
-              "title": "李대통령 \"선명성 드러내는 과격한 선동 경계…결과적으로 개혁 방해\""
-            }
-          ],
-          "source_count": 3,
-          "published": "2026-09-13T17:28:00+09:00",
-          "ts": 1789288080.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
           "title": "추미애 ‘재정비상’ 선언에 출산가정 날벼락…산후조리비 폐지에 반대...",
           "url": "https://www.donga.com/news/Society/article/all/20260913/134657459/1",
           "snippet": "추미애 경기도지사가 세수 감소와 누적 채무 부담 등을 이유로 ‘재정 비상’을 선언한 지 한 달여 만에 긴축의 후폭풍이 곳곳에서 나타나고 있다. 당장 출생아 1명당 50만 원씩 지급해 온 산후조리비가 이달...",
@@ -708,62 +727,6 @@
           "source_count": 3,
           "published": "2026-09-13T16:47:00+09:00",
           "ts": 1789285620.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "광교서 '추석꾸러미' 포장 추미애 \"이번 추석에 안부 묻고 마음 나누기...",
-          "url": "https://www.kpinews.kr/newsView/1065570791835249",
-          "snippet": "추미애 경기지사가 \"추석만큼은 우리 주변을 한 번 더 돌아보고, 서로 안부를 묻고 마음을 나누는 시간이... ▲ 11일 오전 수원특례시 광교종합사회복지관에서 열린 2026 풍성한 추석 사랑나눔 전달식을 마치고 추미애...",
-          "source": "KPI뉴스",
-          "sources": [
-            {
-              "name": "KPI뉴스",
-              "url": "https://www.kpinews.kr/newsView/1065570791835249",
-              "origin": "naver",
-              "title": "광교서 '추석꾸러미' 포장 추미애 \"이번 추석에 안부 묻고 마음 나누기..."
-            },
-            {
-              "name": "우리일보",
-              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NVndIMW50eU9xT2JMZVV0Rkl3S3J3ZExMbnhjNFVweTNDaFlmYzlxc04yX3JqLXBkZkROSHdVR0pQcXN0M0xseHhLOWl2ZjJRY3hMOVVzN3lfb19kdi1lVXJEaw?oc=5",
-              "origin": "google",
-              "title": "추미애 경기지사, 추석 꾸러미 포장하며 이웃에 따뜻한 마음 전해"
-            },
-            {
-              "name": "뉴스파노라마",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5waXVKS1VZNVBGVzg0SW4yV2VoUUdNRUFRcEVadkVabENhNVNiR0tUWWtvVUZLQm5PLXFUQm9fLUxSQmRPei1uNGUzUF91SUFNMFBLM0ZqMEZHdF8tYl9NZmJCbVlkQTdwMGRiTndZTQ?oc=5",
-              "origin": "google",
-              "title": "추미애 경기도지사, 추석 꾸러미 포장 동참…“올 추석만큼은 포근하셨으면”"
-            }
-          ],
-          "source_count": 3,
-          "published": "2026-09-13T09:00:00+09:00",
-          "ts": 1789257600.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "추미애 경기도지사, 민주화운동희생자 추모제서 민주주의 과제 언급",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pR1ppTFVYV0d2ZUd6NExwUjhBYXFpQ2dac2x3N1k0N3JEaGtjQ3hYOEFvQmVYRWpXWmk2aHFzZGsyU0podW40SVVBelQ0Z3Q5MnJjb1J5eE82dHZ5c3VoUzRnLTPSAWhBVV95cUxPWGJ3Y1B0UHlESHZiOXg1bU1sRW5uLU5LNXZWdElXTGx2REstNGtzT1pBejh3d0tqNTVGUG9VLTN4WjhyZ29RQnNWUzloM0FUTi02UWtpNVVXNU1xeXREYVBsUHpuRFIwZg?oc=5",
-          "snippet": "",
-          "source": "m-i.kr",
-          "sources": [
-            {
-              "name": "m-i.kr",
-              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pR1ppTFVYV0d2ZUd6NExwUjhBYXFpQ2dac2x3N1k0N3JEaGtjQ3hYOEFvQmVYRWpXWmk2aHFzZGsyU0podW40SVVBelQ0Z3Q5MnJjb1J5eE82dHZ5c3VoUzRnLTPSAWhBVV95cUxPWGJ3Y1B0UHlESHZiOXg1bU1sRW5uLU5LNXZWdElXTGx2REstNGtzT1pBejh3d0tqNTVGUG9VLTN4WjhyZ29RQnNWUzloM0FUTi02UWtpNVVXNU1xeXREYVBsUHpuRFIwZg?oc=5",
-              "origin": "google",
-              "title": "추미애 경기도지사, 민주화운동희생자 추모제서 민주주의 과제 언급"
-            },
-            {
-              "name": "공감신문",
-              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iOXYwa3BJb2E4bHJGN1FxUVQ5NmdxYngtYlVHLTlBUGZscUlORGFzaE1WNzZrNVpkNDBpS29nMDgxRlBWOGt4SXFKRm4tY1RQWmhZaW9HdWk1QXBQTExXM1BJUXNvZ1Bl?oc=5",
-              "origin": "google",
-              "title": "추미애 경기도지사, 민주화운동 희생자 추모제에서 강조한 정치의 새로운 과제"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-13T20:02:26+09:00",
-          "ts": 1789297346.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -814,6 +777,56 @@
           "source_count": 2,
           "published": "2026-09-13T18:16:00+09:00",
           "ts": 1789290960.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "추미애, 경기도 민주화운동희생자 추모제 참석",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jdXFSTndkc0NtQUNrZFVjWU5XT3p1c0w0eHJvcUwxYWVUZWJoSE1VRE15U3hmcFBWZjZmYkJJU3Jmc1RGc3VmNDdJZE5mTW1kZ2djQjF4NFpzaUhwbmpMVk80Y0dvZGJadWVEZlROWDMyQ2h5?oc=5",
+          "snippet": "",
+          "source": "글로벌뉴스통신GNA",
+          "sources": [
+            {
+              "name": "글로벌뉴스통신GNA",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jdXFSTndkc0NtQUNrZFVjWU5XT3p1c0w0eHJvcUwxYWVUZWJoSE1VRE15U3hmcFBWZjZmYkJJU3Jmc1RGc3VmNDdJZE5mTW1kZ2djQjF4NFpzaUhwbmpMVk80Y0dvZGJadWVEZlROWDMyQ2h5?oc=5",
+              "origin": "google",
+              "title": "추미애, 경기도 민주화운동희생자 추모제 참석"
+            },
+            {
+              "name": "서울일보",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rVWlLMWtSU1dDbE9jM1pBVHJIVzhIMk5hMmw1UTlQd1B5d25iYW9EMnVfeWZITlZzdFlBSmM1V2JoVHZ3LVIzTWxidjBWLUJ6YV9QenRES2w5a1VVSVJidjNsOU5Jam4zQmxKOdIBb0FVX3lxTFBwZFdhWnh3dlpGWmMtTy0tdWg3eFlnelhsUnFZLTVacVVKUDktT29xWm0zcGFrb1o4MVlrVlZRQUUtV0phZ2FPZi1PcVBVMEllYnk4SGd4a1UxUFlpenp4ZHlrT0ViTnlqWUFJRjVSaw?oc=5",
+              "origin": "google",
+              "title": "추미애, 경기도 민주화운동희생자 추모제 참석"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-09-13T17:51:55+09:00",
+          "ts": 1789289515.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "추미애 \"산후조리비 중단은 불가피한 선택\"",
+          "url": "https://www.hankyung.com/article/2026091312857",
+          "snippet": "추미애 경기도지사가 도 내 산후조리비 지원 사업 종료를 결정한 데 대해 \"불가피한 선택\"이라고 말했다. 추 지사는 13일 자신의 페이스북에 \"올해 예산은 애초부터 9개월 치만 편성돼 있었고 석 달 치 공백을 메울 돈이...",
+          "source": "한국경제",
+          "sources": [
+            {
+              "name": "한국경제",
+              "url": "https://www.hankyung.com/article/2026091312857",
+              "origin": "naver",
+              "title": "추미애 \"산후조리비 중단은 불가피한 선택\""
+            },
+            {
+              "name": "조선비즈",
+              "url": "https://biz.chosun.com/topics/topics_social/2026/09/13/7QN7VEMJFNBGTIXE2SJFFAFPEY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+              "origin": "naver",
+              "title": "추미애 “산후조리비 중단 불가피…급식·취약계층 지원 멈출 수 없어”"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-09-13T17:33:00+09:00",
+          "ts": 1789288380.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -893,27 +906,52 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "추미애 지사 \"산후조리비 임의 삭감 아니다\"…9개월짜리 '미생예산'이 원...",
-          "url": "https://www.ajunews.com/view/20260913153555345",
-          "snippet": "com [사진=추미애 지사 SNS] 추미애 경기도지사가 경기도 산후조리비 지원 종료를 둘러싼 논란에 대해 민선 9기 출범 뒤 임의로 예산을 삭감한 것이 아니라 올해 본예산 단계에서 상당수 민생사업이 9개월분만 반영된...",
-          "source": "아주경제",
+          "title": "추미애 \"산후조리비 임의 삭감 아니다\"…난임 296억원 추가",
+          "url": "https://www.etoday.co.kr/news/view/2624861",
+          "snippet": "추미애 경기도지사는 13일 자신의 페이스북을 통해 \"경기도 산후조리비 지원 예산을 민선 9기 도정이 임의로 깎은 것이 아니다\"라며 재정난 속에서 사업별 우선순위를 정한 결과라고 밝혔다. 산후조리비 약 80억 원은...",
+          "source": "etoday.co.kr",
           "sources": [
+            {
+              "name": "etoday.co.kr",
+              "url": "https://www.etoday.co.kr/news/view/2624861",
+              "origin": "naver",
+              "title": "추미애 \"산후조리비 임의 삭감 아니다\"…난임 296억원 추가"
+            },
             {
               "name": "아주경제",
               "url": "https://www.ajunews.com/view/20260913153555345",
               "origin": "naver",
               "title": "추미애 지사 \"산후조리비 임의 삭감 아니다\"…9개월짜리 '미생예산'이 원..."
-            },
-            {
-              "name": "아시아경제",
-              "url": "https://view.asiae.co.kr/article/2026091315354728474",
-              "origin": "naver",
-              "title": "추미애 \"산후조리비 삭감 아니다…애초 9개월치뿐인 '미생예산' 탓\""
             }
           ],
           "source_count": 2,
-          "published": "2026-09-13T15:44:00+09:00",
-          "ts": 1789281840.0,
+          "published": "2026-09-13T15:46:00+09:00",
+          "ts": 1789281960.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "추미애 경기지사 “추석 꾸러미에 ‘마음도 함께 담았다”",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kSlpBWjBmQldpTVU5WEhmWDVVcURxOEE5MUVMd003MWYtV1dZdElFZTgzN19YaXI2MDlnYmNfR2dVNkV5Q3pOM0doX1BBSlcxUHlsQlVoY1JSVW43MVhvc01WdU5sSWM0SXN0Wk1n?oc=5",
+          "snippet": "",
+          "source": "아시아투데이",
+          "sources": [
+            {
+              "name": "아시아투데이",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kSlpBWjBmQldpTVU5WEhmWDVVcURxOEE5MUVMd003MWYtV1dZdElFZTgzN19YaXI2MDlnYmNfR2dVNkV5Q3pOM0doX1BBSlcxUHlsQlVoY1JSVW43MVhvc01WdU5sSWM0SXN0Wk1n?oc=5",
+              "origin": "google",
+              "title": "추미애 경기지사 “추석 꾸러미에 ‘마음도 함께 담았다”"
+            },
+            {
+              "name": "우리일보",
+              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NVndIMW50eU9xT2JMZVV0Rkl3S3J3ZExMbnhjNFVweTNDaFlmYzlxc04yX3JqLXBkZkROSHdVR0pQcXN0M0xseHhLOWl2ZjJRY3hMOVVzN3lfb19kdi1lVXJEaw?oc=5",
+              "origin": "google",
+              "title": "추미애 경기지사, 추석 꾸러미 포장하며 이웃에 따뜻한 마음 전해"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-09-13T11:29:08+09:00",
+          "ts": 1789266548.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -943,6 +981,44 @@
           "group_label": "경기도지사"
         },
         {
+          "title": "李 대통령 '속도 조절' 주문했지만 여권 내 진통 증폭",
+          "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=559453",
+          "snippet": "추미애 경기도지사는 인터뷰 등을 통해 초대 중대범죄수사청장 후보자 지명 등을 문제 삼으며 \"윤석열의 검찰 세력에 업혀 전전긍긍하고 있다. 지지율 하락은 검찰 개혁에서 유약한 모습을 보였기 때문\"이라며 고강도...",
+          "source": "idaegu.co.kr",
+          "sources": [
+            {
+              "name": "idaegu.co.kr",
+              "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=559453",
+              "origin": "naver",
+              "title": "李 대통령 '속도 조절' 주문했지만 여권 내 진통 증폭"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T21:24:00+09:00",
+          "ts": 1789302240.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "추미애 경기도지사 \"산후조리비 예산 애초 9개월치뿐…민선9기 임의 삭...",
+          "url": "http://www.fieldnews.kr/news/articleView.html?idxno=31492",
+          "snippet": "추미애 경기도지사가 산후조리비 지원예산을 민선9기 도정이 임의로 삭감한 것이 아니라며 직접 해명에... 추미애 지사는 \"지금 경기도 재정은 매우 우려스러운 상황\"이라며 \"도지사로서 재정을 정상화할 무거운 책임감을...",
+          "source": "fieldnews.kr",
+          "sources": [
+            {
+              "name": "fieldnews.kr",
+              "url": "http://www.fieldnews.kr/news/articleView.html?idxno=31492",
+              "origin": "naver",
+              "title": "추미애 경기도지사 \"산후조리비 예산 애초 9개월치뿐…민선9기 임의 삭..."
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T21:02:00+09:00",
+          "ts": 1789300920.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
           "title": "추미애 SNS '멈출 수 없는 지원부터' …재정 공백 속 난임부부 예산 지켜",
           "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=727790",
           "snippet": "추미애 경기도지사가 13일 산후조리비 지원 종료를 둘러싼 논란에 직접 입장을 밝혔다. 한정된 재원 속에서 아이들 급식과 취약계층 지원을 이어가고 난임부부 시술비 중단을 막기 위한 불가피한 선택이었다는...",
@@ -962,21 +1038,40 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "추미애, 산후조리비 지원 종료에 “집행부, 난임부부 지원 우선 제안”",
-          "url": "https://www.munhwa.com/article/11616622?ref=naver",
-          "snippet": "추미애 경기도지사가 산후조리비 지원 사업 종료를 둘러싼 논란에 대해 경기도의 재정난을 이유로 들었다. 추 지사는 난임부부 시술비 지원을 우선하면서 산후조리비 예산을 추가 편성하지 못했단 것이다. 추 지사는 13일...",
-          "source": "문화일보",
+          "title": "추미애 경기도지사, 민주화운동희생자 추모제서 민주주의 과제 언급",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YYndjUHRQeURIdmI5eDVtTWxFbm4tTks1dlZ0SVdMbHZESy00a3NPWkF6OHd3S2o1NUZQb1UtM3haOHJnb1FCc1ZTOWgzQVROLTZRa2k1VVc1TXF5dERhUGxQem5EUjBm0gFoQVVfeXFMT1hid2NQdFB5REh2Yjl4NW1NbEVubi1OSzV2VnRJV0xsdkRLLTRrc09aQXo4d3dLajU1RlBvVS0zeFo4cmdvUUJzVlM5aDNBVE4tNlFraTVVVzVNcXl0RGFQbFB6bkRSMGY?oc=5",
+          "snippet": "",
+          "source": "매일일보",
           "sources": [
             {
-              "name": "문화일보",
-              "url": "https://www.munhwa.com/article/11616622?ref=naver",
-              "origin": "naver",
-              "title": "추미애, 산후조리비 지원 종료에 “집행부, 난임부부 지원 우선 제안”"
+              "name": "매일일보",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YYndjUHRQeURIdmI5eDVtTWxFbm4tTks1dlZ0SVdMbHZESy00a3NPWkF6OHd3S2o1NUZQb1UtM3haOHJnb1FCc1ZTOWgzQVROLTZRa2k1VVc1TXF5dERhUGxQem5EUjBm0gFoQVVfeXFMT1hid2NQdFB5REh2Yjl4NW1NbEVubi1OSzV2VnRJV0xsdkRLLTRrc09aQXo4d3dLajU1RlBvVS0zeFo4cmdvUUJzVlM5aDNBVE4tNlFraTVVVzVNcXl0RGFQbFB6bkRSMGY?oc=5",
+              "origin": "google",
+              "title": "추미애 경기도지사, 민주화운동희생자 추모제서 민주주의 과제 언급"
             }
           ],
           "source_count": 1,
-          "published": "2026-09-13T19:46:00+09:00",
-          "ts": 1789296360.0,
+          "published": "2026-09-13T20:08:34+09:00",
+          "ts": 1789297714.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "‘재정 비상’ 경기도… 추미애 지사는 12억 관사 이어 새 관용차 구입 논란",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4V0RRMWZHRmt3LXQxLVE1am1uXzNicFRvckdPdXAyU0ZoRVhIcmZWaXhjVk1RdVpneEp3RmNoRHJPQkhaRnc5Vjg5dzFFVGo5VXpSc0c4NlJyWm5ndXZVU0Y5Z1ZsbE1aQ1IyVEZ3?oc=5",
+          "snippet": "",
+          "source": "중부일보",
+          "sources": [
+            {
+              "name": "중부일보",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4V0RRMWZHRmt3LXQxLVE1am1uXzNicFRvckdPdXAyU0ZoRVhIcmZWaXhjVk1RdVpneEp3RmNoRHJPQkhaRnc5Vjg5dzFFVGo5VXpSc0c4NlJyWm5ndXZVU0Y5Z1ZsbE1aQ1IyVEZ3?oc=5",
+              "origin": "google",
+              "title": "‘재정 비상’ 경기도… 추미애 지사는 12억 관사 이어 새 관용차 구입 논란"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T19:48:46+09:00",
+          "ts": 1789296526.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -1015,44 +1110,6 @@
           "source_count": 1,
           "published": "2026-09-13T19:29:00+09:00",
           "ts": 1789295340.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "‘재정 비상’ 경기도… 추미애 지사는 12억 관사 이어 7천700만원 관용차",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12Q3RKTlg4YkpidWF6Rlh2d2Z4Q3VvbXlhMXl5WnlBaWlJUUN6RmRZbmotM1VHdUp3cmI4THBxeUlqc1cwY0QyTS1fdUV6SVk?oc=5",
-          "snippet": "",
-          "source": "중부일보",
-          "sources": [
-            {
-              "name": "중부일보",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4V0RRMWZHRmt3LXQxLVE1am1uXzNicFRvckdPdXAyU0ZoRVhIcmZWaXhjVk1RdVpneEp3RmNoRHJPQkhaRnc5Vjg5dzFFVGo5VXpSc0c4NlJyWm5ndXZVU0Y5Z1ZsbE1aQ1IyVEZ3?oc=5",
-              "origin": "google",
-              "title": "‘재정 비상’ 경기도… 추미애 지사는 12억 관사 이어 7천700만원 관용차"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-13T19:10:41+09:00",
-          "ts": 1789294241.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "경기도 산후조리비 폐지…추미애 “불가피한 선택, 수차례 논의 거듭”",
-          "url": "https://www.dt.co.kr/article/12083676?ref=naver",
-          "snippet": "경기도가 출산 가정에 50만원씩 지급해 온 산후조리비 지원 사업이 폐지되자 추미애 경기도지사는 13일 “불가피한 선택”이라고 입장을 밝혔다. 추 지사는 이날 자신의 페이스북을 통해 “올해 본예산 편성 당시 9개월...",
-          "source": "디지털타임스",
-          "sources": [
-            {
-              "name": "디지털타임스",
-              "url": "https://www.dt.co.kr/article/12083676?ref=naver",
-              "origin": "naver",
-              "title": "경기도 산후조리비 폐지…추미애 “불가피한 선택, 수차례 논의 거듭”"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-13T18:47:00+09:00",
-          "ts": 1789292820.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -1114,25 +1171,6 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "이 대통령 “개혁 포기한 적 없다”…지지층 결집·내분 경계 강조",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1277567.html",
-          "snippet": "추미애 경기지사는 이 대통령이 글을 올리기 전인 12일 경기 남양주시 모란공원 민주열사 묘역에서 열린 ‘2026년 경기도 민주화운동희생자 추모제’에서 김지용 중수청장 후보자 지명을 거론하면서 “대통령이 (내란)...",
-          "source": "한겨레",
-          "sources": [
-            {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/politics/politics_general/1277567.html",
-              "origin": "naver",
-              "title": "이 대통령 “개혁 포기한 적 없다”…지지층 결집·내분 경계 강조"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-13T18:04:00+09:00",
-          "ts": 1789290240.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
           "title": "다가온 추미애 시간, 경기도 재정난 풀까",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51WHhWTWJFTG9TVXQtdW5FZndVUk12YldEMkFlOFNVVE9KYmZfR3UtMjZJekFHMkRpQmREa0tZYzNueUxBdVdLMk1ySEtkU1RnT09sUmYwcl9xRkIzV2ZWNGlQYWd0MTFjMHFNcEdGTlg?oc=5",
           "snippet": "",
@@ -1143,6 +1181,25 @@
               "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51WHhWTWJFTG9TVXQtdW5FZndVUk12YldEMkFlOFNVVE9KYmZfR3UtMjZJekFHMkRpQmREa0tZYzNueUxBdVdLMk1ySEtkU1RnT09sUmYwcl9xRkIzV2ZWNGlQYWd0MTFjMHFNcEdGTlg?oc=5",
               "origin": "google",
               "title": "다가온 추미애 시간, 경기도 재정난 풀까"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T18:04:00+09:00",
+          "ts": 1789290240.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "이 대통령 “개혁 포기한 적 없다”…지지층 결집·내분 경계 강조",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1277567.html",
+          "snippet": "추미애 경기지사는 이 대통령이 글을 올리기 전인 12일 경기 남양주시 모란공원 민주열사 묘역에서 열린 ‘2026년 경기도 민주화운동희생자 추모제’에서 김지용 중수청장 후보자 지명을 거론하면서 “대통령이 (내란)...",
+          "source": "한겨레",
+          "sources": [
+            {
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/politics/politics_general/1277567.html",
+              "origin": "naver",
+              "title": "이 대통령 “개혁 포기한 적 없다”…지지층 결집·내분 경계 강조"
             }
           ],
           "source_count": 1,
@@ -1209,25 +1266,6 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "경기도 산후조리비 폐지…추미애 “불가피한 선택…수차례 논의 거듭”",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aYzFvMW9zUnVzaE5PakR2MVpXYnRCX1dLeXMzRF8wQjRSYXFHQmdqRGRvaFFRanFxWmlVbWlZaFV3cDBvS0FjdVpDMjExVGt3WnBzX0Zn?oc=5",
-          "snippet": "",
-          "source": "헤럴드경제",
-          "sources": [
-            {
-              "name": "헤럴드경제",
-              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aYzFvMW9zUnVzaE5PakR2MVpXYnRCX1dLeXMzRF8wQjRSYXFHQmdqRGRvaFFRanFxWmlVbWlZaFV3cDBvS0FjdVpDMjExVGt3WnBzX0Zn?oc=5",
-              "origin": "google",
-              "title": "경기도 산후조리비 폐지…추미애 “불가피한 선택…수차례 논의 거듭”"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-13T17:36:16+09:00",
-          "ts": 1789288576.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
           "title": "“산후조리비 임의 축소 아니다”…추미애, 빗발친 청원에 직접 해명",
           "url": "http://www.segyebiz.com/newsView/20260913509924?OutUrl=naver",
           "snippet": "추미애 경기도지사. 사진=뉴시스 추미애 경기도지사는 최근 논란이 된 산후조리비 지원 사업 축소와 관련해 “민선 9기 도정이 임의로 예산을 깎은 것이 아니다”라며 이전 도정의 불완전한 예산 편성과 재정 난항이...",
@@ -1266,25 +1304,6 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "與, 李 지지율 하락에 아래위도·동지도 사라져 … 진흙탕 싸움 [N-포커...",
-          "url": "https://www.newdaily.co.kr/site/data/html/2026/09/13/2026091300091.html",
-          "snippet": "지지율 하락의 원인과 개혁 속도를 놓고 추미애 경기지사와 민주당 인사들이 공개적으로 충돌하는가 하면... 박 전 의원은 \"어느 정권에서도 본 일이 없는 하극상\"이라며 \"추미애 지사의 본분을 벗어난 안하무인격 행동을...",
-          "source": "newdaily.co.kr",
-          "sources": [
-            {
-              "name": "newdaily.co.kr",
-              "url": "https://www.newdaily.co.kr/site/data/html/2026/09/13/2026091300091.html",
-              "origin": "naver",
-              "title": "與, 李 지지율 하락에 아래위도·동지도 사라져 … 진흙탕 싸움 [N-포커..."
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-13T16:58:00+09:00",
-          "ts": 1789286280.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
           "title": "추미애, 추석 앞두고 '사랑의 꾸러미' 봉사...\"더 세심하게 살필 것\"",
           "url": "https://www.newspim.com/news/view/20260912000140",
           "snippet": "추미애 경기도지사가 취임 후 첫 추석 명절을 앞두고 관내 복지관을 찾아 취약계층을 위한 명절 선물 포장 봉사에 나서는 등 도민과 소외된 이웃을 향한 온정 행보에 나섰다. 추미애 경기도지사는 12일 SNS를 통해...",
@@ -1295,6 +1314,25 @@
               "url": "https://www.newspim.com/news/view/20260912000140",
               "origin": "naver",
               "title": "추미애, 추석 앞두고 '사랑의 꾸러미' 봉사...\"더 세심하게 살필 것\""
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T16:58:00+09:00",
+          "ts": 1789286280.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "與, 李 지지율 하락에 아래위도·동지도 사라져 … 진흙탕 싸움 [N-포커...",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/09/13/2026091300091.html",
+          "snippet": "지지율 하락의 원인과 개혁 속도를 놓고 추미애 경기지사와 민주당 인사들이 공개적으로 충돌하는가 하면... 박 전 의원은 \"어느 정권에서도 본 일이 없는 하극상\"이라며 \"추미애 지사의 본분을 벗어난 안하무인격 행동을...",
+          "source": "newdaily.co.kr",
+          "sources": [
+            {
+              "name": "newdaily.co.kr",
+              "url": "https://www.newdaily.co.kr/site/data/html/2026/09/13/2026091300091.html",
+              "origin": "naver",
+              "title": "與, 李 지지율 하락에 아래위도·동지도 사라져 … 진흙탕 싸움 [N-포커..."
             }
           ],
           "source_count": 1,
@@ -1319,6 +1357,44 @@
           "source_count": 1,
           "published": "2026-09-13T16:51:00+09:00",
           "ts": 1789285860.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "이 대통령 \"과격한 선동으로 역결집 초래... 필히 경계해야\"... 여권 내 ...",
+          "url": "https://www.hankookilbo.com/news/article/A2026091315320000020?did=NA",
+          "snippet": "추미애 \"대통령, 내란세력에 업혀서 전전긍긍\" 직격 한편 지지층에 소구하기 위한 강경파들의 목소리는 날로 커지고 있다. 추미애 경기지사는 이날 남양주 모란공원 민주열사묘역에서 열린 추모제에서 \"사람들이 힘을...",
+          "source": "한국일보",
+          "sources": [
+            {
+              "name": "한국일보",
+              "url": "https://www.hankookilbo.com/news/article/A2026091315320000020?did=NA",
+              "origin": "naver",
+              "title": "이 대통령 \"과격한 선동으로 역결집 초래... 필히 경계해야\"... 여권 내 ..."
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T16:51:00+09:00",
+          "ts": 1789285860.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "이 대통령 \"개혁의 가장 큰 걸림돌은 개혁의 이름으로 개혁 방해하는 것...",
+          "url": "https://www.kado.net/news/articleView.html?idxno=2072205",
+          "snippet": "앞서 추미애 경기지사는 지난 12일 검찰 출신 김지용 중대범죄수사청장 후보자 지명에 대해 \"한동훈과 한배를 탔던 사람이 초대 중수청장이 된다면 그것이 민주화입니까\"라고 주장했다. 또 \"대통령은 이들(내란) 세력을...",
+          "source": "kado.net",
+          "sources": [
+            {
+              "name": "kado.net",
+              "url": "https://www.kado.net/news/articleView.html?idxno=2072205",
+              "origin": "naver",
+              "title": "이 대통령 \"개혁의 가장 큰 걸림돌은 개혁의 이름으로 개혁 방해하는 것..."
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T16:41:00+09:00",
+          "ts": 1789285260.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -1475,25 +1551,6 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "추미애 경기지사 “추석 꾸러미에 ‘마음도 함께 담았다”",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kSlpBWjBmQldpTVU5WEhmWDVVcURxOEE5MUVMd003MWYtV1dZdElFZTgzN19YaXI2MDlnYmNfR2dVNkV5Q3pOM0doX1BBSlcxUHlsQlVoY1JSVW43MVhvc01WdU5sSWM0SXN0Wk1n?oc=5",
-          "snippet": "",
-          "source": "아시아투데이",
-          "sources": [
-            {
-              "name": "아시아투데이",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kSlpBWjBmQldpTVU5WEhmWDVVcURxOEE5MUVMd003MWYtV1dZdElFZTgzN19YaXI2MDlnYmNfR2dVNkV5Q3pOM0doX1BBSlcxUHlsQlVoY1JSVW43MVhvc01WdU5sSWM0SXN0Wk1n?oc=5",
-              "origin": "google",
-              "title": "추미애 경기지사 “추석 꾸러미에 ‘마음도 함께 담았다”"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-13T11:29:08+09:00",
-          "ts": 1789266548.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
           "title": "“한동훈과 한배 탄 사람이 중수청장?”…추미애, 李에 작심 비판",
           "url": "https://www.sedaily.com/article/20090201?ref=naver",
           "snippet": "추미애 경기도지사가 이재명 정부의 검찰개혁과 중대범죄수사청장 인사를 두고 공개적으로 날을 세웠다. 특히 이재명 대통령을 향해 “내란 세력을 징벌해야 하는데 왜 이들 세력에게 업혀서 전전긍긍하는 것인가”라며...",
@@ -1570,6 +1627,44 @@
           "group_label": "경기도지사"
         },
         {
+          "title": "광교서 '추석꾸러미' 포장 추미애 \"이번 추석에 안부 묻고 마음 나누기...",
+          "url": "https://www.kpinews.kr/newsView/1065570791835249",
+          "snippet": "추미애 경기지사가 \"추석만큼은 우리 주변을 한 번 더 돌아보고, 서로 안부를 묻고 마음을 나누는 시간이... ▲ 11일 오전 수원특례시 광교종합사회복지관에서 열린 2026 풍성한 추석 사랑나눔 전달식을 마치고 추미애...",
+          "source": "KPI뉴스",
+          "sources": [
+            {
+              "name": "KPI뉴스",
+              "url": "https://www.kpinews.kr/newsView/1065570791835249",
+              "origin": "naver",
+              "title": "광교서 '추석꾸러미' 포장 추미애 \"이번 추석에 안부 묻고 마음 나누기..."
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T09:00:00+09:00",
+          "ts": 1789257600.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "추미애 경기도지사, 추석 꾸러미 포장 동참…“올 추석만큼은 포근하셨으면”",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5waXVKS1VZNVBGVzg0SW4yV2VoUUdNRUFRcEVadkVabENhNVNiR0tUWWtvVUZLQm5PLXFUQm9fLUxSQmRPei1uNGUzUF91SUFNMFBLM0ZqMEZHdF8tYl9NZmJCbVlkQTdwMGRiTndZTQ?oc=5",
+          "snippet": "",
+          "source": "뉴스파노라마",
+          "sources": [
+            {
+              "name": "뉴스파노라마",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5waXVKS1VZNVBGVzg0SW4yV2VoUUdNRUFRcEVadkVabENhNVNiR0tUWWtvVUZLQm5PLXFUQm9fLUxSQmRPei1uNGUzUF91SUFNMFBLM0ZqMEZHdF8tYl9NZmJCbVlkQTdwMGRiTndZTQ?oc=5",
+              "origin": "google",
+              "title": "추미애 경기도지사, 추석 꾸러미 포장 동참…“올 추석만큼은 포근하셨으면”"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T09:00:00+09:00",
+          "ts": 1789257600.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
           "title": "추미애 경기지사 “나눔 시스템 갖춘 포용 사회라야 지속 가능”",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5lelBGOEtKVm15cmdoWWo1akxKc2pXTGhJMDYxcFNLTDkzVmN1NU9yZF9fMU5Lb0hoZ1gwcXpPc0ZNUzZDRS1KRg?oc=5",
           "snippet": "",
@@ -1623,25 +1718,6 @@
           "source_count": 1,
           "published": "2026-09-12T21:20:00+09:00",
           "ts": 1789215600.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "추미애 경기도지사, 민주화운동 희생자 추모제에서 강조한 정치의 새로...",
-          "url": "https://www.gokorea.kr/news/articleView.html?idxno=878137",
-          "snippet": "추미애 경기도지사는 최근 모란공원에서 열린 경기도 민주화운동 희생자 추모제에 참석했다. 그는 민주화 과정이 여전히 진행 중이라고 강조하며, 국민의 뜻을 진정으로 반영하는 정치가 되어야 한다고 밝혔다. 추 지사는...",
-          "source": "gokorea.kr",
-          "sources": [
-            {
-              "name": "gokorea.kr",
-              "url": "https://www.gokorea.kr/news/articleView.html?idxno=878137",
-              "origin": "naver",
-              "title": "추미애 경기도지사, 민주화운동 희생자 추모제에서 강조한 정치의 새로..."
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-12T20:56:00+09:00",
-          "ts": 1789214160.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -2010,7 +2086,7 @@
       "priority": 7,
       "page": "main",
       "preview": null,
-      "count": 36,
+      "count": 38,
       "items": [
         {
           "title": "경기평택항만공사, 평택 농가 찾아 농촌 일손 돕기 실시",
@@ -2448,6 +2524,25 @@
           "group_label": "경기도 산하기관"
         },
         {
+          "title": "파주시, 18~20일 임진각서 기업박람회…지역기업 판로 확대",
+          "url": "https://www.betanews.net/article/view/beta202609130054",
+          "snippet": "경기도경제과학진흥원과 대한무역투자진흥공사(KOTRA), 경기테크노파크 등이 참여해 기업 애로사항과 지원사업에 대한 상담을 진행할 예정이다. 손배찬 파주시장은 “이번 박람회가 시민들에게 파주의 기업과 제품을...",
+          "source": "betanews.net",
+          "sources": [
+            {
+              "name": "betanews.net",
+              "url": "https://www.betanews.net/article/view/beta202609130054",
+              "origin": "naver",
+              "title": "파주시, 18~20일 임진각서 기업박람회…지역기업 판로 확대"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T21:20:00+09:00",
+          "ts": 1789302000.0,
+          "group": "gg_agencies",
+          "group_label": "경기도 산하기관"
+        },
+        {
           "title": "경과원, ‘ESG 지역산업혁신특별상’ 수상…중소기업 지속성장 지원",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtQVJsX2RCQzhDNWI2NHFDcmZiVGlYOHRGWVhFTUZ3dy1CdU9JNFl2cXgyREx3Q2RoMlEtWkozRC1OZmVidjE2TWpUdHFYUkZQN0ctWnVoUFBqYzBIclRsdkp4bDJpTFdlRU5OdWhGdlnSAXRBVV95cUxOYTBTM0FnaDNYV2daNTVkU0tFdGxPV3NXMmgyWTVWNGlNdWdaMG96NHhSNFkxTmY0QXVVd0lIdmVqQUJ0YTR4VVBfRjlRN0QwVTlLN1ZxZlM3ME8zX3NXMTlPSDVpWkNYZUpZNTJpbHNYdlJ1cA?oc=5",
           "snippet": "",
@@ -2660,10 +2755,10 @@
           "title": "시석중 경기신보 이사장, 추석 앞 전통시장 찾아 상인 애로 청취…보증지원 직접 안내",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wN2E0RDdQN2g5WXhCbC1kcHJGZXdCNEZzLThoT29NZ25CU1A5b1JUZzNWMWViXzNlaEZTa2V6MkdSdUQ3XzBpb3VQTnY5NHR5cU5CcXZXT0V3NmRYbmhNZXRnQUJnLUk4bmJ4bdIBbEFVX3lxTE8wN2E0RDdQN2g5WXhCbC1kcHJGZXdCNEZzLThoT29NZ25CU1A5b1JUZzNWMWViXzNlaEZTa2V6MkdSdUQ3XzBpb3VQTnY5NHR5cU5CcXZXT0V3NmRYbmhNZXRnQUJnLUk4bmJ4bQ?oc=5",
           "snippet": "",
-          "source": "fieldnews.kr",
+          "source": "필드뉴스",
           "sources": [
             {
-              "name": "fieldnews.kr",
+              "name": "필드뉴스",
               "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wN2E0RDdQN2g5WXhCbC1kcHJGZXdCNEZzLThoT29NZ25CU1A5b1JUZzNWMWViXzNlaEZTa2V6MkdSdUQ3XzBpb3VQTnY5NHR5cU5CcXZXT0V3NmRYbmhNZXRnQUJnLUk4bmJ4bdIBbEFVX3lxTE8wN2E0RDdQN2g5WXhCbC1kcHJGZXdCNEZzLThoT29NZ25CU1A5b1JUZzNWMWViXzNlaEZTa2V6MkdSdUQ3XzBpb3VQTnY5NHR5cU5CcXZXT0V3NmRYbmhNZXRnQUJnLUk4bmJ4bQ?oc=5",
               "origin": "google",
               "title": "시석중 경기신보 이사장, 추석 앞 전통시장 찾아 상인 애로 청취…보증지원 직접 안내"
@@ -2679,10 +2774,10 @@
           "title": "박상현 의원, 경기도의료원 연구개발 및 기술사업화 근거 마련",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BU216VVZ0cERPek85aGlTOHlwQ21SYWdhN1NJLXdFY29lclhXX21QcnVDZXpnOENSemFjUlVDU0JjOU4xdFliR2VITkx6SkhTY3VnM05aV2hmUkFzdkc3dk1WUXBYZkltU1JZ?oc=5",
           "snippet": "",
-          "source": "nwtnews.co.kr",
+          "source": "내외통신",
           "sources": [
             {
-              "name": "nwtnews.co.kr",
+              "name": "내외통신",
               "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BU216VVZ0cERPek85aGlTOHlwQ21SYWdhN1NJLXdFY29lclhXX21QcnVDZXpnOENSemFjUlVDU0JjOU4xdFliR2VITkx6SkhTY3VnM05aV2hmUkFzdkc3dk1WUXBYZkltU1JZ?oc=5",
               "origin": "google",
               "title": "박상현 의원, 경기도의료원 연구개발 및 기술사업화 근거 마련"
@@ -2862,6 +2957,25 @@
           "source_count": 1,
           "published": "2026-09-12T23:18:00+09:00",
           "ts": 1789222680.0,
+          "group": "gg_agencies",
+          "group_label": "경기도 산하기관"
+        },
+        {
+          "title": "고양시의회 환경경제위, 원마운트 회생 '후속 점검' 착수…인수·운영 ...",
+          "url": "https://www.tournews21.com/news/articleView.html?idxno=143357",
+          "snippet": "위원회는 킨텍스와 연계된 전시·회의·관광 수요를 원마운트로 끌어들이고, 방문객 유입을 지역 내 소비로 연결하는 방안을 검토했다. 국제회의복합지구 집적시설 지원제도의 개선 가능성과 MICE 산업과의 연계 확대...",
+          "source": "tournews21.com",
+          "sources": [
+            {
+              "name": "tournews21.com",
+              "url": "https://www.tournews21.com/news/articleView.html?idxno=143357",
+              "origin": "naver",
+              "title": "고양시의회 환경경제위, 원마운트 회생 '후속 점검' 착수…인수·운영 ..."
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-12T22:44:00+09:00",
+          "ts": 1789220640.0,
           "group": "gg_agencies",
           "group_label": "경기도 산하기관"
         },
@@ -3060,19 +3174,37 @@
       "priority": 11,
       "page": "trends",
       "preview": 3,
-      "count": 300,
+      "count": 302,
       "items": [
         {
-          "title": "[CEO 직썰] 최태원 SK 회장 \"울산, 제조AI·시민행복·예술 아우른 'AI시...",
-          "url": "https://www.ziksir.com/news/articleView.html?idxno=146218",
-          "snippet": "참가자들은 'Physical AI Wave, 제조 AX 대전환'과 'AI for Everyone, Smart Local 울산' 세션에서 울산 제조업의 AX 가속화와 피지컬 AI 실행 전략, 지역사회 문제 해결을 위한 AI 활용 방안 등을 논의했다. 유경상 SK텔레콤 AI...",
-          "source": "ziksir.com",
+          "title": "최태원 회장 \"울산, 제조AI·시민행복·예술 아우른 'AI시티'로 도약해야...",
+          "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=228128",
+          "snippet": "△제조AX·피지컬AI 실행전략 논의…참가자 1만900여명 'Leading AX, Smart Life 울산'을 주제로 열린 이번 포럼에서는 제조 현장의 AI 전환과 AI의 지역사회 확산을 중심으로 논의가 진행됐다. 참가자들은 △Physical(피지컬)...",
+          "source": "energy-news.co.kr",
           "sources": [
+            {
+              "name": "energy-news.co.kr",
+              "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=228128",
+              "origin": "naver",
+              "title": "최태원 회장 \"울산, 제조AI·시민행복·예술 아우른 'AI시티'로 도약해야..."
+            },
+            {
+              "name": "뉴스핌",
+              "url": "https://www.newspim.com/news/view/20260913000101",
+              "origin": "naver",
+              "title": "최태원 회장 \"울산을 AI시티로\"…제조 넘어 시민 일상까지 혁신"
+            },
             {
               "name": "ziksir.com",
               "url": "https://www.ziksir.com/news/articleView.html?idxno=146218",
               "origin": "naver",
               "title": "[CEO 직썰] 최태원 SK 회장 \"울산, 제조AI·시민행복·예술 아우른 'AI시..."
+            },
+            {
+              "name": "아이뉴스24",
+              "url": "http://www.inews24.com/view/2005015",
+              "origin": "naver",
+              "title": "최태원 SK그룹 회장 \"울산, 제조AI·'모두의 AI' 잇는 AI시티로\""
             },
             {
               "name": "dealsite.co.kr",
@@ -3129,22 +3261,10 @@
               "title": "최태원 SK 회장, 울산 미래상으로 'AI시티' 제시…제조·생활에 AI 접목"
             },
             {
-              "name": "아이뉴스24",
-              "url": "http://www.inews24.com/view/2005015",
-              "origin": "naver",
-              "title": "최태원 SK그룹 회장 \"울산, 제조AI·'모두의 AI' 잇는 AI시티로\""
-            },
-            {
               "name": "더팩트",
               "url": "https://news.tf.co.kr/read/economy/2365223.htm",
               "origin": "naver",
               "title": "최태원 SK 회장 \"울산, AI 시티로 도약해야\"…울산포럼 2026 개최"
-            },
-            {
-              "name": "머니투데이",
-              "url": "https://www.mt.co.kr/industry/2026/09/13/2026091214343694124",
-              "origin": "naver",
-              "title": "\"100만 울산시민에 'AI 에이전트' 주면…\" 최태원 SK 회장의 제안"
             },
             {
               "name": "서울타임즈뉴스",
@@ -3171,10 +3291,10 @@
               "title": "SK 최태원 \"울산, AI시티 도약\"…'AI·예술' 결합 미래 방향 제시"
             },
             {
-              "name": "SR타임스",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTY3BoSncwU0ZVMTJaZDFBRTliVjJfbHNSM2FlQW1GYXlkaERDZUhUSERCdjJTeFRqejM1U2JuME11T2s2X1FGT2toMGRkcTJoUy1VdWFMbk9VeXNPYkZCOVR6UHU5N0E1SW5V0gFrQVVfeXFMUFNjcGhKdzBTRlUxMlpkMUFFOWJWMl9sc1IzYWVBbUZheWRoRENlSFRIREJ2MlN4VGp6MzVTYm4wTXVPazZfUUZPa2gwZGRxMmhTLVV1YUxuT1V5c09iRkI5VHpQdTk3QTVJblU?oc=5",
+              "name": "판다랭크",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkeXM3WUpXQm1pc2VSSTNPV3hJUnBlVVd3TDk4LTM4SHNZMnZOS0U5QmExa2NDNm9pdHY1Mm9pQkZMVFBuaF8xNmh2TThoR0tqWFhUaVRVbVVkSWR0QllWTW4xaDNWdw?oc=5",
               "origin": "google",
-              "title": "최태원 SK 회장, 울산 미래상으로 ‘AI 시티’ 제시"
+              "title": "울산 AI시티 제조AI와 시민행복 아우른 미래 비전"
             },
             {
               "name": "포인트경제",
@@ -3187,23 +3307,11 @@
               "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14TnJCQXpObWJjcWRaSk1LTVdyNUpHTEl5U09GMmNIb1ZvU3cxbkdhOF8xdVRoOWJwQnZjbzVHOUsxR3pJbzZZWEx1VXVjZm9CcTRmeWIwQnhhSWJVZk0zVXBDeUN5aWxn?oc=5",
               "origin": "google",
               "title": "최태원 SK 회장, 울산세계미래산업박람회서 AI 제조 현장 시찰"
-            },
-            {
-              "name": "판다랭크",
-              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkeXM3WUpXQm1pc2VSSTNPV3hJUnBlVVd3TDk4LTM4SHNZMnZOS0U5QmExa2NDNm9pdHY1Mm9pQkZMVFBuaF8xNmh2TThoR0tqWFhUaVRVbVVkSWR0QllWTW4xaDNWdw?oc=5",
-              "origin": "google",
-              "title": "울산 AI시티 제조AI와 시민행복 아우른 미래 비전"
-            },
-            {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YNU9PNEN3S3N6V1VOUGpFcDR3U3A2bHg4V0NnYjhHMUlkSk9ZQXR4amRFaEVWUXZYZ21rQzBSVG1LMjVvSE1GWWlDa19Kek5VejNZ?oc=5",
-              "origin": "google",
-              "title": "\"100만 울산시민에 'AI 에이전트' 주면…\" 최태원 SK 회장의 제안"
             }
           ],
-          "source_count": 22,
-          "published": "2026-09-13T14:58:00+09:00",
-          "ts": 1789279080.0,
+          "source_count": 21,
+          "published": "2026-09-13T21:08:00+09:00",
+          "ts": 1789301280.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -3316,6 +3424,12 @@
               "title": "\"할리우드 한복판에 LG TV 뜬다\"…에미상 공식 파트너 선정"
             },
             {
+              "name": "뉴스1",
+              "url": "https://www.news1.kr/industry/electronics/6288641",
+              "origin": "naver",
+              "title": "LG전자, 美에미상 'TV·가전 파트너' 선정…LA서 기술·디자인 알린다"
+            },
+            {
               "name": "연합뉴스",
               "url": "https://www.yna.co.kr/view/AKR20260913010800003?input=1195m",
               "origin": "naver",
@@ -3326,12 +3440,6 @@
               "url": "https://www.dt.co.kr/article/12083534?ref=naver",
               "origin": "naver",
               "title": "LG전자, 美 에미상 공식 TV·가전 파트너 선정…프리미엄 입지 강화"
-            },
-            {
-              "name": "뉴스1",
-              "url": "https://www.news1.kr/industry/electronics/6288641",
-              "origin": "naver",
-              "title": "LG전자, 美에미상 'TV·가전 파트너' 선정…LA서 기술·디자인 알린다"
             }
           ],
           "source_count": 20,
@@ -3553,6 +3661,24 @@
               "title": "경북농협, 대학생 AI 숏폼 공모전…경북 농산물 매력 알린다"
             },
             {
+              "name": "대구신문",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NeGs3LXVMNXlEeHctUHdmX19SYlNtTzRyQXp3NENTYkc3clJ1cWI4U1JRaE5iUUkxaXozd19YYzI3YWg1XzBVWi1pMXNOTHdTbE9jMTRwZ0xrSDg2bm8zNXdiNzFla3BKNng4?oc=5",
+              "origin": "google",
+              "title": "경북농협, 대학생 AI 숏폼 공모전···경북 농산물 매력 알리고 소비촉진 아이디어 발굴"
+            },
+            {
+              "name": "경북매일",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10M3l1YVZSX090Sjd1OEM1LWloWE5lSS1ncU9zb2lLUUZWdXpwYnRpOEoyWW94MFJBVjcwYndJUTlneUpwVWpMODh2MTJtT1ItdC00c3gzc1dHQQ?oc=5",
+              "origin": "google",
+              "title": "경북농협 농산물 AI 숏폼 대학생 공모전 실시"
+            },
+            {
+              "name": "경북신문",
+              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VS0F0bmRmUkEzNDBFcldQN0hDOWpBRFFhbGNHNUVnZU1BbkdFZlVBMGRscTVDSmdLN0ItQmNpeEFvanNYZmRQUllNZV9mU1B4TUNpYlRPemI?oc=5",
+              "origin": "google",
+              "title": "경북농협, 대학생 대상 농산물 AI 숏폼 공모전 개최"
+            },
+            {
               "name": "webplusnews.kr",
               "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oVnBsdVd4UndzbGxMaEhxdEJVLWROX2NGQ3Zwa253blRqWlpNTmgyaURkclN1SDdoZk5xODlTbjN4dF9zYU9zVnV5M0tYaDdBNFlyMTJVbkwxZVQxQy1JZV81cERNQV9DUW9z?oc=5",
               "origin": "google",
@@ -3593,96 +3719,11 @@
               "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrOFhmeXIybTVqTUdTbTc1cDk4Yi1jQjRpZGlSRWFpNkMzRVAzQXM4S0o0eUU5ZHlWdjBPbmNXVGJrUWMzMW1qWXUyLXNaUFBnMHVPaVBFVXRYajBab0dNWXJB?oc=5",
               "origin": "google",
               "title": "경북농협, `농산물 AI 숏폼 대학생 공모전` 개최"
-            },
-            {
-              "name": "대구신문",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NeGs3LXVMNXlEeHctUHdmX19SYlNtTzRyQXp3NENTYkc3clJ1cWI4U1JRaE5iUUkxaXozd19YYzI3YWg1XzBVWi1pMXNOTHdTbE9jMTRwZ0xrSDg2bm8zNXdiNzFla3BKNng4?oc=5",
-              "origin": "google",
-              "title": "경북농협, 대학생 AI 숏폼 공모전···경북 농산물 매력 알리고 소비촉진 아이디어 발굴"
-            },
-            {
-              "name": "경북매일",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10M3l1YVZSX090Sjd1OEM1LWloWE5lSS1ncU9zb2lLUUZWdXpwYnRpOEoyWW94MFJBVjcwYndJUTlneUpwVWpMODh2MTJtT1ItdC00c3gzc1dHQQ?oc=5",
-              "origin": "google",
-              "title": "경북농협 농산물 AI 숏폼 대학생 공모전 실시"
-            },
-            {
-              "name": "경북신문",
-              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VS0F0bmRmUkEzNDBFcldQN0hDOWpBRFFhbGNHNUVnZU1BbkdFZlVBMGRscTVDSmdLN0ItQmNpeEFvanNYZmRQUllNZV9mU1B4TUNpYlRPemI?oc=5",
-              "origin": "google",
-              "title": "경북농협, 대학생 대상 농산물 AI 숏폼 공모전 개최"
             }
           ],
           "source_count": 13,
           "published": "2026-09-13T07:15:00+09:00",
           "ts": 1789251300.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "앤트로픽 CEO \"AI 개발 속도 늦춰야\"…올트먼·머스크·허사비스 동조",
-          "url": "https://www.newsis.com/view/NISX20260913_0003787400",
-          "snippet": "아모데이가 가장 큰 위험으로 지목한 것은 스스로 판단해 움직이는 AI 에이전트다. 그는 \"AI 성능이 빨라지는 속도를 감안하면 6~12개월 안에 이런 에이전트 집단이 봇넷을 꾸려 인터넷 전체를 장악할 수도 있다는 점이...",
-          "source": "뉴시스",
-          "sources": [
-            {
-              "name": "뉴시스",
-              "url": "https://www.newsis.com/view/NISX20260913_0003787400",
-              "origin": "naver",
-              "title": "앤트로픽 CEO \"AI 개발 속도 늦춰야\"…올트먼·머스크·허사비스 동조"
-            },
-            {
-              "name": "news.mtn.co.kr",
-              "url": "https://news.mtn.co.kr/news-detail/2026091310181120265",
-              "origin": "naver",
-              "title": "\"AI 개발 속도 늦추자\"는 앤트로픽 CEO 제안에…올트먼·머스크도 동참"
-            },
-            {
-              "name": "한국일보",
-              "url": "https://www.hankookilbo.com/news/article/A2026091309110003160?did=NA",
-              "origin": "naver",
-              "title": "\"AI 개발 속도 늦춰야\" 호소한 앤트로픽 CEO… 업계서 잇단 '경고'"
-            },
-            {
-              "name": "머니투데이",
-              "url": "https://www.mt.co.kr/world/2026/09/13/2026091310020750090",
-              "origin": "naver",
-              "title": "앤트로픽 CEO \"AI 개발속도 늦춰야\"…오픈AI·스페이스X \"동의\""
-            },
-            {
-              "name": "tokenpost.kr",
-              "url": "https://www.tokenpost.kr/news/cryptocurrency/407058",
-              "origin": "naver",
-              "title": "앤트로픽 CEO \"AI 개발 속도 늦춰야\"…머스크·올트먼도 동의"
-            },
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202609131553001",
-              "origin": "naver",
-              "title": "AI 파국론에···앤트로픽·오픈AI 수장 “속도 늦추자”, 머스크·허사..."
-            },
-            {
-              "name": "Chosunbiz",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRzJIMi1MZGc1Zy1GWXFYTFdQOG9HenVFczY4VUd0bi1LdzRuelVEQWtnUE1KYktJdFBZTXhMXzZCQjRQRy1XVllRSHRFamZpMExLMWhVOFZveXFTWjU3bWgyWXQ2TDZDN29ZQXE5aFNQQjRyNjFkUlhvcHNHMWZJb3hn0gGWAUFVX3lxTFB4QUJzNGwzNG1RV2gyQk1hWXFCbnRLUmNQT3doMkE2WURPb1FxRnZzWjZ5RV9CWmJpaWxBcldsdkQ1SG1wbDlUQkloREI1QWtBclpjYUZiNVBsb3dSdVdWTWNObS03SlBoQWxja29mMjgweHFaZ0tJUExfQzRvem9OdTVVdGY3WTRQSXpGcXVobWlMM1NIZw?oc=5",
-              "origin": "google",
-              "title": "AI 개발 경쟁하던 빅테크 수장들 “이젠 속도 조절해야”…아모데이 주장에 올트먼·머스크·허사비스 잇따라 동조 - 조선비즈"
-            },
-            {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIQ1FOYVlaWGlMVXlqaHRtT3V4LUNFSXAxSnU1R01DcGZZOHpERGN6QmlGVmR4NGRtQS1aM0EzamZnNzN5eWJCYnRZcmRNOEpvV0M5TEJ4OTI5UmU2TWo2aQ?oc=5",
-              "origin": "google",
-              "title": "AI 개발 경쟁하던 빅테크 수장들 \"이젠 속도 조절해야…아모데이 주장에 올트먼·머스크·허사비스 잇따라 동조"
-            },
-            {
-              "name": "autodaily.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54ZkNBY1VleEw3WFZJMnFWdXcxWFowOXVmZ0J6b0ZxeXJKNWpRRm5nay1VNUVPSXZWcGJkSzBKSTRvRHhCdjN2WDMxWWJZWW1xTmpDSlQ5dV9LQ0t6Tnk3LXlXYWpldDlkUXVHbTBDVQ?oc=5",
-              "origin": "google",
-              "title": "앤트로픽 CEO, 에이전트 잇단 공격에⋯\"AI 개발 속도 늦춰야\""
-            }
-          ],
-          "source_count": 9,
-          "published": "2026-09-13T17:05:00+09:00",
-          "ts": 1789286700.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -3748,6 +3789,67 @@
           "group_label": "AI · 생성형AI"
         },
         {
+          "title": "LG디스플레이, 전사적 AI 전환 가속화… 'AX 스쿼드'로 인공지능 전문가...",
+          "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48931",
+          "snippet": "발굴하고, AI 전문가의 코칭을 받아 실행 가능성이 높은 실효성 있는 결과물을 만들어내는 방식이다. 이를 통해 개발된 애플리케이션은 LG디스플레이의 사내 앱 마켓인 'HI-D 에이전트 허브(HI-D Agent Hub)'를 통해 임직원...",
+          "source": "smarttimes.co.kr",
+          "sources": [
+            {
+              "name": "smarttimes.co.kr",
+              "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48931",
+              "origin": "naver",
+              "title": "LG디스플레이, 전사적 AI 전환 가속화… 'AX 스쿼드'로 인공지능 전문가..."
+            },
+            {
+              "name": "아시아경제",
+              "url": "https://view.asiae.co.kr/article/2026091310221520767",
+              "origin": "naver",
+              "title": "LG디스플레이, 'AX 스쿼드'로 전사 AI 전환 가속"
+            },
+            {
+              "name": "조선비즈",
+              "url": "https://biz.chosun.com/it-science/ict/2026/09/13/TBCF2YFGOVHBNCVGP6HCKJGAWM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+              "origin": "naver",
+              "title": "“전 임직원 AI 활용”…LG 디스플레이, 전문가 육성 위한 ‘AX 스쿼드’..."
+            },
+            {
+              "name": "dailian.co.kr",
+              "url": "https://www.dailian.co.kr/news/view/1689647/?sc=Naver",
+              "origin": "naver",
+              "title": "LG디스플레이, 직원이 직접 AI 만든다…'AX 스쿼드' 450여건 돌파"
+            },
+            {
+              "name": "노컷뉴스",
+              "url": "https://www.nocutnews.co.kr/news/6577223?utm_source=naver&utm_medium=article&utm_campaign=20260913125242",
+              "origin": "naver",
+              "title": "LG디스플레이, AI 전문가 키운다…'AX 스쿼드' 운영"
+            },
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260913012400003?input=1195m",
+              "origin": "naver",
+              "title": "LG디스플레이, AI 전문가 육성 위한 'AX스쿼드' 운영"
+            },
+            {
+              "name": "전자신문",
+              "url": "https://www.etnews.com/20260911000202",
+              "origin": "naver",
+              "title": "LGD, 비개발자 출신 AI 전문가 육성 'AX 스쿼드' 확대"
+            },
+            {
+              "name": "헤럴드경제",
+              "url": "https://biz.heraldcorp.com/article/10871538?ref=naver",
+              "origin": "naver",
+              "title": "“코딩 몰라도 AI 앱 만든다”…LG디스플레이, 전사 AX 확산"
+            }
+          ],
+          "source_count": 8,
+          "published": "2026-09-13T16:22:00+09:00",
+          "ts": 1789284120.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
           "title": "인티그리트, 피지컬 AI 플랫폼 ‘에어패스’ 공급 확대",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOZkdoNzAyZGFleXJMMVpVMUhrWktzWVFmd2k2QjJrekJWRHlvNF8tNGlHRDZEY28xTmFCUGE4cElaMU42eFVmMHM1ZDlnY2FkUXF4NE1aLWpJNG5xTEVwSFFMcklZb0hnM01vSw?oc=5",
           "snippet": "",
@@ -3803,6 +3905,61 @@
           "group_label": "AI · 생성형AI"
         },
         {
+          "title": "앤트로픽 CEO \"AI 개발 속도 늦춰야\"…올트먼·머스크·허사비스 동조",
+          "url": "https://www.newsis.com/view/NISX20260913_0003787400",
+          "snippet": "아모데이가 가장 큰 위험으로 지목한 것은 스스로 판단해 움직이는 AI 에이전트다. 그는 \"AI 성능이 빨라지는 속도를 감안하면 6~12개월 안에 이런 에이전트 집단이 봇넷을 꾸려 인터넷 전체를 장악할 수도 있다는 점이...",
+          "source": "뉴시스",
+          "sources": [
+            {
+              "name": "뉴시스",
+              "url": "https://www.newsis.com/view/NISX20260913_0003787400",
+              "origin": "naver",
+              "title": "앤트로픽 CEO \"AI 개발 속도 늦춰야\"…올트먼·머스크·허사비스 동조"
+            },
+            {
+              "name": "news.mtn.co.kr",
+              "url": "https://news.mtn.co.kr/news-detail/2026091310181120265",
+              "origin": "naver",
+              "title": "\"AI 개발 속도 늦추자\"는 앤트로픽 CEO 제안에…올트먼·머스크도 동참"
+            },
+            {
+              "name": "한국일보",
+              "url": "https://www.hankookilbo.com/news/article/A2026091309110003160?did=NA",
+              "origin": "naver",
+              "title": "\"AI 개발 속도 늦춰야\" 호소한 앤트로픽 CEO… 업계서 잇단 '경고'"
+            },
+            {
+              "name": "머니투데이",
+              "url": "https://www.mt.co.kr/world/2026/09/13/2026091310020750090",
+              "origin": "naver",
+              "title": "앤트로픽 CEO \"AI 개발속도 늦춰야\"…오픈AI·스페이스X \"동의\""
+            },
+            {
+              "name": "tokenpost.kr",
+              "url": "https://www.tokenpost.kr/news/cryptocurrency/407058",
+              "origin": "naver",
+              "title": "앤트로픽 CEO \"AI 개발 속도 늦춰야\"…머스크·올트먼도 동의"
+            },
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202609131553001",
+              "origin": "naver",
+              "title": "AI 파국론에···앤트로픽·오픈AI 수장 “속도 늦추자”, 머스크·허사..."
+            },
+            {
+              "name": "엠투데이",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54ZkNBY1VleEw3WFZJMnFWdXcxWFowOXVmZ0J6b0ZxeXJKNWpRRm5nay1VNUVPSXZWcGJkSzBKSTRvRHhCdjN2WDMxWWJZWW1xTmpDSlQ5dV9LQ0t6Tnk3LXlXYWpldDlkUXVHbTBDVQ?oc=5",
+              "origin": "google",
+              "title": "앤트로픽 CEO, 에이전트 잇단 공격에⋯\"AI 개발 속도 늦춰야\""
+            }
+          ],
+          "source_count": 7,
+          "published": "2026-09-13T17:05:00+09:00",
+          "ts": 1789286700.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
           "title": "KT ‘모두의 AI’ 승부수 띄운다…6000만 서비스에 AI 장착",
           "url": "https://www.munhwa.com/article/11616598?ref=naver",
           "snippet": "모두의 AI는 국산 독자 AI 모델을 기반으로 전 국민이 일상에서 무료로 활용할 수 있도록 정부가 추진하는 대국민 실행형 AI 에이전트 서비스 사업이다. KT는 지난 12일 기자간담회를 열고 16개 컨소시엄 참여사와 함께...",
@@ -3845,7 +4002,7 @@
               "title": "KT '모두의 AI' 승부수…6천만 서비스에 AI 심는다"
             },
             {
-              "name": "daily.hankooki.com",
+              "name": "데일리한국",
               "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ibnFZdTF3MVRiZDRldzFzS2l5d0k1bzdHQWJhODZ3SlNXbEgzMlFHMkd0N3hVWExBSy1CUHQtWlFIRzZNdFRGekt2cWt4ektuQmI3cUxNaU54aV9rRHBWYnpMSEtTREpHWWtHeEVka9IBc0FVX3lxTE9RVV9LNEtaU0dUQmNXeHhGakxpc29EbmoyRzVQcXhoS3FiMmVtdFRmZXo0NUt0UTRKeEtQTG5pRWhqSjU4bmZZNDNZZTM5cHliMGxBMTRvUXRHVDdIYzNjQl9RVlNSVXJFUVViN0U1X1pyU3c?oc=5",
               "origin": "google",
               "title": "KT, 6000만 서비스 연결하는 '모두의 AI'…'이음 인사이드'부터 시작"
@@ -4091,6 +4248,49 @@
           "group_label": "AI · 생성형AI"
         },
         {
+          "title": "아모데이·올트먼·머스크, AI 속도 조절론에 의기 투합한 이유 [팩플]",
+          "url": "https://www.joongang.co.kr/article/25461426",
+          "snippet": "이어 지난 7월 오픈AI의 AI 에이전트(비서)가 개발자 플랫폼 ‘허깅페이스’를 해킹한 사례를 들며 “수 많은 AI 에이전트가 광신도처럼 지시와 상관없는 목표물을 공격했다”며 “이 현상이 계속되면 6~12개월 안에 AI...",
+          "source": "중앙일보",
+          "sources": [
+            {
+              "name": "중앙일보",
+              "url": "https://www.joongang.co.kr/article/25461426",
+              "origin": "naver",
+              "title": "아모데이·올트먼·머스크, AI 속도 조절론에 의기 투합한 이유 [팩플]"
+            },
+            {
+              "name": "조선일보",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORDVhWEhndTd1TmNraFVzVHgwS1ZldUQ5ZjhabGVSNDY2aXVwTmpOaHFVa0xqdnpVd0hFZ0JPakxrLXRfOUhMQVBIYkRqNk5tME9sQlh0UURrX05ZZ2puZDAyOG5LX09TRVFtOWVvbkptZ19pWHpfdllvbU5YR3JpSnJDYw?oc=5",
+              "origin": "google",
+              "title": "\"인류에 위협, AI 개발 속도 조절 필요\"...아모데이 제안에 앙숙 올트먼도 \"동의\""
+            },
+            {
+              "name": "Chosunbiz",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRzJIMi1MZGc1Zy1GWXFYTFdQOG9HenVFczY4VUd0bi1LdzRuelVEQWtnUE1KYktJdFBZTXhMXzZCQjRQRy1XVllRSHRFamZpMExLMWhVOFZveXFTWjU3bWgyWXQ2TDZDN29ZQXE5aFNQQjRyNjFkUlhvcHNHMWZJb3hn0gGWAUFVX3lxTFB4QUJzNGwzNG1RV2gyQk1hWXFCbnRLUmNQT3doMkE2WURPb1FxRnZzWjZ5RV9CWmJpaWxBcldsdkQ1SG1wbDlUQkloREI1QWtBclpjYUZiNVBsb3dSdVdWTWNObS03SlBoQWxja29mMjgweHFaZ0tJUExfQzRvem9OdTVVdGY3WTRQSXpGcXVobWlMM1NIZw?oc=5",
+              "origin": "google",
+              "title": "AI 개발 경쟁하던 빅테크 수장들 “이젠 속도 조절해야”…아모데이 주장에 올트먼·머스크·허사비스 잇따라 동조 - 조선비즈"
+            },
+            {
+              "name": "네이트",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIQ1FOYVlaWGlMVXlqaHRtT3V4LUNFSXAxSnU1R01DcGZZOHpERGN6QmlGVmR4NGRtQS1aM0EzamZnNzN5eWJCYnRZcmRNOEpvV0M5TEJ4OTI5UmU2TWo2aQ?oc=5",
+              "origin": "google",
+              "title": "AI 개발 경쟁하던 빅테크 수장들 \"이젠 속도 조절해야…아모데이 주장에 올트먼·머스크·허사비스 잇따라 동조"
+            },
+            {
+              "name": "마켓인",
+              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EQ3M3S2wzWHlFZmg4WmNCREdFa1JhYk11MFZkRS1fcGNTN3Y2LWs5WFJYczNqT21mWWhudUNIb1pOM185aFNxdFNzenlhSnlIRUpsb002ZFBkbllCZmxRNkpoVGF6ODMyWlNLV3Frdms1Nkk?oc=5",
+              "origin": "google",
+              "title": "\"AI 속도 늦추자\" 아모데이 제안…올트먼·머스크도 \"옳다\""
+            }
+          ],
+          "source_count": 5,
+          "published": "2026-09-13T17:25:00+09:00",
+          "ts": 1789287900.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
           "title": "수원특례시의회, ‘수원 AI·로봇 페스타’ 찾아 미래기술 체험",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpSlpMTVVQaWRKOWZuOHdScG4zalhoZlFRMWRPbDdzNlRUZ0RsQnl5eFZpWVlsSVN5eEdkLXdza2JXTmI4THNRVkhKazA1eG5idmR6a1BudmFrZ0ZJQTZRQw?oc=5",
           "snippet": "",
@@ -4130,6 +4330,92 @@
           "source_count": 5,
           "published": "2026-09-13T16:31:22+09:00",
           "ts": 1789284682.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "경남도, 조선산업 AI 전환·글로벌 제조 AI 허브 구축 박차",
+          "url": "https://www.newsis.com/view/NISX20260913_0003787321",
+          "snippet": "또, 2027년도 정부 예산안에 제조업 AI 대전환을 위한 M.AX 자율제조 생태계 구축(1193억원), 지역주도 5극 3특 성장엔진 프로젝트(1400억원), 제조 암묵지 활용 AI 솔루션 개발(2900억원), 중소 제조기업 피지컬 AI 실증...",
+          "source": "뉴시스",
+          "sources": [
+            {
+              "name": "뉴시스",
+              "url": "https://www.newsis.com/view/NISX20260913_0003787321",
+              "origin": "naver",
+              "title": "경남도, 조선산업 AI 전환·글로벌 제조 AI 허브 구축 박차"
+            },
+            {
+              "name": "노컷뉴스",
+              "url": "https://www.nocutnews.co.kr/news/6577205?utm_source=naver&utm_medium=article&utm_campaign=20260913110342",
+              "origin": "naver",
+              "title": "'손끝 노하우' 데이터화…경남, K-조선 AI 전환 전초기지로"
+            },
+            {
+              "name": "포인트경남",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xX01lM0FzYXZKWUVjUkFGbHlGY3NBZGFfem9IVTZRc1Vlc21qMWFDVi1YX004cEVqWUw0Umg4Ym9rS1Nrdkc3c0lfWV95TU5USUJ3T18wLTZkY0FMNFMwSUZtcThJcThSVFNmdUJBMEU?oc=5",
+              "origin": "google",
+              "title": "경남도, 글로벌 조선·해양 AI 전환을 선도한다."
+            },
+            {
+              "name": "네이트",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5ZkYtMHY3T2RqaVpsMnpzZVFUZDMySWNDeEVZSzFuV1Q3aVNma0VwdTRKNkhjZkRFVjVSMVBJa2N6ejV0aXN4S083Zl9qOUhTUkMw?oc=5",
+              "origin": "google",
+              "title": "'손끝 노하우' 데이터화…경남, K-조선 AI 전환 전초기지로"
+            },
+            {
+              "name": "기계신문",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EcUZMeS1TeDBZRWV4RFZ6dlZBbkZGalNhZWZSYnBhSjJoQkQ5d0p3NVdXaXVSR2ktRl9QN01Dbl9wOE9hZUlwLWVKel9FbzNXWkd2VnNJSy1lNHhBZUJpei1PZ19VZVE?oc=5",
+              "origin": "google",
+              "title": "경남도, 조선·해양 제조 AI 허브 구축 본격화… 글로벌 기술 거점 육성"
+            }
+          ],
+          "source_count": 5,
+          "published": "2026-09-13T15:06:00+09:00",
+          "ts": 1789279560.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "수원시의회, 지역 산업 'AI 전환' 전략 찾는다… 정책 연구",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zTnJpM2tPZnJXcGNxZmRhUTc1cmM4aHNhLVlockY4NHFZZXNwaG0td1BieWVmWGJhcmpGRDRkMzBCLUZlZ0x1T1Zyc2RreWhpakFuUlp3WHh6VmV1U1Z2aVJuMjVqS2tvNGfSAW5BVV95cUxNVUJJcC1PNzZWVWYwZWUySENJd2FUR29vYUVyYzJ4UU5yakNMVHFGRkVfWHducTJlYVprMWZvelJ1NzF3UFhYNXoyOHVQcnZFQ0pEUWRWZHFETlVXeFJubUtRX3lvZ2J1SURiUURQdw?oc=5",
+          "snippet": "",
+          "source": "미디어와이",
+          "sources": [
+            {
+              "name": "미디어와이",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zTnJpM2tPZnJXcGNxZmRhUTc1cmM4aHNhLVlockY4NHFZZXNwaG0td1BieWVmWGJhcmpGRDRkMzBCLUZlZ0x1T1Zyc2RreWhpakFuUlp3WHh6VmV1U1Z2aVJuMjVqS2tvNGfSAW5BVV95cUxNVUJJcC1PNzZWVWYwZWUySENJd2FUR29vYUVyYzJ4UU5yakNMVHFGRkVfWHducTJlYVprMWZvelJ1NzF3UFhYNXoyOHVQcnZFQ0pEUWRWZHFETlVXeFJubUtRX3lvZ2J1SURiUURQdw?oc=5",
+              "origin": "google",
+              "title": "수원시의회, 지역 산업 'AI 전환' 전략 찾는다… 정책 연구"
+            },
+            {
+              "name": "중앙신문",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VcDlZZnoyN1JHZXAzOFVkZWItMDJOc29FNnUtVDRzRmlPbnVmNno4NDNCeUZIcDQ0Z1F2bFIySGpRMEpXeS1udF9fRjNHWnNnLVRoZlg4T0RfZVYyY2FOSUUza1pWM2E5?oc=5",
+              "origin": "google",
+              "title": "수원시의회 ‘수원시 AI산업전환 대응 전략' 연구용역 착수"
+            },
+            {
+              "name": "경기시사투데이",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mUENiUG9FM1psZlJQNGJ2eElrUUlJRVFQc0dEcEItajdpZ1dPN2NSM0Z1N2VPQTJ0SWdQYWJpdERzQWhUU2steDZWcEx1YVBOejVKUXFvdGdWVXl2WlUwR3diV01VWVhO?oc=5",
+              "origin": "google",
+              "title": "수원특례시의회‘수원특례시 AI산업전환 대응 전략 연구회’연구용역 착수"
+            },
+            {
+              "name": "서프라이즈뉴스",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96UWFBTmJ0UUVESnBHNzlsRXQxZnc3elhOYzJ3REVUenJRZy1KMlRJb0x6UTdteEdKS3JldGVnQkdxZ1RtNzhleVNmRURLdG9OcFh5NEFtYnBQcmJwRkxMVUZpSF9vNTJoRFhNbENR?oc=5",
+              "origin": "google",
+              "title": "수원특례시의회‘수원특례시 AI산업전환 대응 전략 연구회’연구용역 착수"
+            },
+            {
+              "name": "월드장애인사랑뉴스",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Lb0ZDWk1qODRtdjBuRXBGVVFrZE9vMWRxS2Y0NWNuQ0JDcTZLMUtZMmRXNnpaal9Hc1F1Y3dzakw2ZVlzdFNqcHJfdGdveWppNjBaWGktS05fTUE0M0lTcU1Ub2J4YmlsWkQzYnNUaw?oc=5",
+              "origin": "google",
+              "title": "수원 지역산업에 AI 어떻게 입힐까…수원시의회 ‘AX 대응전략’ 연구 착수"
+            }
+          ],
+          "source_count": 5,
+          "published": "2026-09-13T08:52:38+09:00",
+          "ts": 1789257158.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -4263,58 +4549,21 @@
               "title": "‘갤럭시 AI 클래스’ 참여 학급 14일부터 모집…초·중학생 대상"
             },
             {
-              "name": "viva100.com",
-              "url": "https://www.viva100.com/article/20260913500152",
-              "origin": "naver",
-              "title": "삼성전자, 교실로 찾아가는 ‘갤럭시 AI 클래스’ 2학기 모집 시작"
-            },
-            {
               "name": "디지털타임스",
               "url": "https://www.dt.co.kr/article/12083532?ref=naver",
               "origin": "naver",
               "title": "삼성전자, ‘갤럭시 AI 클래스’ 개편…학생 AI 소양 키운다"
+            },
+            {
+              "name": "viva100.com",
+              "url": "https://www.viva100.com/article/20260913500152",
+              "origin": "naver",
+              "title": "삼성전자, 교실로 찾아가는 ‘갤럭시 AI 클래스’ 2학기 모집 시작"
             }
           ],
           "source_count": 4,
           "published": "2026-09-13T16:40:00+09:00",
           "ts": 1789285200.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "LG디스플레이, 'AX 스쿼드'로 전사 AI 전환 가속",
-          "url": "https://view.asiae.co.kr/article/2026091310221520767",
-          "snippet": "",
-          "source": "아시아경제",
-          "sources": [
-            {
-              "name": "아시아경제",
-              "url": "https://view.asiae.co.kr/article/2026091310221520767",
-              "origin": "naver",
-              "title": "LG디스플레이, 'AX 스쿼드'로 전사 AI 전환 가속"
-            },
-            {
-              "name": "조선비즈",
-              "url": "https://biz.chosun.com/it-science/ict/2026/09/13/TBCF2YFGOVHBNCVGP6HCKJGAWM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-              "origin": "naver",
-              "title": "“전 임직원 AI 활용”…LG 디스플레이, 전문가 육성 위한 ‘AX 스쿼드’..."
-            },
-            {
-              "name": "dailian.co.kr",
-              "url": "https://www.dailian.co.kr/news/view/1689647/?sc=Naver",
-              "origin": "naver",
-              "title": "LG디스플레이, 직원이 직접 AI 만든다…'AX 스쿼드' 450여건 돌파"
-            },
-            {
-              "name": "노컷뉴스",
-              "url": "https://www.nocutnews.co.kr/news/6577223?utm_source=naver&utm_medium=article&utm_campaign=20260913125242",
-              "origin": "naver",
-              "title": "LG디스플레이, AI 전문가 키운다…'AX 스쿼드' 운영"
-            }
-          ],
-          "source_count": 4,
-          "published": "2026-09-13T16:22:00+09:00",
-          "ts": 1789284120.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -4356,6 +4605,43 @@
           "group_label": "AI · 생성형AI"
         },
         {
+          "title": "\"100만 울산시민에 'AI 에이전트' 주면…\" 최태원 SK 회장의 제안",
+          "url": "https://www.mt.co.kr/industry/2026/09/13/2026091214343694124",
+          "snippet": "",
+          "source": "머니투데이",
+          "sources": [
+            {
+              "name": "머니투데이",
+              "url": "https://www.mt.co.kr/industry/2026/09/13/2026091214343694124",
+              "origin": "naver",
+              "title": "\"100만 울산시민에 'AI 에이전트' 주면…\" 최태원 SK 회장의 제안"
+            },
+            {
+              "name": "etoday.co.kr",
+              "url": "https://www.etoday.co.kr/news/view/2624724",
+              "origin": "naver",
+              "title": "최태원 SK 회장 “울산 AI데이터센터, 글로벌 빅테크 협업 빠르게 진척..."
+            },
+            {
+              "name": "SR타임스",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTY3BoSncwU0ZVMTJaZDFBRTliVjJfbHNSM2FlQW1GYXlkaERDZUhUSERCdjJTeFRqejM1U2JuME11T2s2X1FGT2toMGRkcTJoUy1VdWFMbk9VeXNPYkZCOVR6UHU5N0E1SW5V0gFrQVVfeXFMUFNjcGhKdzBTRlUxMlpkMUFFOWJWMl9sc1IzYWVBbUZheWRoRENlSFRIREJ2MlN4VGp6MzVTYm4wTXVPazZfUUZPa2gwZGRxMmhTLVV1YUxuT1V5c09iRkI5VHpQdTk3QTVJblU?oc=5",
+              "origin": "google",
+              "title": "최태원 SK 회장, 울산 미래상으로 ‘AI 시티’ 제시"
+            },
+            {
+              "name": "네이트",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YNU9PNEN3S3N6V1VOUGpFcDR3U3A2bHg4V0NnYjhHMUlkSk9ZQXR4amRFaEVWUXZYZ21rQzBSVG1LMjVvSE1GWWlDa19Kek5VejNZ?oc=5",
+              "origin": "google",
+              "title": "\"100만 울산시민에 'AI 에이전트' 주면…\" 최태원 SK 회장의 제안"
+            }
+          ],
+          "source_count": 4,
+          "published": "2026-09-13T14:58:00+09:00",
+          "ts": 1789279080.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
           "title": "최태원 “AI 버블 우려 불식하려면…수익 내는 비즈니스 모델 만들어야...",
           "url": "https://www.donga.com/news/Economy/article/all/20260913/134655496/1",
           "snippet": "청년들을 향해서는 AI 시대를 맞아 단순하게 스펙을 쌓기보다는 문제 본질을 고민하는 ‘생각 근육’, 타인에 대한 ‘공감의 힘’, 회복탄력성인 ‘적응 근육’, 직접 몸으로 겪고 배우는 ‘피지컬 근육’ 등 4대...",
@@ -4393,39 +4679,33 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "'신예은 닮은' 허성범 AI 매니저 최초 공개…\"월 구독료만 100만 원\" [전...",
-          "url": "https://www.mydaily.co.kr/page/view/2026091307305005242",
-          "snippet": "되면서 크리에이터, 모델, 방송 일도 조금씩 하고 있다\"고 자신을 소개했다. 이날 방송에서는 '전참시' 최초로 AI 매니저 '도나'가 모습을 드러냈다. 허성범은 \"미드 '슈츠'에서 능력 엄청 좋은 비서 이름이 도나다\"라며...",
-          "source": "mydaily.co.kr",
+          "title": "웹툰부터 AI 숏폼·e스포츠까지…'2026 창원콘텐츠컨벤션' 개최",
+          "url": "https://www.nocutnews.co.kr/news/6577313?utm_source=naver&utm_medium=article&utm_campaign=20260913080846",
+          "snippet": "또, 지역 콘텐츠기업과 특성화고·대학 등이 참여한 전시·체험 부스를 통해 시민들이 웹툰, 게임 등 다양한 콘텐츠를 직접 경험하고, AI 생성형 워크숍과 숏폼 콘텐츠 체험 등 참여형 프로그램을 즐길 수 있는 기회를...",
+          "source": "노컷뉴스",
           "sources": [
             {
-              "name": "mydaily.co.kr",
-              "url": "https://www.mydaily.co.kr/page/view/2026091307305005242",
+              "name": "노컷뉴스",
+              "url": "https://www.nocutnews.co.kr/news/6577313?utm_source=naver&utm_medium=article&utm_campaign=20260913080846",
               "origin": "naver",
-              "title": "'신예은 닮은' 허성범 AI 매니저 최초 공개…\"월 구독료만 100만 원\" [전..."
+              "title": "웹툰부터 AI 숏폼·e스포츠까지…'2026 창원콘텐츠컨벤션' 개최"
             },
             {
-              "name": "bntnews.co.kr",
-              "url": "https://www.bntnews.co.kr/article/view/bnt202609130008",
-              "origin": "naver",
-              "title": "‘전참시’ 허성범, AI 월 구독료 100만 원"
-            },
-            {
-              "name": "마이데일리",
-              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJWEhZb2x5TEtUSC1zZ3RuZ3cyTEx3WEJWaUI3a3h1YnNFSlBtZzZzTS1CX3kwTWtmbFA4NkNwTUZqQlJZYmVrVVdoWjVfSEtQQWVkTWdTTGVIdFJjTWVfcEVSa2Jqdw?oc=5",
+              "name": "더뉴스코리아",
+              "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XRjhvRFlnY2hTbzNodjItXzgwLURXNDVoLWhsSnBrRWRWR1RBLWY5UUMyMThhRFR1SGUxaktZRE9JbHlUbEpDdjl3?oc=5",
               "origin": "google",
-              "title": "`신예은 닮은` 허성범 AI 매니저 최초 공개…\"월 구독료만 100만 원\" [전참시]"
+              "title": "창원콘텐츠컨벤션, 웹툰부터 AI 숏폼·e스포츠까지! 창원의 콘텐츠 한자리에"
             },
             {
-              "name": "판다랭크",
-              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qVGMtMkU4YjhhandlNUNSZlRJaWdpcXN3Vk9mejVVOThlb0VIbGw4SUdkV2ZIOFdYandxWmFjUThjamxkNGM1OFNhMTg4ejhVdXpXT2tPVkxMMm93WmxZbkk3eDdMUQ?oc=5",
+              "name": "경남도민신문",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CYUg5ZDlIYkhJaVY4UUVYdFQ4UVJRSmh1ZG1nYXVqR2ZYdU1qaThyMWt4M21RRktlNjdzSXh6bVFWSllvUGhHNzZLNlpmLXp0VjFqTG8yMXdDYjA0RG9icFBmWDVFdmh5?oc=5",
               "origin": "google",
-              "title": "허성범 AI 매니저 전참시 일상과 구독료 화제"
+              "title": "‘웹툰부터 AI 숏폼·e스포츠까지’ 창원의 콘텐츠 한자리에"
             }
           ],
-          "source_count": 4,
-          "published": "2026-09-13T08:32:00+09:00",
-          "ts": 1789255920.0,
+          "source_count": 3,
+          "published": "2026-09-13T20:09:00+09:00",
+          "ts": 1789297740.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -4523,37 +4803,6 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "LG디스플레이, AI 전문가 육성 위한 'AX스쿼드' 운영",
-          "url": "https://www.yna.co.kr/view/AKR20260913012400003?input=1195m",
-          "snippet": "",
-          "source": "연합뉴스",
-          "sources": [
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260913012400003?input=1195m",
-              "origin": "naver",
-              "title": "LG디스플레이, AI 전문가 육성 위한 'AX스쿼드' 운영"
-            },
-            {
-              "name": "전자신문",
-              "url": "https://www.etnews.com/20260911000202",
-              "origin": "naver",
-              "title": "LGD, 비개발자 출신 AI 전문가 육성 'AX 스쿼드' 확대"
-            },
-            {
-              "name": "뉴스1",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsZmQ3TWlRRzFHcnBIV1hUZDZ1MUprbS1uSU5MZmZfMDFqV1lXampzMUlZOVQ5VlNMLVk5VDFLRXJkamhyQnZxU005QjZCUFBlc3R5SFVEYWZwdG12Skh3d0lkc05CX01xOVHSAWpBVV95cUxQbGZkN01pUUcxR3JwSFdYVGQ2dTFKa20tbklOTGZmXzAxaldZV2pqczFJWTlUOVZTTC1ZOVQxS0VyZGpockJ2cVNNOUI2QlBQZXN0eUhVRGFmcHRtdkpId3dJZHNOQl9NcTlR?oc=5",
-              "origin": "google",
-              "title": "\"코딩 몰라도 문제 해결\"…LGD, AI 전문가 육성 'AX스쿼드' 확대"
-            }
-          ],
-          "source_count": 3,
-          "published": "2026-09-13T16:22:00+09:00",
-          "ts": 1789284120.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
           "title": "현대차그룹, '데이터 플라이휠' 가동…Atria AI로 서울 도심 자율주행 공...",
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=41893",
           "snippet": "특히 VLA는 자율주행뿐 아니라 로봇 등 피지컬 AI(Physical AI) 분야로 확장할 수 있는 핵심 기술이라는 점에서 주목된다. 박민우 현대차·기아 AVP본부장 겸 포티투닷 대표는 \"자율주행 경쟁은 더 이상 특정 기능의 우열을...",
@@ -4616,37 +4865,6 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "경남도, ‘K-조선 미래 비전’ 연계 1조원 AI 허브 육성",
-          "url": "http://www.metroseoul.co.kr/article/20260913500276",
-          "snippet": "2027년 예산안에도 제조업 AI 대전환을 위한 자율 제조 생태계 구축, 지역주도 5극 3특 성장 엔진 프로젝트, 제조 암묵지 활용 AI 솔루션 개발, 중소 제조 기업 피지컬 AI 실증 등이 반영됐다. 거제·통영을 중심으로...",
-          "source": "metroseoul.co.kr",
-          "sources": [
-            {
-              "name": "metroseoul.co.kr",
-              "url": "http://www.metroseoul.co.kr/article/20260913500276",
-              "origin": "naver",
-              "title": "경남도, ‘K-조선 미래 비전’ 연계 1조원 AI 허브 육성"
-            },
-            {
-              "name": "뉴시스",
-              "url": "https://www.newsis.com/view/NISX20260913_0003787321",
-              "origin": "naver",
-              "title": "경남도, 조선산업 AI 전환·글로벌 제조 AI 허브 구축 박차"
-            },
-            {
-              "name": "기계신문",
-              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EcUZMeS1TeDBZRWV4RFZ6dlZBbkZGalNhZWZSYnBhSjJoQkQ5d0p3NVdXaXVSR2ktRl9QN01Dbl9wOE9hZUlwLWVKel9FbzNXWkd2VnNJSy1lNHhBZUJpei1PZ19VZVE?oc=5",
-              "origin": "google",
-              "title": "경남도, 조선·해양 제조 AI 허브 구축 본격화… 글로벌 기술 거점 육성"
-            }
-          ],
-          "source_count": 3,
-          "published": "2026-09-13T15:32:00+09:00",
-          "ts": 1789281120.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
           "title": "KOSA·메가존클라우드, 도쿄서 AI·SW 기업 일본 진출 지원...현지기업과...",
           "url": "https://www.etnews.com/20260913000060",
           "snippet": "",
@@ -4678,68 +4896,6 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "KT, '모두의 AI' 6000만 접점 전략…공공부문 AI에이전트 '실행'은 과제",
-          "url": "https://news.mtn.co.kr/news-detail/2026091116491023613",
-          "snippet": "",
-          "source": "아이뉴스24",
-          "sources": [
-            {
-              "name": "아이뉴스24",
-              "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RZUdkYm1wb3dnNUNsX3l5TG9Pc1oyTFJpNFRoZm5uOUJhbExoMUVRbS14eGpBWUZydUg2c2h0Y1YyX0ROTzViQS1ITQ?oc=5",
-              "origin": "google",
-              "title": "KT \"'모두의 AI'로 검색·쇼핑·공공 연결…국산 AI 5종 최적 활용\""
-            },
-            {
-              "name": "v.daum.net",
-              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tTWVVaEJWUUhJeVhpSXM0OEN1SlVGQ21mTFNzUEcweU5Jckg1WFpCOVVXSG1lS3o4ODV6ZU9fZnZYLWVRSEpQVVB4aVhJdG8?oc=5",
-              "origin": "google",
-              "title": "KT, 6000만 접점 ‘모두의 AI’…토큰 팩토리로 GPU 효율 21% 높인다"
-            },
-            {
-              "name": "MTN 머니투데이방송",
-              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82UkVJLS1CY2Zwc25LOUlCOXNxWFZVb2YzWXdEZUlRSVF3cEdEWnFMZHBWd25OSGJ3aW9CVGlwZ3dqNjdzMnlTa3JpdVE0WlVveXhqaWJoQTJGT21BenJZMWhyRUs?oc=5",
-              "origin": "google",
-              "title": "KT, '모두의 AI' 6000만 접점 전략…공공부문 AI에이전트 '실행'은 과제"
-            }
-          ],
-          "source_count": 3,
-          "published": "2026-09-13T13:44:00+09:00",
-          "ts": 1789274640.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "경남도, 글로벌 조선·해양 AI 전환 선도",
-          "url": "https://www.viva100.com/article/20260913500389",
-          "snippet": "AX 자율제조 생태계 구축(1193억원)’, ‘지역주도 5극 3특 성장엔진 프로젝트(1400억원)’, ‘제조 암묵지 활용 AI 솔루션 개발(2900억원)’, ‘중소 제조기업 피지컬 AI 실증(1728억원)’ 등이 포함돼 있다. 이는 제조업의 AI...",
-          "source": "viva100.com",
-          "sources": [
-            {
-              "name": "viva100.com",
-              "url": "https://www.viva100.com/article/20260913500389",
-              "origin": "naver",
-              "title": "경남도, 글로벌 조선·해양 AI 전환 선도"
-            },
-            {
-              "name": "노컷뉴스",
-              "url": "https://www.nocutnews.co.kr/news/6577205?utm_source=naver&utm_medium=article&utm_campaign=20260913110342",
-              "origin": "naver",
-              "title": "'손끝 노하우' 데이터화…경남, K-조선 AI 전환 전초기지로"
-            },
-            {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5ZkYtMHY3T2RqaVpsMnpzZVFUZDMySWNDeEVZSzFuV1Q3aVNma0VwdTRKNkhjZkRFVjVSMVBJa2N6ejV0aXN4S083Zl9qOUhTUkMw?oc=5",
-              "origin": "google",
-              "title": "'손끝 노하우' 데이터화…경남, K-조선 AI 전환 전초기지로"
-            }
-          ],
-          "source_count": 3,
-          "published": "2026-09-13T13:18:00+09:00",
-          "ts": 1789273080.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
           "title": "'모두의 AI' 보안·속도 잡는다…KT, 민관 TF·자체 GPU 구축",
           "url": "https://www.fnnews.com/news/202609111409513994",
           "snippet": "이음 인사이드는 각 기업의 서비스에 AI를 내재화하고 하나의 범용 AI 에이전트로 연결하는 개방형 생태계다. KT는 '모두의 AI' 앱을 별도로 구축하면서 다음과 컨소시엄 참여 기업의 서비스, 지니TV 등에도 이음...",
@@ -4758,7 +4914,7 @@
               "title": "KT '모두의 AI' 6000만 접점 노린다…민관·자체 TF 추진"
             },
             {
-              "name": "데일리안",
+              "name": "dailian.co.kr",
               "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yNWtKb3RmaTlZQkpZVEFVVkNCQzZ3MENTOFpSRU5DcGJLY3hqVzF5UVJhT1VkTEp2dnh3LWVkRkdRc3AxTnA0MUstQTZXOUZRcjBV?oc=5",
               "origin": "google",
               "title": "'개인정보 유출' 홍역 치른 KT…정부 참여 TF로 '모두의 AI' 보안 배수진"
@@ -4767,6 +4923,37 @@
           "source_count": 3,
           "published": "2026-09-13T13:08:00+09:00",
           "ts": 1789272480.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "경남교육청 공공도서관 사서들, 국립중앙도서관 영상 공모전 '우수상' ...",
+          "url": "https://www.imaeil.com/page/view/2026091311071632938",
+          "snippet": "이들은 도서관 현장에서 근무하면서 생성형 인공지능(AI) 등 새로운 디지털 기술을 학습하고 이를 도서관 업무와 콘텐츠 제작에 접목하는 방안을 꾸준히 연구해 왔다. 수상작 '멋진 책세계로 온(ON), 나'는 6종의 생성형...",
+          "source": "imaeil.com",
+          "sources": [
+            {
+              "name": "imaeil.com",
+              "url": "https://www.imaeil.com/page/view/2026091311071632938",
+              "origin": "naver",
+              "title": "경남교육청 공공도서관 사서들, 국립중앙도서관 영상 공모전 '우수상' ..."
+            },
+            {
+              "name": "뉴시스",
+              "url": "https://www.newsis.com/view/NISX20260913_0003787195",
+              "origin": "naver",
+              "title": "경남교육청, 국립중앙도서관 영상 공모전 ‘우수상’"
+            },
+            {
+              "name": "newfilenews.com",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqN2NJc3lYeWRKMnc2azNSLUdIX1JlMTR4Y3JYZXRhTlJyYVpXWE5nbTk5Mmg1OVVuX1A1V0FydDg2NTc1dlBvSWJIOGpKZ21hckdpTFZ4LVZUNnpxU3JUS0E1QnczUGtmcVNJaWxB?oc=5",
+              "origin": "google",
+              "title": "'AI로 만든 뮤직 비디오'...경남 도서관 사서들, 영상 공모전서 국립중앙도서관장상 수상"
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-09-13T12:23:00+09:00",
+          "ts": 1789269780.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -4864,6 +5051,37 @@
           "group_label": "AI · 생성형AI"
         },
         {
+          "title": "'신예은 닮은' 허성범 AI 매니저 최초 공개…\"월 구독료만 100만 원\" [전...",
+          "url": "https://www.mydaily.co.kr/page/view/2026091307305005242",
+          "snippet": "되면서 크리에이터, 모델, 방송 일도 조금씩 하고 있다\"고 자신을 소개했다. 이날 방송에서는 '전참시' 최초로 AI 매니저 '도나'가 모습을 드러냈다. 허성범은 \"미드 '슈츠'에서 능력 엄청 좋은 비서 이름이 도나다\"라며...",
+          "source": "mydaily.co.kr",
+          "sources": [
+            {
+              "name": "mydaily.co.kr",
+              "url": "https://www.mydaily.co.kr/page/view/2026091307305005242",
+              "origin": "naver",
+              "title": "'신예은 닮은' 허성범 AI 매니저 최초 공개…\"월 구독료만 100만 원\" [전..."
+            },
+            {
+              "name": "bntnews.co.kr",
+              "url": "https://www.bntnews.co.kr/article/view/bnt202609130008",
+              "origin": "naver",
+              "title": "‘전참시’ 허성범, AI 월 구독료 100만 원"
+            },
+            {
+              "name": "판다랭크",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qVGMtMkU4YjhhandlNUNSZlRJaWdpcXN3Vk9mejVVOThlb0VIbGw4SUdkV2ZIOFdYandxWmFjUThjamxkNGM1OFNhMTg4ejhVdXpXT2tPVkxMMm93WmxZbkk3eDdMUQ?oc=5",
+              "origin": "google",
+              "title": "허성범 AI 매니저 전참시 일상과 구독료 화제"
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-09-13T08:32:00+09:00",
+          "ts": 1789255920.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
           "title": "앤트로픽 CEO \"AI 에이전트 군집, 6~12개월내 인터넷 장악 가능\"",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtOXViWnUzSzFvZDZnS0wwdXVOSEhfSTRIWGdLR29kWlIwY1VRMnJOcFl3QjU0eGJZaGFIcUtDVVpMYVZ3N0VyWjFQVTJqdXV4OHJhVHl5RFhBLUtnU2dtU3BCWXdZQjExNzVOSHBLODM?oc=5",
           "snippet": "",
@@ -4882,7 +5100,7 @@
               "title": "아모데이 “AI 에이전트 무리, 6~12개월 내 인터넷 전체 장악 가능” 경고"
             },
             {
-              "name": "digitaltoday.co.kr",
+              "name": "디지털투데이",
               "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBydXMyN3JRTDVhbTNEcE1NOHFDMGRvRmx0cXlFa0pGZ3c1NjJ2ejFRdGpxanFZOU53djJyOEgxbWk5NDAzNllrWjJuOUc0TEcxd0R2NVRBZUV4Rkc5MVotbEhTNGRQWnJSbXhXMEpUN0FQbVE?oc=5",
               "origin": "google",
               "title": "\"1년 뒤면 AI가 인터넷 장악\"…앤트로픽 CEO 속도조절론에 빅테크 화답"
@@ -5081,31 +5299,6 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "웹툰부터 AI 숏폼·e스포츠까지…'2026 창원콘텐츠컨벤션' 개최",
-          "url": "https://www.nocutnews.co.kr/news/6577313?utm_source=naver&utm_medium=article&utm_campaign=20260913080846",
-          "snippet": "또, 지역 콘텐츠기업과 특성화고·대학 등이 참여한 전시·체험 부스를 통해 시민들이 웹툰, 게임 등 다양한 콘텐츠를 직접 경험하고, AI 생성형 워크숍과 숏폼 콘텐츠 체험 등 참여형 프로그램을 즐길 수 있는 기회를...",
-          "source": "노컷뉴스",
-          "sources": [
-            {
-              "name": "노컷뉴스",
-              "url": "https://www.nocutnews.co.kr/news/6577313?utm_source=naver&utm_medium=article&utm_campaign=20260913080846",
-              "origin": "naver",
-              "title": "웹툰부터 AI 숏폼·e스포츠까지…'2026 창원콘텐츠컨벤션' 개최"
-            },
-            {
-              "name": "더뉴스코리아",
-              "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XRjhvRFlnY2hTbzNodjItXzgwLURXNDVoLWhsSnBrRWRWR1RBLWY5UUMyMThhRFR1SGUxaktZRE9JbHlUbEpDdjl3?oc=5",
-              "origin": "google",
-              "title": "창원콘텐츠컨벤션, 웹툰부터 AI 숏폼·e스포츠까지! 창원의 콘텐츠 한자리에"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-13T20:09:00+09:00",
-          "ts": 1789297740.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
           "title": "AI 수장들의 ‘AI 속도 조절론’",
           "url": "https://www.khan.co.kr/article/202609132009015",
           "snippet": "그는 지난 7월 오픈AI의 ‘허깅페이스 사태’를 예로 들며 “지금 추세라면 6~12개월 안에 에이전트 군집이 인터넷 전체를 장악할 정도로 강력해질 수 있다”고 경고했다. 경쟁사 수장들도 곧바로 호응했다. 샘 올트먼...",
@@ -5177,31 +5370,6 @@
           "source_count": 2,
           "published": "2026-09-13T19:28:00+09:00",
           "ts": 1789295280.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "울산, 산업현장·시민 일상 'AI시티'로 대전환",
-          "url": "http://www.ujeil.com/news/articleView.html?idxno=392004",
-          "snippet": "첫번째 세션에선 자동차·조선·석유화학 등 울산 제조업의 AX 가속화를 위한 산업별 데이터 확보와 현장 실증, 피지컬 AI 실행 전략 등이 논의됐다. 두번째 세션에선 AI를 시민 일상에 접목해 지역사회 문제를...",
-          "source": "뉴스핌",
-          "sources": [
-            {
-              "name": "뉴스핌",
-              "url": "https://www.newspim.com/news/view/20260913000101",
-              "origin": "naver",
-              "title": "최태원 회장 \"울산을 AI시티로\"…제조 넘어 시민 일상까지 혁신"
-            },
-            {
-              "name": "울산제일일보",
-              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iMThLcWJidVpOSUdPelpxTzZ5TElicTI1Z3pzU3o3M3JLSFpTRk42NVdZMzd1VU0yY3loU1lwMklDNlpfRlo5bGNvcDZ3VFYzQnVDUW56TnM2M0dQWktickpjS09idw?oc=5",
-              "origin": "google",
-              "title": "울산, 산업현장·시민 일상 ‘AI시티’로 대전환"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-13T19:24:00+09:00",
-          "ts": 1789295040.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -5406,31 +5574,6 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "LG디스플레이, 전사적 AI 전환 가속화… 'AX 스쿼드'로 인공지능 전문가...",
-          "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48931",
-          "snippet": "발굴하고, AI 전문가의 코칭을 받아 실행 가능성이 높은 실효성 있는 결과물을 만들어내는 방식이다. 이를 통해 개발된 애플리케이션은 LG디스플레이의 사내 앱 마켓인 'HI-D 에이전트 허브(HI-D Agent Hub)'를 통해 임직원...",
-          "source": "smarttimes.co.kr",
-          "sources": [
-            {
-              "name": "smarttimes.co.kr",
-              "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48931",
-              "origin": "naver",
-              "title": "LG디스플레이, 전사적 AI 전환 가속화… 'AX 스쿼드'로 인공지능 전문가..."
-            },
-            {
-              "name": "헤럴드경제",
-              "url": "https://biz.heraldcorp.com/article/10871538?ref=naver",
-              "origin": "naver",
-              "title": "“코딩 몰라도 AI 앱 만든다”…LG디스플레이, 전사 AX 확산"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-13T16:22:00+09:00",
-          "ts": 1789284120.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
           "title": "[김태형의 혁신의기술] 〈59〉AI 에이전트 시대, 우리는 누구에게 질문...",
           "url": "https://www.etnews.com/20260911000266",
           "snippet": "많은 조직이 AI에게 묻는다. “왜 이 거래처를 골랐나.” “왜 이 지원자를 탈락시켰나.” 에이전트는 가격과 재고, 납기와 과거 데이터를 종합한 결과라고 즉시 답한다. 그러나, 문제는 그 답이 실제 판단의 경로를...",
@@ -5502,31 +5645,6 @@
           "source_count": 2,
           "published": "2026-09-13T14:35:00+09:00",
           "ts": 1789277700.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "\"인류에 위협, AI 개발 속도 조절 필요\"...아모데이 제안에 앙숙 올트먼도 \"동의\"",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORDVhWEhndTd1TmNraFVzVHgwS1ZldUQ5ZjhabGVSNDY2aXVwTmpOaHFVa0xqdnpVd0hFZ0JPakxrLXRfOUhMQVBIYkRqNk5tME9sQlh0UURrX05ZZ2puZDAyOG5LX09TRVFtOWVvbkptZ19pWHpfdllvbU5YR3JpSnJDYw?oc=5",
-          "snippet": "",
-          "source": "조선일보",
-          "sources": [
-            {
-              "name": "조선일보",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORDVhWEhndTd1TmNraFVzVHgwS1ZldUQ5ZjhabGVSNDY2aXVwTmpOaHFVa0xqdnpVd0hFZ0JPakxrLXRfOUhMQVBIYkRqNk5tME9sQlh0UURrX05ZZ2puZDAyOG5LX09TRVFtOWVvbkptZ19pWHpfdllvbU5YR3JpSnJDYw?oc=5",
-              "origin": "google",
-              "title": "\"인류에 위협, AI 개발 속도 조절 필요\"...아모데이 제안에 앙숙 올트먼도 \"동의\""
-            },
-            {
-              "name": "마켓인",
-              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EQ3M3S2wzWHlFZmg4WmNCREdFa1JhYk11MFZkRS1fcGNTN3Y2LWs5WFJYczNqT21mWWhudUNIb1pOM185aFNxdFNzenlhSnlIRUpsb002ZFBkbllCZmxRNkpoVGF6ODMyWlNLV3Frdms1Nkk?oc=5",
-              "origin": "google",
-              "title": "\"AI 속도 늦추자\" 아모데이 제안…올트먼·머스크도 \"옳다\""
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-13T14:16:25+09:00",
-          "ts": 1789276585.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -5806,77 +5924,27 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "DDP서 즐기는 아이돌 VR공연…K팝·AI·게임·e스포츠 한자리",
-          "url": "https://news.tf.co.kr/read/life/2365047.htm",
-          "snippet": "관람객이 직접 아이돌 캐릭터를 만들고 프로필 촬영과 데뷔곡 제작을 체험하는 '아이돌 데뷔 체험존'과 AI 작곡, AR(증강현실) 콘텐츠 체험도 마련된다. 게임·e스포츠 프로그램도 진행된다. 블리자드 엔터테인먼트의...",
-          "source": "더팩트",
+          "title": "K팝 VR·아이돌 데뷔체험·e스포츠 한자리…DDP서 '엔터테크·GES 서울'",
+          "url": "https://www.news1.kr/local/moi/6288062",
+          "snippet": "데뷔곡 제작까지 해보는 체험존도 운영한다. 게임·e스포츠 프로그램도 마련된다. 블리자드는... 조혜정 서울시 창조산업기획관은 \"K팝 VR과 AI 음악, 심레이싱까지 DDP 곳곳에서 콘텐츠와 기술이 만나는 새로운...",
+          "source": "뉴스1",
           "sources": [
-            {
-              "name": "더팩트",
-              "url": "https://news.tf.co.kr/read/life/2365047.htm",
-              "origin": "naver",
-              "title": "DDP서 즐기는 아이돌 VR공연…K팝·AI·게임·e스포츠 한자리"
-            },
             {
               "name": "뉴스1",
               "url": "https://www.news1.kr/local/moi/6288062",
               "origin": "naver",
               "title": "K팝 VR·아이돌 데뷔체험·e스포츠 한자리…DDP서 '엔터테크·GES 서울'"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-13T11:16:00+09:00",
-          "ts": 1789265760.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "경남교육청, 국립중앙도서관 영상 공모전 ‘우수상’",
-          "url": "https://www.newsis.com/view/NISX20260913_0003787195",
-          "snippet": "이들은 도서관 현장에서 근무하면서 생성형 인공지능(AI) 등 새로운 디지털 기술을 학습하고 이를 도서관 업무와 콘텐츠 제작에 접목하는 방안을 꾸준히 연구해 왔다. 수상작 '멋진 책세계로 온(ON), 나'는 6종의 생성형...",
-          "source": "뉴시스",
-          "sources": [
-            {
-              "name": "뉴시스",
-              "url": "https://www.newsis.com/view/NISX20260913_0003787195",
-              "origin": "naver",
-              "title": "경남교육청, 국립중앙도서관 영상 공모전 ‘우수상’"
             },
             {
-              "name": "newfilenews.com",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqN2NJc3lYeWRKMnc2azNSLUdIX1JlMTR4Y3JYZXRhTlJyYVpXWE5nbTk5Mmg1OVVuX1A1V0FydDg2NTc1dlBvSWJIOGpKZ21hckdpTFZ4LVZUNnpxU3JUS0E1QnczUGtmcVNJaWxB?oc=5",
+              "name": "웹이코노미",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZOGVzeEUyaWVjbFd4RGhVejE0dm9jMzZaMlRZTV9aYzlERkZucVI4dUVlamlmUVhpdkRfTGJERk5QY3hjSTRlVExVSkJ4dFNuSjd6WlBZTk1VYUZhc3F0aERKWTJ5eEJ2QnNkazd6WTE5Zw?oc=5",
               "origin": "google",
-              "title": "'AI로 만든 뮤직 비디오'...경남 도서관 사서들, 영상 공모전서 국립중앙도서관장상 수상"
+              "title": "DDP에서 ‘엔터테크·GES 서울 2026’ 개최…K-POP·게임·e스포츠 한자리에"
             }
           ],
           "source_count": 2,
-          "published": "2026-09-13T10:57:00+09:00",
-          "ts": 1789264620.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "KT, 네덜란드 ‘IBC 2026’서 앰로직과 MOU…미디어 칩셋 안정적 확보",
-          "url": "https://www.sportsseoul.com/news/read/1634689?ref=naver",
-          "snippet": "8K 안드로이드 TV 셋톱박스와 음성인식 리모컨을 비롯해 온디바이스 AI 에이전트, AI 기반 영상 편집·쇼츠 제작, 딥페이크 탐지, 미디어 특화 자막 생성·편집 등 다양한 미디어·AI 기술을 선보인다. KT는 IBC에 이어...",
-          "source": "sportsseoul.com",
-          "sources": [
-            {
-              "name": "sportsseoul.com",
-              "url": "https://www.sportsseoul.com/news/read/1634689?ref=naver",
-              "origin": "naver",
-              "title": "KT, 네덜란드 ‘IBC 2026’서 앰로직과 MOU…미디어 칩셋 안정적 확보"
-            },
-            {
-              "name": "asiatime.co.kr",
-              "url": "https://www.asiatime.co.kr/article/20260913500014",
-              "origin": "naver",
-              "title": "KT, 글로벌 칩셋 공급망 다진다…앰로직과 MOU"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-13T10:50:00+09:00",
-          "ts": 1789264200.0,
+          "published": "2026-09-13T11:15:00+09:00",
+          "ts": 1789265700.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -5981,6 +6049,31 @@
           "group_label": "AI · 생성형AI"
         },
         {
+          "title": "KT, 6000만 접점 ‘모두의 AI’…토큰 팩토리로 GPU 효율 21% 높인다",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tTWVVaEJWUUhJeVhpSXM0OEN1SlVGQ21mTFNzUEcweU5Jckg1WFpCOVVXSG1lS3o4ODV6ZU9fZnZYLWVRSEpQVVB4aVhJdG8?oc=5",
+          "snippet": "",
+          "source": "v.daum.net",
+          "sources": [
+            {
+              "name": "v.daum.net",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tTWVVaEJWUUhJeVhpSXM0OEN1SlVGQ21mTFNzUEcweU5Jckg1WFpCOVVXSG1lS3o4ODV6ZU9fZnZYLWVRSEpQVVB4aVhJdG8?oc=5",
+              "origin": "google",
+              "title": "KT, 6000만 접점 ‘모두의 AI’…토큰 팩토리로 GPU 효율 21% 높인다"
+            },
+            {
+              "name": "MTN 머니투데이방송",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82UkVJLS1CY2Zwc25LOUlCOXNxWFZVb2YzWXdEZUlRSVF3cEdEWnFMZHBWd25OSGJ3aW9CVGlwZ3dqNjdzMnlTa3JpdVE0WlVveXhqaWJoQTJGT21BenJZMWhyRUs?oc=5",
+              "origin": "google",
+              "title": "KT, '모두의 AI' 6000만 접점 전략…공공부문 AI에이전트 '실행'은 과제"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-09-13T09:25:00+09:00",
+          "ts": 1789259100.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
           "title": "차세대 게임 서비스? AI붐 직격탄 맞은 ‘클라우드 게임’",
           "url": "https://www.chosun.com/economy/tech_it/2026/09/13/6H42BB5OJZCC3NUHBMPY5JO7LY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
           "snippet": "그런데 빅테크들이 수익성 높은 생성형 AI에 데이터센터 사용을 우선 배정하면서, 클라우드 게임은... 구글의 새 수익원이 될 것이란 기대를 모았지만, 지연 속도 등 기술적 문제와 독점 콘텐츠 부족으로 이용자를...",
@@ -6031,31 +6124,6 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "피지컬 AI 자율제조 해법 찾는다 세미나허브, AI팩토리 전환 산업 적용 방안 논의",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Ub1NhVW80M2NuMkpiVkNDOEtFaV93czBpT3lNZU8weW4tUGhkaDdIUG54N0NpRlN0TkpDTmRJMkswNlgtaDY2OXAtREZERjYtNHFQdFRNbWxySXVqUjdOR1Znc3F4dmt6SkcxRlBpdUlfWDg3RjZj0gF3QVVfeXFMTlRvU2FVbzQzY24ySmJWQ0M4S0VpX3dzMGlPeU1lTzB5bi1QaGRoN0hQbng3Q2lGU3ROSkNOZEkySzA2WC1oNjY5cC1ERkRGNi00cVB0VE1tbHJJdWpSN05HVmdzcXh2a3pKRzFGUGl1SV9YODdGNmM?oc=5",
-          "snippet": "",
-          "source": "핀포인트뉴스",
-          "sources": [
-            {
-              "name": "핀포인트뉴스",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Ub1NhVW80M2NuMkpiVkNDOEtFaV93czBpT3lNZU8weW4tUGhkaDdIUG54N0NpRlN0TkpDTmRJMkswNlgtaDY2OXAtREZERjYtNHFQdFRNbWxySXVqUjdOR1Znc3F4dmt6SkcxRlBpdUlfWDg3RjZj0gF3QVVfeXFMTlRvU2FVbzQzY24ySmJWQ0M4S0VpX3dzMGlPeU1lTzB5bi1QaGRoN0hQbng3Q2lGU3ROSkNOZEkySzA2WC1oNjY5cC1ERkRGNi00cVB0VE1tbHJJdWpSN05HVmdzcXh2a3pKRzFGUGl1SV9YODdGNmM?oc=5",
-              "origin": "google",
-              "title": "피지컬 AI 자율제조 해법 찾는다 세미나허브, AI팩토리 전환 산업 적용 방안 논의"
-            },
-            {
-              "name": "미디어와이",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zTnJpM2tPZnJXcGNxZmRhUTc1cmM4aHNhLVlockY4NHFZZXNwaG0td1BieWVmWGJhcmpGRDRkMzBCLUZlZ0x1T1Zyc2RreWhpakFuUlp3WHh6VmV1U1Z2aVJuMjVqS2tvNGfSAW5BVV95cUxNVUJJcC1PNzZWVWYwZWUySENJd2FUR29vYUVyYzJ4UU5yakNMVHFGRkVfWHducTJlYVprMWZvelJ1NzF3UFhYNXoyOHVQcnZFQ0pEUWRWZHFETlVXeFJubUtRX3lvZ2J1SURiUURQdw?oc=5",
-              "origin": "google",
-              "title": "수원시의회, 지역 산업 'AI 전환' 전략 찾는다… 정책 연구"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-13T08:52:38+09:00",
-          "ts": 1789257158.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
           "title": "무인항공기 제조 기업 프리뉴, ‘피지컬 AI’ 자율주행 드론 개발 착수",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TbG8zMVg0LXU5VEZDeW5ZQUtVQVdITHBDaHdTUERmd1R0LS0wcjNJZy1EOTYwVDJZMEE0ckRRZnN2c0lJSGVGSDJVYXVQTTM5d1gwSXpyeTMySkI3MGJKWWhQeG0?oc=5",
           "snippet": "",
@@ -6077,31 +6145,6 @@
           "source_count": 2,
           "published": "2026-09-13T08:22:31+09:00",
           "ts": 1789255351.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "허성범, AI와 산다… 실생활 활용법 미쳤다 (전참시)",
-          "url": "https://sports.donga.com/ent/article/all/20260913/134655718/1",
-          "snippet": "12일 방송된 MBC ‘전지적 참견 시점’(약칭 ‘전참시’) 415회에서는 카이스트 AI 연구원 겸 크리에이터 허성범과 데뷔 30주년을 맞은 일루셔니스트 이은결의 일상이 공개됐다. 수능 수학 문제를 푸는 영상으로 주목받은...",
-          "source": "동아일보",
-          "sources": [
-            {
-              "name": "동아일보",
-              "url": "https://sports.donga.com/ent/article/all/20260913/134655718/1",
-              "origin": "naver",
-              "title": "허성범, AI와 산다… 실생활 활용법 미쳤다 (전참시)"
-            },
-            {
-              "name": "스포츠동아",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIZ3duZlZkbUxGVnBteTdNNEZZS3RhSjd0NVA4R2hqUHlBeTByYmhBQWdVMXpTZWtLWk82RHhLQld3Y1BGNTZGQ1VaZERIa1I5ZDV6bF85VzA5Uy1BX1o5ZHUxSVQ1TFhxb0dCYXZn?oc=5",
-              "origin": "google",
-              "title": "허성범, AI와 산다… 실생활 활용법 미쳤다 (전참시)"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-13T08:16:00+09:00",
-          "ts": 1789254960.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -6182,13 +6225,13 @@
         },
         {
           "title": "최태원 \"韓日 에너지 협력서 SK이노 핵심\"…AI·데이터센터 품고 사업 체질 전환",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzb0VsVkk3MEQtQjJaRUlBaWJ6cTl4N2h2V1RCNWNGTUZKWEZiZk51N2FJZ19VaF81SldpYlBmbW9EaEozXzZ3OGM4Tl9iVTB5aWprREJqSXpwVFplYmRadg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qSU5oUTM0eGVXOWlKTnhYbk11ZFBKakF4djdJWkcxQ2Q3eF8wYjBfTFU5R3A4Z2VTZ1VOYlJqR0drUzlsUTJQRTg4T1VhajRjVDRKZlQwOU13SS1PYzhHajBwcw?oc=5",
           "snippet": "",
           "source": "더구루",
           "sources": [
             {
               "name": "더구루",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzb0VsVkk3MEQtQjJaRUlBaWJ6cTl4N2h2V1RCNWNGTUZKWEZiZk51N2FJZ19VaF81SldpYlBmbW9EaEozXzZ3OGM4Tl9iVTB5aWprREJqSXpwVFplYmRadg?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qSU5oUTM0eGVXOWlKTnhYbk11ZFBKakF4djdJWkcxQ2Q3eF8wYjBfTFU5R3A4Z2VTZ1VOYlJqR0drUzlsUTJQRTg4T1VhajRjVDRKZlQwOU13SS1PYzhHajBwcw?oc=5",
               "origin": "google",
               "title": "최태원 \"韓日 에너지 협력서 SK이노 핵심\"…AI·데이터센터 품고 사업 체질 전환"
             },
@@ -6427,31 +6470,6 @@
           "source_count": 2,
           "published": "2026-09-12T16:16:31+09:00",
           "ts": 1789197391.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "AI도 '악마의 게임'에 무릎 꿇었다…\"23전 3승 20패\"",
-          "url": "https://view.asiae.co.kr/article/2026091215300664827",
-          "snippet": "영국 옥스퍼드대 등이 참여한 공동 연구진은 이달초 논문 사전 공개 사이트 '아카이브(arXiv)'에 'CivBench: 문명 6에서 도구를 사용하는 에이전트의 장기 수행 능력을 평가하는 벤치마크'를 공개했다. 주요 AI 모델 4종에...",
-          "source": "아시아경제",
-          "sources": [
-            {
-              "name": "아시아경제",
-              "url": "https://view.asiae.co.kr/article/2026091215300664827",
-              "origin": "naver",
-              "title": "AI도 '악마의 게임'에 무릎 꿇었다…\"23전 3승 20패\""
-            },
-            {
-              "name": "머니투데이",
-              "url": "https://www.mt.co.kr/tech/2026/09/12/2026091110413121986",
-              "origin": "naver",
-              "title": "악마의 게임 앞에 AI도 별수 없다...'3승20패' 굴욕, 왜?"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-12T15:34:00+09:00",
-          "ts": 1789194840.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -6760,6 +6778,44 @@
           "group_label": "AI · 생성형AI"
         },
         {
+          "title": "울산 제조AX '속도전'… 핵심 열쇠는 현장 데이터·인력·실증",
+          "url": "http://www.ujeil.com/news/articleView.html?idxno=391991",
+          "snippet": "조익환 SK텔레콤 피지컬AI 본부장은 \"자동차·조선·화학 등 업종마다 로봇이 수행해야 할 작업과 필요한 학습 데이터가 다르다\"며 \"국가 주도 AI 파운데이션 모델을 만들 때 산업별 학습 과제를 명확히 해야 한다\"고...",
+          "source": "ujeil.com",
+          "sources": [
+            {
+              "name": "ujeil.com",
+              "url": "http://www.ujeil.com/news/articleView.html?idxno=391991",
+              "origin": "naver",
+              "title": "울산 제조AX '속도전'… 핵심 열쇠는 현장 데이터·인력·실증"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T19:24:00+09:00",
+          "ts": 1789295040.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "울산, 산업현장·시민 일상 ‘AI시티’로 대전환",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iMThLcWJidVpOSUdPelpxTzZ5TElicTI1Z3pzU3o3M3JLSFpTRk42NVdZMzd1VU0yY3loU1lwMklDNlpfRlo5bGNvcDZ3VFYzQnVDUW56TnM2M0dQWktickpjS09idw?oc=5",
+          "snippet": "",
+          "source": "울산제일일보",
+          "sources": [
+            {
+              "name": "울산제일일보",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iMThLcWJidVpOSUdPelpxTzZ5TElicTI1Z3pzU3o3M3JLSFpTRk42NVdZMzd1VU0yY3loU1lwMklDNlpfRlo5bGNvcDZ3VFYzQnVDUW56TnM2M0dQWktickpjS09idw?oc=5",
+              "origin": "google",
+              "title": "울산, 산업현장·시민 일상 ‘AI시티’로 대전환"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T19:20:00+09:00",
+          "ts": 1789294800.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
           "title": "캐나다 산업자동화 기업 벤션, 몬트리올에 '피지컬 AI 연구소' 개소",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RTkFpUEZNNWtJZEtqS0VFUEt2SC1FQzN0MWJERmY4R3J5T3NvQV9vREhuSWw1NThndC1mWkh6UGs4MHFncnhaM2hCaHJUc3ppNldHdjVMb194Z0FKMTkzZkxuNGRiM180WUZWWg?oc=5",
           "snippet": "",
@@ -6853,6 +6909,82 @@
           "ts": 1789292751.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "AI 기술 도약과 새로운 야만 [세계의 창]",
+          "url": "https://www.hani.co.kr/arti/opinion/column/1277577.html",
+          "snippet": "인공지능(AI)의 발전이 인간의 삶에 어떤 영향을 미칠 것인지에 대해 전망한다. 하라리는 그동안 인간의... 에이아이 에이전트의 폭발적 성장은 이런 억압적 탈승화를 전례 없는 수준으로 끌어올린다. 진실과 허구, 공적...",
+          "source": "한겨레",
+          "sources": [
+            {
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/opinion/column/1277577.html",
+              "origin": "naver",
+              "title": "AI 기술 도약과 새로운 야만 [세계의 창]"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T18:42:00+09:00",
+          "ts": 1789292520.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "[사설] AI 수장들도 “통제 불능” 경고, 개발 속도조절 나서야",
+          "url": "https://www.hani.co.kr/arti/opinion/editorial/1277575.html",
+          "snippet": "앤트로픽 등 인공지능(AI) 업계 수장들이 에이아이 발전 속도가 통제 불능 상태에 이를 수 있다며 일제히 속도... 둘째는 지난 7월 오픈에이아이의 미공개 에이전트들이 테스트 과정에서 지시받지 않은 표적을 무단 해킹한...",
+          "source": "한겨레",
+          "sources": [
+            {
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/opinion/editorial/1277575.html",
+              "origin": "naver",
+              "title": "[사설] AI 수장들도 “통제 불능” 경고, 개발 속도조절 나서야"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T18:38:00+09:00",
+          "ts": 1789292280.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "비자 스테이블코인 정산 70억달러…VSP 매출은 미공개",
+          "url": "https://www.tokenpost.kr/news/cryptocurrency/407155",
+          "snippet": "비자는 AI 에이전트용 토큰화 결제 자격증명과 에이전트 식별·검증 체계를 개발했으며, 100개 이상 기업이 비자 인텔리전트 커머스 네트워크에 참여하고 있다고 밝혔다. AI 에이전트 결제를 시험하는 발행사는 150곳...",
+          "source": "tokenpost.kr",
+          "sources": [
+            {
+              "name": "tokenpost.kr",
+              "url": "https://www.tokenpost.kr/news/cryptocurrency/407155",
+              "origin": "naver",
+              "title": "비자 스테이블코인 정산 70억달러…VSP 매출은 미공개"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T18:36:00+09:00",
+          "ts": 1789292160.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "GPT-6 아스트라, 벤치마크 95.9%…3D 제작 활용",
+          "url": "https://www.tokenpost.kr/news/ai/407153",
+          "snippet": "이 사례들이 보여주는 변화는 ‘코드 생성’에서 ‘작업 환경을 직접 조작하는 에이전트’로의 이동이다. 오픈AI는 아스트라를 웹사이트·앱·게임 제작과 Blender 작업에 활용할 수 있는 모델로 설명했다. 컴퓨터...",
+          "source": "tokenpost.kr",
+          "sources": [
+            {
+              "name": "tokenpost.kr",
+              "url": "https://www.tokenpost.kr/news/ai/407153",
+              "origin": "naver",
+              "title": "GPT-6 아스트라, 벤치마크 95.9%…3D 제작 활용"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T18:34:00+09:00",
+          "ts": 1789292040.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
         }
       ]
     },
@@ -6908,31 +7040,6 @@
           "group_label": "콘텐츠 · 크리에이터"
         },
         {
-          "title": "“‘K-IP서비스’도 수출한다”…AI·특허데이터 들고 세계시장으로",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JeUwtcmhsSkNhaWE0OUNMQnFncmo5U012Z3F3OVNSYnRzNk5HUnpQUzhTTDY2V29vWkNRd0xkSlByV0poMFFpUjdoYmFpcWplQ0dr?oc=5",
-          "snippet": "",
-          "source": "아산데일리",
-          "sources": [
-            {
-              "name": "아산데일리",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JeUwtcmhsSkNhaWE0OUNMQnFncmo5U012Z3F3OVNSYnRzNk5HUnpQUzhTTDY2V29vWkNRd0xkSlByV0poMFFpUjdoYmFpcWplQ0dr?oc=5",
-              "origin": "google",
-              "title": "“‘K-IP서비스’도 수출한다”…AI·특허데이터 들고 세계시장으로"
-            },
-            {
-              "name": "e-patentnews.com",
-              "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5hZkFXMzNMUW1FYVZjUk40QnVwa0hzbnh6UE5fb3BqUHdFMU56TVprbFZXeENUa2FOeUxrd0VtaTFROWpsazU2bg?oc=5",
-              "origin": "google",
-              "title": "[특집/CIPAC 2026②] “K-IP서비스도 수출한다”... CIPAC 2026 한국관, AI·특허데이터로 글로벌 시장 공략"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-13T16:56:07+09:00",
-          "ts": 1789286167.0,
-          "group": "trend_content",
-          "group_label": "콘텐츠 · 크리에이터"
-        },
-        {
           "title": "[SW이슈] OTT 격전지 된 ‘웹툰 IP’…하반기 콘텐츠 승부수는 ‘웹툰 원...",
           "url": "https://www.sportsworldi.com/newsView/20260913505913",
           "snippet": "주요 OTT들은 남은 올해에도 원천 IP를 영상화한 기대작을 저마다 앞세워 이용자 확보를 위한 콘텐츠 경쟁에 박차를 가한다. 넷플릭스 '들쥐' 스틸컷 가장 먼저 넷플릭스는 지난달 28일 공개한 오리지널 시리즈 류준열...",
@@ -6949,11 +7056,42 @@
               "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vNGFtb0l4a1JWQll3QUV0czd1bWYxeWxVNnV2MW1nZHRoaXlFbnB4UjVvdXR0N1JsLWN5QThoVWk3WEdfUnkyalZvQVJBelF0eXBFeEd1WXRiZl9lNEdwMVdhd1JIRmRVdVFhcUx3?oc=5",
               "origin": "google",
               "title": "[SW이슈] OTT 격전지 된 '웹툰 IP'…하반기 콘텐츠 승부수는 '웹툰 원작'"
+            },
+            {
+              "name": "스포츠월드",
+              "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8wa2x2VC1TU0xMTGNKR0wzWFgyaS1HQV80QmJwcXNLWTJqUjhER1NCeHF5ZDVYT0NsSVFkSTJseEFWUE93c3JET2VBd0xMSlBwblNaWDhnTzZWNHhEa3pDbVdB?oc=5",
+              "origin": "google",
+              "title": "[SW이슈] OTT 격전지 된 ‘웹툰 IP’…하반기 콘텐츠 승부수는 ‘웹툰 원작’"
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-09-13T12:21:00+09:00",
+          "ts": 1789269660.0,
+          "group": "trend_content",
+          "group_label": "콘텐츠 · 크리에이터"
+        },
+        {
+          "title": "“‘K-IP서비스’도 수출한다”…AI·특허데이터 들고 세계시장으로",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JeUwtcmhsSkNhaWE0OUNMQnFncmo5U012Z3F3OVNSYnRzNk5HUnpQUzhTTDY2V29vWkNRd0xkSlByV0poMFFpUjdoYmFpcWplQ0dr?oc=5",
+          "snippet": "",
+          "source": "아산데일리",
+          "sources": [
+            {
+              "name": "아산데일리",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JeUwtcmhsSkNhaWE0OUNMQnFncmo5U012Z3F3OVNSYnRzNk5HUnpQUzhTTDY2V29vWkNRd0xkSlByV0poMFFpUjdoYmFpcWplQ0dr?oc=5",
+              "origin": "google",
+              "title": "“‘K-IP서비스’도 수출한다”…AI·특허데이터 들고 세계시장으로"
+            },
+            {
+              "name": "특허뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5hZkFXMzNMUW1FYVZjUk40QnVwa0hzbnh6UE5fb3BqUHdFMU56TVprbFZXeENUa2FOeUxrd0VtaTFROWpsazU2bg?oc=5",
+              "origin": "google",
+              "title": "[특집/CIPAC 2026②] “K-IP서비스도 수출한다”... CIPAC 2026 한국관, AI·특허데이터로 글로벌 시장 공략"
             }
           ],
           "source_count": 2,
-          "published": "2026-09-13T12:21:00+09:00",
-          "ts": 1789269660.0,
+          "published": "2026-09-13T16:56:07+09:00",
+          "ts": 1789286167.0,
           "group": "trend_content",
           "group_label": "콘텐츠 · 크리에이터"
         },
@@ -7029,6 +7167,25 @@
           "source_count": 2,
           "published": "2026-09-13T00:20:00+09:00",
           "ts": 1789226400.0,
+          "group": "trend_content",
+          "group_label": "콘텐츠 · 크리에이터"
+        },
+        {
+          "title": "한국에서 대박나자 유럽에서…계급장 없는 서바이벌 '예능'",
+          "url": "https://www.wikitree.co.kr/articles/1159212",
+          "snippet": "넷플릭스 한국 오리지널 예능 피지컬 100의 포맷을 유럽 시장으로 확장한 스핀오프 예능 피지컬 100... 피지컬 100 이탈리아는 글로벌 OTT 플랫폼 넷플릭스를 통해 만나볼 수 있다.유튜브, Netflix■ 피지컬 100 시즌1...",
+          "source": "wikitree.co.kr",
+          "sources": [
+            {
+              "name": "wikitree.co.kr",
+              "url": "https://www.wikitree.co.kr/articles/1159212",
+              "origin": "naver",
+              "title": "한국에서 대박나자 유럽에서…계급장 없는 서바이벌 '예능'"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T21:14:00+09:00",
+          "ts": 1789301640.0,
           "group": "trend_content",
           "group_label": "콘텐츠 · 크리에이터"
         },
@@ -7200,6 +7357,25 @@
           "source_count": 1,
           "published": "2026-09-13T12:35:00+09:00",
           "ts": 1789270500.0,
+          "group": "trend_content",
+          "group_label": "콘텐츠 · 크리에이터"
+        },
+        {
+          "title": "인기 크리에이터 숏폼 콘텐츠로 해군 알린다",
+          "url": "https://kookbang.dema.mil.kr/newsWeb/20260914/3/ATCE_CTGR_0010040000/view.do",
+          "snippet": "해군은 13일 “해군교육사령부와 4400톤급 구축함(DDH-Ⅱ) 충무공이순신함에서 지난 9~11일 숏폼 콘텐츠 전문기업 ‘윗유’와 네이비 윗유 프로젝트 시즌2를 진행했다”고 밝혔다. 네이비 윗유는 크리에이터의 콘텐츠 제작...",
+          "source": "kookbang.dema.mil.kr",
+          "sources": [
+            {
+              "name": "kookbang.dema.mil.kr",
+              "url": "https://kookbang.dema.mil.kr/newsWeb/20260914/3/ATCE_CTGR_0010040000/view.do",
+              "origin": "naver",
+              "title": "인기 크리에이터 숏폼 콘텐츠로 해군 알린다"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T12:22:00+09:00",
+          "ts": 1789269720.0,
           "group": "trend_content",
           "group_label": "콘텐츠 · 크리에이터"
         },
@@ -7473,10 +7649,10 @@
           "title": "[특집/CIPAC 2026④] “한국 IP서비스의 국경을 넓힌다”... 남아이피그룹, 베이징서 글로벌 파트너십 확장",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hRWdJNHpxZm9va1plM1lrck1ZTk1zSG5mcE9VRTB3bWFWNDR3dGhrV1Q5NzQ1TnN6d3dWSXJhSExYZmZURVVQcA?oc=5",
           "snippet": "",
-          "source": "e-patentnews.com",
+          "source": "특허뉴스",
           "sources": [
             {
-              "name": "e-patentnews.com",
+              "name": "특허뉴스",
               "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hRWdJNHpxZm9va1plM1lrck1ZTk1zSG5mcE9VRTB3bWFWNDR3dGhrV1Q5NzQ1TnN6d3dWSXJhSExYZmZURVVQcA?oc=5",
               "origin": "google",
               "title": "[특집/CIPAC 2026④] “한국 IP서비스의 국경을 넓힌다”... 남아이피그룹, 베이징서 글로벌 파트너십 확장"
@@ -7485,25 +7661,6 @@
           "source_count": 1,
           "published": "2026-09-13T02:41:00+09:00",
           "ts": 1789234860.0,
-          "group": "trend_content",
-          "group_label": "콘텐츠 · 크리에이터"
-        },
-        {
-          "title": "소개 페이지에서 살펴볼 현대카드 오토세이브 콘텐츠 범위",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY0t6UWloV0J6ODBxWkx5dmdVN0dKcTJaWGl1enQwOHBaRmFMTDNObWwtclA0VFIwUE5EanBHRnQtVXJ3VnhkY2ZRbVkyVlBvNmlqRzBjZUp1Q0VtdjVKaV9yaFVWYjhlSmRCdTF6WEkzckhPeUJPOUVucjJIOXZod0Z0RUZKTTROcVhpdVVQQXpFYWxNVHRNX0Q0UEhHNXRCN2dYVUxyb1A?oc=5",
-          "snippet": "",
-          "source": "Histoire pour tous",
-          "sources": [
-            {
-              "name": "Histoire pour tous",
-              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY0t6UWloV0J6ODBxWkx5dmdVN0dKcTJaWGl1enQwOHBaRmFMTDNObWwtclA0VFIwUE5EanBHRnQtVXJ3VnhkY2ZRbVkyVlBvNmlqRzBjZUp1Q0VtdjVKaV9yaFVWYjhlSmRCdTF6WEkzckhPeUJPOUVucjJIOXZod0Z0RUZKTTROcVhpdVVQQXpFYWxNVHRNX0Q0UEhHNXRCN2dYVUxyb1A?oc=5",
-              "origin": "google",
-              "title": "소개 페이지에서 살펴볼 현대카드 오토세이브 콘텐츠 범위"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-13T01:16:34+09:00",
-          "ts": 1789229794.0,
           "group": "trend_content",
           "group_label": "콘텐츠 · 크리에이터"
         },
@@ -7544,25 +7701,6 @@
           "ts": 1789223007.0,
           "group": "trend_content",
           "group_label": "콘텐츠 · 크리에이터"
-        },
-        {
-          "title": "전통과 현대의 만남, 꽃길 '의기투합' 레드닷 디자인 어워드 본상 쾌거",
-          "url": "http://www.queen.co.kr/news/articleView.html?idxno=463250",
-          "snippet": "활동하는 크리에이터 집단으로, 브랜딩을 중심으로 콘텐츠, 광고, 팝업, 굿즈, 출판, 행사기획 등 다양한... 이야기를 세계와 연결하는 크리에이티브 영역을 더욱 확장해 나갈 것\"이라고 밝혔다. 이코노미퀸 유인근 선임기자",
-          "source": "queen.co.kr",
-          "sources": [
-            {
-              "name": "queen.co.kr",
-              "url": "http://www.queen.co.kr/news/articleView.html?idxno=463250",
-              "origin": "naver",
-              "title": "전통과 현대의 만남, 꽃길 '의기투합' 레드닷 디자인 어워드 본상 쾌거"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-12T15:30:00+09:00",
-          "ts": 1789194600.0,
-          "group": "trend_content",
-          "group_label": "콘텐츠 · 크리에이터"
         }
       ]
     },
@@ -7572,7 +7710,7 @@
       "priority": 13,
       "page": "trends",
       "preview": 3,
-      "count": 137,
+      "count": 136,
       "items": [
         {
           "title": "스타크래프트, 2030년 ‘슈팅 게임’으로 귀환",
@@ -7931,17 +8069,17 @@
           "title": "도트 감성에 한국 설화까지…카카오게임즈 '도깨비의세계' 출격 채비",
           "url": "https://sports.hankooki.com/news/articleView.html?idxno=6939462",
           "snippet": "오는 10월8일 정식 출시가 확정되면서 카카오게임즈의 신작 라인업을 이끌 핵심 타이틀로도 주목받고 있다. 13일 업계에 따르면 카카오게임즈는 슈퍼캣에서 개발 중인 '도깨비의세계'를 오는 10월8일 정식 출시할...",
-          "source": "한국아이닷컴",
+          "source": "스포츠한국",
           "sources": [
             {
-              "name": "한국아이닷컴",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vM1NlSVZxV0JxZVBvX24wQk16RjJIMGtFV0hKakVIY1BmTnMtN3lhMENidmh6ajhwWm01cUdLaU9YQWRkeXBYQThHdTJMaTRFSHQ3MXlIeEpheTNCRE9mN0RoTkpaWXZDQVRJd0xxVdIBb0FVX3lxTE9vM1NlSVZxV0JxZVBvX24wQk16RjJIMGtFV0hKakVIY1BmTnMtN3lhMENidmh6ajhwWm01cUdLaU9YQWRkeXBYQThHdTJMaTRFSHQ3MXlIeEpheTNCRE9mN0RoTkpaWXZDQVRJd0xxVQ?oc=5",
+              "name": "스포츠한국",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHYVJpVzRrX1NhakY1c25ETkNZSEVYMmtBbU5UTENtSEJEU2Z6N1pDLUVIMUZFamlIMXQ0cjU0V3Y4TTN4ZnFkRy0zYlI2LXdPbkM1LW1TcGpXTGRELXVEN2k1TmF0TVdhbEhpd2ZNUVjSAXRBVV95cUxQeWdJOC1aNEt1M3UyMTAycmdvanc5a3U2TG9SVmFkUkRWUVI2RWdPQ1pEemE1dnJiMU9uaG9wYjc3WWN1Mmh0VlcxREFuTzFybXk3amNJVkZfZkZzYzhNbWxsa0ZGa0U4T0NhYVhFN2pWc1FZSQ?oc=5",
               "origin": "google",
               "title": "도트 감성에 한국 설화까지…카카오게임즈 '도깨비의세계' 출격 채비"
             },
             {
-              "name": "스포츠한국",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHYVJpVzRrX1NhakY1c25ETkNZSEVYMmtBbU5UTENtSEJEU2Z6N1pDLUVIMUZFamlIMXQ0cjU0V3Y4TTN4ZnFkRy0zYlI2LXdPbkM1LW1TcGpXTGRELXVEN2k1TmF0TVdhbEhpd2ZNUVjSAXRBVV95cUxQeWdJOC1aNEt1M3UyMTAycmdvanc5a3U2TG9SVmFkUkRWUVI2RWdPQ1pEemE1dnJiMU9uaG9wYjc3WWN1Mmh0VlcxREFuTzFybXk3amNJVkZfZkZzYzhNbWxsa0ZGa0U4T0NhYVhFN2pWc1FZSQ?oc=5",
+              "name": "한국아이닷컴",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vM1NlSVZxV0JxZVBvX24wQk16RjJIMGtFV0hKakVIY1BmTnMtN3lhMENidmh6ajhwWm01cUdLaU9YQWRkeXBYQThHdTJMaTRFSHQ3MXlIeEpheTNCRE9mN0RoTkpaWXZDQVRJd0xxVdIBb0FVX3lxTE9vM1NlSVZxV0JxZVBvX24wQk16RjJIMGtFV0hKakVIY1BmTnMtN3lhMENidmh6ajhwWm01cUdLaU9YQWRkeXBYQThHdTJMaTRFSHQ3MXlIeEpheTNCRE9mN0RoTkpaWXZDQVRJd0xxVQ?oc=5",
               "origin": "google",
               "title": "도트 감성에 한국 설화까지…카카오게임즈 '도깨비의세계' 출격 채비"
             }
@@ -7974,31 +8112,6 @@
           "source_count": 2,
           "published": "2026-09-13T09:02:00+09:00",
           "ts": 1789257720.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
-          "title": "여러 게임 중 메뉴가 편한지 보는 상하이 마작 게임",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ1lYSlByZzdVYlVQOGJadUtveXlsdlp1a09OVDhJdThvOTdjYzdIUFdGbzZjZUNMdjJYLXNkNURQM3VMejUyZ1dCV1h3bzMtYjNOVlNabm10SDNURFVIZFVHQnd2Unl4Ym94eGg1aUFKRHZoVEZuek9QTFhiN25FM1NDQmYxdlI2RHZPeTF3RFhpVE5BMzdkaDl2bUIwMTlrZ2ZqdjByNExBaTVncTdTeW8yUG1iTkpwS1Y5WUxLWnV5eGxQbEV1Rw?oc=5",
-          "snippet": "",
-          "source": "calgaryroughnecks.com",
-          "sources": [
-            {
-              "name": "calgaryroughnecks.com",
-              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ1lYSlByZzdVYlVQOGJadUtveXlsdlp1a09OVDhJdThvOTdjYzdIUFdGbzZjZUNMdjJYLXNkNURQM3VMejUyZ1dCV1h3bzMtYjNOVlNabm10SDNURFVIZFVHQnd2Unl4Ym94eGg1aUFKRHZoVEZuek9QTFhiN25FM1NDQmYxdlI2RHZPeTF3RFhpVE5BMzdkaDl2bUIwMTlrZ2ZqdjByNExBaTVncTdTeW8yUG1iTkpwS1Y5WUxLWnV5eGxQbEV1Rw?oc=5",
-              "origin": "google",
-              "title": "여러 게임 중 메뉴가 편한지 보는 상하이 마작 게임"
-            },
-            {
-              "name": "Calgary Roughnecks",
-              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45VnZBczFJZE1vZXZ5MHByNmF5aTV3SEFEdEpoTG9XLVIxVVFLVmgwM3dmTGhfcGI4ZlBmS3pHQUVCWHozbm5MbEVIcmNmb3ZfZ3ZEb25GR2FLVHVFZHlBcDhHdw?oc=5",
-              "origin": "google",
-              "title": "여러 게임 중 메뉴가 편한지 보는 포텐 카지노"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-13T08:31:21+09:00",
-          "ts": 1789255881.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
         },
@@ -8350,10 +8463,10 @@
           "title": "한화생명e스포츠 \"다음엔 더 잘 준비하겠다…목표는 월즈 우승\"",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtRlVzZGdsYm5OdElUOTJyQ2FQVFh6ajc4TlNtU3dmUFBFZVJqem9ZcThLUTlkUTh5aGRuQzRsd0VacHc3dEpUX04walA1bEtyNzV1Y2hJM2xET1FrbFhnYw?oc=5",
           "snippet": "",
-          "source": "데일리안",
+          "source": "dailian.co.kr",
           "sources": [
             {
-              "name": "데일리안",
+              "name": "dailian.co.kr",
               "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtRlVzZGdsYm5OdElUOTJyQ2FQVFh6ajc4TlNtU3dmUFBFZVJqem9ZcThLUTlkUTh5aGRuQzRsd0VacHc3dEpUX04walA1bEtyNzV1Y2hJM2xET1FrbFhnYw?oc=5",
               "origin": "google",
               "title": "한화생명e스포츠 \"다음엔 더 잘 준비하겠다…목표는 월즈 우승\""
@@ -8404,6 +8517,25 @@
           "group_label": "게임 · e스포츠"
         },
         {
+          "title": "GTA 6가 아직 출시도 안 됐는데, 콘솔 가격을 벌써 흔들고 있습니다",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBLNDNGaWJPeU1HWGlpY0hYSjh3eFAtZVdnSWxVUVFGNmlzNDNsczBleWtTcF9fRUxjc2JnTDZwdzNYUF91?oc=5",
+          "snippet": "",
+          "source": "티스토리",
+          "sources": [
+            {
+              "name": "티스토리",
+              "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBLNDNGaWJPeU1HWGlpY0hYSjh3eFAtZVdnSWxVUVFGNmlzNDNsczBleWtTcF9fRUxjc2JnTDZwdzNYUF91?oc=5",
+              "origin": "google",
+              "title": "GTA 6가 아직 출시도 안 됐는데, 콘솔 가격을 벌써 흔들고 있습니다"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T18:00:21+09:00",
+          "ts": 1789290021.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
           "title": "개발 종료 혹은 연장…게임사 신작 프로젝트 ‘재정비’",
           "url": "https://www.etoday.co.kr/news/view/2624531",
           "snippet": "게임업계 관계자는 “일부 프로젝트의 개발 중단이나 일정 조정은 개별 회사의 사업성과 개발 상황에 따른 선택으로 봐야 한다”며 “예정된 신작 개발과 출시 일정을 그대로 진행하는 회사도 다수”라고 설명했다.",
@@ -8426,10 +8558,10 @@
           "title": "약사의 자전적 이야기를 바탕으로 탄생한 새로운 게임: 마오마오와 진시가 함께 사건을 해결한다",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeWcyLVItUWVlVWtnSWlHQk9QbG1nZVBTUlBSTUtCa0VJd1dWYzAxd2MzazlXWExERjJfRW9uNnVzdWlhOUo4UFFrbHdSUTNZMjZWTUVwREs2TmRuVWlUb25udHJuSU92MGFxTWNpS01WRjV1Wk9Ed3c2WkV3alk2bzhxblRCUnZLWEZvaA?oc=5",
           "snippet": "",
-          "source": "vietnam.vn",
+          "source": "Vietnam.vn",
           "sources": [
             {
-              "name": "vietnam.vn",
+              "name": "Vietnam.vn",
               "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeWcyLVItUWVlVWtnSWlHQk9QbG1nZVBTUlBSTUtCa0VJd1dWYzAxd2MzazlXWExERjJfRW9uNnVzdWlhOUo4UFFrbHdSUTNZMjZWTUVwREs2TmRuVWlUb25udHJuSU92MGFxTWNpS01WRjV1Wk9Ed3c2WkV3alk2bzhxblRCUnZLWEZvaA?oc=5",
               "origin": "google",
               "title": "약사의 자전적 이야기를 바탕으로 탄생한 새로운 게임: 마오마오와 진시가 함께 사건을 해결한다"
@@ -8730,10 +8862,10 @@
           "title": "게임 화면을 가로로 넓혔을 때 보는 아이폰 sd카드 슬롯 배치",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNR3YtcS1CbDc0WjB1X2tUcU1ycHV0d3N1UnZXa1p0Wi1Pdzg3SWMzd3NaTTl0TU1ybzhPZGp1ZGZUcVg1c2F1N2Q0WVBnRUdHY3dLVzlGelBsbmNkSG8wR2ZqNzlvNi02cjRyX2dtYnZBSEZUNTh6QzdWM01Gdm83NnZEZXZWVVJqOUhnb284eFpwN0ZmZWdJaHJNSG5KblNJVHR6VzM1LV9lWktkQTN1WTFyZVExaU40b3kyMzAxSV94X1hDRUE?oc=5",
           "snippet": "",
-          "source": "calgaryroughnecks.com",
+          "source": "Calgary Roughnecks",
           "sources": [
             {
-              "name": "calgaryroughnecks.com",
+              "name": "Calgary Roughnecks",
               "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNR3YtcS1CbDc0WjB1X2tUcU1ycHV0d3N1UnZXa1p0Wi1Pdzg3SWMzd3NaTTl0TU1ybzhPZGp1ZGZUcVg1c2F1N2Q0WVBnRUdHY3dLVzlGelBsbmNkSG8wR2ZqNzlvNi02cjRyX2dtYnZBSEZUNTh6QzdWM01Gdm83NnZEZXZWVVJqOUhnb284eFpwN0ZmZWdJaHJNSG5KblNJVHR6VzM1LV9lWktkQTN1WTFyZVExaU40b3kyMzAxSV94X1hDRUE?oc=5",
               "origin": "google",
               "title": "게임 화면을 가로로 넓혔을 때 보는 아이폰 sd카드 슬롯 배치"
@@ -8806,10 +8938,10 @@
           "title": "인공지능과 e스포츠를 접목하여 다낭 지역 노동조합 활동을 혁신합니다.",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMThONnRhbVZIa1FJR1U2dXBEUHFnVlF6NHd5MlMxS2gwb2tuZ0I2RkFiaGRxS0Ywb1JYa09Tc2hhWlN1Ylc5VjgtdnlGaG5TOTBaamNDQmI2TnI0Yk5uYTRxVHZCY2hmcm5WMkdjM3VaMWtZalZMeGJ3Y2ZlNHl5dWQ2SUFVU3ZWWjVGSUJ4OC1TdkJXOU9hMFBCV1Y?oc=5",
           "snippet": "",
-          "source": "vietnam.vn",
+          "source": "Vietnam.vn",
           "sources": [
             {
-              "name": "vietnam.vn",
+              "name": "Vietnam.vn",
               "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMThONnRhbVZIa1FJR1U2dXBEUHFnVlF6NHd5MlMxS2gwb2tuZ0I2RkFiaGRxS0Ywb1JYa09Tc2hhWlN1Ylc5VjgtdnlGaG5TOTBaamNDQmI2TnI0Yk5uYTRxVHZCY2hmcm5WMkdjM3VaMWtZalZMeGJ3Y2ZlNHl5dWQ2SUFVU3ZWWjVGSUJ4OC1TdkJXOU9hMFBCV1Y?oc=5",
               "origin": "google",
               "title": "인공지능과 e스포츠를 접목하여 다낭 지역 노동조합 활동을 혁신합니다."
@@ -9072,10 +9204,10 @@
           "title": "입문자가 놓치기 쉬운 게임 개발 대박 모드 표시",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTzdla1JlTE1pclo2VTdGZUxCZ0ZTdXljNXV4MHdQREJPb3NYVTlxczFXXy1Gb3BmU1VlcXpPUk5TVk5LaFZlQjV1MXJncGMwZW52S0NsYTJzbXZORHhjVEFNZ0haNmtnQUNxOElNc2hzMHJKNjV0ZzU1bVg0cUhkbC04MTBrcXRyYWNfT3RxRXhfMWk0ZWZHekpTR3dsUXFWN19fLXRuZnFHTHhkVUdUUGFXMHl0MGZfc1E?oc=5",
           "snippet": "",
-          "source": "calgaryroughnecks.com",
+          "source": "Calgary Roughnecks",
           "sources": [
             {
-              "name": "calgaryroughnecks.com",
+              "name": "Calgary Roughnecks",
               "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTzdla1JlTE1pclo2VTdGZUxCZ0ZTdXljNXV4MHdQREJPb3NYVTlxczFXXy1Gb3BmU1VlcXpPUk5TVk5LaFZlQjV1MXJncGMwZW52S0NsYTJzbXZORHhjVEFNZ0haNmtnQUNxOElNc2hzMHJKNjV0ZzU1bVg0cUhkbC04MTBrcXRyYWNfT3RxRXhfMWk0ZWZHekpTR3dsUXFWN19fLXRuZnFHTHhkVUdUUGFXMHl0MGZfc1E?oc=5",
               "origin": "google",
               "title": "입문자가 놓치기 쉬운 게임 개발 대박 모드 표시"
@@ -9091,10 +9223,10 @@
           "title": "화면에 보이는 금액의 의미부터 짚는 카지노 게임 다운로드 슬롯보증",
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeGZGWWxxWW9YNklYRVo4ZXNGeVRERjNadkVTNllOdjRMOGhNMVliSmNRS1hYUUxfaFBDT1I3amVXeVlvUXlZQUhGcU1SZ2RlSG5nUGZHVFdqdWpvTFBlOHJrMV9jNW5ZV3FoV3hDbzQ1a0V1WkF2X0F0Z2Y4LW9iZnhLbnI5cjlpTURZVGh3STBMbHY2WWFQTlpiaS1tWlExa1cwMUlENmFFQnprUC0zS3hrZFlmWE1GRXFtVWdvOVc0cGUxTUE3MDRRbDJ4MUxSQ2pZcA?oc=5",
           "snippet": "",
-          "source": "calgaryroughnecks.com",
+          "source": "Calgary Roughnecks",
           "sources": [
             {
-              "name": "calgaryroughnecks.com",
+              "name": "Calgary Roughnecks",
               "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeGZGWWxxWW9YNklYRVo4ZXNGeVRERjNadkVTNllOdjRMOGhNMVliSmNRS1hYUUxfaFBDT1I3amVXeVlvUXlZQUhGcU1SZ2RlSG5nUGZHVFdqdWpvTFBlOHJrMV9jNW5ZV3FoV3hDbzQ1a0V1WkF2X0F0Z2Y4LW9iZnhLbnI5cjlpTURZVGh3STBMbHY2WWFQTlpiaS1tWlExa1cwMUlENmFFQnprUC0zS3hrZFlmWE1GRXFtVWdvOVc0cGUxTUE3MDRRbDJ4MUxSQ2pZcA?oc=5",
               "origin": "google",
               "title": "화면에 보이는 금액의 의미부터 짚는 카지노 게임 다운로드 슬롯보증"
@@ -9103,6 +9235,25 @@
           "source_count": 1,
           "published": "2026-09-13T08:35:26+09:00",
           "ts": 1789256126.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
+          "title": "여러 게임 중 메뉴가 편한지 보는 상하이 마작 게임",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ1lYSlByZzdVYlVQOGJadUtveXlsdlp1a09OVDhJdThvOTdjYzdIUFdGbzZjZUNMdjJYLXNkNURQM3VMejUyZ1dCV1h3bzMtYjNOVlNabm10SDNURFVIZFVHQnd2Unl4Ym94eGg1aUFKRHZoVEZuek9QTFhiN25FM1NDQmYxdlI2RHZPeTF3RFhpVE5BMzdkaDl2bUIwMTlrZ2ZqdjByNExBaTVncTdTeW8yUG1iTkpwS1Y5WUxLWnV5eGxQbEV1Rw?oc=5",
+          "snippet": "",
+          "source": "Calgary Roughnecks",
+          "sources": [
+            {
+              "name": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ1lYSlByZzdVYlVQOGJadUtveXlsdlp1a09OVDhJdThvOTdjYzdIUFdGbzZjZUNMdjJYLXNkNURQM3VMejUyZ1dCV1h3bzMtYjNOVlNabm10SDNURFVIZFVHQnd2Unl4Ym94eGg1aUFKRHZoVEZuek9QTFhiN25FM1NDQmYxdlI2RHZPeTF3RFhpVE5BMzdkaDl2bUIwMTlrZ2ZqdjByNExBaTVncTdTeW8yUG1iTkpwS1Y5WUxLWnV5eGxQbEV1Rw?oc=5",
+              "origin": "google",
+              "title": "여러 게임 중 메뉴가 편한지 보는 상하이 마작 게임"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T08:31:21+09:00",
+          "ts": 1789255881.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
         },
@@ -10074,25 +10225,6 @@
           "ts": 1789228676.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
-        },
-        {
-          "title": "암호화폐 영어로 게임 유형을 구분하는 기준",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd2piZXl3QTB1QWZtaWo2UGlDM1NwX0R3RU04aEM5LUo4aEJ4VG1OTzZFXzJsNEZMMm5kY3psZHhTdGFkWVRSczdRNHV3TEEyWkxxd0JsRVFQT1BvckE5RkZWelhCRzJWcE5ZZW5FZVFsQktoM3UzV1dkbWRqXzl6amMxTnFMUzlQa2FQejNpR1E2MVJHcW9r?oc=5",
-          "snippet": "",
-          "source": "Calgary Roughnecks",
-          "sources": [
-            {
-              "name": "Calgary Roughnecks",
-              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd2piZXl3QTB1QWZtaWo2UGlDM1NwX0R3RU04aEM5LUo4aEJ4VG1OTzZFXzJsNEZMMm5kY3psZHhTdGFkWVRSczdRNHV3TEEyWkxxd0JsRVFQT1BvckE5RkZWelhCRzJWcE5ZZW5FZVFsQktoM3UzV1dkbWRqXzl6amMxTnFMUzlQa2FQejNpR1E2MVJHcW9r?oc=5",
-              "origin": "google",
-              "title": "암호화폐 영어로 게임 유형을 구분하는 기준"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-13T00:48:06+09:00",
-          "ts": 1789228086.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
         }
       ]
     },
@@ -10102,45 +10234,8 @@
       "priority": 14,
       "page": "trends",
       "preview": 3,
-      "count": 27,
+      "count": 26,
       "items": [
-        {
-          "title": "수원시의회 ‘수원시 AI산업전환 대응 전략' 연구용역 착수",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VcDlZZnoyN1JHZXAzOFVkZWItMDJOc29FNnUtVDRzRmlPbnVmNno4NDNCeUZIcDQ0Z1F2bFIySGpRMEpXeS1udF9fRjNHWnNnLVRoZlg4T0RfZVYyY2FOSUUza1pWM2E5?oc=5",
-          "snippet": "",
-          "source": "jasm.co.kr",
-          "sources": [
-            {
-              "name": "jasm.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VcDlZZnoyN1JHZXAzOFVkZWItMDJOc29FNnUtVDRzRmlPbnVmNno4NDNCeUZIcDQ0Z1F2bFIySGpRMEpXeS1udF9fRjNHWnNnLVRoZlg4T0RfZVYyY2FOSUUza1pWM2E5?oc=5",
-              "origin": "google",
-              "title": "수원시의회 ‘수원시 AI산업전환 대응 전략' 연구용역 착수"
-            },
-            {
-              "name": "경기시사투데이",
-              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mUENiUG9FM1psZlJQNGJ2eElrUUlJRVFQc0dEcEItajdpZ1dPN2NSM0Z1N2VPQTJ0SWdQYWJpdERzQWhUU2steDZWcEx1YVBOejVKUXFvdGdWVXl2WlUwR3diV01VWVhO?oc=5",
-              "origin": "google",
-              "title": "수원특례시의회‘수원특례시 AI산업전환 대응 전략 연구회’연구용역 착수"
-            },
-            {
-              "name": "서프라이즈뉴스",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96UWFBTmJ0UUVESnBHNzlsRXQxZnc3elhOYzJ3REVUenJRZy1KMlRJb0x6UTdteEdKS3JldGVnQkdxZ1RtNzhleVNmRURLdG9OcFh5NEFtYnBQcmJwRkxMVUZpSF9vNTJoRFhNbENR?oc=5",
-              "origin": "google",
-              "title": "수원특례시의회‘수원특례시 AI산업전환 대응 전략 연구회’연구용역 착수"
-            },
-            {
-              "name": "월드장애인사랑뉴스",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Lb0ZDWk1qODRtdjBuRXBGVVFrZE9vMWRxS2Y0NWNuQ0JDcTZLMUtZMmRXNnpaal9Hc1F1Y3dzakw2ZVlzdFNqcHJfdGdveWppNjBaWGktS05fTUE0M0lTcU1Ub2J4YmlsWkQzYnNUaw?oc=5",
-              "origin": "google",
-              "title": "수원 지역산업에 AI 어떻게 입힐까…수원시의회 ‘AX 대응전략’ 연구 착수"
-            }
-          ],
-          "source_count": 4,
-          "published": "2026-09-13T10:54:47+09:00",
-          "ts": 1789264487.0,
-          "group": "trend_insight",
-          "group_label": "전망 · 심층분석"
-        },
         {
           "title": "강호동, '농심천심'에 AI 경영 접목…농협 조합장 미래역량 키운다",
           "url": "https://www.apnews.kr/news/articleView.html?idxno=3051234",
@@ -10351,6 +10446,25 @@
           "source_count": 1,
           "published": "2026-09-13T13:44:15+09:00",
           "ts": 1789274655.0,
+          "group": "trend_insight",
+          "group_label": "전망 · 심층분석"
+        },
+        {
+          "title": "[KCSCON 2026] 최종보 LG유플러스 보안사업담당 “통신망과 보안을 하나로”…AI·SASE·아이덴티티 아우르는 통합 보안 전략 공개",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBVElXRkpKNW85V1VKZ254ejZCTk5fNWNJdDZMVFVZa29LVHdzTHpxZGM2UURhZ2FLc3dzWDloU3dUb1BxM2w4NmxQVExIaXhkY19qcS1qb2gxSjJLX3dFNWQwdFBVRy1MMzZ4Qg?oc=5",
+          "snippet": "",
+          "source": "dailysecu.com",
+          "sources": [
+            {
+              "name": "dailysecu.com",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBVElXRkpKNW85V1VKZ254ejZCTk5fNWNJdDZMVFVZa29LVHdzTHpxZGM2UURhZ2FLc3dzWDloU3dUb1BxM2w4NmxQVExIaXhkY19qcS1qb2gxSjJLX3dFNWQwdFBVRy1MMzZ4Qg?oc=5",
+              "origin": "google",
+              "title": "[KCSCON 2026] 최종보 LG유플러스 보안사업담당 “통신망과 보안을 하나로”…AI·SASE·아이덴티티 아우르는 통합 보안 전략 공개"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T11:41:30+09:00",
+          "ts": 1789267290.0,
           "group": "trend_insight",
           "group_label": "전망 · 심층분석"
         },
@@ -10657,25 +10771,6 @@
           "ts": 1789205729.0,
           "group": "trend_insight",
           "group_label": "전망 · 심층분석"
-        },
-        {
-          "title": "국회서 ‘대한민국 식품제조CEO 미래포럼’…AI·에너지전환·저탄소가 승부처",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nX2ZydVhzQXVRSnpOSVR5VHVyQ2ZhNU9qQUdOQnVYYTkyLTR1STBIc3MwN29GQ2lxLURrVVdSNVZrUU5NWVJlVjl6RUFWN3ZlcXlBaEFxZnNCTUxnUEdfWElLYTBMX25YUUtOckV2RQ?oc=5",
-          "snippet": "",
-          "source": "대한일보",
-          "sources": [
-            {
-              "name": "대한일보",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nX2ZydVhzQXVRSnpOSVR5VHVyQ2ZhNU9qQUdOQnVYYTkyLTR1STBIc3MwN29GQ2lxLURrVVdSNVZrUU5NWVJlVjl6RUFWN3ZlcXlBaEFxZnNCTUxnUEdfWElLYTBMX25YUUtOckV2RQ?oc=5",
-              "origin": "google",
-              "title": "국회서 ‘대한민국 식품제조CEO 미래포럼’…AI·에너지전환·저탄소가 승부처"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-12T15:31:15+09:00",
-          "ts": 1789194675.0,
-          "group": "trend_insight",
-          "group_label": "전망 · 심층분석"
         }
       ]
     },
@@ -10685,7 +10780,7 @@
       "priority": 15,
       "page": "trends",
       "preview": 3,
-      "count": 21,
+      "count": 19,
       "items": [
         {
           "title": "시진핑, 브릭스에 ‘AI 동맹’ 제안…다자주의 앞세워 미국 견제",
@@ -10911,10 +11006,10 @@
           "title": "인공지능 자기계발: 미국과 중국이 경쟁 중이다.",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LeVhlalZTMWJYaVNmRGtmbHNqbEU3clVQWnJ3akZGSVhPZG5SRTlmV2NQeU9DZFVHVHJmTk1KamhJZEloUEFkTmktTk9UQmw1ODh1c0pYbVVaNTRYMndkcnZqdVNXbmN0U3RTTF9OendnZ3BhSWswTGVnQjI?oc=5",
           "snippet": "",
-          "source": "vietnam.vn",
+          "source": "Vietnam.vn",
           "sources": [
             {
-              "name": "vietnam.vn",
+              "name": "Vietnam.vn",
               "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LeVhlalZTMWJYaVNmRGtmbHNqbEU3clVQWnJ3akZGSVhPZG5SRTlmV2NQeU9DZFVHVHJmTk1KamhJZEloUEFkTmktTk9UQmw1ODh1c0pYbVVaNTRYMndkcnZqdVNXbmN0U3RTTF9OendnZ3BhSWswTGVnQjI?oc=5",
               "origin": "google",
               "title": "인공지능 자기계발: 미국과 중국이 경쟁 중이다."
@@ -11041,25 +11136,6 @@
           "group_label": "글로벌 동향"
         },
         {
-          "title": "중국, AI로 소프트웨어산업 재편…코딩 자동화 넘어 일자리 전환까지",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAzMExXdnB0Y1ZhVHcwSUlyTnpwaTlGTkhQTnQ0QTJWZDBpTU9jUmxJNkU3WUtxcjdEYXRuVmZWampYdzFOcHd6SmlR?oc=5",
-          "snippet": "",
-          "source": "얼리어답터뉴스",
-          "sources": [
-            {
-              "name": "얼리어답터뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAzMExXdnB0Y1ZhVHcwSUlyTnpwaTlGTkhQTnQ0QTJWZDBpTU9jUmxJNkU3WUtxcjdEYXRuVmZWampYdzFOcHd6SmlR?oc=5",
-              "origin": "google",
-              "title": "중국, AI로 소프트웨어산업 재편…코딩 자동화 넘어 일자리 전환까지"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-12T22:24:13+09:00",
-          "ts": 1789219453.0,
-          "group": "trend_global",
-          "group_label": "글로벌 동향"
-        },
-        {
           "title": "미국·중국이 치고 나가는 자율주행…우리 대응은? [AI너머]",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SYk1wUzRuUWNDZWNDODBFMmFsV0RVYmo1V2UxNjE1emszY3o3S2pydC1qZE9VVUhBci1LZ2d3OVc5LTdHdGZvUmxtdGtVOTBSTS1fVFprYXcySGM?oc=5",
           "snippet": "",
@@ -11094,25 +11170,6 @@
           "source_count": 1,
           "published": "2026-09-12T19:13:00+09:00",
           "ts": 1789207980.0,
-          "group": "trend_global",
-          "group_label": "글로벌 동향"
-        },
-        {
-          "title": "AI 동맥' 中 광트랜시버, 美 규제 대상 제외…글로벌 공급망 '반전' : 국제",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBQOWVESXJna3hhQzVKQ1hpV0s3N3M4NVR6bFNLV0dDNC1WTUVuNnEwQWl2TjdTcEZQV0dxR0tIY1NpZEVlZEdRcEhn?oc=5",
-          "snippet": "",
-          "source": "재경일보",
-          "sources": [
-            {
-              "name": "재경일보",
-              "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBQOWVESXJna3hhQzVKQ1hpV0s3N3M4NVR6bFNLV0dDNC1WTUVuNnEwQWl2TjdTcEZQV0dxR0tIY1NpZEVlZEdRcEhn?oc=5",
-              "origin": "google",
-              "title": "AI 동맥' 中 광트랜시버, 美 규제 대상 제외…글로벌 공급망 '반전' : 국제"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-12T15:23:00+09:00",
-          "ts": 1789194180.0,
           "group": "trend_global",
           "group_label": "글로벌 동향"
         }
