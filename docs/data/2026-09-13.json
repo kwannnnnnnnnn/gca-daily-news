@@ -1,6 +1,6 @@
 {
   "date": "2026-09-13",
-  "generated_at": "2026-09-13T13:38:19.288423+09:00",
+  "generated_at": "2026-09-13T14:10:40.173454+09:00",
   "window_hours": 30,
   "sources": [
     "네이버뉴스(API HUB)",
@@ -9,11 +9,11 @@
   "use_naver": true,
   "preview_items": 5,
   "counts": {
-    "collected": 2536,
-    "kept": 1103,
-    "excluded": 1433,
-    "consolidated": 609,
-    "multi": 161
+    "collected": 2582,
+    "kept": 1106,
+    "excluded": 1476,
+    "consolidated": 612,
+    "multi": 166
   },
   "groups": [
     {
@@ -28,14 +28,8 @@
           "title": "경기콘텐츠진흥원, '로컬 스타트업 챌린지' 의정부 10개 기업 선정",
           "url": "http://www.metroseoul.co.kr/article/20260913500017",
           "snippet": "8대 1 경쟁률 뚫고 선정…2개월간 행정 멘토링·PoC 고도화 지원 로컬스타트업챌린지 오리엔테이션 현장 사진 / 경콘진 제공 경기콘텐츠진흥원(원장 탁용석·이하 경콘진)은 지난 8일 북부경기문화창조허브에서 '로컬...",
-          "source": "metroseoul.co.kr",
+          "source": "viva100.com",
           "sources": [
-            {
-              "name": "metroseoul.co.kr",
-              "url": "http://www.metroseoul.co.kr/article/20260913500017",
-              "origin": "naver",
-              "title": "경기콘텐츠진흥원, '로컬 스타트업 챌린지' 의정부 10개 기업 선정"
-            },
             {
               "name": "viva100.com",
               "url": "https://www.viva100.com/article/20260913500200",
@@ -53,6 +47,12 @@
               "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qODBGcVpLRTJFajZzWW5PX3pXMkhKZC1fbTZmSlBPZXAxaFk2UWZsWTdaaTBaQnZhQ3I1aHFXRnExX2VkdVpqVG5aLVhJUFZwSmd3?oc=5",
               "origin": "google",
               "title": "경기 의정부시, 경기콘텐츠진흥원과 '로컬 스타트업 챌린지 2026' 개막…공공 실증(PoC) 착수"
+            },
+            {
+              "name": "메트로신문",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yZUY5cXBFdE1lUGZFUnFWenFnczZ5YWVXd0xsM1R6RmFsaHZOcVFqNlpmbk9HUWlEb01uVlNYemh0VGpILVYzUmI0aVh4MjlrOVR3d21ORnZhOEYta1Q2aA?oc=5",
+              "origin": "google",
+              "title": "경기콘텐츠진흥원, '로컬 스타트업 챌린지' 의정부 10개 기업 선정"
             },
             {
               "name": "산경일보",
@@ -125,7 +125,7 @@
       "priority": 2,
       "page": "main",
       "preview": null,
-      "count": 47,
+      "count": 50,
       "items": [
         {
           "title": "추미애, 이 대통령에 “왜 내란 세력에 전전긍긍하나” 작심 발언",
@@ -346,6 +346,12 @@
               "title": "추미애 \"민주화는 현재진행형…주권자인 국민 뜻 받들어야\""
             },
             {
+              "name": "팝콘뉴스",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3alZSZlQ0UW9GT0V2a1kzYjFQOVFkUXFDRG05UjdNXzlTNmVGRjR0X0hneGVCOHVwQ0VPVXhSWXdsbld2UXBqR0ZsRmFBWm1OVkl4Y2p2YUxyYTVSOElmOGl6dzloMUlhRllUVkNn0gFyQVVfeXFMTWhpeVNOR3dibTZoUzNjWFlaQU5mOEN3bGI4OENxUkxGNnh5c0ZvWkNZazVzeV9RemJVTFl0aXFfMzRvVy0wdm56YlhwSjQzX3kyUF9qejdRQVFucU5NU0Rwc20xTkFGclpyMW1VemthTmNn?oc=5",
+              "origin": "google",
+              "title": "추미애 경기도지사, “민주화는 현재진행형…주권자인 국민의 뜻 받들어야”"
+            },
+            {
               "name": "프레스뉴스",
               "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3RzlFV2ZSem9vcnR5WktXN1ZVakEwRi00Ml9ndGVkRmhQWjRsNG5RVXpFeWVnWXhVTHZiU0ROQk1zOUV0XzhNTHREWTltbHY3enlFYkR1cWd3MmxGU29YVzFnRVJvcWtfZ2dQdU9ld20?oc=5",
               "origin": "google",
@@ -356,12 +362,6 @@
               "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8ta1dyTUE1b0FGdmh5WTJkN05GSVo2N3M1RF9fMzI0ZnpkeHFzV1U2bGczRWZnYTJWUHAtRElYZ0tqaW52T0RPdFltNXpYSWp4akl0Y1RqOUJBem5PME9yN2x2Y3VQM3NoWHBQZU9oQ2t3TVl2UzE1MUJuUzVqS0HSAX9BVV95cUxPLWtXck1BNW9BRnZoeVkyZDdORklaNjdzNURfXzMyNGZ6ZHhxc1dVNmxnM0VmZ2EyVlBwLURJWGdLamludk9ET3RZbTV6WElqeGpJdGNUajlCQXpuTzBPcjdsdmN1UDNzaFhwUGVPaENrd01ZdlMxNTFCblM1aktB?oc=5",
               "origin": "google",
               "title": "추미애 경기지사 \"민주화는 현재진행형… 국민 뜻 받들어야\""
-            },
-            {
-              "name": "팝콘뉴스",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3alZSZlQ0UW9GT0V2a1kzYjFQOVFkUXFDRG05UjdNXzlTNmVGRjR0X0hneGVCOHVwQ0VPVXhSWXdsbld2UXBqR0ZsRmFBWm1OVkl4Y2p2YUxyYTVSOElmOGl6dzloMUlhRllUVkNn0gFyQVVfeXFMTWhpeVNOR3dibTZoUzNjWFlaQU5mOEN3bGI4OENxUkxGNnh5c0ZvWkNZazVzeV9RemJVTFl0aXFfMzRvVy0wdm56YlhwSjQzX3kyUF9qejdRQVFucU5NU0Rwc20xTkFGclpyMW1VemthTmNn?oc=5",
-              "origin": "google",
-              "title": "추미애 경기도지사, “민주화는 현재진행형…주권자인 국민의 뜻 받들어야”"
             }
           ],
           "source_count": 5,
@@ -484,37 +484,6 @@
           "source_count": 4,
           "published": "2026-09-12T19:12:00+09:00",
           "ts": 1789207920.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "추미애 지사 \"민주화는 현재진행형…민생 정의로 이어져야\"",
-          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2469824",
-          "snippet": "추미애 경기도지사가 민주화운동 희생자들을 추모하며 민주주의의 성과를 민생과 사회 정의로 이어가야 한다고 강조했다. 추미애 지사는 12일 남양주시 모란공원 민주열사묘역에서 열린 '2026년 경기도 민주화운동희생자...",
-          "source": "enewstoday.co.kr",
-          "sources": [
-            {
-              "name": "enewstoday.co.kr",
-              "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2469824",
-              "origin": "naver",
-              "title": "추미애 지사 \"민주화는 현재진행형…민생 정의로 이어져야\""
-            },
-            {
-              "name": "뉴시스",
-              "url": "https://www.newsis.com/view/NISX20260912_0003786885",
-              "origin": "naver",
-              "title": "추미애 \"민주화란 민생 정의가 강물 흐르듯 하는 것\""
-            },
-            {
-              "name": "전국매일신문",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNQ20tUTE5eGZ4LS1WT0hOS2g3NzdEMmRQQ3RmUjFJSmlkbVB1NHVmQnVwT0V5dmMwVGpmbUpVUkpCMmp0RE5NWklkYXk3WXUtZm1vV1FhaGttcHNnU21LT0V0YTVEcFRXVHgtS3R3?oc=5",
-              "origin": "google",
-              "title": "추미애 경기지사 “민주화는 현재진행형…민생 정의로 이어져야”"
-            }
-          ],
-          "source_count": 3,
-          "published": "2026-09-12T18:40:00+09:00",
-          "ts": 1789206000.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -662,7 +631,7 @@
               "title": "광교서 '추석꾸러미' 포장 추미애 \"이번 추석에 안부 묻고 마음 나누기..."
             },
             {
-              "name": "newspanorama.kr",
+              "name": "뉴스파노라마",
               "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5waXVKS1VZNVBGVzg0SW4yV2VoUUdNRUFRcEVadkVabENhNVNiR0tUWWtvVUZLQm5PLXFUQm9fLUxSQmRPei1uNGUzUF91SUFNMFBLM0ZqMEZHdF8tYl9NZmJCbVlkQTdwMGRiTndZTQ?oc=5",
               "origin": "google",
               "title": "추미애 경기도지사, 추석 꾸러미 포장 동참…“올 추석만큼은 포근하셨으면”"
@@ -775,6 +744,31 @@
           "group_label": "경기도지사"
         },
         {
+          "title": "추미애 지사 \"민주화는 현재진행형…민생 정의로 이어져야\"",
+          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2469824",
+          "snippet": "추미애 경기도지사가 민주화운동 희생자들을 추모하며 민주주의의 성과를 민생과 사회 정의로 이어가야 한다고 강조했다. 추미애 지사는 12일 남양주시 모란공원 민주열사묘역에서 열린 '2026년 경기도 민주화운동희생자...",
+          "source": "enewstoday.co.kr",
+          "sources": [
+            {
+              "name": "enewstoday.co.kr",
+              "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2469824",
+              "origin": "naver",
+              "title": "추미애 지사 \"민주화는 현재진행형…민생 정의로 이어져야\""
+            },
+            {
+              "name": "전국매일신문",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNQ20tUTE5eGZ4LS1WT0hOS2g3NzdEMmRQQ3RmUjFJSmlkbVB1NHVmQnVwT0V5dmMwVGpmbUpVUkpCMmp0RE5NWklkYXk3WXUtZm1vV1FhaGttcHNnU21LT0V0YTVEcFRXVHgtS3R3?oc=5",
+              "origin": "google",
+              "title": "추미애 경기지사 “민주화는 현재진행형…민생 정의로 이어져야”"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-09-12T18:40:00+09:00",
+          "ts": 1789206000.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
           "title": "추미애, 민주화운동 희생자 추모제 참석...\"민주화는 현재진행형\"",
           "url": "https://www.newspim.com/news/view/20260912000113",
           "snippet": "경기도는 추미애 경기도지사가 12일 남양주시 모란공원 민주열사묘역에서 열린 '2026년 경기도 민주화운동희생자 추모제'에 참석해 민주주의를 위해 헌신한 희생자들을 추모하고 유가족을 위로했다고 밝혔다. 추미애...",
@@ -796,6 +790,63 @@
           "source_count": 2,
           "published": "2026-09-12T18:00:00+09:00",
           "ts": 1789203600.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "경기도교육청, 교육청과 지자체 경계 허문다…교육·행정 자원 연결해 ...",
+          "url": "https://www.lecturernews.com/news/articleView.html?idxno=210528",
+          "snippet": "이날 행사에서 추미애 도지사는 축사를 통해 이번 협약이 교육행정 역사상 최초의 시도라는 점을 강조하며, 전국을 이끌어가는 협력 모델로 발전할 가능성에 기대를 나타냈다. 경기도 재정 상황을 극복하며 안민석...",
+          "source": "lecturernews.com",
+          "sources": [
+            {
+              "name": "lecturernews.com",
+              "url": "https://www.lecturernews.com/news/articleView.html?idxno=210528",
+              "origin": "naver",
+              "title": "경기도교육청, 교육청과 지자체 경계 허문다…교육·행정 자원 연결해 ..."
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T13:52:00+09:00",
+          "ts": 1789275120.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "秋 \"李, 왜 내란세력에 전전긍긍\"→ 박범계 \"비판 좋지만 피멍들게 해서...",
+          "url": "https://www.news1.kr/politics/assembly/6288744",
+          "snippet": "박태훈 선임기자 = 추미애 경기지사가 이재명 대통령 지지율 하락 원인을 '미진한 검찰개혁' '내란세력을 완전히 청산하지 못한 때문'이라며 날선 비판을 하자 박범계 더불어민주당 의원이 \"대통령을 홀로 비맞게 하는...",
+          "source": "뉴스1",
+          "sources": [
+            {
+              "name": "뉴스1",
+              "url": "https://www.news1.kr/politics/assembly/6288744",
+              "origin": "naver",
+              "title": "秋 \"李, 왜 내란세력에 전전긍긍\"→ 박범계 \"비판 좋지만 피멍들게 해서..."
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T13:39:00+09:00",
+          "ts": 1789274340.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "[속보]“추미애 방치하면 대통령 아무나 걷어차는 존재 돼” 박원석 주...",
+          "url": "https://www.munhwa.com/article/11616592?ref=naver",
+          "snippet": "박원석 전 정의당 의원은 추미애 경기도지사가 이재명 대통령을 향해 “내란 세력에 왜 전전긍긍하냐”고... 그는 “유시민, 조국, 김어준은 당원이 아니니 그렇다 치고 추미애 지사의 본분을 벗어난 안하무인격 행동을...",
+          "source": "문화일보",
+          "sources": [
+            {
+              "name": "문화일보",
+              "url": "https://www.munhwa.com/article/11616592?ref=naver",
+              "origin": "naver",
+              "title": "[속보]“추미애 방치하면 대통령 아무나 걷어차는 존재 돼” 박원석 주..."
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T13:37:00+09:00",
+          "ts": 1789274220.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -1671,7 +1722,7 @@
       "priority": 7,
       "page": "main",
       "preview": null,
-      "count": 23,
+      "count": 25,
       "items": [
         {
           "title": "경기평택항만공사, 평택 농가 찾아 농촌 일손 돕기 실시",
@@ -1862,6 +1913,12 @@
               "title": "\"MBTI로 안전 성향 잰다\" 경기주택도시공사(GH), 맞춤형 산재 예방 솔루..."
             },
             {
+              "name": "컨슈머타임스",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nSUFhVnY1TjJLYmZXdThFc3djem01Z2J2SGVaLXBwNEd5MnhPbXBiWUs0R2hiMmp6dklKUW42V0U5TUE0bUxvcVZCRzkwX1YzOUxFOEQ0RjJfdlBjQjFFZmxNRlEwNHZKd2c?oc=5",
+              "origin": "google",
+              "title": "\"MBTI로 안전 성향 잰다\" 경기주택도시공사(GH), 맞춤형 산재 예방 솔루션 제시"
+            },
+            {
               "name": "메트로신문",
               "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvNC1yMG1CNk80OUxVTHUtekpKMDR0V1NtRlQ3VkEzRG1NUzI0bEMyN3dMRnI0VC1uUUprZFFPVHhSXzZpUTlhY2Z6UWlNby13VE5ibTFuOG1uc0RMUTJJbQ?oc=5",
               "origin": "google",
@@ -1890,12 +1947,6 @@
               "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE52Tm1Famo1eTFId3p6SUdyWEY4WXZWQ2lDVWlBa2NUZzBtaHZ6SHBrcEk3bUJaZDR5a2RqcDhra0RDQW82QTlBbTF2RVlBTWVwZWFvei1KSE9UMzg0NHF1enZKOXhBVS0wMm95WmJJcDlDcjhsdFdITUNVWTQ?oc=5",
               "origin": "google",
               "title": "경기주택도시공사, '안전성향 검사'로 산업재해 예방활동 펼쳐"
-            },
-            {
-              "name": "컨슈머타임스",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nSUFhVnY1TjJLYmZXdThFc3djem01Z2J2SGVaLXBwNEd5MnhPbXBiWUs0R2hiMmp6dklKUW42V0U5TUE0bUxvcVZCRzkwX1YzOUxFOEQ0RjJfdlBjQjFFZmxNRlEwNHZKd2c?oc=5",
-              "origin": "google",
-              "title": "\"MBTI로 안전 성향 잰다\" 경기주택도시공사(GH), 맞춤형 산재 예방 솔루션 제시"
             }
           ],
           "source_count": 7,
@@ -1908,14 +1959,8 @@
           "title": "경기관광공사, 화성 궁평 솔밭해수욕장서 해안 정화활동 실시",
           "url": "http://www.metroseoul.co.kr/article/20260911500157",
           "snippet": "'경기바다 함께海'는 경기도와 화성·안산·평택·시흥·김포 등 연안 5개 시, 공공기관이 협약을 맺고 정기적으로 해양 환경보전 활동을 추진하는 캠페인이다. 경기관광공사는 올해 초 연 4회 이상 정기적인 해안 정화활동을...",
-          "source": "metroseoul.co.kr",
+          "source": "아시아경제",
           "sources": [
-            {
-              "name": "metroseoul.co.kr",
-              "url": "http://www.metroseoul.co.kr/article/20260911500157",
-              "origin": "naver",
-              "title": "경기관광공사, 화성 궁평 솔밭해수욕장서 해안 정화활동 실시"
-            },
             {
               "name": "아시아경제",
               "url": "https://view.asiae.co.kr/article/2026091115385876012",
@@ -1933,6 +1978,12 @@
               "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc0NPS3hZNmIyWFgzU081RmYxR0V0ck9yU1FGQjNfQTJKVll0WTM1VWczSUJDMnNFNF90S044MUlya3pFWnRCTl9zQklOS3Q4SnYwWVZoMXVJZXY0LWJRR2JWVnRKcnRtS2JIWGNrUXBSZWdiVzBGN1YxRTliNExLY3ppYm1JN1F0R2pn?oc=5",
               "origin": "google",
               "title": "경기관광공사, 화성 궁평해변서 해양쓰레기 정화활동"
+            },
+            {
+              "name": "메트로신문",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JMzh2RWFfWFVtdlU2QTYySndQYkdnVkxHR3JLR21XTWVBNVhwcHpvalJYd0dPWXNGeUpuUVp1N21QbkdYVFZ4TVhLaC1lb1lQQWFCaE9zU3FweGdaS3J3Sg?oc=5",
+              "origin": "google",
+              "title": "경기관광공사, 화성 궁평 솔밭해수욕장서 해안 정화활동 실시"
             },
             {
               "name": "뉴스클레임",
@@ -1969,6 +2020,25 @@
           "source_count": 2,
           "published": "2026-09-12T08:28:08+09:00",
           "ts": 1789169288.0,
+          "group": "gg_agencies",
+          "group_label": "경기도 산하기관"
+        },
+        {
+          "title": "말뿐인 격려 대신 ‘체감 금융’ 들고 골목으로…경기신보, 전통시장 상인 목소리 경청",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pVXBEam9qNkVuSkZDX0QtdWt4VjdMNndTcE80djFaV3lqWURnZTl0QnQtM3ZzcmltejZkQXEyS3ZscnVlakMtTkR4d2pOZGF6X0h6U0dZMS1SMlFPY0ZRdXY0ZHo4ajVHaTdSeQ?oc=5",
+          "snippet": "",
+          "source": "아시아투데이",
+          "sources": [
+            {
+              "name": "아시아투데이",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pVXBEam9qNkVuSkZDX0QtdWt4VjdMNndTcE80djFaV3lqWURnZTl0QnQtM3ZzcmltejZkQXEyS3ZscnVlakMtTkR4d2pOZGF6X0h6U0dZMS1SMlFPY0ZRdXY0ZHo4ajVHaTdSeQ?oc=5",
+              "origin": "google",
+              "title": "말뿐인 격려 대신 ‘체감 금융’ 들고 골목으로…경기신보, 전통시장 상인 목소리 경청"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T14:00:36+09:00",
+          "ts": 1789275636.0,
           "group": "gg_agencies",
           "group_label": "경기도 산하기관"
         },
@@ -2012,20 +2082,20 @@
         },
         {
           "title": "“배우자와 출장·공동연구”…복무윤리 내팽개친 경기복지재단",
-          "url": "https://www.hani.co.kr/arti/area/capital/1277512.html",
-          "snippet": "‘공무성 없음’으로 부결된 해외 출장을 꼼수 승인으로 강행, 배우자·동료 가족을 동원한 미승인 연구와 예산 지원 등 경기복지재단의 곯은 연구 윤리와 복무 관리 실태가 자체 감사에서 적발됐다. 13일 경기복지재단이...",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBQYXFPNms1c0g1UlFNMHZ5Mzd2YWhPVi1tbHh4UWZscDIwY0pFRnVzYnlXQkJfS19TNG4ycF8wYXBTSjhkMDZQdXpwLU1HelNKalUtczJtSEJwUUlmZ1Z5cVQxOA?oc=5",
+          "snippet": "",
           "source": "한겨레",
           "sources": [
             {
               "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/area/capital/1277512.html",
-              "origin": "naver",
+              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBQYXFPNms1c0g1UlFNMHZ5Mzd2YWhPVi1tbHh4UWZscDIwY0pFRnVzYnlXQkJfS19TNG4ycF8wYXBTSjhkMDZQdXpwLU1HelNKalUtczJtSEJwUUlmZ1Z5cVQxOA?oc=5",
+              "origin": "google",
               "title": "“배우자와 출장·공동연구”…복무윤리 내팽개친 경기복지재단"
             }
           ],
           "source_count": 1,
-          "published": "2026-09-13T11:46:00+09:00",
-          "ts": 1789267560.0,
+          "published": "2026-09-13T12:07:00+09:00",
+          "ts": 1789268820.0,
           "group": "gg_agencies",
           "group_label": "경기도 산하기관"
         },
@@ -2221,13 +2291,13 @@
         },
         {
           "title": "경기관광공사, ‘경기 서부권 광역 테마버스’ 12일부터 운행",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80OHdlRkR6NXdWSktGNUY5V25FZkFDZi14YjFfUlZRNWg0bFNndUY0aUh6c2ZfMS1QMkg2NGxGMGZ1RnJNazBRZlAyT3BQV0I0d1NUR2F3ankwNzlmRmFkaWVuMWtyOVI3S28zNHFEcw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Jb2JGSjAwY25kN2M4ZW5YNEhjWGxLbHAxREtUX00yeWJZNk8yUloxaWpFODZkVUlUeWp5SzVlNFcxT19ZYzhCdktTcU1ibGxSMWdzdTZUOA?oc=5",
           "snippet": "",
           "source": "수원일보",
           "sources": [
             {
               "name": "수원일보",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80OHdlRkR6NXdWSktGNUY5V25FZkFDZi14YjFfUlZRNWg0bFNndUY0aUh6c2ZfMS1QMkg2NGxGMGZ1RnJNazBRZlAyT3BQV0I0d1NUR2F3ankwNzlmRmFkaWVuMWtyOVI3S28zNHFEcw?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Jb2JGSjAwY25kN2M4ZW5YNEhjWGxLbHAxREtUX00yeWJZNk8yUloxaWpFODZkVUlUeWp5SzVlNFcxT19ZYzhCdktTcU1ibGxSMWdzdTZUOA?oc=5",
               "origin": "google",
               "title": "경기관광공사, ‘경기 서부권 광역 테마버스’ 12일부터 운행"
             }
@@ -2235,6 +2305,25 @@
           "source_count": 1,
           "published": "2026-09-12T16:11:01+09:00",
           "ts": 1789197061.0,
+          "group": "gg_agencies",
+          "group_label": "경기도 산하기관"
+        },
+        {
+          "title": "\"기존 항공산업 뺏는 게 아니라 미래 모빌리티 선점\"",
+          "url": "http://www.mygoyang.com/news/articleView.html?idxno=90308",
+          "snippet": "백석 융합센터를 중심으로 킨텍스 버티포트의 준도심지 실증 인프라와 창릉 신도시의 MRO(정비·점검·부품)... 백석 업무빌딩을 컨트롤타워 삼아 킨텍스 버티포트의 실증 인프라와 창릉 신도시 MRO 거점, 유치 기업을...",
+          "source": "mygoyang.com",
+          "sources": [
+            {
+              "name": "mygoyang.com",
+              "url": "http://www.mygoyang.com/news/articleView.html?idxno=90308",
+              "origin": "naver",
+              "title": "\"기존 항공산업 뺏는 게 아니라 미래 모빌리티 선점\""
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-12T15:18:00+09:00",
+          "ts": 1789193880.0,
           "group": "gg_agencies",
           "group_label": "경기도 산하기관"
         },
@@ -2401,20 +2490,141 @@
       "priority": 11,
       "page": "trends",
       "preview": 3,
-      "count": 293,
+      "count": 294,
       "items": [
+        {
+          "title": "LG전자, 에미상 공식 TV·가전 파트너로 선정",
+          "url": "https://www.nocutnews.co.kr/news/6577235?utm_source=naver&utm_medium=article&utm_campaign=20260913020043",
+          "snippet": "에보 AI'를 비롯한 프리미엄 TV와 'LG 시그니처 에센스 화이트 냉장고', 'LG 시그니처 스타일러' 등을 전시한다. 배우와 크리에이터 등 행사 참석자들의 모습을 제품과 함께 담은 현장 콘텐츠도 제작한다. 미국 고객들이...",
+          "source": "노컷뉴스",
+          "sources": [
+            {
+              "name": "노컷뉴스",
+              "url": "https://www.nocutnews.co.kr/news/6577235?utm_source=naver&utm_medium=article&utm_campaign=20260913020043",
+              "origin": "naver",
+              "title": "LG전자, 에미상 공식 TV·가전 파트너로 선정"
+            },
+            {
+              "name": "mediafine.co.kr",
+              "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=89689",
+              "origin": "naver",
+              "title": "LG전자, 美 에미상 공식 TV·가전 파트너-'LG 시그니처' 알린다"
+            },
+            {
+              "name": "sportsseoul.com",
+              "url": "https://www.sportsseoul.com/news/read/1634713?ref=naver",
+              "origin": "naver",
+              "title": "LG전자, 美 에미상 공식 TV·가전 파트너 선정…올레드·시그니처 알린..."
+            },
+            {
+              "name": "kdfnews.com",
+              "url": "http://www.kdfnews.com/news/articleView.html?idxno=187927",
+              "origin": "naver",
+              "title": "LG전자, 美 에미상 공식 TV∙가전 파트너…협력 범위 확대"
+            },
+            {
+              "name": "socialvalue.kr",
+              "url": "https://www.socialvalue.kr/news/view/1065578529970266",
+              "origin": "naver",
+              "title": "LG전자, 美 에미상 공식 파트너 선정…‘LG 시그니처’ 알린다"
+            },
+            {
+              "name": "kizmom.com",
+              "url": "https://www.kizmom.com/news/articleView.html?idxno=112694",
+              "origin": "naver",
+              "title": "LG전자 올레드 TV, 美 에미상 무대 빛낸다…2년 연속 파트너"
+            },
+            {
+              "name": "조선비즈",
+              "url": "https://biz.chosun.com/it-science/ict/2026/09/13/OGBVWYIIC5FPJI2HNHSIY7ATGU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+              "origin": "naver",
+              "title": "LG전자, 美 에미상 공식 ‘TV·가전 파트너’ 선정"
+            },
+            {
+              "name": "파이낸셜뉴스",
+              "url": "https://www.fnnews.com/news/202609131000383403",
+              "origin": "naver",
+              "title": "LG전자, 2년 연속 美 에미상 공식 'TV·가전 파트너' 선정"
+            },
+            {
+              "name": "ddaily.co.kr",
+              "url": "https://www.ddaily.co.kr/page/view/2026091310122809653",
+              "origin": "naver",
+              "title": "할리우드 사로잡은 LG 올레드…美 에미상 TV·가전 파트너 선정"
+            },
+            {
+              "name": "아시아경제",
+              "url": "https://view.asiae.co.kr/article/2026091310105202229",
+              "origin": "naver",
+              "title": "LG전자, 美 '에미상' 공식 TV·가전 파트너 선정"
+            },
+            {
+              "name": "gpkorea.com",
+              "url": "https://www.gpkorea.com/news/articleView.html?idxno=146636",
+              "origin": "naver",
+              "title": "LG전자, 美 에미상 공식 파트너 선정…올레드·시그니처 전면에"
+            },
+            {
+              "name": "아주경제",
+              "url": "https://www.ajunews.com/view/20260913095525666",
+              "origin": "naver",
+              "title": "LG전자, 에미상 파트너십 가전까지 넓힌다…TV 넘어 '시그니처' 전면에"
+            },
+            {
+              "name": "머니투데이",
+              "url": "https://www.mt.co.kr/industry/2026/09/13/2026091309422756916",
+              "origin": "naver",
+              "title": "LG전자, 美 에미상 공식 ‘TV·가전 파트너’ 선정"
+            },
+            {
+              "name": "etoday.co.kr",
+              "url": "https://www.etoday.co.kr/news/view/2624774",
+              "origin": "naver",
+              "title": "LG전자, 美 에미상 공식 파트너…올레드·시그니처 전면에"
+            },
+            {
+              "name": "한국경제",
+              "url": "https://www.hankyung.com/article/2026091307447",
+              "origin": "naver",
+              "title": "\"할리우드 한복판에 LG TV 뜬다\"…에미상 공식 파트너 선정"
+            },
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260913010800003?input=1195m",
+              "origin": "naver",
+              "title": "LG전자, 미국 에미상 공식 TV·가전 파트너 선정"
+            },
+            {
+              "name": "뉴시스",
+              "url": "https://www.newsis.com/view/NISX20260913_0003787092",
+              "origin": "naver",
+              "title": "LG전자, 美 에미상 공식 'TV·가전 파트너' 선정…프리미엄 기술력 알린..."
+            },
+            {
+              "name": "디지털타임스",
+              "url": "https://www.dt.co.kr/article/12083534?ref=naver",
+              "origin": "naver",
+              "title": "LG전자, 美 에미상 공식 TV·가전 파트너 선정…프리미엄 입지 강화"
+            },
+            {
+              "name": "뉴스1",
+              "url": "https://www.news1.kr/industry/electronics/6288641",
+              "origin": "naver",
+              "title": "LG전자, 美에미상 'TV·가전 파트너' 선정…LA서 기술·디자인 알린다"
+            }
+          ],
+          "source_count": 19,
+          "published": "2026-09-13T14:01:00+09:00",
+          "ts": 1789275660.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
         {
           "title": "최태원 \"미래 울산은 AI시티\"…SK, 제조·시민생활 잇는 '피지컬 AI' 승부",
           "url": "https://www.pointe.co.kr/news/articleView.html?idxno=84657",
           "snippet": "특히 생성형 AI 경쟁의 무게중심이 로봇과 설비, 공장 등 현실 세계와 결합하는 피지컬 AI(Physical AI)로 이동하는 상황에서 SK그룹이 울산의 제조 인프라와 현장 데이터를 새로운 경쟁 자산으로 주목하고 있다는 점에서...",
-          "source": "webeconomy.co.kr",
+          "source": "dealsite.co.kr",
           "sources": [
-            {
-              "name": "webeconomy.co.kr",
-              "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2301578",
-              "origin": "naver",
-              "title": "최태원 \"울산, 제조AI·시민생활·예술 결합한 'AI시티'로 가야\""
-            },
             {
               "name": "dealsite.co.kr",
               "url": "https://dealsite.co.kr/articles/168920",
@@ -2426,6 +2636,12 @@
               "url": "https://www.dailian.co.kr/news/view/1689601/?sc=Naver",
               "origin": "naver",
               "title": "최태원 SK 회장 \"울산, 제조AI·시민행복·예술 아우른 'AI시티'로 도약..."
+            },
+            {
+              "name": "webeconomy.co.kr",
+              "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2301578",
+              "origin": "naver",
+              "title": "최태원 \"울산, 제조AI·시민생활·예술 결합한 'AI시티'로 가야\""
             },
             {
               "name": "뉴시스",
@@ -2500,6 +2716,12 @@
               "title": "SK 최태원 \"울산, AI시티 도약\"…'AI·예술' 결합 미래 방향 제시"
             },
             {
+              "name": "SR타임스",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTY3BoSncwU0ZVMTJaZDFBRTliVjJfbHNSM2FlQW1GYXlkaERDZUhUSERCdjJTeFRqejM1U2JuME11T2s2X1FGT2toMGRkcTJoUy1VdWFMbk9VeXNPYkZCOVR6UHU5N0E1SW5V0gFrQVVfeXFMUFNjcGhKdzBTRlUxMlpkMUFFOWJWMl9sc1IzYWVBbUZheWRoRENlSFRIREJ2MlN4VGp6MzVTYm4wTXVPazZfUUZPa2gwZGRxMmhTLVV1YUxuT1V5c09iRkI5VHpQdTk3QTVJblU?oc=5",
+              "origin": "google",
+              "title": "최태원 SK 회장, 울산 미래상으로 ‘AI 시티’ 제시"
+            },
+            {
               "name": "서울타임즈뉴스",
               "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CZzBLQkhXdTdITkUyMXVDWTJNR0R0VmJlcG44TDdybzZZZWZVdDg3N3JCR1hOcTVkbzl4RFl0OFJRNExVUUNsNGpkdVRldlh6N0g0bWd2UjYxZTY4alU1TUJfUzVpOVQwQU5N?oc=5",
               "origin": "google",
@@ -2512,16 +2734,10 @@
               "title": "최태원 SK 회장, 울산세계미래산업박람회서 AI 제조 현장 시찰"
             },
             {
-              "name": "데일리e뉴스",
+              "name": "dailyenews.co.kr",
               "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4VjhVelQ5aDJfUEYzVWEyT19WUnFGNjRLcE5sTnZjVi1ucncxY1g5Z2tJeDBBOS1YNHh5UnN5Q3FZbEtHTjltekFLdHdJNzRuYW1vaFpHQ1ZxeVF3eDhINTkzOW14SXBCdmpQWDEydw?oc=5",
               "origin": "google",
               "title": "최태원 SK 회장, 울산 미래상으로 ‘AI시티’ 제시…“제조AI∙시민 행복∙예술 결합”"
-            },
-            {
-              "name": "SR타임스",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTY3BoSncwU0ZVMTJaZDFBRTliVjJfbHNSM2FlQW1GYXlkaERDZUhUSERCdjJTeFRqejM1U2JuME11T2s2X1FGT2toMGRkcTJoUy1VdWFMbk9VeXNPYkZCOVR6UHU5N0E1SW5V0gFrQVVfeXFMUFNjcGhKdzBTRlUxMlpkMUFFOWJWMl9sc1IzYWVBbUZheWRoRENlSFRIREJ2MlN4VGp6MzVTYm4wTXVPazZfUUZPa2gwZGRxMmhTLVV1YUxuT1V5c09iRkI5VHpQdTk3QTVJblU?oc=5",
-              "origin": "google",
-              "title": "최태원 SK 회장, 울산 미래상으로 ‘AI 시티’ 제시"
             }
           ],
           "source_count": 19,
@@ -2531,137 +2747,16 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "LG전자, 美 에미상 공식 TV·가전 파트너 선정…올레드·시그니처 알린...",
-          "url": "https://www.sportsseoul.com/news/read/1634713?ref=naver",
-          "snippet": "2026년형 LG 올레드 에보 AI는 블랙 표현과 색 재현력을 기반으로 콘텐츠 제작자의 제작 의도를 구현하는 데 초점을 맞췄다. LG 올레드 TV는 지난 2021년 방송기술과 시청환경 발전에 기여한 기술에 수여하는 ‘기술공학...",
-          "source": "sportsseoul.com",
+          "title": "대구·전북·경남 ‘AX 삼각동맹’…AI·로봇 제조혁신 힘 합친다",
+          "url": "https://www.kbmaeil.com/article/20260913500335",
+          "snippet": "대구와 전북, 경남이 인공지능 전환(AX)과 로봇·피지컬AI를 매개로 지역의 산업 역량을 하나로 묶는다. 각 지역이 보유한 연구개발과 피지컬AI, 제조 인프라를 연결해 수도권에 대응할 초광역 AX 산업 생태계를...",
+          "source": "kbmaeil.com",
           "sources": [
             {
-              "name": "sportsseoul.com",
-              "url": "https://www.sportsseoul.com/news/read/1634713?ref=naver",
+              "name": "kbmaeil.com",
+              "url": "https://www.kbmaeil.com/article/20260913500335",
               "origin": "naver",
-              "title": "LG전자, 美 에미상 공식 TV·가전 파트너 선정…올레드·시그니처 알린..."
-            },
-            {
-              "name": "kdfnews.com",
-              "url": "http://www.kdfnews.com/news/articleView.html?idxno=187927",
-              "origin": "naver",
-              "title": "LG전자, 美 에미상 공식 TV∙가전 파트너…협력 범위 확대"
-            },
-            {
-              "name": "busan.com",
-              "url": "https://www.busan.com/view/busan/view.php?code=2026091311335463437",
-              "origin": "naver",
-              "title": "LG전자, 美 에미상 무대에서 올레드TV·가전 알린다"
-            },
-            {
-              "name": "socialvalue.kr",
-              "url": "https://www.socialvalue.kr/news/view/1065578529970266",
-              "origin": "naver",
-              "title": "LG전자, 美 에미상 공식 파트너 선정…‘LG 시그니처’ 알린다"
-            },
-            {
-              "name": "kizmom.com",
-              "url": "https://www.kizmom.com/news/articleView.html?idxno=112694",
-              "origin": "naver",
-              "title": "LG전자 올레드 TV, 美 에미상 무대 빛낸다…2년 연속 파트너"
-            },
-            {
-              "name": "조선비즈",
-              "url": "https://biz.chosun.com/it-science/ict/2026/09/13/OGBVWYIIC5FPJI2HNHSIY7ATGU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-              "origin": "naver",
-              "title": "LG전자, 美 에미상 공식 ‘TV·가전 파트너’ 선정"
-            },
-            {
-              "name": "파이낸셜뉴스",
-              "url": "https://www.fnnews.com/news/202609131000383403",
-              "origin": "naver",
-              "title": "LG전자, 2년 연속 美 에미상 공식 'TV·가전 파트너' 선정"
-            },
-            {
-              "name": "ddaily.co.kr",
-              "url": "https://www.ddaily.co.kr/page/view/2026091310122809653",
-              "origin": "naver",
-              "title": "할리우드 사로잡은 LG 올레드…美 에미상 TV·가전 파트너 선정"
-            },
-            {
-              "name": "아시아경제",
-              "url": "https://view.asiae.co.kr/article/2026091310105202229",
-              "origin": "naver",
-              "title": "LG전자, 美 '에미상' 공식 TV·가전 파트너 선정"
-            },
-            {
-              "name": "gpkorea.com",
-              "url": "https://www.gpkorea.com/news/articleView.html?idxno=146636",
-              "origin": "naver",
-              "title": "LG전자, 美 에미상 공식 파트너 선정…올레드·시그니처 전면에"
-            },
-            {
-              "name": "아주경제",
-              "url": "https://www.ajunews.com/view/20260913095525666",
-              "origin": "naver",
-              "title": "LG전자, 에미상 파트너십 가전까지 넓힌다…TV 넘어 '시그니처' 전면에"
-            },
-            {
-              "name": "etoday.co.kr",
-              "url": "https://www.etoday.co.kr/news/view/2624774",
-              "origin": "naver",
-              "title": "LG전자, 美 에미상 공식 파트너…올레드·시그니처 전면에"
-            },
-            {
-              "name": "머니투데이",
-              "url": "https://www.mt.co.kr/industry/2026/09/13/2026091309422756916",
-              "origin": "naver",
-              "title": "LG전자, 美 에미상 공식 ‘TV·가전 파트너’ 선정"
-            },
-            {
-              "name": "한국경제",
-              "url": "https://www.hankyung.com/article/2026091307447",
-              "origin": "naver",
-              "title": "\"할리우드 한복판에 LG TV 뜬다\"…에미상 공식 파트너 선정"
-            },
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260913010800003?input=1195m",
-              "origin": "naver",
-              "title": "LG전자, 미국 에미상 공식 TV·가전 파트너 선정"
-            },
-            {
-              "name": "디지털타임스",
-              "url": "https://www.dt.co.kr/article/12083534?ref=naver",
-              "origin": "naver",
-              "title": "LG전자, 美 에미상 공식 TV·가전 파트너 선정…프리미엄 입지 강화"
-            },
-            {
-              "name": "뉴시스",
-              "url": "https://www.newsis.com/view/NISX20260913_0003787092",
-              "origin": "naver",
-              "title": "LG전자, 美 에미상 공식 'TV·가전 파트너' 선정…프리미엄 기술력 알린..."
-            },
-            {
-              "name": "뉴스1",
-              "url": "https://www.news1.kr/industry/electronics/6288641",
-              "origin": "naver",
-              "title": "LG전자, 美에미상 'TV·가전 파트너' 선정…LA서 기술·디자인 알린다"
-            }
-          ],
-          "source_count": 18,
-          "published": "2026-09-13T13:28:00+09:00",
-          "ts": 1789273680.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "대구시, AI·로봇 산업혁신 포럼 개최",
-          "url": "https://biz.heraldcorp.com/article/10871387?ref=naver",
-          "snippet": "대구시는 지난 11일 대구디지털혁신진흥원 태양홀에서 ‘대한민국 AI·로봇-피지컬AI 산업혁신 포럼’을 열었다. 이번 포럼은 정부의 ‘5극 3특’ 체제에 발맞춰 대구, 전북, 경남 3개 지역이 협력해 인공지능 전환(AX)...",
-          "source": "헤럴드경제",
-          "sources": [
-            {
-              "name": "헤럴드경제",
-              "url": "https://biz.heraldcorp.com/article/10871387?ref=naver",
-              "origin": "naver",
-              "title": "대구시, AI·로봇 산업혁신 포럼 개최"
+              "title": "대구·전북·경남 ‘AX 삼각동맹’…AI·로봇 제조혁신 힘 합친다"
             },
             {
               "name": "뉴스1",
@@ -2670,10 +2765,16 @@
               "title": "대구·전북·경남 'AI·로봇 산업혁신 포럼' 개최"
             },
             {
-              "name": "프레시안",
-              "url": "https://www.pressian.com/pages/articles/2026091211580266712?utm_source=naver&utm_medium=search",
-              "origin": "naver",
-              "title": "‘대한민국 AI·로봇-피지컬AI 산업혁신 포럼’ 대구서 개최"
+              "name": "v.daum.net",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yMHd0N1dMc3pLR01HZ0I3ZFJmZ05HSkZYZm1uay1sZDBtdURfMnRXREd0cnAwWmhmeUE2THVNVk5iZjlJUG9XSU5YaFZIRU0?oc=5",
+              "origin": "google",
+              "title": "대구·전북·경남 ‘AX 삼각동맹’…AI·로봇 제조혁신 힘 합친다"
+            },
+            {
+              "name": "hidomin.com",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xaHZkWTg5Z2FLenpRYng4SzMzQTVkWUt1TXprSXZWZE5maThCdUxqbjdWZFVVNldVVUZ5cGFTcDlCajVmaWNueFpDejZHLVlMdWgxWUdlTGZBNi1wTFFxYkVpeGZVamRwN1E?oc=5",
+              "origin": "google",
+              "title": "대구·전북·경남, 초광역 AX·피지컬AI 생태계 구축 ‘맞손’"
             },
             {
               "name": "OMATE 시니어",
@@ -2694,6 +2795,12 @@
               "title": "대구·전북·경남 'AI·로봇 산업혁신 포럼' 개최"
             },
             {
+              "name": "뉴스클레임",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5Tk9zZGowbHFSalNuTHBoeEpoWHdReFc2TlliYmxVdnFFV0xqWElNdEZWYkVReDVDeGdQMWdfdGxqQk9HT1JiQ3MzSHlHbGZhZlk3OENlT0FtaVI3V2RSckhnSWNzaVBPWU85clU4YlhlX3h50gF0QVVfeXFMUHlOT3NkajBscVJqU25McGh4SmhYd1F4VzZOWWJibFV2cUVXTGpYSU10RlZiRVF4NUN4Z1AxZ190bGpCT0dPUmJDczNIeUdsZmFmWTc4Q2VPQW1pUjdXZFJySGdJY3NpUE9ZTzlyVThiWGVfeHk?oc=5",
+              "origin": "google",
+              "title": "대구 전북 경남 AI 로봇 지역 제조업 새판 짠다"
+            },
+            {
               "name": "아시아뉴스통신",
               "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxdmY3OWpKTDVwUzhYbmc1Qk9xaU9WM0EzbUFCNGFXUHgyUmFkWlFEcTM5VDRacHdFcUljWWM0T0twSURDc05jc01VZUxKTHBFOGFxTGFVcnQ5VlhWRlhkdERXT0FOWklacTNfcEphUGFnLUFO?oc=5",
               "origin": "google",
@@ -2704,12 +2811,6 @@
               "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1mTUVqSGkxZ3NpYVZmWmxITUFwX1ozZG9Pd05BTXBMelpWTHBXazg5b2lPNXVlVDFhTWpZdXJiU1BacGItLUZHQ0wzSHo2bTlQMVY5ck4wMTB6cXNxX1NYOE9faVAtQU1URUxDMEtOSQ?oc=5",
               "origin": "google",
               "title": "대구·전북·경남 AX로 뭉쳤다… ‘AI·로봇 산업혁신 포럼’ 개최"
-            },
-            {
-              "name": "국제뉴스",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1d1NnbVVKcTJ4ZVZXT0l0Z2FlNUZZOXUyd29DWDFxTWFOel9aS3FTcHhoTTVyNEpvZGRsNzFpVGdsWExxOWJMMDdPLURXMkw2WGg3SEdiaUpPQjItbk1VV1FKeHJycTBpdVYxQjBR?oc=5",
-              "origin": "google",
-              "title": "추경호 대구광역시장, 초광역 협력 'AI·로봇-피지컬AI 산업혁신 포럼' 개최"
             },
             {
               "name": "장애인문화복지신문",
@@ -2730,94 +2831,82 @@
               "title": "대구·전북·경남 AX로 뭉쳤다… ‘AI·로봇 산업혁신 포럼’ 개최"
             }
           ],
-          "source_count": 12,
-          "published": "2026-09-13T06:55:00+09:00",
-          "ts": 1789250100.0,
+          "source_count": 13,
+          "published": "2026-09-13T13:50:00+09:00",
+          "ts": 1789275000.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "허준이 등 필즈상 수상자 25명 \"수학 난제 푸는 AI, 학계에 해 끼쳐\"",
-          "url": "https://www.hankookilbo.com/news/article/A2026091218210000154?did=NA",
-          "snippet": "오픈AI는 새 AI모델과 수천 개의 AI 에이전트를 투입해 88시간 만에 나비에-스토크스 방정식 문제를 풀었다고 설명했다. 이 방정식은 물이나 공기를 연속적으로 이어진 물질로 보고, 각 부분이 어느 방향으로 얼마나...",
-          "source": "한국일보",
+          "title": "'이음 인사이드'로 6000만 연결…KT, 모두의 AI 전략 공개",
+          "url": "http://www.metroseoul.co.kr/article/20260913500244",
+          "snippet": "제휴사와 AI 에이전트 연결…'이음 인사이드' 생태계 구축 최적 경로 찾는 '동적 라우팅' 방식, 서버 효율 21% 높여 KT가 모두의 AI 핵심 전략으로 '이음 인사이드'를 제시했다./KT KT가 생활 밀착형 플랫폼에 토종 인공지능...",
+          "source": "metroseoul.co.kr",
           "sources": [
             {
-              "name": "한국일보",
-              "url": "https://www.hankookilbo.com/news/article/A2026091218210000154?did=NA",
+              "name": "metroseoul.co.kr",
+              "url": "http://www.metroseoul.co.kr/article/20260913500244",
               "origin": "naver",
-              "title": "허준이 등 필즈상 수상자 25명 \"수학 난제 푸는 AI, 학계에 해 끼쳐\""
+              "title": "'이음 인사이드'로 6000만 연결…KT, 모두의 AI 전략 공개"
             },
             {
-              "name": "머니투데이",
-              "url": "https://www.mt.co.kr/tech/2026/09/12/2026091218195215176",
+              "name": "viva100.com",
+              "url": "https://www.viva100.com/article/20260911500892",
               "origin": "naver",
-              "title": "\"답 맞히기가 수학의 목적 아니다\"…필즈상 25명, AI 기업에 경고"
+              "title": "KT, ‘이음 인사이드’로 ‘모두의 AI’ 구현⋯ “6000만 서비스 접점에..."
             },
             {
-              "name": "뉴스1",
-              "url": "https://www.news1.kr/world/usa-canada/6288480",
+              "name": "news.mtn.co.kr",
+              "url": "https://news.mtn.co.kr/news-detail/2026091116491023613",
               "origin": "naver",
-              "title": "허준이·타오 등 필즈상 25명 \"AI 수학 경쟁, 수학 자체 해칠 수도\""
-            },
-            {
-              "name": "뉴시스",
-              "url": "https://www.newsis.com/view/NISX20260912_0003786891",
-              "origin": "naver",
-              "title": "AI, 100년 수학 난제에 해법…필즈상 수상자들 \"인간 역할 위협\" 경고"
-            },
-            {
-              "name": "TV조선",
-              "url": "https://news.tvchosun.com/site/data/html_dir/2026/09/12/2026091290072.html",
-              "origin": "naver",
-              "title": "필즈상 25명 경고…\"AI 문제풀이 경쟁, 수학 해칠 수도\""
-            },
-            {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/international/international_general/1277473.html",
-              "origin": "naver",
-              "title": "필즈상 수상 25인, AI 수학 풀이에…‘인간 지적 활동’ 위협 우려"
+              "title": "KT, '모두의 AI' 6000만 접점 전략…공공부문 AI에이전트 '실행'은 과제"
             },
             {
               "name": "아시아경제",
-              "url": "https://view.asiae.co.kr/article/2026091215271205287",
+              "url": "https://view.asiae.co.kr/article/2026091309334815680",
               "origin": "naver",
-              "title": "\"AI 수학 풀이 경쟁, 지적 활동 위협\"…필즈상 수상자 25인의 경고"
+              "title": "KT '모두의 AI' 실생활 구현…\"이음 인사이드, 6000만 서비스 연결\""
             },
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202609121527001",
+              "name": "economist.co.kr",
+              "url": "https://economist.co.kr/article/view/ecn202609110035",
               "origin": "naver",
-              "title": "‘수학계 노벨상’ 필즈상 수상자 25인의 경고…“AI의 문제풀이 경쟁 ..."
+              "title": "KT, ‘이음 인사이드’로 대국민 AI 연결…“계정·채널 장벽 낮춰 사각..."
             },
             {
-              "name": "etoday.co.kr",
-              "url": "https://www.etoday.co.kr/news/view/2624727",
+              "name": "biz.newdaily.co.kr",
+              "url": "https://biz.newdaily.co.kr/site/data/html/2026/09/11/2026091100253.html",
               "origin": "naver",
-              "title": "허준이 등 필즈상 수상자 25명 “AI 수학 경쟁, 장기적 피해 우려”"
+              "title": "KT, '모두의 AI' 확산 승부수는 '이음 인사이드' … \"생활 서비스 곳곳에..."
             },
             {
-              "name": "헤럴드경제",
-              "url": "https://biz.heraldcorp.com/article/10871229?ref=naver",
+              "name": "시대일보",
+              "url": "https://www.sidae.com/article/2026091115105248711",
               "origin": "naver",
-              "title": "필즈상 수상자 25인 “AI 수학풀이, 인류 지적활동 위협” 공동서한 발..."
+              "title": "KT '모두의 AI' 이음 인사이드 공개"
             },
             {
-              "name": "뉴스스페이스",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JU29Eb0NUQ2otbzBZUmVLbEFwWEVxZXFidmhXRmltQmlqN1Zhd3VZNWVFbGxzWEM2eE9oSm40Q1Z1WGhGa09RUnB3bEgyQXFuTE03RVFXdXJ1SlB3dzVJcg?oc=5",
+              "name": "뉴스1",
+              "url": "https://www.news1.kr/it-science/cc-newmedia/6287972",
+              "origin": "naver",
+              "title": "쇼핑·부동산·공공까지 AI로 '이음'…KT '모두의 AI' 청사진 공개"
+            },
+            {
+              "name": "v.daum.net",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tRlZESkh5R1FJR21LQzBOa09Lbzd1MG1zTHVMc19PLV9oZzNkTUtXVkxIV0ZneFJ4djdnbXBMNjYxMDY4UUNrUGNLNGFMQ1dMY3VKbg?oc=5",
               "origin": "google",
-              "title": "[빅테크칼럼] 88시간·1만 에이전트의 ‘증명’…필즈상 25명이 던진 경고, AI는 수학을 푸는가 훼손하는가"
+              "title": "KT, '모두의 AI' 6000만 접점 전략…공공부문 AI에이전트 '실행'은 과제"
             },
             {
-              "name": "SBS",
-              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNUJqaVpMU1NuU25RZXVOQjc0Z3hhdVJTMkd1Slk5N1FtVUl1SDZ6UHVEWWdwMmhCVllrVDl4U2NJNkh0bWFXRXVaQ1g2OFZMTkh6Nl9Jb3M4NzJsTXJlMVgxMUtWTldLeDRRU2plbl9uaVBVaXQyNnJQSWxXbC15c1BXSXI1Nkc5bEZyalFJM3ZpZ2tZVnfSAWZBVV95cUxObENxeXRZMFdVS1ZoWHB5NVpnN3pYMjFkWmg2QmJzQ0lHVThTQjA2NWwwYXFFX1hCemZnZ1UzY3dLVU5EcElXMHZWcnBRbmFXNWVOaWdZa253c3V2SVl2UW9BbVBpNWc?oc=5",
+              "name": "네이트",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1udjBxbnFKU3k2c0pRZk5Wby03MmVkMDVXQm5PSGZiOXlDLVFGc010WXY2cGIydG9jVkVETHE4NVZPUnlCekdyS044NTFCcXBYZEw0?oc=5",
               "origin": "google",
-              "title": "허준이 등 필즈상 25인, AI 난제 풀이 경쟁에 경고"
+              "title": "KT '모두의 AI' 이음 인사이드 공개"
             }
           ],
-          "source_count": 12,
-          "published": "2026-09-12T19:12:00+09:00",
-          "ts": 1789207920.0,
+          "source_count": 10,
+          "published": "2026-09-13T13:44:00+09:00",
+          "ts": 1789274640.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -2840,13 +2929,13 @@
               "title": "경북농협, 농산물 가치 알리고 소비 촉진 'AI 숏폼 대학생 공모전' 연다"
             },
             {
-              "name": "webplusnews.kr",
+              "name": "웹플러스뉴스",
               "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oVnBsdVd4UndzbGxMaEhxdEJVLWROX2NGQ3Zwa253blRqWlpNTmgyaURkclN1SDdoZk5xODlTbjN4dF9zYU9zVnV5M0tYaDdBNFlyMTJVbkwxZVQxQy1JZV81cERNQV9DUW9z?oc=5",
               "origin": "google",
               "title": "경북농협, 대학생 AI 숏폼으로 경북 농산물 알린다…전국 공모전"
             },
             {
-              "name": "이뉴스투데이",
+              "name": "enewstoday.co.kr",
               "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1YTFfRXZUWXhnU0NEMDdBeW12aUdHYlFGT1BNWUs4MTRTVTh6ZzJvX1ViNTBNcUlmY2s0VFBLRjFsQ3A5NjJtVVNJUTBDSnhaV0phLXFiTUNHaWpIa2g0ZGI5NnJ1RWVZai1hMU9wX2ltOHg00gF0QVVfeXFMUDVhMV9FdlRZeGdTQ0QwN0F5bXZpR0diUUZPUE1ZSzgxNFNVOHpnMm9fVWI1ME1xSWZjazRUUEtGMWxDcDk2Mm1VU0lRMENKeFpXSmEtcWJNQ0dpakhraDRkYjk2cnVFZVlqLWExT3BfaW04eDQ?oc=5",
               "origin": "google",
               "title": "대학생의 시선으로 피어나는 경북 과일… 경북농협, ‘농산물 AI 숏폼 공모전’ 포문 열다"
@@ -2895,57 +2984,112 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "KT '모두의 AI' 실생활 구현…\"이음 인사이드, 6000만 서비스 연결\"",
-          "url": "https://view.asiae.co.kr/article/2026091309334815680",
-          "snippet": "이음 인사이드는 국민이 이용하는 다양한 서비스에 AI를 내재화하고, 이를 하나의 범용 AI 에이전트로 연결하는 개방형 AI 생태계다. 이용자는 웹·애플리케이션(앱)·인터넷TV(IPTV) 등 익숙한 접속 채널에서 이음...",
-          "source": "아시아경제",
+          "title": "AI, 88년만에 수학 난제 풀었는데…필즈상 수상자들이 경고한 이유",
+          "url": "https://www.nongmin.com/article/20260913500027",
+          "snippet": "이 선언문은 오픈AI가 AI 에이전트 수천개를 동원해 이른바 ‘밀레니엄 문제’ 중 하나인 나비에-스토크스 방정식을 88시간 만에 풀었다고 8일(현지시각) 공개한 직후 나왔다. 나비에-스토크스 방정식은 미국...",
+          "source": "한국일보",
           "sources": [
             {
+              "name": "한국일보",
+              "url": "https://www.hankookilbo.com/news/article/A2026091218210000154?did=NA",
+              "origin": "naver",
+              "title": "허준이 등 필즈상 수상자 25명 \"수학 난제 푸는 AI, 학계에 해 끼쳐\""
+            },
+            {
+              "name": "뉴시스",
+              "url": "https://www.newsis.com/view/NISX20260912_0003786891",
+              "origin": "naver",
+              "title": "AI, 100년 수학 난제에 해법…필즈상 수상자들 \"인간 역할 위협\" 경고"
+            },
+            {
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/international/international_general/1277473.html",
+              "origin": "naver",
+              "title": "필즈상 수상 25인, AI 수학 풀이에…‘인간 지적 활동’ 위협 우려"
+            },
+            {
               "name": "아시아경제",
-              "url": "https://view.asiae.co.kr/article/2026091309334815680",
+              "url": "https://view.asiae.co.kr/article/2026091215271205287",
               "origin": "naver",
-              "title": "KT '모두의 AI' 실생활 구현…\"이음 인사이드, 6000만 서비스 연결\""
+              "title": "\"AI 수학 풀이 경쟁, 지적 활동 위협\"…필즈상 수상자 25인의 경고"
             },
             {
-              "name": "economist.co.kr",
-              "url": "https://economist.co.kr/article/view/ecn202609110035",
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202609121527001",
               "origin": "naver",
-              "title": "KT, ‘이음 인사이드’로 대국민 AI 연결…“계정·채널 장벽 낮춰 사각..."
+              "title": "‘수학계 노벨상’ 필즈상 수상자 25인의 경고…“AI의 문제풀이 경쟁 ..."
             },
             {
-              "name": "biz.newdaily.co.kr",
-              "url": "https://biz.newdaily.co.kr/site/data/html/2026/09/11/2026091100253.html",
+              "name": "etoday.co.kr",
+              "url": "https://www.etoday.co.kr/news/view/2624727",
               "origin": "naver",
-              "title": "KT, '모두의 AI' 확산 승부수는 '이음 인사이드' … \"생활 서비스 곳곳에..."
+              "title": "허준이 등 필즈상 수상자 25명 “AI 수학 경쟁, 장기적 피해 우려”"
             },
             {
-              "name": "시대일보",
-              "url": "https://www.sidae.com/article/2026091115105248711",
+              "name": "헤럴드경제",
+              "url": "https://biz.heraldcorp.com/article/10871229?ref=naver",
               "origin": "naver",
-              "title": "KT '모두의 AI' 이음 인사이드 공개"
+              "title": "필즈상 수상자 25인 “AI 수학풀이, 인류 지적활동 위협” 공동서한 발..."
             },
             {
-              "name": "머니투데이",
-              "url": "https://www.mt.co.kr/tech/2026/09/13/2026091217471438140",
+              "name": "농민신문",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SSms1dmFTV0ZkWXBLZkEtWGFWVlc0UklIdnM3cmxsVkNkMkcxWE40YWJNWERKR0ctdmt1RlV0SzFaeWdfTnpxSHU3REp0aEhaOVNTaXZxbEtSQQ?oc=5",
+              "origin": "google",
+              "title": "AI, 88년만에 수학 난제 풀었는데…필즈상 수상자들이 경고한 이유"
+            }
+          ],
+          "source_count": 8,
+          "published": "2026-09-13T14:00:00+09:00",
+          "ts": 1789275600.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "“AI, 10년내 인류 몰살” 터미네이터보다 무서운 경고 뭐길래…올트먼...",
+          "url": "https://biz.heraldcorp.com/article/10871582?ref=naver",
+          "snippet": "오픈AI 내부의 AI 에이전트 무리가 AI 플랫폼 허깅페이스를 해킹해 서버를 장악하고 흔적을 지우려 시도한 사례, 앤트로픽의 AI 에이전트가 영국 정부 테스트 환경을 이탈해 실제 인간을 속여 악성 코드를 승인하도록...",
+          "source": "헤럴드경제",
+          "sources": [
+            {
+              "name": "헤럴드경제",
+              "url": "https://biz.heraldcorp.com/article/10871582?ref=naver",
               "origin": "naver",
-              "title": "\"쓰던 서비스서 버튼 하나로 AI\"…KT '이음 인사이드' 승부수"
+              "title": "“AI, 10년내 인류 몰살” 터미네이터보다 무서운 경고 뭐길래…올트먼..."
+            },
+            {
+              "name": "insight.co.kr",
+              "url": "https://www.insight.co.kr/news/573212",
+              "origin": "naver",
+              "title": "AI가 10년 안에 인류 죽일 확률 10%?... 앤트로픽 연구자의 섬뜩한 경고"
+            },
+            {
+              "name": "한국경제",
+              "url": "https://www.hankyung.com/article/2026091196571",
+              "origin": "naver",
+              "title": "'인류 멸망' 다급한 경고…\"AI가 10년 안에 모든 인간 죽인다\""
             },
             {
               "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1udjBxbnFKU3k2c0pRZk5Wby03MmVkMDVXQm5PSGZiOXlDLVFGc010WXY2cGIydG9jVkVETHE4NVZPUnlCekdyS044NTFCcXBYZEw0?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnQjNGM0Nic2t1QVljSllPaU9Fc2VlNFpPZFBiNU5lOHplQ3ZJOHRCY0h4TWNyX1dIOXp6UThLczFIb0JlTkxmc2IwYlo2MFFPUGpR?oc=5",
               "origin": "google",
-              "title": "KT '모두의 AI' 이음 인사이드 공개"
+              "title": "\"10년 내 인류 위협\" 잇단 경고…'AI 폭군' 출현 대비해야[AGI 시대 下]"
             },
             {
-              "name": "데일리한국",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ibnFZdTF3MVRiZDRldzFzS2l5d0k1bzdHQWJhODZ3SlNXbEgzMlFHMkd0N3hVWExBSy1CUHQtWlFIRzZNdFRGekt2cWt4ektuQmI3cUxNaU54aV9rRHBWYnpMSEtTREpHWWtHeEVka9IBc0FVX3lxTE9RVV9LNEtaU0dUQmNXeHhGakxpc29EbmoyRzVQcXhoS3FiMmVtdFRmZXo0NUt0UTRKeEtQTG5pRWhqSjU4bmZZNDNZZTM5cHliMGxBMTRvUXRHVDdIYzNjQl9RVlNSVXJFUVViN0U1X1pyU3c?oc=5",
+              "name": "뉴시스",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uY1NxU2lwWVUxcDIzNVBuUUthMk1SU19ZNjk4X2tJS3lONVZ0X3B2VWNVZTg3bGJlQk1pTmw0dlNiVXF5QlVJc1RoNlc1NERMVGtzNzdOeWRwSTg0eGJScdIBeEFVX3lxTFBNa0VqWHpjbXJUMjM4OVpMU0Etc1NyUWxyNTdhcUFEaGdDUlBXV3lXYTFGTHRpT2JYTWR2NWd0VlEwNmRldVh0Z1drUnRTTjIxWjgtcDR1dko2SnVBdHprTnFsT3RGdzhwUEQ2NmpXd1h6QkhxbEc3Yw?oc=5",
               "origin": "google",
-              "title": "KT, 6000만 서비스 연결하는 '모두의 AI'…'이음 인사이드'부터 시작"
+              "title": "\"10년 내 인류 위협\" 잇단 경고…'AI 폭군' 출현 대비해야[AGI 시대 下]"
+            },
+            {
+              "name": "재외동포신문",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pY2QycjhWNFhDRGVzUWpHYjFpNm0wblRPRFJyTm84MHZDN1BELWpxck5OZEpGaFBHRGdMSEl0VkdfTU15Z193SUNxak9VN3FjWVlvZ3B6NzljTENXV05KbFdiTnpaTVpTWFA2Mw?oc=5",
+              "origin": "google",
+              "title": "AI, 인간의 통제선을 넘기 시작했다...“10년 내 인류 파괴” 경고도"
             }
           ],
-          "source_count": 7,
-          "published": "2026-09-13T09:33:00+09:00",
-          "ts": 1789259580.0,
+          "source_count": 6,
+          "published": "2026-09-13T14:00:00+09:00",
+          "ts": 1789275600.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -2962,28 +3106,28 @@
               "title": "LG디스플레이, 전 직원 AI 개발자 만든다… 'AX스쿼드' 운영"
             },
             {
-              "name": "노컷뉴스",
-              "url": "https://www.nocutnews.co.kr/news/6577223?utm_source=naver&utm_medium=article&utm_campaign=20260913125242",
-              "origin": "naver",
-              "title": "LG디스플레이, AI 전문가 키운다…'AX 스쿼드' 운영"
-            },
-            {
               "name": "연합뉴스",
               "url": "https://www.yna.co.kr/view/AKR20260913012400003?input=1195m",
               "origin": "naver",
               "title": "LG디스플레이, AI 전문가 육성 위한 'AX스쿼드' 운영"
             },
             {
-              "name": "서울경제",
-              "url": "https://www.sedaily.com/article/20090214?ref=naver",
-              "origin": "naver",
-              "title": "LG디스플레이 ‘AX 스쿼드’ 확대…비개발자도 AI앱 직접 만든다"
-            },
-            {
               "name": "dailian.co.kr",
               "url": "https://www.dailian.co.kr/news/view/1689647/?sc=Naver",
               "origin": "naver",
               "title": "LG디스플레이, 직원이 직접 AI 만든다…'AX 스쿼드' 450여건 돌파"
+            },
+            {
+              "name": "노컷뉴스",
+              "url": "https://www.nocutnews.co.kr/news/6577223?utm_source=naver&utm_medium=article&utm_campaign=20260913125242",
+              "origin": "naver",
+              "title": "LG디스플레이, AI 전문가 키운다…'AX 스쿼드' 운영"
+            },
+            {
+              "name": "서울경제",
+              "url": "https://www.sedaily.com/article/20090214?ref=naver",
+              "origin": "naver",
+              "title": "LG디스플레이 ‘AX 스쿼드’ 확대…비개발자도 AI앱 직접 만든다"
             },
             {
               "name": "헤럴드경제",
@@ -3011,16 +3155,10 @@
               "title": "KT “6000만 이용자 접점 활용해 모두의AI 확산”"
             },
             {
-              "name": "dealsite.co.kr",
-              "url": "https://dealsite.co.kr/articles/168907",
+              "name": "뉴시스",
+              "url": "https://www.newsis.com/view/NISX20260911_0003786337",
               "origin": "naver",
-              "title": "KT, ‘모두의 AI’ 대중화 시동…보안·이용자 확산 과제"
-            },
-            {
-              "name": "viva100.com",
-              "url": "https://www.viva100.com/article/20260911500892",
-              "origin": "naver",
-              "title": "KT, ‘이음 인사이드’로 ‘모두의 AI’ 구현⋯ “6000만 서비스 접점에..."
+              "title": "KT, 6000만 서비스 접점에 AI 심는다…다음·무신사·직방서 '모두의 AI'"
             },
             {
               "name": "etoday.co.kr",
@@ -3029,10 +3167,16 @@
               "title": "KT, 6000만 접점 ‘모두의 AI’…토큰 팩토리로 GPU 효율 21% 높인다"
             },
             {
-              "name": "news.mtn.co.kr",
-              "url": "https://news.mtn.co.kr/news-detail/2026091116491023613",
+              "name": "dealsite.co.kr",
+              "url": "https://dealsite.co.kr/articles/168907",
               "origin": "naver",
-              "title": "KT, '모두의 AI' 6000만 접점 전략…공공부문 AI에이전트 '실행'은 과제"
+              "title": "KT, ‘모두의 AI’ 대중화 시동…보안·이용자 확산 과제"
+            },
+            {
+              "name": "네이트",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yZFk3OFJ4V3loUXE3bC1NY21lSzZKLUQxNFN5UzdZcXBDVWtkZFM3MjlOWDc0a3UtZ19yZjlwa0Z4aGVyTVYtcTB4UnJBMDZoRnRR?oc=5",
+              "origin": "google",
+              "title": "KT, 6000만 서비스 접점에 AI 심는다…다음·무신사·직방서 '모두의 AI'"
             },
             {
               "name": "v.daum.net",
@@ -3250,6 +3394,12 @@
               "title": "프런티어 AI 개발 ‘감속론’ 확산…올트먼·아모데이·머스크 동참"
             },
             {
+              "name": "news.mtn.co.kr",
+              "url": "https://news.mtn.co.kr/news-detail/2026091310181120265",
+              "origin": "naver",
+              "title": "\"AI 개발 속도 늦추자\"는 앤트로픽 CEO 제안에…올트먼·머스크도 동참"
+            },
+            {
               "name": "파이낸셜뉴스",
               "url": "https://www.fnnews.com/news/202609130537457705",
               "origin": "naver",
@@ -3262,12 +3412,6 @@
               "title": "“AI 개발 속도 늦춰야” 올트먼·아모데이·머스크, 이례적 한뜻"
             },
             {
-              "name": "news.mtn.co.kr",
-              "url": "https://news.mtn.co.kr/news-detail/2026091310181120265",
-              "origin": "naver",
-              "title": "\"AI 개발 속도 늦추자\"는 앤트로픽 CEO 제안에…올트먼·머스크도 동참"
-            },
-            {
               "name": "마켓인",
               "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EQ3M3S2wzWHlFZmg4WmNCREdFa1JhYk11MFZkRS1fcGNTN3Y2LWs5WFJYczNqT21mWWhudUNIb1pOM185aFNxdFNzenlhSnlIRUpsb002ZFBkbllCZmxRNkpoVGF6ODMyWlNLV3Frdms1Nkk?oc=5",
               "origin": "google",
@@ -3277,135 +3421,6 @@
           "source_count": 5,
           "published": "2026-09-13T11:09:00+09:00",
           "ts": 1789265340.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "AI가 10년 안에 인류 죽일 확률 10%?... 앤트로픽 연구자의 섬뜩한 경고",
-          "url": "https://www.insight.co.kr/news/573212",
-          "snippet": "오픈AI의 실험용 AI 에이전트들은 올해 최소 10개 이상의 외부 웹사이트를 허가받지 않은 통신 수단으로 이용한 것으로 나타났다.연구진은 인터넷에서 정보를 읽는 것만 허용했지만 일부 AI는 글을 작성할 수 있는...",
-          "source": "insight.co.kr",
-          "sources": [
-            {
-              "name": "insight.co.kr",
-              "url": "https://www.insight.co.kr/news/573212",
-              "origin": "naver",
-              "title": "AI가 10년 안에 인류 죽일 확률 10%?... 앤트로픽 연구자의 섬뜩한 경고"
-            },
-            {
-              "name": "한국경제",
-              "url": "https://www.hankyung.com/article/2026091196571",
-              "origin": "naver",
-              "title": "'인류 멸망' 다급한 경고…\"AI가 10년 안에 모든 인간 죽인다\""
-            },
-            {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnQjNGM0Nic2t1QVljSllPaU9Fc2VlNFpPZFBiNU5lOHplQ3ZJOHRCY0h4TWNyX1dIOXp6UThLczFIb0JlTkxmc2IwYlo2MFFPUGpR?oc=5",
-              "origin": "google",
-              "title": "\"10년 내 인류 위협\" 잇단 경고…'AI 폭군' 출현 대비해야[AGI 시대 下]"
-            },
-            {
-              "name": "뉴시스",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uY1NxU2lwWVUxcDIzNVBuUUthMk1SU19ZNjk4X2tJS3lONVZ0X3B2VWNVZTg3bGJlQk1pTmw0dlNiVXF5QlVJc1RoNlc1NERMVGtzNzdOeWRwSTg0eGJScdIBeEFVX3lxTFBNa0VqWHpjbXJUMjM4OVpMU0Etc1NyUWxyNTdhcUFEaGdDUlBXV3lXYTFGTHRpT2JYTWR2NWd0VlEwNmRldVh0Z1drUnRTTjIxWjgtcDR1dko2SnVBdHprTnFsT3RGdzhwUEQ2NmpXd1h6QkhxbEc3Yw?oc=5",
-              "origin": "google",
-              "title": "\"10년 내 인류 위협\" 잇단 경고…'AI 폭군' 출현 대비해야[AGI 시대 下]"
-            },
-            {
-              "name": "재외동포신문",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pY2QycjhWNFhDRGVzUWpHYjFpNm0wblRPRFJyTm84MHZDN1BELWpxck5OZEpGaFBHRGdMSEl0VkdfTU15Z193SUNxak9VN3FjWVlvZ3B6NzljTENXV05KbFdiTnpaTVpTWFA2Mw?oc=5",
-              "origin": "google",
-              "title": "AI, 인간의 통제선을 넘기 시작했다...“10년 내 인류 파괴” 경고도"
-            }
-          ],
-          "source_count": 5,
-          "published": "2026-09-13T10:40:00+09:00",
-          "ts": 1789263600.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "\"AI 수학풀이, 인류 지적활동 위협\"⋯필즈상 25인의 경고",
-          "url": "http://www.inews24.com/view/2004918",
-          "snippet": "문제 해결에는 수천 개의 AI 에이전트가 동시에 투입된 것으로 전해졌다. 오픈AI는 나비에-스토크스 방정식 문제 해결을 위해 에이전트들이 270만개의 메시지를 주고받았으며 약 1천300억개의 토큰을 썼다고 밝혔다. 다만...",
-          "source": "아이뉴스24",
-          "sources": [
-            {
-              "name": "아이뉴스24",
-              "url": "http://www.inews24.com/view/2004918",
-              "origin": "naver",
-              "title": "\"AI 수학풀이, 인류 지적활동 위협\"⋯필즈상 25인의 경고"
-            },
-            {
-              "name": "연합뉴스TV",
-              "url": "http://www.yonhapnewstv.co.kr/news/AKR20260912154033BBZ",
-              "origin": "naver",
-              "title": "\"AI 수학풀이 경쟁, 인류 지적활동 위협\"…필즈상 25인 경고"
-            },
-            {
-              "name": "디지털타임스",
-              "url": "https://www.dt.co.kr/article/12083495?ref=naver",
-              "origin": "naver",
-              "title": "필즈상 25인, 오픈AI ‘밀레니엄 난제 해결’에 경고…“인류 지적 활동..."
-            },
-            {
-              "name": "YTN",
-              "url": "https://www.ytn.co.kr/_ln/0104_202609121508430590",
-              "origin": "naver",
-              "title": "\"AI 수학풀이, 인류 지적활동 위협\"...최고권위 필즈상 25인 경고"
-            },
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260912030300009?input=1195m",
-              "origin": "naver",
-              "title": "\"AI 수학풀이, 인류 지적활동 위협\"…최고권위 필즈상 25인 경고"
-            }
-          ],
-          "source_count": 5,
-          "published": "2026-09-12T15:42:00+09:00",
-          "ts": 1789195320.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "대구·전북·경남, AI·로봇 초광역 협력…\"대한민국 제조혁신 선도\"",
-          "url": "https://www.news1.kr/local/daegu-gyeongbuk/6288355",
-          "snippet": "12일 대구시에 따르면 전날 대구디지털혁신진흥원에서 열린 '대한민국 AI·로봇-피지컬AI 산업혁신 포럼'에는 대구·전북·경남의 ICT·로봇 기업과 대학·연구기관 관계자 등이 참석했다. 이번 포럼은 정부의 '5극 3특...",
-          "source": "뉴스1",
-          "sources": [
-            {
-              "name": "뉴스1",
-              "url": "https://www.news1.kr/local/daegu-gyeongbuk/6288355",
-              "origin": "naver",
-              "title": "대구·전북·경남, AI·로봇 초광역 협력…\"대한민국 제조혁신 선도\""
-            },
-            {
-              "name": "hidomin.com",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xaHZkWTg5Z2FLenpRYng4SzMzQTVkWUt1TXprSXZWZE5maThCdUxqbjdWZFVVNldVVUZ5cGFTcDlCajVmaWNueFpDejZHLVlMdWgxWUdlTGZBNi1wTFFxYkVpeGZVamRwN1E?oc=5",
-              "origin": "google",
-              "title": "대구·전북·경남, 초광역 AX·피지컬AI 생태계 구축 ‘맞손’"
-            },
-            {
-              "name": "v.daum.net",
-              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5abGJRVFlCbUg1NnlfYVdOemVOUmVDSXhEeHc3c05BM2tIbGRtLTZuY2hFTHV4MG45RzhNRE5UQUNCdnBXbTl6aGQ2eklOM3M?oc=5",
-              "origin": "google",
-              "title": "대구·전북·경남, 초광역 AX·피지컬AI 생태계 구축 ‘맞손’"
-            },
-            {
-              "name": "뉴스클레임",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOZ0JHcXJaZVZ2R0RMM0stTFUydGVhZC05V1pqWGtQempNRzdVRnlubVllQlJCNGFMTnhDTUI3LVJTaTBDOHQ2VFY3X081MWpyVjhubDRlNlNNM0tISFFkT2VDOFJ4ZWhSQmpOS0RzcFc?oc=5",
-              "origin": "google",
-              "title": "대구 전북 경남 AI 로봇 지역 제조업 새판 짠다"
-            },
-            {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyd2dkNFNnd1lLc29JYk4zeUZpUHNiakN2WjRaelp4dThnMlR5VzVGa0hjRkVIazc5blRySXdzZzUwUk0yTWthRDVydjc0dHlEVnNJ?oc=5",
-              "origin": "google",
-              "title": "대구·전북·경남, AI·로봇 초광역 협력…\"대한민국 제조혁신 선도\""
-            }
-          ],
-          "source_count": 5,
-          "published": "2026-09-12T13:16:00+09:00",
-          "ts": 1789186560.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -3465,6 +3480,12 @@
               "title": "'손끝 노하우' 데이터화…경남, K-조선 AI 전환 전초기지로"
             },
             {
+              "name": "네이트",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5ZkYtMHY3T2RqaVpsMnpzZVFUZDMySWNDeEVZSzFuV1Q3aVNma0VwdTRKNkhjZkRFVjVSMVBJa2N6ejV0aXN4S083Zl9qOUhTUkMw?oc=5",
+              "origin": "google",
+              "title": "'손끝 노하우' 데이터화…경남, K-조선 AI 전환 전초기지로"
+            },
+            {
               "name": "브릿지경제",
               "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vME1DZjNLSm9iVGFKbVBsUExvVWlBVTZWMlIwSHgtUkZVTmx2Umpfc3FqMERXdUpmYU1Tcnp5eFRVaVNWVXY4Mk15SzV4QTJTeXFpQXA1VU5tZw?oc=5",
               "origin": "google",
@@ -3475,12 +3496,6 @@
               "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EcUZMeS1TeDBZRWV4RFZ6dlZBbkZGalNhZWZSYnBhSjJoQkQ5d0p3NVdXaXVSR2ktRl9QN01Dbl9wOE9hZUlwLWVKel9FbzNXWkd2VnNJSy1lNHhBZUJpei1PZ19VZVE?oc=5",
               "origin": "google",
               "title": "경남도, 조선·해양 제조 AI 허브 구축 본격화… 글로벌 기술 거점 육성"
-            },
-            {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5ZkYtMHY3T2RqaVpsMnpzZVFUZDMySWNDeEVZSzFuV1Q3aVNma0VwdTRKNkhjZkRFVjVSMVBJa2N6ejV0aXN4S083Zl9qOUhTUkMw?oc=5",
-              "origin": "google",
-              "title": "'손끝 노하우' 데이터화…경남, K-조선 AI 전환 전초기지로"
             }
           ],
           "source_count": 4,
@@ -3675,6 +3690,43 @@
           "group_label": "AI · 생성형AI"
         },
         {
+          "title": "\"답 맞히기가 수학의 목적 아니다\"…필즈상 25명, AI 기업에 경고",
+          "url": "https://www.mt.co.kr/tech/2026/09/12/2026091218195215176",
+          "snippet": "",
+          "source": "머니투데이",
+          "sources": [
+            {
+              "name": "머니투데이",
+              "url": "https://www.mt.co.kr/tech/2026/09/12/2026091218195215176",
+              "origin": "naver",
+              "title": "\"답 맞히기가 수학의 목적 아니다\"…필즈상 25명, AI 기업에 경고"
+            },
+            {
+              "name": "뉴스1",
+              "url": "https://www.news1.kr/world/usa-canada/6288480",
+              "origin": "naver",
+              "title": "허준이·타오 등 필즈상 25명 \"AI 수학 경쟁, 수학 자체 해칠 수도\""
+            },
+            {
+              "name": "TV조선",
+              "url": "https://news.tvchosun.com/site/data/html_dir/2026/09/12/2026091290072.html",
+              "origin": "naver",
+              "title": "필즈상 25명 경고…\"AI 문제풀이 경쟁, 수학 해칠 수도\""
+            },
+            {
+              "name": "뉴스스페이스",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JU29Eb0NUQ2otbzBZUmVLbEFwWEVxZXFidmhXRmltQmlqN1Zhd3VZNWVFbGxzWEM2eE9oSm40Q1Z1WGhGa09RUnB3bEgyQXFuTE03RVFXdXJ1SlB3dzVJcg?oc=5",
+              "origin": "google",
+              "title": "[빅테크칼럼] 88시간·1만 에이전트의 ‘증명’…필즈상 25명이 던진 경고, AI는 수학을 푸는가 훼손하는가"
+            }
+          ],
+          "source_count": 4,
+          "published": "2026-09-12T19:12:00+09:00",
+          "ts": 1789207920.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
           "title": "수출기업 45.5% 무역업무에 AI 못 쓴다…무협, AX 해법 연결",
           "url": "https://www.venturesquare.net/1112777/",
           "snippet": "생성형 AI가 정보를 검색하고 요약하는 단계를 넘어 업무를 직접 수행하는... 문제해결형 산업 AI 에이전트 기술 개발사업’을 안내했다. 중소기업기술정보진흥원은...",
@@ -3712,44 +3764,38 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "타마 AI, 베니스서 AI 스트리밍 ‘글랜즈’ 공개",
-          "url": "https://www.bntnews.co.kr/article/view/bnt202609120037",
-          "snippet": "타마 AI는 베니스를 시작으로 오는 10월 16일부터 19일까지 일본과 한국에서 AI 스토리텔링을 주제로 한 크리에이터 해커톤 ‘아레나 피크 아시아’를 진행할 예정이다. 사진제공=타마 AI bnt뉴스 라이프팀 기사제보",
-          "source": "bntnews.co.kr",
+          "title": "'모두의 AI' 보안·속도 잡는다…KT, 민관 TF·자체 GPU 구축",
+          "url": "https://www.fnnews.com/news/202609111409513994",
+          "snippet": "이음 인사이드는 각 기업의 서비스에 AI를 내재화하고 하나의 범용 AI 에이전트로 연결하는 개방형 생태계다. KT는 '모두의 AI' 앱을 별도로 구축하면서 다음과 컨소시엄 참여 기업의 서비스, 지니TV 등에도 이음...",
+          "source": "파이낸셜뉴스",
           "sources": [
             {
-              "name": "bntnews.co.kr",
-              "url": "https://www.bntnews.co.kr/article/view/bnt202609120037",
+              "name": "파이낸셜뉴스",
+              "url": "https://www.fnnews.com/news/202609111409513994",
               "origin": "naver",
-              "title": "타마 AI, 베니스서 AI 스트리밍 ‘글랜즈’ 공개"
+              "title": "'모두의 AI' 보안·속도 잡는다…KT, 민관 TF·자체 GPU 구축"
             },
             {
-              "name": "지디넷코리아",
-              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oVmZjU1hKVld5YW1ZcnZ0UlBKUjRTN2Zqb1EwdlNmNzVfZ2V2NE5EM0wxUFppSExBMEs5TlY2dlBOV3BxemdBNHlGWmt0clExWnY5SnFn?oc=5",
+              "name": "네이트",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sNkRyUGVLbVN6b180WjhKX0FXWEZJeVRNbW0yTEc5MnI0NFdybE5JNlpmZ1U3UnZvSnJQUUY2QkNGX25HemZnRnFJQ1ZxQzRDV0pj?oc=5",
               "origin": "google",
-              "title": "타마 AI, 제83회 베니스 국제 영화제에서 새로운 AI 스트리밍 플랫폼 글랜즈로 창의성 발휘"
+              "title": "KT '모두의 AI' 6000만 접점 노린다…민관·자체 TF 추진"
             },
             {
-              "name": "이슈투데이",
-              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xbjdCcVhOd1g3amRrZHpDaWtJT3l6Zk5wOHFrY243REg3NThkNERYSmU0Mk9jRFFmT3BhNkw0ek1TanQ3Q3YtOG4wamtUTFc3ZGlsQjh6SFZSVEg4cjdUaUtDRmJwZw?oc=5",
+              "name": "데일리안",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yNWtKb3RmaTlZQkpZVEFVVkNCQzZ3MENTOFpSRU5DcGJLY3hqVzF5UVJhT1VkTEp2dnh3LWVkRkdRc3AxTnA0MUstQTZXOUZRcjBV?oc=5",
               "origin": "google",
-              "title": "타마 AI, 제83회 베니스 국제 영화제에서 새로운 AI 스트리밍 플랫폼 글랜즈로 창의성 발휘"
-            },
-            {
-              "name": "v.daum.net",
-              "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5rMll3UHQycGYyUkFjZnAxemtiMkRaWFM5SXBzR0JIX0FKN194YWxZQU5ZN3JkRmtIdkJQQ1dacHl2dEwzdTJGM2c3MA?oc=5",
-              "origin": "google",
-              "title": "타마 AI, 베니스서 AI 스트리밍 ‘글랜즈’ 공개"
+              "title": "'개인정보 유출' 홍역 치른 KT…정부 참여 TF로 '모두의 AI' 보안 배수진"
             }
           ],
-          "source_count": 4,
-          "published": "2026-09-12T08:06:00+09:00",
-          "ts": 1789167960.0,
+          "source_count": 3,
+          "published": "2026-09-13T13:08:00+09:00",
+          "ts": 1789272480.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "최태원 “AI 버블 꺼뜨리지 않으려면…수익 내는 비즈니스 모델 만들어...",
+          "title": "최태원 “AI 버블 우려 불식하려면…수익 내는 비즈니스 모델 만들어야...",
           "url": "https://www.donga.com/news/Economy/article/all/20260913/134655496/1",
           "snippet": "청년들을 향해서는 AI 시대를 맞아 단순하게 스펙을 쌓기보다는 문제 본질을 고민하는 ‘생각 근육’, 타인에 대한 ‘공감의 힘’, 회복탄력성인 ‘적응 근육’, 직접 몸으로 겪고 배우는 ‘피지컬 근육’ 등 4대...",
           "source": "동아일보",
@@ -3758,7 +3804,7 @@
               "name": "동아일보",
               "url": "https://www.donga.com/news/Economy/article/all/20260913/134655496/1",
               "origin": "naver",
-              "title": "최태원 “AI 버블 꺼뜨리지 않으려면…수익 내는 비즈니스 모델 만들어..."
+              "title": "최태원 “AI 버블 우려 불식하려면…수익 내는 비즈니스 모델 만들어야..."
             },
             {
               "name": "뉴스1",
@@ -3811,37 +3857,6 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "[이슈하이킥] 현대차그룹, 데이터 플라이휠로 자율주행 기술 고도화",
-          "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4106224",
-          "snippet": "포티투닷은 이를 자율주행을 넘어 로보틱스까지 확장 가능한 '피지컬 AI'의 핵심으로 보고 있습니다. [정영석] 황 기자가 직접 성남 판교에 있는 포티투닷 사옥의 '비히클 워크샵' 개발 현장도 둘러보고 오셨죠. 실제 현장...",
-          "source": "news.bbsi.co.kr",
-          "sources": [
-            {
-              "name": "news.bbsi.co.kr",
-              "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4106224",
-              "origin": "naver",
-              "title": "[이슈하이킥] 현대차그룹, 데이터 플라이휠로 자율주행 기술 고도화"
-            },
-            {
-              "name": "서울경제",
-              "url": "https://www.sedaily.com/article/20090165?ref=naver",
-              "origin": "naver",
-              "title": "현대차그룹, ‘데이터 플라이휠’로 자율주행 가속…2029년 자체 레벨 2..."
-            },
-            {
-              "name": "뉴스1",
-              "url": "https://www.news1.kr/industry/auto-industry/6288455",
-              "origin": "naver",
-              "title": "\"자율주행, '학습 속도' 싸움\"…현대차 '데이터 플라이휠' 사활"
-            }
-          ],
-          "source_count": 3,
-          "published": "2026-09-13T11:10:00+09:00",
-          "ts": 1789265400.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
           "title": "KT, 네덜란드 ‘IBC 2026’서 앰로직과 MOU…미디어 칩셋 안정적 확보",
           "url": "https://www.sportsseoul.com/news/read/1634689?ref=naver",
           "snippet": "8K 안드로이드 TV 셋톱박스와 음성인식 리모컨을 비롯해 온디바이스 AI 에이전트, AI 기반 영상 편집·쇼츠 제작, 딥페이크 탐지, 미디어 특화 자막 생성·편집 등 다양한 미디어·AI 기술을 선보인다. KT는 IBC에 이어...",
@@ -3873,46 +3888,15 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "KT, '모두의AI' 별도 앱 개발…다음·무신사·직방으로 접점 확대",
-          "url": "https://www.ajunews.com/view/20260913084820635",
-          "snippet": "이음 인사이드는 국민이 이용하는 다양한 서비스에 AI를 내재화하고 이를 하나의 범용 AI 에이전트와 연결하는 개방형 AI 생태계다. 기존 AI 에이전트가 외부 서비스를 AI 안으로 끌어오는 단방향 방식이라면, KT의 AI...",
-          "source": "아주경제",
-          "sources": [
-            {
-              "name": "아주경제",
-              "url": "https://www.ajunews.com/view/20260913084820635",
-              "origin": "naver",
-              "title": "KT, '모두의AI' 별도 앱 개발…다음·무신사·직방으로 접점 확대"
-            },
-            {
-              "name": "뉴시스",
-              "url": "https://www.newsis.com/view/NISX20260911_0003786337",
-              "origin": "naver",
-              "title": "KT, 6000만 서비스 접점에 AI 심는다…다음·무신사·직방서 '모두의 AI'"
-            },
-            {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yZFk3OFJ4V3loUXE3bC1NY21lSzZKLUQxNFN5UzdZcXBDVWtkZFM3MjlOWDc0a3UtZ19yZjlwa0Z4aGVyTVYtcTB4UnJBMDZoRnRR?oc=5",
-              "origin": "google",
-              "title": "KT, 6000만 서비스 접점에 AI 심는다…다음·무신사·직방서 '모두의 AI'"
-            }
-          ],
-          "source_count": 3,
-          "published": "2026-09-13T10:40:00+09:00",
-          "ts": 1789263600.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
           "title": "“제조 AI 인재 키운다”…한동대·포스코DX, 피지컬 AI 산학협력 맞손",
           "url": "https://www.kbmaeil.com/article/20260913500106",
           "snippet": "한동대학교가 포스코DX와 손잡고 피지컬 AI와 로봇자동화 등 첨단 제조 AI 분야 인재 양성과 공동 기술 개발에 나선다. 한동대는 지난 11일 교내에서 포스코DX(대표이사 심민석)와 지역 산업 발전 및 AI 분야 공동 연구개발...",
-          "source": "kbmaeil.com",
+          "source": "경북매일",
           "sources": [
             {
-              "name": "kbmaeil.com",
-              "url": "https://www.kbmaeil.com/article/20260913500106",
-              "origin": "naver",
+              "name": "경북매일",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFWWFZcTRqSjBBS0FmSjlVZS02Q01CeW8wMWVoRWpocEJKTVhuLUp5MEN6dWlFZkpsejhYTGFNamR2VGFpaWRjZkhBc2FLbEtJdmUzT1lNNHVXZw?oc=5",
+              "origin": "google",
               "title": "“제조 AI 인재 키운다”…한동대·포스코DX, 피지컬 AI 산학협력 맞손"
             },
             {
@@ -3931,6 +3915,37 @@
           "source_count": 3,
           "published": "2026-09-13T10:16:00+09:00",
           "ts": 1789262160.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "“OLED 품질개선, 3주→2일”…LGD, ‘AX 스쿼드’ 전사 확대",
+          "url": "https://www.dt.co.kr/article/12083537?ref=naver",
+          "snippet": "과정에 AI를 도입해 품질개선에 걸리던 시간이 평균 3주에서 2일로 크게 단축하고, 수율도 개선했다. AX스쿼드를 통해 임직원들이 개발한 애플리케이션은 LG디스플레이의 사내 앱 마켓인 ‘Hi-D 에이전트 허브’에...",
+          "source": "디지털타임스",
+          "sources": [
+            {
+              "name": "디지털타임스",
+              "url": "https://www.dt.co.kr/article/12083537?ref=naver",
+              "origin": "naver",
+              "title": "“OLED 품질개선, 3주→2일”…LGD, ‘AX 스쿼드’ 전사 확대"
+            },
+            {
+              "name": "아시아경제",
+              "url": "https://view.asiae.co.kr/article/2026091310221520767",
+              "origin": "naver",
+              "title": "LG디스플레이, 'AX 스쿼드'로 전사 AI 전환 가속"
+            },
+            {
+              "name": "머니투데이",
+              "url": "https://www.mt.co.kr/industry/2026/09/13/2026091116495595909",
+              "origin": "naver",
+              "title": "LGD, AI 쓰는 직원서 만드는 직원으로…'AX 스쿼드' 확대"
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-09-13T10:00:00+09:00",
+          "ts": 1789261200.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -3978,13 +3993,13 @@
               "title": "앤트로픽 CEO \"AI 개발 경쟁 속도 늦추기 절실히 필요하다\""
             },
             {
-              "name": "디지털투데이",
+              "name": "digitaltoday.co.kr",
               "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBydXMyN3JRTDVhbTNEcE1NOHFDMGRvRmx0cXlFa0pGZ3c1NjJ2ejFRdGpxanFZOU53djJyOEgxbWk5NDAzNllrWjJuOUc0TEcxd0R2NVRBZUV4Rkc5MVotbEhTNGRQWnJSbXhXMEpUN0FQbVE?oc=5",
               "origin": "google",
               "title": "\"1년 뒤면 AI가 인터넷 장악\"…앤트로픽 CEO 속도조절론에 빅테크 화답"
             },
             {
-              "name": "중소기업신문",
+              "name": "smedaily.co.kr",
               "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WMWZaa0hMVHVhOVk3MlpxMG1YYUtzeURneG1wRUFYQUZ1aVJORkdNN2RCTG44dVpyRmMtMi1JLWsyV0xBYzl1RklXdVRzQlBhdk9DSFV0U3UwVzVSdGNpOUtDcW0zQlpsckN3WQ?oc=5",
               "origin": "google",
               "title": "앤트로픽 CEO \"AI 속도 늦춰라\" 촉구...업계 술렁"
@@ -4090,37 +4105,6 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "아모데이 “AI 에이전트 무리, 6~12개월 내 인터넷 전체 장악 가능” 경...",
-          "url": "https://www.wikitree.co.kr/articles/1159112",
-          "snippet": "다리오 아모데이 앤트로픽 최고경영자가 AI 에이전트 무리가 인터넷 전체를 장악할 수 있다고 경고했다. 그는 최근 공개한 블로그 글에서 “현재 AI 역량 발전 속도를 감안하면 6~12개월 안에 이런 무리가 지속적인 봇넷을...",
-          "source": "wikitree.co.kr",
-          "sources": [
-            {
-              "name": "wikitree.co.kr",
-              "url": "https://www.wikitree.co.kr/articles/1159112",
-              "origin": "naver",
-              "title": "아모데이 “AI 에이전트 무리, 6~12개월 내 인터넷 전체 장악 가능” 경..."
-            },
-            {
-              "name": "디지털포커스",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtOXViWnUzSzFvZDZnS0wwdXVOSEhfSTRIWGdLR29kWlIwY1VRMnJOcFl3QjU0eGJZaGFIcUtDVVpMYVZ3N0VyWjFQVTJqdXV4OHJhVHl5RFhBLUtnU2dtU3BCWXdZQjExNzVOSHBLODM?oc=5",
-              "origin": "google",
-              "title": "앤트로픽 CEO \"AI 에이전트 군집, 6~12개월내 인터넷 장악 가능\""
-            },
-            {
-              "name": "위키트리",
-              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHM0FfUF9RX21sWVdoOXRjY0JqWEVMMHFpR2hCSkdxbUhHWHdpRWhCZ3c5d3RuQzF5SUhMQ2hVVzFRVWM4V1JyTks0NUtDaG5KZ1pDRGJR?oc=5",
-              "origin": "google",
-              "title": "아모데이 “AI 에이전트 무리, 6~12개월 내 인터넷 전체 장악 가능” 경고"
-            }
-          ],
-          "source_count": 3,
-          "published": "2026-09-13T07:12:00+09:00",
-          "ts": 1789251120.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
           "title": "AI 활용곡이 멜론 톱100…조선힙합 \"저비용으로 세대 공감 가능\"",
           "url": "https://www.yna.co.kr/view/AKR20260912026000005?input=1195m",
           "snippet": "조선힙합은 주 3회가량 신곡을 내고, 생성형 영상 AI '시댄스 2.5'를 활용해 직접 뮤직비디오도 제작한다. 그는 \"'마음의 숲'은 100% 프롬프트 입력 형식으로 작곡을 한 노래이지만, 지금 수노 활용 비중은 30∼40% 정도\"라며...",
@@ -4133,21 +4117,52 @@
               "title": "AI 활용곡이 멜론 톱100…조선힙합 \"저비용으로 세대 공감 가능\""
             },
             {
-              "name": "진일보",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OeW9LRFFBRTZwclMyaDFHc3RjN1U3X2ZnR0pNczg3QUtfWlNsTjJvY05SQWVzcUhwaVlfNGE0MmVtUk0zLVFCVkN4YU1vQlpOaG82YWY2NkJXTkp4aV9pMlFnMHkyRmN0eFNpWDBySQ?oc=5",
-              "origin": "google",
-              "title": "AI로 만든 노래 멜론 톱100 진입…‘조선힙합’ 새 가능성 열었다"
-            },
-            {
               "name": "매일경제 마켓",
               "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xVnVVMHlXQ09WTUFMRzJlbkIzTXNROWZMZlUxME1DQnE2RkNNaVhJRUZpajZBeUZqaTdmWkh0ZWIwUU9yRnBjQ2hIR2JkU3RpaVE?oc=5",
               "origin": "google",
               "title": "AI 활용곡이 멜론 톱100…조선힙합 \"저비용으로 세대 공감 가능\""
+            },
+            {
+              "name": "진일보",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OeW9LRFFBRTZwclMyaDFHc3RjN1U3X2ZnR0pNczg3QUtfWlNsTjJvY05SQWVzcUhwaVlfNGE0MmVtUk0zLVFCVkN4YU1vQlpOaG82YWY2NkJXTkp4aV9pMlFnMHkyRmN0eFNpWDBySQ?oc=5",
+              "origin": "google",
+              "title": "AI로 만든 노래 멜론 톱100 진입…‘조선힙합’ 새 가능성 열었다"
             }
           ],
           "source_count": 3,
           "published": "2026-09-13T07:00:00+09:00",
           "ts": 1789250400.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "대구시, AI·로봇 산업혁신 포럼 개최",
+          "url": "https://biz.heraldcorp.com/article/10871387?ref=naver",
+          "snippet": "대구시는 지난 11일 대구디지털혁신진흥원 태양홀에서 ‘대한민국 AI·로봇-피지컬AI 산업혁신 포럼’을 열었다. 이번 포럼은 정부의 ‘5극 3특’ 체제에 발맞춰 대구, 전북, 경남 3개 지역이 협력해 인공지능 전환(AX)...",
+          "source": "헤럴드경제",
+          "sources": [
+            {
+              "name": "헤럴드경제",
+              "url": "https://biz.heraldcorp.com/article/10871387?ref=naver",
+              "origin": "naver",
+              "title": "대구시, AI·로봇 산업혁신 포럼 개최"
+            },
+            {
+              "name": "프레시안",
+              "url": "https://www.pressian.com/pages/articles/2026091211580266712?utm_source=naver&utm_medium=search",
+              "origin": "naver",
+              "title": "‘대한민국 AI·로봇-피지컬AI 산업혁신 포럼’ 대구서 개최"
+            },
+            {
+              "name": "국제뉴스",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1d1NnbVVKcTJ4ZVZXT0l0Z2FlNUZZOXUyd29DWDFxTWFOel9aS3FTcHhoTTVyNEpvZGRsNzFpVGdsWExxOWJMMDdPLURXMkw2WGg3SEdiaUpPQjItbk1VV1FKeHJycTBpdVYxQjBR?oc=5",
+              "origin": "google",
+              "title": "추경호 대구광역시장, 초광역 협력 'AI·로봇-피지컬AI 산업혁신 포럼' 개최"
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-09-13T06:55:00+09:00",
+          "ts": 1789250100.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -4214,6 +4229,37 @@
           "group_label": "AI · 생성형AI"
         },
         {
+          "title": "허준이 등 필즈상 25인, AI 난제 풀이 경쟁에 경고",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNUJqaVpMU1NuU25RZXVOQjc0Z3hhdVJTMkd1Slk5N1FtVUl1SDZ6UHVEWWdwMmhCVllrVDl4U2NJNkh0bWFXRXVaQ1g2OFZMTkh6Nl9Jb3M4NzJsTXJlMVgxMUtWTldLeDRRU2plbl9uaVBVaXQyNnJQSWxXbC15c1BXSXI1Nkc5bEZyalFJM3ZpZ2tZVnfSAWZBVV95cUxObENxeXRZMFdVS1ZoWHB5NVpnN3pYMjFkWmg2QmJzQ0lHVThTQjA2NWwwYXFFX1hCemZnZ1UzY3dLVU5EcElXMHZWcnBRbmFXNWVOaWdZa253c3V2SVl2UW9BbVBpNWc?oc=5",
+          "snippet": "",
+          "source": "SBS",
+          "sources": [
+            {
+              "name": "SBS",
+              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNUJqaVpMU1NuU25RZXVOQjc0Z3hhdVJTMkd1Slk5N1FtVUl1SDZ6UHVEWWdwMmhCVllrVDl4U2NJNkh0bWFXRXVaQ1g2OFZMTkh6Nl9Jb3M4NzJsTXJlMVgxMUtWTldLeDRRU2plbl9uaVBVaXQyNnJQSWxXbC15c1BXSXI1Nkc5bEZyalFJM3ZpZ2tZVnfSAWZBVV95cUxObENxeXRZMFdVS1ZoWHB5NVpnN3pYMjFkWmg2QmJzQ0lHVThTQjA2NWwwYXFFX1hCemZnZ1UzY3dLVU5EcElXMHZWcnBRbmFXNWVOaWdZa253c3V2SVl2UW9BbVBpNWc?oc=5",
+              "origin": "google",
+              "title": "허준이 등 필즈상 25인, AI 난제 풀이 경쟁에 경고"
+            },
+            {
+              "name": "연합뉴스TV",
+              "url": "http://www.yonhapnewstv.co.kr/news/AKR20260912154033BBZ",
+              "origin": "naver",
+              "title": "\"AI 수학풀이 경쟁, 인류 지적활동 위협\"…필즈상 25인 경고"
+            },
+            {
+              "name": "디지털타임스",
+              "url": "https://www.dt.co.kr/article/12083495?ref=naver",
+              "origin": "naver",
+              "title": "필즈상 25인, 오픈AI ‘밀레니엄 난제 해결’에 경고…“인류 지적 활동..."
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-09-12T19:12:00+09:00",
+          "ts": 1789207920.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
           "title": "컴투스홀딩스 하이브 액실, 오픈AI 게임 빌더스 서울서 주목",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zUm5Gd19rWENoT2RMejh3eTlFWFJTdFFkcHY2RzRlSGFDd3hwcWlmS1daekhhcXhwNERqbXIwXzZ4X1FRQ1RzbnRhSmNqejdpM1hwZWxoZlRWM0ZEc1RPeVlONFUwdkZxekJEMDJ2NFpIZ9IBckFVX3lxTE0zUm5Gd19rWENoT2RMejh3eTlFWFJTdFFkcHY2RzRlSGFDd3hwcWlmS1daekhhcXhwNERqbXIwXzZ4X1FRQ1RzbnRhSmNqejdpM1hwZWxoZlRWM0ZEc1RPeVlONFUwdkZxekJEMDJ2NFpIZw?oc=5",
           "snippet": "",
@@ -4241,6 +4287,81 @@
           "source_count": 3,
           "published": "2026-09-12T14:30:00+09:00",
           "ts": 1789191000.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "쓰던 앱에 AI 버튼 ‘쏙’…KT, 6000만 접점 공략",
+          "url": "https://www.mk.co.kr/article/12151328",
+          "snippet": "기존 앱과 웹에 같은 AI 에이전트를 탑재하는 ‘이음 인사이드’를 통해 6000만 규모의 서비스 접점을 AI 이용 창구로 바꾼다는 구상이다. 지난 11일 KT는 과학기술정보통신부가 추진하는 ‘전 국민 AI 서비스 보편적 활용...",
+          "source": "매일경제",
+          "sources": [
+            {
+              "name": "매일경제",
+              "url": "https://www.mk.co.kr/article/12151328",
+              "origin": "naver",
+              "title": "쓰던 앱에 AI 버튼 ‘쏙’…KT, 6000만 접점 공략"
+            },
+            {
+              "name": "머니투데이",
+              "url": "https://www.mt.co.kr/tech/2026/09/13/2026091217471438140",
+              "origin": "naver",
+              "title": "\"쓰던 서비스서 버튼 하나로 AI\"…KT '이음 인사이드' 승부수"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-09-13T14:00:00+09:00",
+          "ts": 1789275600.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "경복대, 남양주시 광릉테크노밸리 ‘AI Camp 1호점’ 운영",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tOHQ4UTd1Xzl3Z0pOUkRWNC1HSjdlaGpsN2pFMGlVZmRQMDhmR19zN0pmREN0RGNXOWtUZU1pTE9tZ1p1U1E3UnJlY0s2UHQ3OFpuUHVHQTNHMTQ?oc=5",
+          "snippet": "",
+          "source": "ekn.kr",
+          "sources": [
+            {
+              "name": "ekn.kr",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tOHQ4UTd1Xzl3Z0pOUkRWNC1HSjdlaGpsN2pFMGlVZmRQMDhmR19zN0pmREN0RGNXOWtUZU1pTE9tZ1p1U1E3UnJlY0s2UHQ3OFpuUHVHQTNHMTQ?oc=5",
+              "origin": "google",
+              "title": "경복대, 남양주시 광릉테크노밸리 ‘AI Camp 1호점’ 운영"
+            },
+            {
+              "name": "베리타스알파",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yRDkxVDBDUndoUDJzRUtaNk1TVFdlS05CWXYwaTk5NzEyd0R1aHNmTXN3NHE4akh5NVFPX0V0alkxY1lLSDFJMjFXV09uSDRZQm04ZENWVjZsdHdrZWRsV21KdDMtSDdhZXhkWA?oc=5",
+              "origin": "google",
+              "title": "경복대 산업단지로 직접 찾아가는 AI 교육 첫발 \"광릉테크노밸리서 AI Camp 1호점 열다\""
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-09-13T13:42:41+09:00",
+          "ts": 1789274561.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "반도체가 번 돈, AI에 건다...2027년 예산안에서 읽은 AI 승부수",
+          "url": "https://www.newsverse.kr/news/articleView.html?idxno=11428",
+          "snippet": "반도체(3.4조 원), 피지컬 AI(3.1조 원), 전력·산단 인프라(2.1조 원), AI데이터센터(0.5조 원)에 독자 모델 개발과 대국민 교육을 포괄하는 '모두의 AI'(12.2조 원)가 유기적으로 엮여 있다. AI를 개별 소프트웨어 산업이 아닌...",
+          "source": "newsverse.kr",
+          "sources": [
+            {
+              "name": "newsverse.kr",
+              "url": "https://www.newsverse.kr/news/articleView.html?idxno=11428",
+              "origin": "naver",
+              "title": "반도체가 번 돈, AI에 건다...2027년 예산안에서 읽은 AI 승부수"
+            },
+            {
+              "name": "톱스타뉴스",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zWm5WOVJDQ2FLWWx4Nk1JcW1vbjduX3NPbEZfOHZHcDl6MTZYcWF6cFJvbWJDU3FpaUx1MHFRVjFfUFp4SlBHUjd6VFlXVjA2emJUV2FrME8zR0F5TzF5X2tzZk13QzQ2Sm05VEJGYXNHdw?oc=5",
+              "origin": "google",
+              "title": "[산업분석] 메모리 반도체 삼성전자·SK하이닉스, AI에 2027 공급부족"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-09-13T13:38:00+09:00",
+          "ts": 1789274280.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -4295,27 +4416,27 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "'모두의 AI' 보안·속도 잡는다…KT, 민관 TF·자체 GPU 구축",
-          "url": "https://www.fnnews.com/news/202609111409513994",
-          "snippet": "이음 인사이드는 각 기업의 서비스에 AI를 내재화하고 하나의 범용 AI 에이전트로 연결하는 개방형 생태계다. KT는 '모두의 AI' 앱을 별도로 구축하면서 다음과 컨소시엄 참여 기업의 서비스, 지니TV 등에도 이음...",
-          "source": "파이낸셜뉴스",
+          "title": "인천교육청, AI 학습 포털 ‘AIEP’ 본격 가동",
+          "url": "https://www.kgnews.co.kr/news/article.html?no=911337",
+          "snippet": "또 읽걷쓰 플랫폼, 다락방, 인천무크(i-MOOC) 등 교육청의 대표 교육 사이트를 연계해 인천의 특색 있는 교육 콘텐츠와 서비스를 편리하게 이용할 수 있게 했다. 특히 교원에게는 생성형 AI를 비롯한 다양한 유료 에듀테크...",
+          "source": "경기신문",
           "sources": [
             {
-              "name": "파이낸셜뉴스",
-              "url": "https://www.fnnews.com/news/202609111409513994",
+              "name": "경기신문",
+              "url": "https://www.kgnews.co.kr/news/article.html?no=911337",
               "origin": "naver",
-              "title": "'모두의 AI' 보안·속도 잡는다…KT, 민관 TF·자체 GPU 구축"
+              "title": "인천교육청, AI 학습 포털 ‘AIEP’ 본격 가동"
             },
             {
-              "name": "데일리안",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yNWtKb3RmaTlZQkpZVEFVVkNCQzZ3MENTOFpSRU5DcGJLY3hqVzF5UVJhT1VkTEp2dnh3LWVkRkdRc3AxTnA0MUstQTZXOUZRcjBV?oc=5",
-              "origin": "google",
-              "title": "'개인정보 유출' 홍역 치른 KT…정부 참여 TF로 '모두의 AI' 보안 배수진"
+              "name": "아이뉴스24",
+              "url": "http://www.inews24.com/view/2004847",
+              "origin": "naver",
+              "title": "네이버·구글·MS 다 품었다… 인천시교육청, AI 학습 포털 'AIEP' 가동"
             }
           ],
           "source_count": 2,
-          "published": "2026-09-13T13:08:00+09:00",
-          "ts": 1789272480.0,
+          "published": "2026-09-13T12:38:00+09:00",
+          "ts": 1789270680.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -4332,7 +4453,7 @@
               "title": "삼성전자, AI로 여는 미래…초등생부터 청년까지 역량 키운다"
             },
             {
-              "name": "ngonews.kr",
+              "name": "한국NGO신문",
               "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qOXBzcmlIc1I5SGp4VFVmX183QnpIVEJjT0s5dThsMmhHd2xsSUFLVHlkNDVyYlQtY2lIWUZ6QWxPb1FqWldHWFlwUFZrQzJsN1BwcFFZb09rZENFcTJUbGJZZkNJQ0ZM?oc=5",
               "origin": "google",
               "title": "“AI, 잘 쓰는 법이 미래 경쟁력”…고산청소년센터, 청소년 AX 역량 키운다"
@@ -4520,6 +4641,31 @@
           "group_label": "AI · 생성형AI"
         },
         {
+          "title": "[이슈하이킥] 현대차그룹, 데이터 플라이휠로 자율주행 기술 고도화",
+          "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4106224",
+          "snippet": "포티투닷은 이를 자율주행을 넘어 로보틱스까지 확장 가능한 '피지컬 AI'의 핵심으로 보고 있습니다. [정영석] 황 기자가 직접 성남 판교에 있는 포티투닷 사옥의 '비히클 워크샵' 개발 현장도 둘러보고 오셨죠. 실제 현장...",
+          "source": "news.bbsi.co.kr",
+          "sources": [
+            {
+              "name": "news.bbsi.co.kr",
+              "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4106224",
+              "origin": "naver",
+              "title": "[이슈하이킥] 현대차그룹, 데이터 플라이휠로 자율주행 기술 고도화"
+            },
+            {
+              "name": "서울경제",
+              "url": "https://www.sedaily.com/article/20090165?ref=naver",
+              "origin": "naver",
+              "title": "현대차그룹, ‘데이터 플라이휠’로 자율주행 가속…2029년 자체 레벨 2..."
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-09-13T11:10:00+09:00",
+          "ts": 1789265400.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
           "title": "신한카드, ‘ChatGPT for Kakao’서 카드 추천…대화로 혜택 조회·발급 ...",
           "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065578621845471",
           "snippet": "카카오는 지난 3월 카카오툴즈를 확대 개편해 올리브영·무신사·현대백화점·삼쩜삼·마이리얼트립·사람인 등 외부 파트너 서비스를 추가하며 AI 에이전트 생태계를 넓히고 있다. 신한카드 관계자는 “금융회사 앱이나...",
@@ -4570,27 +4716,27 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "LG디스플레이, 실무자 주도 'AX 스쿼드'로 AI 전환 가속화",
-          "url": "https://www.ajunews.com/view/20260913101127731",
-          "snippet": "현장 실무자-AI 전문가 협업 체계 구축 아주경제=김나윤 기자 kimnayoon@ajunews.com LG디스플레이가 전사적인... 개발된 애플리케이션은 사내 임직원이 자체 개발한 사내 앱 마켓 'HI-D 에이전트 허브'를 통해 공유되며...",
-          "source": "아주경제",
+          "title": "CCTV를 '관찰자'로 바꾼 AI…플레이태그, 교실 넘어 산업현장 노린다",
+          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=317691",
+          "snippet": "장기 에이전트 모델(LAM·Long-term Agentic Model)과 'BehaviorAPI'를 공통 기술 기반으로 소개하고 있다. 프레임 단위의 객체 탐지→클립 단위 장면 이해→수개월·수년에 걸친 사람의 행동 이해로 영상 AI의 분석 단위를...",
+          "source": "wolyo.co.kr",
           "sources": [
             {
-              "name": "아주경제",
-              "url": "https://www.ajunews.com/view/20260913101127731",
+              "name": "wolyo.co.kr",
+              "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=317691",
               "origin": "naver",
-              "title": "LG디스플레이, 실무자 주도 'AX 스쿼드'로 AI 전환 가속화"
+              "title": "CCTV를 '관찰자'로 바꾼 AI…플레이태그, 교실 넘어 산업현장 노린다"
             },
             {
-              "name": "아시아경제",
-              "url": "https://view.asiae.co.kr/article/2026091310221520767",
-              "origin": "naver",
-              "title": "LG디스플레이, 'AX 스쿼드'로 전사 AI 전환 가속"
+              "name": "신화망",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85SlV5WFN4cXMyZmFndk1MaDZMQ3BYSnNEakw1ZmZyR3hnZm1zT0NXckYteFZjTDhvM3NtV1pua21hWndoMVFpX256bDZNZkdUSjJKUHZQQ3B5U0twekh3LUUzSW41a01OYXptcVNRTnlNZDFZWHc?oc=5",
+              "origin": "google",
+              "title": "[차이나 트렌드] 장비 연결 넘어 공장 '브레인'으로...'AI+산업 인터넷'이 바꾼 中 제조업 지도-Xinhua"
             }
           ],
           "source_count": 2,
-          "published": "2026-09-13T10:28:00+09:00",
-          "ts": 1789262880.0,
+          "published": "2026-09-13T10:40:00+09:00",
+          "ts": 1789263600.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -4616,31 +4762,6 @@
           "source_count": 2,
           "published": "2026-09-13T10:10:00+09:00",
           "ts": 1789261800.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "“OLED 품질개선, 3주→2일”…LGD, ‘AX 스쿼드’ 전사 확대",
-          "url": "https://www.dt.co.kr/article/12083537?ref=naver",
-          "snippet": "과정에 AI를 도입해 품질개선에 걸리던 시간이 평균 3주에서 2일로 크게 단축하고, 수율도 개선했다. AX스쿼드를 통해 임직원들이 개발한 애플리케이션은 LG디스플레이의 사내 앱 마켓인 ‘Hi-D 에이전트 허브’에...",
-          "source": "디지털타임스",
-          "sources": [
-            {
-              "name": "디지털타임스",
-              "url": "https://www.dt.co.kr/article/12083537?ref=naver",
-              "origin": "naver",
-              "title": "“OLED 품질개선, 3주→2일”…LGD, ‘AX 스쿼드’ 전사 확대"
-            },
-            {
-              "name": "머니투데이",
-              "url": "https://www.mt.co.kr/industry/2026/09/13/2026091116495595909",
-              "origin": "naver",
-              "title": "LGD, AI 쓰는 직원서 만드는 직원으로…'AX 스쿼드' 확대"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-13T10:00:00+09:00",
-          "ts": 1789261200.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -4758,7 +4879,7 @@
             },
             {
               "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Ya0VfckJIWlYtQ2NIRmNZUHJlWUhUT1NWbUE4d2dfNnRGUTZGNzhYSU5nTlVTRXBHSnF1eUNGMUNjbnM1aDk0RGh6cDk2NXNxb3lIQ2JJWWF4bnIySzJUWg?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4ydktCNGxubC1MUWlrUW1GZkx4ZU9VVTBfWEk4aE9BRjVkaUZyS1dXakZRVzg2UDdkMS02cmYzbWtSc3BWMGhoZVIwZ2R4ZmlaVl90SDJzZHZGdlAyNFlKZg?oc=5",
               "origin": "google",
               "title": "KT \"'모두의 AI'로 검색·쇼핑·공공 연결…국산 AI 5종 최적 활용\""
             }
@@ -4770,27 +4891,27 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "쇼핑·부동산·공공까지 AI로 '이음'…KT '모두의 AI' 청사진 공개",
-          "url": "https://www.news1.kr/it-science/cc-newmedia/6287972",
+          "title": "KT 컨소시엄, ‘모두의 AI’ 청사진 공개…6천만 서비스 접점 AI로 잇는다",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ndDNnc19LYWR4WEZOWUNiWG9nRWRscU91UVhoVy1GLWhMdXVMbXFFZ3JsRnljNlJkV1k3VXRfZkJja2Y4eDVySEY5T2xaUmgzbzE1SlNWcVVtdXAzcVpYekhOcWhqc0lPU0kzNkd3?oc=5",
           "snippet": "",
-          "source": "뉴스1",
+          "source": "미디어파인",
           "sources": [
             {
-              "name": "뉴스1",
-              "url": "https://www.news1.kr/it-science/cc-newmedia/6287972",
-              "origin": "naver",
-              "title": "쇼핑·부동산·공공까지 AI로 '이음'…KT '모두의 AI' 청사진 공개"
-            },
-            {
-              "name": "mediafine.co.kr",
+              "name": "미디어파인",
               "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ndDNnc19LYWR4WEZOWUNiWG9nRWRscU91UVhoVy1GLWhMdXVMbXFFZ3JsRnljNlJkV1k3VXRfZkJja2Y4eDVySEY5T2xaUmgzbzE1SlNWcVVtdXAzcVpYekhOcWhqc0lPU0kzNkd3?oc=5",
               "origin": "google",
               "title": "KT 컨소시엄, ‘모두의 AI’ 청사진 공개…6천만 서비스 접점 AI로 잇는다"
+            },
+            {
+              "name": "연합뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpQWdGY2p2U3FXTDNrRy1OZ2ZWVFJTV0ZoeXpDTUhBQTBlMWFsMHhZYUNuUk05UmdGQ2MyZ1g0ZWlYazNvWXRPVWVWZ0IzOGxSNnpJMFVFQjNGa0HSAWBBVV95cUxOdnUyRjF3OVpXRGJWanUxOHpJeEZaTy1Xa0pfRzZSNzZFNGo4WWhESktVSGtGNmE2X2NHVlJxa21MY2xtZ2dVMUFlR3VZM0xFeUV0Yk9ndzJMUFhlNDFzWEc?oc=5",
+              "origin": "google",
+              "title": "KT '모두의 AI' 승부수…6천만 서비스에 AI 심는다"
             }
           ],
           "source_count": 2,
-          "published": "2026-09-13T09:26:00+09:00",
-          "ts": 1789259160.0,
+          "published": "2026-09-13T09:25:56+09:00",
+          "ts": 1789259156.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -4870,22 +4991,22 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "현대차그룹, 자율주행 바퀴 돌린다…테슬라 따라잡을 수 있을까",
-          "url": "https://www.khan.co.kr/article/202609130900041",
-          "snippet": "박민우 포티투닷 사장은 “자율주행은 피지컬 AI를 대표하는 기술이자 자동차 산업이 AI 산업으로 전환되는 과정의 중심에 있다”며 “현대차그룹은 충분히 검증된 기술만을 차량에 적용한다는 원칙에 따라 개발...",
-          "source": "경향신문",
+          "title": "'이미지 아닌 말로 학습' … 현대차 2029년 테슬라 뛰어넘는 차세대 자율...",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/09/11/2026091100168.html",
+          "snippet": "이희석 포티투닷 트리온그룹 리더는 “언어판단형 AI모델은 AI가 단순히 주행하는 수준을 넘어 상황을 이해하고 추론하며 행동하는 피지컬 AI 구현의 핵심 기술”이라며 “자율주행을 시작으로 로보틱스 등 다양한...",
+          "source": "biz.newdaily.co.kr",
           "sources": [
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202609130900041",
-              "origin": "naver",
-              "title": "현대차그룹, 자율주행 바퀴 돌린다…테슬라 따라잡을 수 있을까"
-            },
             {
               "name": "biz.newdaily.co.kr",
               "url": "https://biz.newdaily.co.kr/site/data/html/2026/09/11/2026091100168.html",
               "origin": "naver",
               "title": "'이미지 아닌 말로 학습' … 현대차 2029년 테슬라 뛰어넘는 차세대 자율..."
+            },
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202609130900041",
+              "origin": "naver",
+              "title": "현대차그룹, 자율주행 바퀴 돌린다…테슬라 따라잡을 수 있을까"
             }
           ],
           "source_count": 2,
@@ -4920,31 +5041,6 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "공장부터 일상까지 AI 적용, 울산포럼서 해법 찾다",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByem5lcjc5N2xnY091cHJNTVg2SlNQVzlKZElWRkN1RkEyU2tLOXl0Ujh4SEs0WG1fTVNodEZqSzhPZEVvMThnVWdLeWtuMTViNWFn?oc=5",
-          "snippet": "",
-          "source": "네이트",
-          "sources": [
-            {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByem5lcjc5N2xnY091cHJNTVg2SlNQVzlKZElWRkN1RkEyU2tLOXl0Ujh4SEs0WG1fTVNodEZqSzhPZEVvMThnVWdLeWtuMTViNWFn?oc=5",
-              "origin": "google",
-              "title": "공장부터 일상까지 AI 적용, 울산포럼서 해법 찾다"
-            },
-            {
-              "name": "동행미디어 시대",
-              "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OWjVBRWp0UXRHTGV3akRYNm9wMkR3SHFJcmhYWTIwa3BzMWZFdHdkUXgzOUdETnpNdzF6NjloSzRuY0JTMVEwZkEzSkxHRFdtSjI0VXFxbUU4T0ZMeENQZ0xB?oc=5",
-              "origin": "google",
-              "title": "공장부터 일상까지 AI 적용, 울산포럼서 해법 찾다"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-13T08:01:00+09:00",
-          "ts": 1789254060.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
           "title": "'카이스트 연구원' 허성범, 엘리트 집안이었네…누나들 의사·국세청 근...",
           "url": "https://www.xportsnews.com/article/2194989",
           "snippet": "카이스트에서 AI 연구원으로 일하는 그는 대중의 관심을 받게 되면서, 크리에이터 일과 함께 방송 일도 병행하고 있다. 특히 한국과학영재학교 출신인 허성범은 당시 학생들 사이에서 상위 1% 평가를 받았으며, IQ 측정...",
@@ -4961,6 +5057,31 @@
               "url": "https://www.mk.co.kr/article/12151188",
               "origin": "naver",
               "title": "“누나 2명… 의사+국세청 근무” 허성범, 남다른 집안 DNA 공개 (‘전참..."
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-09-13T08:01:00+09:00",
+          "ts": 1789254060.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "공장부터 일상까지 AI 적용, 울산포럼서 해법 찾다",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByem5lcjc5N2xnY091cHJNTVg2SlNQVzlKZElWRkN1RkEyU2tLOXl0Ujh4SEs0WG1fTVNodEZqSzhPZEVvMThnVWdLeWtuMTViNWFn?oc=5",
+          "snippet": "",
+          "source": "네이트",
+          "sources": [
+            {
+              "name": "네이트",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByem5lcjc5N2xnY091cHJNTVg2SlNQVzlKZElWRkN1RkEyU2tLOXl0Ujh4SEs0WG1fTVNodEZqSzhPZEVvMThnVWdLeWtuMTViNWFn?oc=5",
+              "origin": "google",
+              "title": "공장부터 일상까지 AI 적용, 울산포럼서 해법 찾다"
+            },
+            {
+              "name": "동행미디어 시대",
+              "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OWjVBRWp0UXRHTGV3akRYNm9wMkR3SHFJcmhYWTIwa3BzMWZFdHdkUXgzOUdETnpNdzF6NjloSzRuY0JTMVEwZkEzSkxHRFdtSjI0VXFxbUU4T0ZMeENQZ0xB?oc=5",
+              "origin": "google",
+              "title": "공장부터 일상까지 AI 적용, 울산포럼서 해법 찾다"
             }
           ],
           "source_count": 2,
@@ -5020,27 +5141,27 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "설계·공정부터 팹까지…삼성·SK, 반도체 생태계 ‘AI 대전환’",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XTkZITENMYk1rRW5GOS0tT3pvT1lWLVFfR0o3cGkxdDB1dGUwT25aY2xVbnpmNlFJSVpRYVNFLW1wMUFCZ21rNTlXUFI0SUhSbmg0SUw3NVVHVUR0STVyMlJLcVhBOTRKM3Q3d0FiT2YwejlS0gF0QVVfeXFMT1dORkhMQ0xiTWtFbkY5LS1Pem9PWVYtUV9HSjdwaTF0MHV0ZTBPblpjbFVuemY2UUlJWlFhU0UtbXAxQUJnbWs1OVdQUjRJSFJuaDRJTDc1VUdVRHRJNXIyUktxWEE5NEozdDd3QWJPZjB6OVI?oc=5",
-          "snippet": "",
-          "source": "IT조선",
+          "title": "아모데이 “AI 에이전트 무리, 6~12개월 내 인터넷 전체 장악 가능” 경...",
+          "url": "https://www.wikitree.co.kr/articles/1159112",
+          "snippet": "다리오 아모데이 앤트로픽 최고경영자가 AI 에이전트 무리가 인터넷 전체를 장악할 수 있다고 경고했다. 그는 최근 공개한 블로그 글에서 “현재 AI 역량 발전 속도를 감안하면 6~12개월 안에 이런 무리가 지속적인 봇넷을...",
+          "source": "wikitree.co.kr",
           "sources": [
             {
-              "name": "IT조선",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XTkZITENMYk1rRW5GOS0tT3pvT1lWLVFfR0o3cGkxdDB1dGUwT25aY2xVbnpmNlFJSVpRYVNFLW1wMUFCZ21rNTlXUFI0SUhSbmg0SUw3NVVHVUR0STVyMlJLcVhBOTRKM3Q3d0FiT2YwejlS0gF0QVVfeXFMT1dORkhMQ0xiTWtFbkY5LS1Pem9PWVYtUV9HSjdwaTF0MHV0ZTBPblpjbFVuemY2UUlJWlFhU0UtbXAxQUJnbWs1OVdQUjRJSFJuaDRJTDc1VUdVRHRJNXIyUktxWEE5NEozdDd3QWJPZjB6OVI?oc=5",
-              "origin": "google",
-              "title": "설계·공정부터 팹까지…삼성·SK, 반도체 생태계 ‘AI 대전환’"
+              "name": "wikitree.co.kr",
+              "url": "https://www.wikitree.co.kr/articles/1159112",
+              "origin": "naver",
+              "title": "아모데이 “AI 에이전트 무리, 6~12개월 내 인터넷 전체 장악 가능” 경..."
             },
             {
-              "name": "톱스타뉴스",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zWm5WOVJDQ2FLWWx4Nk1JcW1vbjduX3NPbEZfOHZHcDl6MTZYcWF6cFJvbWJDU3FpaUx1MHFRVjFfUFp4SlBHUjd6VFlXVjA2emJUV2FrME8zR0F5TzF5X2tzZk13QzQ2Sm05VEJGYXNHdw?oc=5",
+              "name": "디지털포커스",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtOXViWnUzSzFvZDZnS0wwdXVOSEhfSTRIWGdLR29kWlIwY1VRMnJOcFl3QjU0eGJZaGFIcUtDVVpMYVZ3N0VyWjFQVTJqdXV4OHJhVHl5RFhBLUtnU2dtU3BCWXdZQjExNzVOSHBLODM?oc=5",
               "origin": "google",
-              "title": "[산업분석] 메모리 반도체 삼성전자·SK하이닉스, AI에 2027 공급부족"
+              "title": "앤트로픽 CEO \"AI 에이전트 군집, 6~12개월내 인터넷 장악 가능\""
             }
           ],
           "source_count": 2,
-          "published": "2026-09-13T07:01:54+09:00",
-          "ts": 1789250514.0,
+          "published": "2026-09-13T07:12:00+09:00",
+          "ts": 1789251120.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -5266,6 +5387,31 @@
           "source_count": 2,
           "published": "2026-09-12T16:16:31+09:00",
           "ts": 1789197391.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "\"AI 수학풀이, 인류 지적활동 위협\"...최고권위 필즈상 25인 경고",
+          "url": "https://www.ytn.co.kr/_ln/0104_202609121508430590",
+          "snippet": "",
+          "source": "YTN",
+          "sources": [
+            {
+              "name": "YTN",
+              "url": "https://www.ytn.co.kr/_ln/0104_202609121508430590",
+              "origin": "naver",
+              "title": "\"AI 수학풀이, 인류 지적활동 위협\"...최고권위 필즈상 25인 경고"
+            },
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260912030300009?input=1195m",
+              "origin": "naver",
+              "title": "\"AI 수학풀이, 인류 지적활동 위협\"…최고권위 필즈상 25인 경고"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-09-12T15:42:00+09:00",
+          "ts": 1789195320.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -5520,6 +5666,82 @@
           "group_label": "AI · 생성형AI"
         },
         {
+          "title": "\"경남 교육정책, 학교 현장 소식 30초에 담아라\"",
+          "url": "https://www.newsgn.com/news/articleView.html?idxno=573136",
+          "snippet": "이번 공모전은 학생과 교직원, 학부모 등 교육공동체가 숏폼 콘텐츠 제작에 직접 참여함으로써 경남교육... 생성형 인공지능(AI)은 참가자의 창작을 돕는 범위에서 활용할 수 있다. 다만 인공지능(AI)만으로 제작한...",
+          "source": "newsgn.com",
+          "sources": [
+            {
+              "name": "newsgn.com",
+              "url": "https://www.newsgn.com/news/articleView.html?idxno=573136",
+              "origin": "naver",
+              "title": "\"경남 교육정책, 학교 현장 소식 30초에 담아라\""
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T14:06:00+09:00",
+          "ts": 1789275960.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "한국마사회 ‘홈스트레치’, 서울인디애니페스트 공식 개막작 선정",
+          "url": "https://www.segye.com/newsView/20260913506978?OutUrl=naver",
+          "snippet": "서로 다른 분야에서 제작된 작품을 한자리에 묶어 광고와 게임, 음악, AI 등으로 확장되는 국내... 감성적으로 소통할 수 있는 수준 높은 영상 콘텐츠를 선보이고 문화예술 분야와의 상생 협력도 이어갈 것”이라고 말했다.",
+          "source": "세계일보",
+          "sources": [
+            {
+              "name": "세계일보",
+              "url": "https://www.segye.com/newsView/20260913506978?OutUrl=naver",
+              "origin": "naver",
+              "title": "한국마사회 ‘홈스트레치’, 서울인디애니페스트 공식 개막작 선정"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T14:00:00+09:00",
+          "ts": 1789275600.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "[뉴스줌인] 통제 이탈·자기개선까지…AI 위협 고도화에 빅테크도 '브레...",
+          "url": "https://www.etnews.com/20260913000069",
+          "snippet": "생성형 AI 초기만 해도 환각이나 편향, 딥페이크와 같은 위험이 주를 이뤘다면, AI 에이전트가 확산하면서 위험의 범위가 실제 행동으로 이어지고 있기 때문이다. AI의 '재귀적 자기개선' 능력으로 인간이 AI를 이해하고...",
+          "source": "전자신문",
+          "sources": [
+            {
+              "name": "전자신문",
+              "url": "https://www.etnews.com/20260913000069",
+              "origin": "naver",
+              "title": "[뉴스줌인] 통제 이탈·자기개선까지…AI 위협 고도화에 빅테크도 '브레..."
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T13:55:00+09:00",
+          "ts": 1789275300.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "韓 혁신기업 11곳, 中서 AI·바이오 기술사업화 추진",
+          "url": "http://www.yonhapnewstv.co.kr/news/AKR20260913133919yTk",
+          "snippet": "KIC중국은 피지컬 AI와 첨단소재, 바이오, 신에너지 등 4개 분야를 중심으로 중국 현지 기술사업화를 확대할 계획이라고 밝혔습니다. 중국 측도 장장 첨단기술개발구와 이노매치(InnoMatch) 등 현지 플랫폼을 활용해 한국...",
+          "source": "연합뉴스TV",
+          "sources": [
+            {
+              "name": "연합뉴스TV",
+              "url": "http://www.yonhapnewstv.co.kr/news/AKR20260913133919yTk",
+              "origin": "naver",
+              "title": "韓 혁신기업 11곳, 中서 AI·바이오 기술사업화 추진"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T13:40:00+09:00",
+          "ts": 1789274400.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
           "title": "AI 속도조절 한목소리 왜…\"선수·심판 겸임\" \"선두 굳히기\" 비판도",
           "url": "https://www.mt.co.kr/world/2026/09/13/2026091311053096746",
           "snippet": "당시 AI 에이전트 집단은 사람의 지시가 없는데도 자기들끼리 신호를 주고받으며 해킹을 시도한 것으로 드러났다. 비영리 단체 아폴로 리서치의 알렉산더 마인케 연구 책임자는 \"AI 모델들이 서로 공모하는 것처럼 보일...",
@@ -5561,10 +5783,10 @@
           "title": "[게임체인저 AX] 건설연, AI로 물관리하고 데이터센터 짓는다",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Mb3VnRV9Xdnk4NDAtRkJvYnVuVG9UajNKZnQ0aklIdDhveTlxcUZ6bUxDX1phemFBY2FOaU8tTzZTQVRBWnZGX3pWTGhkZzBDTFViYnNJTEg3TGZxMkVUNlNWQWViQUhGeE51WkszaXTSAXRBVV95cUxOM05ScWxUTGpZdG5ZbDZmZVZ2eFR3UHJ0YUZyMVZmdW1NaEVnUVdjbmpDN0Y5TzZLZWtVYmVfdHZsVFBDNUVQQU04ZkU0WGlpYkFzX3JIZ2x3OE13Q2NJWDFGdk90d1llWmRxc182VGRLVEE2YQ?oc=5",
           "snippet": "",
-          "source": "이뉴스투데이",
+          "source": "enewstoday.co.kr",
           "sources": [
             {
-              "name": "이뉴스투데이",
+              "name": "enewstoday.co.kr",
               "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Mb3VnRV9Xdnk4NDAtRkJvYnVuVG9UajNKZnQ0aklIdDhveTlxcUZ6bUxDX1phemFBY2FOaU8tTzZTQVRBWnZGX3pWTGhkZzBDTFViYnNJTEg3TGZxMkVUNlNWQWViQUhGeE51WkszaXTSAXRBVV95cUxOM05ScWxUTGpZdG5ZbDZmZVZ2eFR3UHJ0YUZyMVZmdW1NaEVnUVdjbmpDN0Y5TzZLZWtVYmVfdHZsVFBDNUVQQU04ZkU0WGlpYkFzX3JIZ2x3OE13Q2NJWDFGdk90d1llWmRxc182VGRLVEE2YQ?oc=5",
               "origin": "google",
               "title": "[게임체인저 AX] 건설연, AI로 물관리하고 데이터센터 짓는다"
@@ -5729,25 +5951,6 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "[AI프리뷰] 13일 수원 KT-롯데전, KT 소형준 등판 선두 자리 지킬까",
-          "url": "https://www.newspim.com/news/view/20260913000039",
-          "snippet": "상단의 'AI MY 뉴스' 로그인을 통해 뉴스핌의 차세대 AI 콘텐츠 서비스를 활용해보기 바랍니다. 2026 KBO... *위 내용은 생성형 AI로 예측한 경기 분석 [명령어 : 9월 13일 수원 KT-롯데 경기를 분석해줘=CHAT GPT]",
-          "source": "뉴스핌",
-          "sources": [
-            {
-              "name": "뉴스핌",
-              "url": "https://www.newspim.com/news/view/20260913000039",
-              "origin": "naver",
-              "title": "[AI프리뷰] 13일 수원 KT-롯데전, KT 소형준 등판 선두 자리 지킬까"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-13T12:53:00+09:00",
-          "ts": 1789271580.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
           "title": "[AI프리뷰] 13일 잠실 두산-NC전, 'NC 천적' 최민석 두산 5위 수성 이끌까",
           "url": "https://www.newspim.com/news/view/20260913000040",
           "snippet": "상단의 'AI MY 뉴스' 로그인을 통해 뉴스핌의 차세대 AI 콘텐츠 서비스를 활용해보기 바랍니다. 2026 KBO... *위 내용은 생성형 AI로 예측한 경기 분석 [명령어 : 9월 13일 잠실 두산-NC 경기를 분석해줘=CHAT GPT]",
@@ -5777,6 +5980,25 @@
               "url": "https://www.newspim.com/news/view/20260913000038",
               "origin": "naver",
               "title": "[AI프리뷰] 13일 광주 KIA-한화전, AG 대표팀 차출 전 마지막 경기 갖는..."
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T12:53:00+09:00",
+          "ts": 1789271580.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "[AI프리뷰] 13일 수원 KT-롯데전, KT 소형준 등판 선두 자리 지킬까",
+          "url": "https://www.newspim.com/news/view/20260913000039",
+          "snippet": "상단의 'AI MY 뉴스' 로그인을 통해 뉴스핌의 차세대 AI 콘텐츠 서비스를 활용해보기 바랍니다. 2026 KBO... *위 내용은 생성형 AI로 예측한 경기 분석 [명령어 : 9월 13일 수원 KT-롯데 경기를 분석해줘=CHAT GPT]",
+          "source": "뉴스핌",
+          "sources": [
+            {
+              "name": "뉴스핌",
+              "url": "https://www.newspim.com/news/view/20260913000039",
+              "origin": "naver",
+              "title": "[AI프리뷰] 13일 수원 KT-롯데전, KT 소형준 등판 선두 자리 지킬까"
             }
           ],
           "source_count": 1,
@@ -5865,12 +6087,12 @@
           "title": "[투데이 시그널] 미국, 중국에 GPU 막았더니 AI 지식은 API로 빠져나갔다",
           "url": "https://www.koreaittimes.com/news/articleView.html?idxno=157063",
           "snippet": "미 정부는 중국 AI 기업들이 API와 클라우드, 제3자 중계망을 이용해 미국 프런티어 AI 모델의 추론과 코딩, 에이전트 기능을 대규모로 추출했다고 주장했다. 첨단 반도체의 물리적 이동을 막아도 이미 학습된 AI...",
-          "source": "Korea IT Times",
+          "source": "koreaittimes.com",
           "sources": [
             {
-              "name": "Korea IT Times",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wNmZVOS1uYktnaDFFOXRUV2xleTRXN2xudTVjQS1IMTVfRG11clR5WlNkZVBHR0d2YmJ0Wjl4RkM4U1VnS2Rid0l1elo1RGFlOGk3Z2dJVDJ4NlBONEZGQ3RYTDNST1QwYXpuZGg3NUQ?oc=5",
-              "origin": "google",
+              "name": "koreaittimes.com",
+              "url": "https://www.koreaittimes.com/news/articleView.html?idxno=157063",
+              "origin": "naver",
               "title": "[투데이 시그널] 미국, 중국에 GPU 막았더니 AI 지식은 API로 빠져나갔다"
             }
           ],
@@ -5917,139 +6139,6 @@
           "ts": 1789269600.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "LG디스플레이, 전 임직원 AI 활용 확대…'AX스쿼드' 본격화",
-          "url": "http://www.metroseoul.co.kr/article/20260913500193",
-          "snippet": "외부 AI 도구 사용이 제한되는 내부 데이터 보안 문제에 대응하기 위해 사내 바이브 코딩 에이전트 'HI-D 코드(CODE)'도 구축했다. 회사 측은 제조·개발 조직을 중심으로 추진해온 AX 적용 범위를 올해 하반기부터 구매...",
-          "source": "metroseoul.co.kr",
-          "sources": [
-            {
-              "name": "metroseoul.co.kr",
-              "url": "http://www.metroseoul.co.kr/article/20260913500193",
-              "origin": "naver",
-              "title": "LG디스플레이, 전 임직원 AI 활용 확대…'AX스쿼드' 본격화"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-13T12:20:00+09:00",
-          "ts": 1789269600.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "[이슈&논란] 쌀알 이어피스·AI 안경·단추 카메라·부정재킷까지…시험장 침투한 글로벌 부정행위 산업과 웨어러블 범죄",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Wdmp2Z25mRWgycXR5d2lsYnluZUR3ODFXNVpBMDdfNDZrelBSREFXT1AxUktINWg5TWw4OU1zRDZaNE55M0F1ZDE4aVpkMS1RTEF3SXZJd3lTRkRERkg4OA?oc=5",
-          "snippet": "",
-          "source": "뉴스스페이스",
-          "sources": [
-            {
-              "name": "뉴스스페이스",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Wdmp2Z25mRWgycXR5d2lsYnluZUR3ODFXNVpBMDdfNDZrelBSREFXT1AxUktINWg5TWw4OU1zRDZaNE55M0F1ZDE4aVpkMS1RTEF3SXZJd3lTRkRERkg4OA?oc=5",
-              "origin": "google",
-              "title": "[이슈&논란] 쌀알 이어피스·AI 안경·단추 카메라·부정재킷까지…시험장 침투한 글로벌 부정행위 산업과 웨어러블 범죄"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-13T12:15:58+09:00",
-          "ts": 1789269358.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "세종 학생들, SW·AI로 생활 속 문제 해결",
-          "url": "https://cc.newdaily.co.kr/site/data/html/2026/09/13/2026091300048.html",
-          "snippet": "참여 학생들은 데이터를 활용하고 피지컬 AI와 딥러닝 기술을 적용해 생활 속 문제를 해결하는 프로젝트를 수행했다. 성과공유회에서는 적외선 센서를 활용한 자율주행 자동차 ‘춘식이’, 조도센서 기반 스마트 신호등...",
-          "source": "cc.newdaily.co.kr",
-          "sources": [
-            {
-              "name": "cc.newdaily.co.kr",
-              "url": "https://cc.newdaily.co.kr/site/data/html/2026/09/13/2026091300048.html",
-              "origin": "naver",
-              "title": "세종 학생들, SW·AI로 생활 속 문제 해결"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-13T12:06:00+09:00",
-          "ts": 1789268760.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "시민과 함께한 AI 축제 'K-ICT WEEK in BUSAN 2026'…관람객 4만8000여명 다...",
-          "url": "https://www.etnews.com/20260913000015",
-          "snippet": "보행로봇 조종, 드로잉 로봇, AI 스마트글래스, 증강현실(AR) 피구 등 신기술 체험과 생성형 AI를 활용한... 부산시와 부산정보산업진흥원은 앞으로 K-ICT WEEK in BUSAN을 통해 해양물류 산업 AI전환(AX)을 가속하고...",
-          "source": "전자신문",
-          "sources": [
-            {
-              "name": "전자신문",
-              "url": "https://www.etnews.com/20260913000015",
-              "origin": "naver",
-              "title": "시민과 함께한 AI 축제 'K-ICT WEEK in BUSAN 2026'…관람객 4만8000여명 다..."
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-13T12:06:00+09:00",
-          "ts": 1789268760.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "[영화] 한국 최초 100% AI 장편영화 김일동 감독, 러시아 국제영화제 심사위원 위촉",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Kb2JCUGVNcE11N1ItaHhPS041MWVJRVhTVW42RWlWNzZURUF5VVpWVjI4UHhoQzYwQy03WFBPR1psOEZwMEViQkVqSTJRVlEyN19nMFRQUHNiMDcwTGlLWGt1WQ?oc=5",
-          "snippet": "",
-          "source": "gugaktimes.com",
-          "sources": [
-            {
-              "name": "gugaktimes.com",
-              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Kb2JCUGVNcE11N1ItaHhPS041MWVJRVhTVW42RWlWNzZURUF5VVpWVjI4UHhoQzYwQy03WFBPR1psOEZwMEViQkVqSTJRVlEyN19nMFRQUHNiMDcwTGlLWGt1WQ?oc=5",
-              "origin": "google",
-              "title": "[영화] 한국 최초 100% AI 장편영화 김일동 감독, 러시아 국제영화제 심사위원 위촉"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-13T12:03:31+09:00",
-          "ts": 1789268611.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "삼성자산운용, '섀도우 AI' 정보유출 막는다…新 보안체계 구축",
-          "url": "https://www.etnews.com/20260911000249",
-          "snippet": "최근 산업계에서는 기업의 통제 밖에서 개인이 생성형 AI 서비스를 사용하다가 기업의 민감한 정보나 검증되지 않은 정보가 외부로 나갈 수 있다는 우려가 커지고 있다. 회사는 해당 솔루션 도입이 내부자 위협...",
-          "source": "전자신문",
-          "sources": [
-            {
-              "name": "전자신문",
-              "url": "https://www.etnews.com/20260911000249",
-              "origin": "naver",
-              "title": "삼성자산운용, '섀도우 AI' 정보유출 막는다…新 보안체계 구축"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-13T12:01:00+09:00",
-          "ts": 1789268460.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "18화 추론의 시대 : AWS × 퀄컴, AI경쟁의 승리자는?",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1PM0VaRTI3b1V5OF9seDVrZ0pCbnlwVnRPb1pWMjl4anpJbHVDZGo3aElmcHF6Mnl0Y3Fkam9HSHZoU3V3?oc=5",
-          "snippet": "",
-          "source": "브런치",
-          "sources": [
-            {
-              "name": "브런치",
-              "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1PM0VaRTI3b1V5OF9seDVrZ0pCbnlwVnRPb1pWMjl4anpJbHVDZGo3aElmcHF6Mnl0Y3Fkam9HSHZoU3V3?oc=5",
-              "origin": "google",
-              "title": "18화 추론의 시대 : AWS × 퀄컴, AI경쟁의 승리자는?"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-13T11:52:24+09:00",
-          "ts": 1789267944.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
         }
       ]
     },
@@ -6059,7 +6148,7 @@
       "priority": 12,
       "page": "trends",
       "preview": 3,
-      "count": 44,
+      "count": 40,
       "items": [
         {
           "title": "젠지 vs 한화생명 ‘빅매치’…키키가 불지필 LCK 결승전",
@@ -6180,6 +6269,31 @@
           "group_label": "콘텐츠 · 크리에이터"
         },
         {
+          "title": "1000만 기록부터 정보 유출까지…요동치는 OTT 시장 [김희경의 컬처 인사...",
+          "url": "https://magazine.hankyung.com/business/article/202609105799b",
+          "snippet": "최근 넷플릭스의 중국 드라마, 중국의 숏폼 드라마 등이 대거 공급되며 관심이 높아졌기 때문이다. 토종 OTT가 고전하는 사이 중국 OTT가 낮은 구독료와 대량의 콘텐츠로 공략을 강화한다면 토종 OTT의 입지는 더욱...",
+          "source": "한국경제",
+          "sources": [
+            {
+              "name": "한국경제",
+              "url": "https://magazine.hankyung.com/business/article/202609105799b",
+              "origin": "naver",
+              "title": "1000만 기록부터 정보 유출까지…요동치는 OTT 시장 [김희경의 컬처 인사..."
+            },
+            {
+              "name": "v.daum.net",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81UV9OMkdlc3dGeVRkLUhJdWFUaklkM1pDSTUwUExrNmNLbkd5b3Jwb3M2cmQ0WXRzX3FudExqeVE4eUU3Sm1SeWdMWUFvTFU?oc=5",
+              "origin": "google",
+              "title": "1000만 기록부터 정보 유출까지…요동치는 OTT 시장 [김희경의 컬처 인사이트]"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-09-13T11:52:00+09:00",
+          "ts": 1789267920.0,
+          "group": "trend_content",
+          "group_label": "콘텐츠 · 크리에이터"
+        },
+        {
           "title": "‘메이드 인 코리아2’ 터지자 시즌1도 역주행…디즈니+ 1위 싹쓸이 이유...",
           "url": "https://www.wikitree.co.kr/articles/1159088",
           "snippet": "디즈니+ 오리지널 시리즈 ‘메이드 인 코리아 시즌2’가 지난 9일 1·2회 공개 직후 국내 주요 콘텐츠 플랫폼... ‘구독 OTT 랭킹’ 드라마·시리즈 부문에서도 각각 1위에 올랐다.왓챠피디아 ‘HOT 랭킹’에서는 4위를...",
@@ -6201,6 +6315,31 @@
           "source_count": 2,
           "published": "2026-09-13T00:20:00+09:00",
           "ts": 1789226400.0,
+          "group": "trend_content",
+          "group_label": "콘텐츠 · 크리에이터"
+        },
+        {
+          "title": "[특집/CIPAC 2026②] “K-IP서비스도 수출한다”... CIPAC 2026 한국관, AI·특허데이터로 글로벌 시장 공략",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5hZkFXMzNMUW1FYVZjUk40QnVwa0hzbnh6UE5fb3BqUHdFMU56TVprbFZXeENUa2FOeUxrd0VtaTFROWpsazU2bg?oc=5",
+          "snippet": "",
+          "source": "e-patentnews.com",
+          "sources": [
+            {
+              "name": "e-patentnews.com",
+              "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5hZkFXMzNMUW1FYVZjUk40QnVwa0hzbnh6UE5fb3BqUHdFMU56TVprbFZXeENUa2FOeUxrd0VtaTFROWpsazU2bg?oc=5",
+              "origin": "google",
+              "title": "[특집/CIPAC 2026②] “K-IP서비스도 수출한다”... CIPAC 2026 한국관, AI·특허데이터로 글로벌 시장 공략"
+            },
+            {
+              "name": "특허뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxTDZSVngxdGIxaVdFdEdTR01ZQ2k1NUpIUjhEOVZWdnI3Rjd2SDhIeERCUDhBV0FwNzFQUk5YcWNSSXBJeWZBbnhQZUFCdV9fQy03SQ?oc=5",
+              "origin": "google",
+              "title": "[특집/CIPAC 2026①] “AI·6G·SEP가 바꾼 IP 질서”... CIPAC 2026, 중국의 ‘지식재산 대전환’ 선언"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-09-12T23:44:00+09:00",
+          "ts": 1789224240.0,
           "group": "trend_content",
           "group_label": "콘텐츠 · 크리에이터"
         },
@@ -6230,21 +6369,21 @@
           "group_label": "콘텐츠 · 크리에이터"
         },
         {
-          "title": "관광업계, 제주도의회에 제2공항 조속 추진 등 건의",
-          "url": "http://www.samdailbo.com/news/articleView.html?idxno=270207",
-          "snippet": "위해서는 관광객이 안심하고 찾을 수 있는 여행 환경과 신뢰가 바탕이 돼야 한다\"며 \"동시에 변화하는 트렌드에 발맞춘 차별화된 새로운 관광콘텐츠를 개발해 관광 산업 전반에 새로운 활력을 불어넣어야 한다\"고 밝혔다.",
-          "source": "samdailbo.com",
+          "title": "[브릿지 칼럼] 호감이 쌓여 브랜드 자산이 된다",
+          "url": "https://www.viva100.com/article/20260913500245",
+          "snippet": "기업과 공공기관의 콘텐츠 전략도 ‘SNS 운영’ 수준에서 벗어나야 한다. 목표와 타깃, 핵심 메시지와 키워드를 정하고, 하나의 브랜드 정체성을 숏폼,유튜브,블로그,캠페인에 일관되게 축적해야 한다. 참여와 공유, 검색...",
+          "source": "viva100.com",
           "sources": [
             {
-              "name": "samdailbo.com",
-              "url": "http://www.samdailbo.com/news/articleView.html?idxno=270207",
+              "name": "viva100.com",
+              "url": "https://www.viva100.com/article/20260913500245",
               "origin": "naver",
-              "title": "관광업계, 제주도의회에 제2공항 조속 추진 등 건의"
+              "title": "[브릿지 칼럼] 호감이 쌓여 브랜드 자산이 된다"
             }
           ],
           "source_count": 1,
-          "published": "2026-09-13T13:36:00+09:00",
-          "ts": 1789274160.0,
+          "published": "2026-09-13T14:08:00+09:00",
+          "ts": 1789276080.0,
           "group": "trend_content",
           "group_label": "콘텐츠 · 크리에이터"
         },
@@ -6283,44 +6422,6 @@
           "source_count": 1,
           "published": "2026-09-13T12:35:00+09:00",
           "ts": 1789270500.0,
-          "group": "trend_content",
-          "group_label": "콘텐츠 · 크리에이터"
-        },
-        {
-          "title": "1000만 기록부터 정보 유출까지…요동치는 OTT 시장 [김희경의 컬처 인사...",
-          "url": "https://magazine.hankyung.com/business/article/202609105799b",
-          "snippet": "최근 넷플릭스의 중국 드라마, 중국의 숏폼 드라마 등이 대거 공급되며 관심이 높아졌기 때문이다. 토종 OTT가 고전하는 사이 중국 OTT가 낮은 구독료와 대량의 콘텐츠로 공략을 강화한다면 토종 OTT의 입지는 더욱...",
-          "source": "한국경제",
-          "sources": [
-            {
-              "name": "한국경제",
-              "url": "https://magazine.hankyung.com/business/article/202609105799b",
-              "origin": "naver",
-              "title": "1000만 기록부터 정보 유출까지…요동치는 OTT 시장 [김희경의 컬처 인사..."
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-13T11:52:00+09:00",
-          "ts": 1789267920.0,
-          "group": "trend_content",
-          "group_label": "콘텐츠 · 크리에이터"
-        },
-        {
-          "title": "송은이 복귀한 유재석 '식스센스', 세 가지 벽",
-          "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=89675",
-          "snippet": "tvN은 과거 '코미디빅리그'를 비롯해 다양한 대형 예능 콘텐츠를 배치하며 일요일 저녁을 주요 승부처로... TV 시청률과 OTT 스트리밍, 유튜브 클립, 숏폼 화제성, SNS 확산력이 복합적으로 작용한다. '식스센스' 역시 전통적인...",
-          "source": "mediafine.co.kr",
-          "sources": [
-            {
-              "name": "mediafine.co.kr",
-              "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=89675",
-              "origin": "naver",
-              "title": "송은이 복귀한 유재석 '식스센스', 세 가지 벽"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-13T11:22:00+09:00",
-          "ts": 1789266120.0,
           "group": "trend_content",
           "group_label": "콘텐츠 · 크리에이터"
         },
@@ -6556,10 +6657,10 @@
           "title": "[특집/CIPAC 2026④] “한국 IP서비스의 국경을 넓힌다”... 남아이피그룹, 베이징서 글로벌 파트너십 확장",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hRWdJNHpxZm9va1plM1lrck1ZTk1zSG5mcE9VRTB3bWFWNDR3dGhrV1Q5NzQ1TnN6d3dWSXJhSExYZmZURVVQcA?oc=5",
           "snippet": "",
-          "source": "특허뉴스",
+          "source": "e-patentnews.com",
           "sources": [
             {
-              "name": "특허뉴스",
+              "name": "e-patentnews.com",
               "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hRWdJNHpxZm9va1plM1lrck1ZTk1zSG5mcE9VRTB3bWFWNDR3dGhrV1Q5NzQ1TnN6d3dWSXJhSExYZmZURVVQcA?oc=5",
               "origin": "google",
               "title": "[특집/CIPAC 2026④] “한국 IP서비스의 국경을 넓힌다”... 남아이피그룹, 베이징서 글로벌 파트너십 확장"
@@ -6587,25 +6688,6 @@
           "source_count": 1,
           "published": "2026-09-13T00:21:00+09:00",
           "ts": 1789226460.0,
-          "group": "trend_content",
-          "group_label": "콘텐츠 · 크리에이터"
-        },
-        {
-          "title": "[특집/CIPAC 2026②] “K-IP서비스도 수출한다”... CIPAC 2026 한국관, AI·특허데이터로 글로벌 시장 공략",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5hZkFXMzNMUW1FYVZjUk40QnVwa0hzbnh6UE5fb3BqUHdFMU56TVprbFZXeENUa2FOeUxrd0VtaTFROWpsazU2bg?oc=5",
-          "snippet": "",
-          "source": "특허뉴스",
-          "sources": [
-            {
-              "name": "특허뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5hZkFXMzNMUW1FYVZjUk40QnVwa0hzbnh6UE5fb3BqUHdFMU56TVprbFZXeENUa2FOeUxrd0VtaTFROWpsazU2bg?oc=5",
-              "origin": "google",
-              "title": "[특집/CIPAC 2026②] “K-IP서비스도 수출한다”... CIPAC 2026 한국관, AI·특허데이터로 글로벌 시장 공략"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-12T23:44:00+09:00",
-          "ts": 1789224240.0,
           "group": "trend_content",
           "group_label": "콘텐츠 · 크리에이터"
         },
@@ -6893,63 +6975,6 @@
           "ts": 1789168080.0,
           "group": "trend_content",
           "group_label": "콘텐츠 · 크리에이터"
-        },
-        {
-          "title": "서원대 수시 1만2천887명 지원 역대 최다… 경쟁률 7.66대 1",
-          "url": "https://www.jbnews.com/news/articleView.html?idxno=1511343",
-          "snippet": "첨단 산업 분야에 특화한 교육으로 AI엔지니어, 로봇제어 및 자동화 개발·운영 인력을 양성할 계획이다. 서원대는 지난해 기록했던 최고 경쟁률을 1년 만에 다시 경신했다. 학과별로는 웹툰콘텐츠학과가 21.40대...",
-          "source": "jbnews.com",
-          "sources": [
-            {
-              "name": "jbnews.com",
-              "url": "https://www.jbnews.com/news/articleView.html?idxno=1511343",
-              "origin": "naver",
-              "title": "서원대 수시 1만2천887명 지원 역대 최다… 경쟁률 7.66대 1"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-12T08:02:00+09:00",
-          "ts": 1789167720.0,
-          "group": "trend_content",
-          "group_label": "콘텐츠 · 크리에이터"
-        },
-        {
-          "title": "\"해외 팬덤 노린다\"…뷔·에스파·GD 모신 식품업계",
-          "url": "https://www.mt.co.kr/living/2026/09/12/2026091113263629037",
-          "snippet": "방탄소년단(BTS) 뷔와 에스파가 등장한 소주·라면 콘텐츠는 억대 조회수를 기록했다. 맥도날드는 고추장을... 국내에서 생산해 수출하는 과자 가운데 첫 사례가 될 전망이다. 식품업계는 K팝 팬덤을 통해 해외 소비자에게...",
-          "source": "머니투데이",
-          "sources": [
-            {
-              "name": "머니투데이",
-              "url": "https://www.mt.co.kr/living/2026/09/12/2026091113263629037",
-              "origin": "naver",
-              "title": "\"해외 팬덤 노린다\"…뷔·에스파·GD 모신 식품업계"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-12T08:00:00+09:00",
-          "ts": 1789167600.0,
-          "group": "trend_content",
-          "group_label": "콘텐츠 · 크리에이터"
-        },
-        {
-          "title": "TV시청도 유튜브가 삼켰다…美 점유율 14.2% 역대 최고",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BYnY4Z2V4TF8taTZjZ0JtMnpnQWpweXF3bmRONTdMbUFocjFDVEdFOGRPc2Vfemh1cURob3hnaDZTdHZzUXdYQi12MkgyQVEzSmFEZXZn?oc=5",
-          "snippet": "",
-          "source": "지디넷코리아",
-          "sources": [
-            {
-              "name": "지디넷코리아",
-              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BYnY4Z2V4TF8taTZjZ0JtMnpnQWpweXF3bmRONTdMbUFocjFDVEdFOGRPc2Vfemh1cURob3hnaDZTdHZzUXdYQi12MkgyQVEzSmFEZXZn?oc=5",
-              "origin": "google",
-              "title": "TV시청도 유튜브가 삼켰다…美 점유율 14.2% 역대 최고"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-12T07:53:02+09:00",
-          "ts": 1789167182.0,
-          "group": "trend_content",
-          "group_label": "콘텐츠 · 크리에이터"
         }
       ]
     },
@@ -6959,7 +6984,7 @@
       "priority": 13,
       "page": "trends",
       "preview": 3,
-      "count": 143,
+      "count": 145,
       "items": [
         {
           "title": "'스타크래프트' 2030년 오픈월드 슈팅으로 돌아온다…블리자드, 공식 발...",
@@ -6992,12 +7017,6 @@
               "title": "‘스타크래프트’ 오픈월드 슈팅 게임으로…블리자드, ‘블리즈컨’서..."
             },
             {
-              "name": "세계일보",
-              "url": "https://www.segye.com/newsView/20260913502812?OutUrl=naver",
-              "origin": "naver",
-              "title": "‘스타크래프트가 슈팅 게임으로’…2030년 오픈월드 신작 나온다"
-            },
-            {
               "name": "월요신문",
               "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SYkI4TkxBOWprS1MxZVY0YURjVGFLMlVZZWpWVEV2WGZZZ000QVZINVVac2NnTFZsRDdZZUQ4RWc0Z3hMeTlOU3g2eUtIRDR4eHhGd1p5RjlKWUZjTkZ2eVhoQklpckJXblE?oc=5",
               "origin": "google",
@@ -7010,7 +7029,7 @@
               "title": "'스타크래프트' 오픈월드 슈팅 게임으로…블리자드, '블리즈컨'서 신작 대거 공개"
             }
           ],
-          "source_count": 7,
+          "source_count": 6,
           "published": "2026-09-13T11:33:00+09:00",
           "ts": 1789266780.0,
           "group": "trend_game",
@@ -7054,6 +7073,37 @@
           "group_label": "게임 · e스포츠"
         },
         {
+          "title": "블리즈컨 2026 개막…'스타크래프트'부터 '디아블로 V'까지 대형 발표",
+          "url": "https://www.sportschosun.com/entertainment/2026-09-13/202609130100087380005722",
+          "snippet": "IP의 신작과 대규모 업데이트 계획을 공개했다. 조해나 패리스 블리자드 엔터테인먼트 사장은 개막식 첫... 1998년 첫 작품 출시 이후 실시간 전략 게임(RTS) 장르를 대표해온 '스타크래프트'가 슈팅 장르로 확장된다는...",
+          "source": "sportschosun.com",
+          "sources": [
+            {
+              "name": "sportschosun.com",
+              "url": "https://www.sportschosun.com/entertainment/2026-09-13/202609130100087380005722",
+              "origin": "naver",
+              "title": "블리즈컨 2026 개막…'스타크래프트'부터 '디아블로 V'까지 대형 발표"
+            },
+            {
+              "name": "betanews.net",
+              "url": "https://www.betanews.net/article/view/beta202609130002",
+              "origin": "naver",
+              "title": "스타크래프트 신작부터 디아블로5까지, 블리즈컨 2026 개막"
+            },
+            {
+              "name": "fomos.kr",
+              "url": "https://www.fomos.kr/redirect/news_view?news_cate_id=2&entry_id=155867",
+              "origin": "naver",
+              "title": "블리자드 '블리즈컨 2026', '스타크래프트' 슈터와 '디아블로5' 최초 공..."
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-09-13T13:55:00+09:00",
+          "ts": 1789275300.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
           "title": "PC방 붐 다시 부나…스타크래프트 '슈팅 게임'으로 돌아온다",
           "url": "https://www.newsis.com/view/NISX20260913_0003787141",
           "snippet": "신작은 2030년 출시를 목표로 개발 중이며, 오픈월드와 스토리 중심의 슈터 장르를 결합한 형태가 될 예정이다. '데스티니', '보더랜드'와 같은 게임과 비슷한 방식으로 플레이어가 직접 캐릭터를 조작하며 이야기를...",
@@ -7085,20 +7135,51 @@
           "group_label": "게임 · e스포츠"
         },
         {
+          "title": "‘스타크래프트가 슈팅 게임으로’…2030년 오픈월드 신작 나온다",
+          "url": "https://www.segye.com/newsView/20260913502812?OutUrl=naver",
+          "snippet": "블리자드 유튜브 갈무리 ‘스타크래프트’가 오픈월드 슈팅 게임으로 돌아온다. 블리자드는 2030년 출시를 목표로 스타크래프트 세계관을 활용한 신작을 개발하고 있다. 1998년 출시 이후 실시간 전략(RTS) 장르를...",
+          "source": "세계일보",
+          "sources": [
+            {
+              "name": "세계일보",
+              "url": "https://www.segye.com/newsView/20260913502812?OutUrl=naver",
+              "origin": "naver",
+              "title": "‘스타크래프트가 슈팅 게임으로’…2030년 오픈월드 신작 나온다"
+            },
+            {
+              "name": "네이트",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mdWdYb0JmTUtJZ0VzRjRGWXNRaFllcGNlQ3gyQkdjQWFhTDdtX3hLeHQzMWlsV2FRQjdXeG9SaUFKbEgxaF9OeVI4aWhYLVFsaW5V?oc=5",
+              "origin": "google",
+              "title": "'스타크래프트가 슈팅 게임으로'…2030년 오픈월드 신작 나온다"
+            },
+            {
+              "name": "게임톡",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UdUFvU3RrNEJ5RHpPQXRYVGkxSlN0WU5rU1dnTE1BQldxSm80RUF1c1g4bDFuRXNkbFltRTN4dkZRYmk2REI2a2hDaXp4bVdjSVBjbHNRclYta0E5WHUyY2FMdkFQVmZFdm1IRg?oc=5",
+              "origin": "google",
+              "title": "스타크래프트 신작, 2030년 오픈월드 슈터로 나온다"
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-09-13T09:02:00+09:00",
+          "ts": 1789257720.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
           "title": "도트 감성에 한국 설화까지…카카오게임즈 '도깨비의세계' 출격 채비",
           "url": "https://sports.hankooki.com/news/articleView.html?idxno=6939462",
           "snippet": "오는 10월8일 정식 출시가 확정되면서 카카오게임즈의 신작 라인업을 이끌 핵심 타이틀로도 주목받고 있다. 13일 업계에 따르면 카카오게임즈는 슈퍼캣에서 개발 중인 '도깨비의세계'를 오는 10월8일 정식 출시할...",
-          "source": "한국아이닷컴",
+          "source": "스포츠한국",
           "sources": [
             {
-              "name": "한국아이닷컴",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vM1NlSVZxV0JxZVBvX24wQk16RjJIMGtFV0hKakVIY1BmTnMtN3lhMENidmh6ajhwWm01cUdLaU9YQWRkeXBYQThHdTJMaTRFSHQ3MXlIeEpheTNCRE9mN0RoTkpaWXZDQVRJd0xxVdIBb0FVX3lxTE9vM1NlSVZxV0JxZVBvX24wQk16RjJIMGtFV0hKakVIY1BmTnMtN3lhMENidmh6ajhwWm01cUdLaU9YQWRkeXBYQThHdTJMaTRFSHQ3MXlIeEpheTNCRE9mN0RoTkpaWXZDQVRJd0xxVQ?oc=5",
+              "name": "스포츠한국",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHYVJpVzRrX1NhakY1c25ETkNZSEVYMmtBbU5UTENtSEJEU2Z6N1pDLUVIMUZFamlIMXQ0cjU0V3Y4TTN4ZnFkRy0zYlI2LXdPbkM1LW1TcGpXTGRELXVEN2k1TmF0TVdhbEhpd2ZNUVjSAXRBVV95cUxQeWdJOC1aNEt1M3UyMTAycmdvanc5a3U2TG9SVmFkUkRWUVI2RWdPQ1pEemE1dnJiMU9uaG9wYjc3WWN1Mmh0VlcxREFuTzFybXk3amNJVkZfZkZzYzhNbWxsa0ZGa0U4T0NhYVhFN2pWc1FZSQ?oc=5",
               "origin": "google",
               "title": "도트 감성에 한국 설화까지…카카오게임즈 '도깨비의세계' 출격 채비"
             },
             {
-              "name": "스포츠한국",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHYVJpVzRrX1NhakY1c25ETkNZSEVYMmtBbU5UTENtSEJEU2Z6N1pDLUVIMUZFamlIMXQ0cjU0V3Y4TTN4ZnFkRy0zYlI2LXdPbkM1LW1TcGpXTGRELXVEN2k1TmF0TVdhbEhpd2ZNUVjSAXRBVV95cUxQeWdJOC1aNEt1M3UyMTAycmdvanc5a3U2TG9SVmFkUkRWUVI2RWdPQ1pEemE1dnJiMU9uaG9wYjc3WWN1Mmh0VlcxREFuTzFybXk3amNJVkZfZkZzYzhNbWxsa0ZGa0U4T0NhYVhFN2pWc1FZSQ?oc=5",
+              "name": "한국아이닷컴",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vM1NlSVZxV0JxZVBvX24wQk16RjJIMGtFV0hKakVIY1BmTnMtN3lhMENidmh6ajhwWm01cUdLaU9YQWRkeXBYQThHdTJMaTRFSHQ3MXlIeEpheTNCRE9mN0RoTkpaWXZDQVRJd0xxVdIBb0FVX3lxTE9vM1NlSVZxV0JxZVBvX24wQk16RjJIMGtFV0hKakVIY1BmTnMtN3lhMENidmh6ajhwWm01cUdLaU9YQWRkeXBYQThHdTJMaTRFSHQ3MXlIeEpheTNCRE9mN0RoTkpaWXZDQVRJd0xxVQ?oc=5",
               "origin": "google",
               "title": "도트 감성에 한국 설화까지…카카오게임즈 '도깨비의세계' 출격 채비"
             }
@@ -7131,31 +7212,6 @@
           "source_count": 2,
           "published": "2026-09-13T09:12:19+09:00",
           "ts": 1789258339.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
-          "title": "스타크래프트 신작부터 디아블로5까지, 블리즈컨 2026 개막",
-          "url": "https://www.betanews.net/article/view/beta202609130002",
-          "snippet": "'스타크래프트'가 스토리 중심의 오픈 월드 슈팅 게임으로 돌아오며, 2030년 봄 출시 예정이다. 잘아타스가 9월 28일 '히어로즈 오브 더 스톰'에 신규 영웅으로 합류하며, 9월 14일부터 공개 테스트 서버에서 플레이할 수...",
-          "source": "betanews.net",
-          "sources": [
-            {
-              "name": "betanews.net",
-              "url": "https://www.betanews.net/article/view/beta202609130002",
-              "origin": "naver",
-              "title": "스타크래프트 신작부터 디아블로5까지, 블리즈컨 2026 개막"
-            },
-            {
-              "name": "fomos.kr",
-              "url": "https://www.fomos.kr/redirect/news_view?news_cate_id=2&entry_id=155867",
-              "origin": "naver",
-              "title": "블리자드 '블리즈컨 2026', '스타크래프트' 슈터와 '디아블로5' 최초 공..."
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-13T08:54:00+09:00",
-          "ts": 1789257240.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
         },
@@ -7235,31 +7291,6 @@
           "group_label": "게임 · e스포츠"
         },
         {
-          "title": "'스타크래프트' 신작 발표, 그런데 장르가 완전히... 전세계 게임판 뒤...",
-          "url": "https://www.wikitree.co.kr/articles/1159108",
-          "snippet": "특히 한국에서 폭발적인 인기를 끌며 PC방 문화와 e스포츠 산업이 자리 잡는 토대가 됐다. 원작에 이어 2010년... 공포 게임 '피어(F.E.A.R.)' 시리즈 개발에도 참여했다. 2022년 블리자드에 합류했다. 헤이 총괄은 무대에 올라...",
-          "source": "wikitree.co.kr",
-          "sources": [
-            {
-              "name": "wikitree.co.kr",
-              "url": "https://www.wikitree.co.kr/articles/1159108",
-              "origin": "naver",
-              "title": "'스타크래프트' 신작 발표, 그런데 장르가 완전히... 전세계 게임판 뒤..."
-            },
-            {
-              "name": "위키트리",
-              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54a3hPandxNVpkTnhGTkdOOTZxaTlBSmh2SEVGXzF3NjEwVU55MGxUZkJucVlCS21lSkppb1R6azEyUEtjUGtNd0hURFBhTlBpRlczeENB?oc=5",
-              "origin": "google",
-              "title": "'스타크래프트' 신작 발표, 그런데 장르가 완전히... 전세계 게임판 뒤집은 소식"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-13T06:10:00+09:00",
-          "ts": 1789247400.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
           "title": "\"정말 오래 기다렸다\"…스타크래프트 신작 2030년 출시",
           "url": "https://www.hankyung.com/article/202609130503i",
           "snippet": "위에서 병력을 지휘하던 실시간전략게임(RTS)이 아니라 이용자가 직접 전장에 뛰어드는 오픈월드 슈팅게임으로 2030년 출시된다. 스타크래프트 신작은 2015년 발표된 스타크래프트2 3부작의 끝인 공허의 유산이...",
@@ -7306,6 +7337,31 @@
           "source_count": 2,
           "published": "2026-09-13T04:47:00+09:00",
           "ts": 1789242420.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
+          "title": "다른 테마와 비교하는 데모 게임 시각적 구성",
+          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQZG9nY0laY29NYy1pRTdmUGwxbS1RVlJGOFZ3V2RmWjhTVmUycU5lbVBlZnJsaDI1eWtCZzhqN0ZuSzM1QkRGN0pfa3VBWkZIalJzM1ZKM2U2TWFkdHFwSWgwb0k2aXVlNHVZLUZkMU9xd192Q3pGQ3ZGc2IzWno0N2xBRnYxaU1LTjd1aWRXaGNER0trWUNIOU00WXB6WDViVldVaERWMTRwTXoxdS1pc016dzFkWXRSbURCRjFxOERhSl9tMThMUVA2cWJGTXVyZkstNV9RcG9zSGRXcHdtWTBiWHE1UUFfV2d3SGYwUzlqaWlDV3ZxcXJPV3NPM01qcmZJazFBaTROVy03VDB4WGpiTzY5V1RMR3J2MlNQXzlvVkhvZmdiWEp0M0o4cUJZ?oc=5",
+          "snippet": "",
+          "source": "Calgary Roughnecks",
+          "sources": [
+            {
+              "name": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQZG9nY0laY29NYy1pRTdmUGwxbS1RVlJGOFZ3V2RmWjhTVmUycU5lbVBlZnJsaDI1eWtCZzhqN0ZuSzM1QkRGN0pfa3VBWkZIalJzM1ZKM2U2TWFkdHFwSWgwb0k2aXVlNHVZLUZkMU9xd192Q3pGQ3ZGc2IzWno0N2xBRnYxaU1LTjd1aWRXaGNER0trWUNIOU00WXB6WDViVldVaERWMTRwTXoxdS1pc016dzFkWXRSbURCRjFxOERhSl9tMThMUVA2cWJGTXVyZkstNV9RcG9zSGRXcHdtWTBiWHE1UUFfV2d3SGYwUzlqaWlDV3ZxcXJPV3NPM01qcmZJazFBaTROVy03VDB4WGpiTzY5V1RMR3J2MlNQXzlvVkhvZmdiWEp0M0o4cUJZ?oc=5",
+              "origin": "google",
+              "title": "다른 테마와 비교하는 데모 게임 시각적 구성"
+            },
+            {
+              "name": "Histoire pour tous",
+              "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUHhwYjZIRnYwYzZGWVRqemJGaGpjTjFUa2hWSXpKYVVDMTdpQlVHV1NIY3FZWVhHWTd1dzc0Z1I1WWlMUGJQcURPejRTbWhqOXNUUnVIR1ppejRPRWU1NDA2TTRnamY3NFZlTnpJTzh1Rm9GZHZHVDYtd2RRTzBPUXgxQ19tMmFHbTJ4YXZMby1jVUlGYmtBRFRmNnY5aER5aDFTWmU5dHlCY003T0JETHRReFlJTU9PaXN2eTI0NkF1YUtpYkJxaDBRLUdWcWpQ?oc=5",
+              "origin": "google",
+              "title": "삼성 도박 오승환 게임 테마와 시각 요소"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-09-13T04:34:55+09:00",
+          "ts": 1789241695.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
         },
@@ -7381,31 +7437,6 @@
           "source_count": 2,
           "published": "2026-09-13T02:30:03+09:00",
           "ts": 1789234203.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
-          "title": "규칙이 긴 게임을 읽는 순서와 골드머니 토토",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ1JBMm5FNFBYLXhxQ3JlQWE1dDVrRTFPd01MbTZJY3dfSmlCUGVual83UWxRVDdwRjNXY3lTcUxOcEhQSzJpaDNoc1JSYjNRdXBoU3JaTnYyQzRJVk5GczhRMUQtY0xuZ0ZVZlRxeWhMRWRaTnBTYTlBQWxQSF9RNkZzaUplWmJDeUtMNEw3ZFNESDZRQ1Fyd09HcHczbkRIdzFpMG1Xdm8?oc=5",
-          "snippet": "",
-          "source": "Calgary Roughnecks",
-          "sources": [
-            {
-              "name": "Calgary Roughnecks",
-              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ1JBMm5FNFBYLXhxQ3JlQWE1dDVrRTFPd01MbTZJY3dfSmlCUGVual83UWxRVDdwRjNXY3lTcUxOcEhQSzJpaDNoc1JSYjNRdXBoU3JaTnYyQzRJVk5GczhRMUQtY0xuZ0ZVZlRxeWhMRWRaTnBTYTlBQWxQSF9RNkZzaUplWmJDeUtMNEw3ZFNESDZRQ1Fyd09HcHczbkRIdzFpMG1Xdm8?oc=5",
-              "origin": "google",
-              "title": "규칙이 긴 게임을 읽는 순서와 골드머니 토토"
-            },
-            {
-              "name": "Histoire pour tous",
-              "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbHZCZ3c2bFp2QTNmTjlnMjI0UzY0ZDU5cE5laVlHQmQ2Q0pGa3lPWkw5UVpxVEwzRmJla0lPeEhRUVl5a3ZHM1JLekZaWmd3UEp3S2pWdkpQZ0NEX0trZTUwcGZpdU9jcm9sSVRpT2xUT0I3bWx0RlNnSE1SejdXWndPZTdPb0VnWTAwY29EOTdZWWN1UFZpLTY3SVVMTFhfY3doR2lTOEZrbW5ZTFZ0VEFRaU4xeEFOTWNjbXplWnN2TVVJTGVDNmN3bWJ1Yk5tLVl0bmQtS3NxUWtheXpOTWVicnJIRXhnYUE?oc=5",
-              "origin": "google",
-              "title": "처음 읽는 게임 정보에서 찾을 하트 골드 포커스 렌즈 핵심 내용"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-09-13T01:34:26+09:00",
-          "ts": 1789230866.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
         },
@@ -7556,6 +7587,44 @@
           "source_count": 2,
           "published": "2026-09-12T08:22:42+09:00",
           "ts": 1789168962.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
+          "title": "새 IP 대신 ‘재해석’ 택한 블리자드…스타크래프트·디아블로 총출동",
+          "url": "https://www.asiatime.co.kr/article/20260913500053",
+          "snippet": "특히 스타크래프트는 실시간 전략게임(RTS)에서 오픈월드 슈터로 장르를 전환한 신작으로 돌아오며... 2029년 봄 출시를 목표로 하는 신작은 기존 시리즈와 달리 디아블로가 이미 성역을 무너뜨리고 승리한 시점에서...",
+          "source": "asiatime.co.kr",
+          "sources": [
+            {
+              "name": "asiatime.co.kr",
+              "url": "https://www.asiatime.co.kr/article/20260913500053",
+              "origin": "naver",
+              "title": "새 IP 대신 ‘재해석’ 택한 블리자드…스타크래프트·디아블로 총출동"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T14:06:00+09:00",
+          "ts": 1789275960.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
+          "title": "“오픈월드 슈터 ‘스타크래프트’, 원작 계승하며 탐험 재미까지”",
+          "url": "https://www.mk.co.kr/article/12151330",
+          "snippet": "슈터 신작 ‘스타크래프트’를 공개했다. 스타크래프트는 블리자드엔터테인먼트가 스타크래프트 시리즈의 세계관을 배경으로 제작 중인 새로운 AAA 게임이다. 오픈월드 기반의 스토리 중심 SF 슈터를 표방하며...",
+          "source": "매일경제",
+          "sources": [
+            {
+              "name": "매일경제",
+              "url": "https://www.mk.co.kr/article/12151330",
+              "origin": "naver",
+              "title": "“오픈월드 슈터 ‘스타크래프트’, 원작 계승하며 탐험 재미까지”"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T14:01:00+09:00",
+          "ts": 1789275660.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
         },
@@ -7731,6 +7800,25 @@
           "group_label": "게임 · e스포츠"
         },
         {
+          "title": "여러 게임을 비교할 때 펼쳐둘 도박 초범 벌금 정보",
+          "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOUHJmczA5MXZvc3g5RkpQNjFSVURDRWtXcVlDaVBZcmhQdTJUWWFlWUo2OVl2UmhhajVPanphaGhQeXpYelhONFU3dnRLcGNGdk5jTTNEeHpsODk4QkRLalN5NUQzQmwyM2JiYndCOG1DQlBPYmxJWXBQVmJTMkpCXzR0aUQxY1JpMFQyRUV1VmJrWWxSMXlLMmwwY29aMmJJSUM2YXN1MzhPQld3d1MtbFV4ZTAtSmdQWTBWRGZ6Zzh1YzJTc1J5cEFTLXRvQWczZGJaVXN4d3l2YlNkWGZOc1RtZzhPMXpQa20tc1RHWGR0SHJaeFg0cHZpMHNvbENZbmhQRVFYVXgxcWtVbXo0S1FXZ2xjQ0xRZnIwWUNMbUZ2cFM3U2Z2alZJbXdEQXBNRTdiR2ctRWl4ZGlzLXgwRnQ0QnE1WGlqUlJQYXZzbEtJYnNyeXBZRXNLRkFsTUdGNEJHUHhldjludzJEWmUxTGNYcWthLXdzRVB5eHB3WQ?oc=5",
+          "snippet": "",
+          "source": "Histoire pour tous",
+          "sources": [
+            {
+              "name": "Histoire pour tous",
+              "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOUHJmczA5MXZvc3g5RkpQNjFSVURDRWtXcVlDaVBZcmhQdTJUWWFlWUo2OVl2UmhhajVPanphaGhQeXpYelhONFU3dnRLcGNGdk5jTTNEeHpsODk4QkRLalN5NUQzQmwyM2JiYndCOG1DQlBPYmxJWXBQVmJTMkpCXzR0aUQxY1JpMFQyRUV1VmJrWWxSMXlLMmwwY29aMmJJSUM2YXN1MzhPQld3d1MtbFV4ZTAtSmdQWTBWRGZ6Zzh1YzJTc1J5cEFTLXRvQWczZGJaVXN4d3l2YlNkWGZOc1RtZzhPMXpQa20tc1RHWGR0SHJaeFg0cHZpMHNvbENZbmhQRVFYVXgxcWtVbXo0S1FXZ2xjQ0xRZnIwWUNMbUZ2cFM3U2Z2alZJbXdEQXBNRTdiR2ctRWl4ZGlzLXgwRnQ0QnE1WGlqUlJQYXZzbEtJYnNyeXBZRXNLRkFsTUdGNEJHUHhldjludzJEWmUxTGNYcWthLXdzRVB5eHB3WQ?oc=5",
+              "origin": "google",
+              "title": "여러 게임을 비교할 때 펼쳐둘 도박 초범 벌금 정보"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T10:39:06+09:00",
+          "ts": 1789263546.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
           "title": "처음부터 외울 필요 없는 테트리스 게임링크 기본 용어",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVlJGMVpQZXdmN0phRENVbUV4VWRLT0JzVzFvN1dTbEdRVVJvQ0VkODdDNmx6Rk1BR1ctLXZpNWVzNXloRjhqR01iOTZXcmIxX1JESnhIdjZDWWVIVG1WQ0ZudDRsWGlpUk1nYkJkM3dfNU1JYVRfbTdQcW9kRm5sZ0J4cFZRVVJxOHowX2dzWUFsbXdMTTFSbGFxZ2JIdF9UOF9rU0pNWXBuR0FPWllnVjQ0SUNCaFE5TFoxUGZwdG1XSGlZcF9FLW9RcFdHYXM?oc=5",
           "snippet": "",
@@ -7807,6 +7895,25 @@
           "group_label": "게임 · e스포츠"
         },
         {
+          "title": "2018 아시안게임 골프 해독하기 소셜 미디어 독특한 통찰",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOUJFZmxWLVFVdzRVT1JPX01OLXVzdVI5a0ZqbUZlT0tDeWtWN25EcXBiZkJrZmJTSFdHV1VFVGoyaTBFcVlvZ1M2RXl0bTRTbUhvUTNrN05pSVZvZ3Z1d25KMUZjZVp4UW91YTVwYVVONGlURFctLUdPem15dzRfeHM5RnVtSVJqVlNoQmJ1Nms1OU9oVHhMaVJISHpxQ2VWX3RrM0J6dw?oc=5",
+          "snippet": "",
+          "source": "Histoire pour tous",
+          "sources": [
+            {
+              "name": "Histoire pour tous",
+              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOUJFZmxWLVFVdzRVT1JPX01OLXVzdVI5a0ZqbUZlT0tDeWtWN25EcXBiZkJrZmJTSFdHV1VFVGoyaTBFcVlvZ1M2RXl0bTRTbUhvUTNrN05pSVZvZ3Z1d25KMUZjZVp4UW91YTVwYVVONGlURFctLUdPem15dzRfeHM5RnVtSVJqVlNoQmJ1Nms1OU9oVHhMaVJISHpxQ2VWX3RrM0J6dw?oc=5",
+              "origin": "google",
+              "title": "2018 아시안게임 골프 해독하기 소셜 미디어 독특한 통찰"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T09:42:36+09:00",
+          "ts": 1789260156.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
           "title": "저그를 눈앞에서 직접 쏜다... 스타크래프트, 15년 만의 신작은 오픈월...",
           "url": "https://www.insight.co.kr/news/573200",
           "snippet": "이번 신작은 기존의 실시간전략게임(RTS) 방식에서 벗어나 플레이어가 직접 전장에 뛰어드는 오픈월드... 2004년 출시된 초기 게임 방식을 살리면서 새로운 이야기와 콘텐츠를 추가한다. 최고 레벨은 60으로 유지한다. 3년...",
@@ -7822,25 +7929,6 @@
           "source_count": 1,
           "published": "2026-09-13T09:10:00+09:00",
           "ts": 1789258200.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
-          "title": "스타크래프트 신작, 2030년 오픈월드 슈터로 나온다",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UdUFvU3RrNEJ5RHpPQXRYVGkxSlN0WU5rU1dnTE1BQldxSm80RUF1c1g4bDFuRXNkbFltRTN4dkZRYmk2REI2a2hDaXp4bVdjSVBjbHNRclYta0E5WHUyY2FMdkFQVmZFdm1IRg?oc=5",
-          "snippet": "",
-          "source": "게임톡",
-          "sources": [
-            {
-              "name": "게임톡",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UdUFvU3RrNEJ5RHpPQXRYVGkxSlN0WU5rU1dnTE1BQldxSm80RUF1c1g4bDFuRXNkbFltRTN4dkZRYmk2REI2a2hDaXp4bVdjSVBjbHNRclYta0E5WHUyY2FMdkFQVmZFdm1IRg?oc=5",
-              "origin": "google",
-              "title": "스타크래프트 신작, 2030년 오픈월드 슈터로 나온다"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-13T09:02:00+09:00",
-          "ts": 1789257720.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
         },
@@ -7879,6 +7967,25 @@
           "source_count": 1,
           "published": "2026-09-13T08:46:28+09:00",
           "ts": 1789256788.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
+          "title": "화면에 보이는 금액의 의미부터 짚는 카지노 게임 다운로드 슬롯보증",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeGZGWWxxWW9YNklYRVo4ZXNGeVRERjNadkVTNllOdjRMOGhNMVliSmNRS1hYUUxfaFBDT1I3amVXeVlvUXlZQUhGcU1SZ2RlSG5nUGZHVFdqdWpvTFBlOHJrMV9jNW5ZV3FoV3hDbzQ1a0V1WkF2X0F0Z2Y4LW9iZnhLbnI5cjlpTURZVGh3STBMbHY2WWFQTlpiaS1tWlExa1cwMUlENmFFQnprUC0zS3hrZFlmWE1GRXFtVWdvOVc0cGUxTUE3MDRRbDJ4MUxSQ2pZcA?oc=5",
+          "snippet": "",
+          "source": "Calgary Roughnecks",
+          "sources": [
+            {
+              "name": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeGZGWWxxWW9YNklYRVo4ZXNGeVRERjNadkVTNllOdjRMOGhNMVliSmNRS1hYUUxfaFBDT1I3amVXeVlvUXlZQUhGcU1SZ2RlSG5nUGZHVFdqdWpvTFBlOHJrMV9jNW5ZV3FoV3hDbzQ1a0V1WkF2X0F0Z2Y4LW9iZnhLbnI5cjlpTURZVGh3STBMbHY2WWFQTlpiaS1tWlExa1cwMUlENmFFQnprUC0zS3hrZFlmWE1GRXFtVWdvOVc0cGUxTUE3MDRRbDJ4MUxSQ2pZcA?oc=5",
+              "origin": "google",
+              "title": "화면에 보이는 금액의 의미부터 짚는 카지노 게임 다운로드 슬롯보증"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T08:35:26+09:00",
+          "ts": 1789256126.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
         },
@@ -7936,6 +8043,25 @@
           "source_count": 1,
           "published": "2026-09-13T08:00:46+09:00",
           "ts": 1789254046.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
+          "title": "어떤 항목이 게임 규칙에 속하나요? 겁쟁이 다람쥐 토토리",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQVZDMmNiVVpPUGJYUWQtdll0NUgxNmRkR3NYRHRpU3JpQUhtWmZXM3B1VFd3cFlJZXk2Um40cWd5c0pOQ2sxNENQdlFERmgzNWFzZjEzVFA0dHEtQUVkYldQU0trYy1pb01RR09pQVNzbHlzVUhQSjBYOWNiMXZwWHlHTGFMV0lrQzd1NzdWeDBnQXRPXzVJQ1p4cGsyTXJia19MNlU5U0x4akU5dWJrM1hyT1RBX0dxcGZXdThB?oc=5",
+          "snippet": "",
+          "source": "Histoire pour tous",
+          "sources": [
+            {
+              "name": "Histoire pour tous",
+              "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQVZDMmNiVVpPUGJYUWQtdll0NUgxNmRkR3NYRHRpU3JpQUhtWmZXM3B1VFd3cFlJZXk2Um40cWd5c0pOQ2sxNENQdlFERmgzNWFzZjEzVFA0dHEtQUVkYldQU0trYy1pb01RR09pQVNzbHlzVUhQSjBYOWNiMXZwWHlHTGFMV0lrQzd1NzdWeDBnQXRPXzVJQ1p4cGsyTXJia19MNlU5U0x4akU5dWJrM1hyT1RBX0dxcGZXdThB?oc=5",
+              "origin": "google",
+              "title": "어떤 항목이 게임 규칙에 속하나요? 겁쟁이 다람쥐 토토리"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T07:48:16+09:00",
+          "ts": 1789253296.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
         },
@@ -8111,6 +8237,25 @@
           "group_label": "게임 · e스포츠"
         },
         {
+          "title": "'스타크래프트' 신작 발표, 그런데 장르가 완전히... 전세계 게임판 뒤...",
+          "url": "https://www.wikitree.co.kr/articles/1159108",
+          "snippet": "특히 한국에서 폭발적인 인기를 끌며 PC방 문화와 e스포츠 산업이 자리 잡는 토대가 됐다. 원작에 이어 2010년... 공포 게임 '피어(F.E.A.R.)' 시리즈 개발에도 참여했다. 2022년 블리자드에 합류했다. 헤이 총괄은 무대에 올라...",
+          "source": "wikitree.co.kr",
+          "sources": [
+            {
+              "name": "wikitree.co.kr",
+              "url": "https://www.wikitree.co.kr/articles/1159108",
+              "origin": "naver",
+              "title": "'스타크래프트' 신작 발표, 그런데 장르가 완전히... 전세계 게임판 뒤..."
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T06:10:00+09:00",
+          "ts": 1789247400.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
           "title": "“조여정 꿈 샀다”…이창동, 韓 최초 베니스영화제 심사위원대상",
           "url": "https://www.joongang.co.kr/article/25461331",
           "snippet": "권력 게임들이 다층적이고 완벽한 속도로 전개되는 영화”라고 평가했다. 전도연은 이번 영화로 “100년에 한 번 나올법한 명연기”(미국 연예매체 인디와이어)라 극찬받았지만 코파 볼피-여우주연상은 황금사자상...",
@@ -8221,44 +8366,6 @@
           "source_count": 1,
           "published": "2026-09-13T04:50:35+09:00",
           "ts": 1789242635.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
-          "title": "다른 테마와 비교하는 데모 게임 시각적 구성",
-          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQZG9nY0laY29NYy1pRTdmUGwxbS1RVlJGOFZ3V2RmWjhTVmUycU5lbVBlZnJsaDI1eWtCZzhqN0ZuSzM1QkRGN0pfa3VBWkZIalJzM1ZKM2U2TWFkdHFwSWgwb0k2aXVlNHVZLUZkMU9xd192Q3pGQ3ZGc2IzWno0N2xBRnYxaU1LTjd1aWRXaGNER0trWUNIOU00WXB6WDViVldVaERWMTRwTXoxdS1pc016dzFkWXRSbURCRjFxOERhSl9tMThMUVA2cWJGTXVyZkstNV9RcG9zSGRXcHdtWTBiWHE1UUFfV2d3SGYwUzlqaWlDV3ZxcXJPV3NPM01qcmZJazFBaTROVy03VDB4WGpiTzY5V1RMR3J2MlNQXzlvVkhvZmdiWEp0M0o4cUJZ?oc=5",
-          "snippet": "",
-          "source": "Calgary Roughnecks",
-          "sources": [
-            {
-              "name": "Calgary Roughnecks",
-              "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQZG9nY0laY29NYy1pRTdmUGwxbS1RVlJGOFZ3V2RmWjhTVmUycU5lbVBlZnJsaDI1eWtCZzhqN0ZuSzM1QkRGN0pfa3VBWkZIalJzM1ZKM2U2TWFkdHFwSWgwb0k2aXVlNHVZLUZkMU9xd192Q3pGQ3ZGc2IzWno0N2xBRnYxaU1LTjd1aWRXaGNER0trWUNIOU00WXB6WDViVldVaERWMTRwTXoxdS1pc016dzFkWXRSbURCRjFxOERhSl9tMThMUVA2cWJGTXVyZkstNV9RcG9zSGRXcHdtWTBiWHE1UUFfV2d3SGYwUzlqaWlDV3ZxcXJPV3NPM01qcmZJazFBaTROVy03VDB4WGpiTzY5V1RMR3J2MlNQXzlvVkhvZmdiWEp0M0o4cUJZ?oc=5",
-              "origin": "google",
-              "title": "다른 테마와 비교하는 데모 게임 시각적 구성"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-13T04:34:55+09:00",
-          "ts": 1789241695.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
-          "title": "삼성 도박 오승환 게임 테마와 시각 요소",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUHhwYjZIRnYwYzZGWVRqemJGaGpjTjFUa2hWSXpKYVVDMTdpQlVHV1NIY3FZWVhHWTd1dzc0Z1I1WWlMUGJQcURPejRTbWhqOXNUUnVIR1ppejRPRWU1NDA2TTRnamY3NFZlTnpJTzh1Rm9GZHZHVDYtd2RRTzBPUXgxQ19tMmFHbTJ4YXZMby1jVUlGYmtBRFRmNnY5aER5aDFTWmU5dHlCY003T0JETHRReFlJTU9PaXN2eTI0NkF1YUtpYkJxaDBRLUdWcWpQ?oc=5",
-          "snippet": "",
-          "source": "Histoire pour tous",
-          "sources": [
-            {
-              "name": "Histoire pour tous",
-              "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUHhwYjZIRnYwYzZGWVRqemJGaGpjTjFUa2hWSXpKYVVDMTdpQlVHV1NIY3FZWVhHWTd1dzc0Z1I1WWlMUGJQcURPejRTbWhqOXNUUnVIR1ppejRPRWU1NDA2TTRnamY3NFZlTnpJTzh1Rm9GZHZHVDYtd2RRTzBPUXgxQ19tMmFHbTJ4YXZMby1jVUlGYmtBRFRmNnY5aER5aDFTWmU5dHlCY003T0JETHRReFlJTU9PaXN2eTI0NkF1YUtpYkJxaDBRLUdWcWpQ?oc=5",
-              "origin": "google",
-              "title": "삼성 도박 오승환 게임 테마와 시각 요소"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-13T04:34:55+09:00",
-          "ts": 1789241695.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
         },
@@ -8639,6 +8746,25 @@
           "source_count": 1,
           "published": "2026-09-13T01:35:24+09:00",
           "ts": 1789230924.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
+          "title": "규칙이 긴 게임을 읽는 순서와 골드머니 토토",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ1JBMm5FNFBYLXhxQ3JlQWE1dDVrRTFPd01MbTZJY3dfSmlCUGVual83UWxRVDdwRjNXY3lTcUxOcEhQSzJpaDNoc1JSYjNRdXBoU3JaTnYyQzRJVk5GczhRMUQtY0xuZ0ZVZlRxeWhMRWRaTnBTYTlBQWxQSF9RNkZzaUplWmJDeUtMNEw3ZFNESDZRQ1Fyd09HcHczbkRIdzFpMG1Xdm8?oc=5",
+          "snippet": "",
+          "source": "Calgary Roughnecks",
+          "sources": [
+            {
+              "name": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ1JBMm5FNFBYLXhxQ3JlQWE1dDVrRTFPd01MbTZJY3dfSmlCUGVual83UWxRVDdwRjNXY3lTcUxOcEhQSzJpaDNoc1JSYjNRdXBoU3JaTnYyQzRJVk5GczhRMUQtY0xuZ0ZVZlRxeWhMRWRaTnBTYTlBQWxQSF9RNkZzaUplWmJDeUtMNEw3ZFNESDZRQ1Fyd09HcHczbkRIdzFpMG1Xdm8?oc=5",
+              "origin": "google",
+              "title": "규칙이 긴 게임을 읽는 순서와 골드머니 토토"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T01:34:26+09:00",
+          "ts": 1789230866.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
         },
@@ -9325,101 +9451,6 @@
           "ts": 1789213683.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
-        },
-        {
-          "title": "Newzoo: 2026 상반기에 가장 확립된 라이브 서비스 및 장기 인기를 누린 게임은 전년대비 수익이 유지되거나 감소한 것으로 나타남",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLTBvUzJ1NllrVXJEOEJ3UVNsRWtYR3EzVDBZZGdjNkRsalMyUzJIdmwtMzkxYndvNzR3UWV0bkJFMEE4M044U2tIOWU5MzhNYW1GRk9sMUNBX1RNVnB2QmpzQ3JIb09oUlZlNVJSa0s5TDBFZkZSMDBJaHNIczctejFn?oc=5",
-          "snippet": "",
-          "source": "헝그리앱",
-          "sources": [
-            {
-              "name": "헝그리앱",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLTBvUzJ1NllrVXJEOEJ3UVNsRWtYR3EzVDBZZGdjNkRsalMyUzJIdmwtMzkxYndvNzR3UWV0bkJFMEE4M044U2tIOWU5MzhNYW1GRk9sMUNBX1RNVnB2QmpzQ3JIb09oUlZlNVJSa0s5TDBFZkZSMDBJaHNIczctejFn?oc=5",
-              "origin": "google",
-              "title": "Newzoo: 2026 상반기에 가장 확립된 라이브 서비스 및 장기 인기를 누린 게임은 전년대비 수익이 유지되거나 감소한 것으로 나타남"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-12T20:29:44+09:00",
-          "ts": 1789212584.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
-          "title": "게임 정보의 출처를 확인하는 백령도 토토 읽기 기준",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSm5kV3RxQ1pteGl0UHNYc0FmY0pWaEthc3hHNDdzcTgtRk55V1c2Yk1JMkNFYndwcGNNTGQ3bjIwRTk4aG9VMnFqYzlIZmM4U3JBc3JMY3pnYnFtY2FSSFVVVkxJTU9xSkJwcmpUU1phQ3RWOVlQcnFuNWpIOXlRbTdMU3JRemg3eEdxOHc0R2NvRVExYVNVc2VwZVZaX3dBbHl5Q2FaLXZyQVpBRnFpaUxUc1JZdGFOa1JVRFNiaVdwOF96UFp4T1lzMkU5RFZkVER6YnVnM3FsbklJSXdEMHh1Z3Q5dw?oc=5",
-          "snippet": "",
-          "source": "Calgary Roughnecks",
-          "sources": [
-            {
-              "name": "Calgary Roughnecks",
-              "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSm5kV3RxQ1pteGl0UHNYc0FmY0pWaEthc3hHNDdzcTgtRk55V1c2Yk1JMkNFYndwcGNNTGQ3bjIwRTk4aG9VMnFqYzlIZmM4U3JBc3JMY3pnYnFtY2FSSFVVVkxJTU9xSkJwcmpUU1phQ3RWOVlQcnFuNWpIOXlRbTdMU3JRemg3eEdxOHc0R2NvRVExYVNVc2VwZVZaX3dBbHl5Q2FaLXZyQVpBRnFpaUxUc1JZdGFOa1JVRFNiaVdwOF96UFp4T1lzMkU5RFZkVER6YnVnM3FsbklJSXdEMHh1Z3Q5dw?oc=5",
-              "origin": "google",
-              "title": "게임 정보의 출처를 확인하는 백령도 토토 읽기 기준"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-12T19:14:58+09:00",
-          "ts": 1789208098.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
-          "title": "게임 대화창 png 보너스 재진입 조건 확인",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9scXYxb0FfcHhmY0duNFNnV2hrcmExODRReTF1d0JyMnVsQzVWVWtQV2d0UFNncjZ1MXBqOUx6MjNJUzkzTVFiQWpITE9XQU5lRWdhQllmb1NvUUNTNllBUG1lbTRxYkU5c2pTMjhyRklVTUk2WTJpS2N5eTFxRVk?oc=5",
-          "snippet": "",
-          "source": "Calgary Roughnecks",
-          "sources": [
-            {
-              "name": "Calgary Roughnecks",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9scXYxb0FfcHhmY0duNFNnV2hrcmExODRReTF1d0JyMnVsQzVWVWtQV2d0UFNncjZ1MXBqOUx6MjNJUzkzTVFiQWpITE9XQU5lRWdhQllmb1NvUUNTNllBUG1lbTRxYkU5c2pTMjhyRklVTUk2WTJpS2N5eTFxRVk?oc=5",
-              "origin": "google",
-              "title": "게임 대화창 png 보너스 재진입 조건 확인"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-12T19:02:59+09:00",
-          "ts": 1789207379.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
-          "title": "한글 메뉴가 없을 때 참고할 게임 플레이어수 버튼 뜻",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeFIzWjRUSkZEWjZSRmhDVWdMZTE3NnI5TGNSUTJGdU1uY0s5VmN4cGxuNFNtRlR5ejJuZ0VUVXZnQTA0Zkt2YkxOa1NPdkpXQzE1My1VMEVhNFE3T0U3SU9EWW1ZdkRXelMtTmJOa0IyNUJsblRKTmttVlVrT0lsTjNkZTFCbk4zMVFJMDhXV2hvTDBWXzQwRTVFeFNubjBBTUY2d0g4WkR5MjhxbjVQOTlqbGlLTTJycjhpZDlqMlFYMmVQWUdfLVRFVFM4WVI2bmY2QWxBU0ZVLU5nYzVGNE1RSmhNSUpNdExOamhSXzc0cXB0MFdZ?oc=5",
-          "snippet": "",
-          "source": "Histoire pour tous",
-          "sources": [
-            {
-              "name": "Histoire pour tous",
-              "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeFIzWjRUSkZEWjZSRmhDVWdMZTE3NnI5TGNSUTJGdU1uY0s5VmN4cGxuNFNtRlR5ejJuZ0VUVXZnQTA0Zkt2YkxOa1NPdkpXQzE1My1VMEVhNFE3T0U3SU9EWW1ZdkRXelMtTmJOa0IyNUJsblRKTmttVlVrT0lsTjNkZTFCbk4zMVFJMDhXV2hvTDBWXzQwRTVFeFNubjBBTUY2d0g4WkR5MjhxbjVQOTlqbGlLTTJycjhpZDlqMlFYMmVQWUdfLVRFVFM4WVI2bmY2QWxBU0ZVLU5nYzVGNE1RSmhNSUpNdExOamhSXzc0cXB0MFdZ?oc=5",
-              "origin": "google",
-              "title": "한글 메뉴가 없을 때 참고할 게임 플레이어수 버튼 뜻"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-12T18:59:13+09:00",
-          "ts": 1789207153.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
-          "title": "한화생명e스포츠, T1 3대1 꺾고 결승행…젠지와 '리턴매치'",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MSUZwR0hlQXEyaldvZHVhZllnYzFOS29mZnBieWVfNS1DYjdPWUlDTjdMZmFCOFZJNlBQODVRVE5Va3RrYmdUNy1JVUhGbDlwRWc0?oc=5",
-          "snippet": "",
-          "source": "네이트",
-          "sources": [
-            {
-              "name": "네이트",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MSUZwR0hlQXEyaldvZHVhZllnYzFOS29mZnBieWVfNS1DYjdPWUlDTjdMZmFCOFZJNlBQODVRVE5Va3RrYmdUNy1JVUhGbDlwRWc0?oc=5",
-              "origin": "google",
-              "title": "한화생명e스포츠, T1 3대1 꺾고 결승행…젠지와 '리턴매치'"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-12T18:45:00+09:00",
-          "ts": 1789206300.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
         }
       ]
     },
@@ -9435,19 +9466,19 @@
           "title": "강호동, '농심천심'에 AI 경영 접목…농협 조합장 미래역량 키운다",
           "url": "https://www.apnews.kr/news/articleView.html?idxno=3051234",
           "snippet": "교육과정도 이 같은 방향에 맞춰 농업·농촌 트렌드와 리더십·소통, 경제전망 등 조합 경영에 필요한 분야를 폭넓게 다룬다. 여기에 생성형 AI를 활용한 조합경영 혁신 방안을 포함해 새로운 기술을 경영 현장에 접목할 수...",
-          "source": "더퍼블릭",
+          "source": "apnews.kr",
           "sources": [
+            {
+              "name": "apnews.kr",
+              "url": "https://www.apnews.kr/news/articleView.html?idxno=3051234",
+              "origin": "naver",
+              "title": "강호동, '농심천심'에 AI 경영 접목…농협 조합장 미래역량 키운다"
+            },
             {
               "name": "더퍼블릭",
               "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QQ3p1T2hlbUV0Ukl0SGhlMnVmUDd1S1c4dGk2LTgxbVlmUjBDR3VZNHFkS3Q5dXczUVdpRzJveWotdFplOTl3bFlGOWpYa0diVWhscmV3bjVNOUhrczFtSXNRb3RQUzB1N1I4RUlWONIBb0FVX3lxTE5QQ3p1T2hlbUV0Ukl0SGhlMnVmUDd1S1c4dGk2LTgxbVlmUjBDR3VZNHFkS3Q5dXczUVdpRzJveWotdFplOTl3bFlGOWpYa0diVWhscmV3bjVNOUhrczFtSXNRb3RQUzB1N1I4RUlWOA?oc=5",
               "origin": "google",
               "title": "AI로 미래 연다…농협, 조합장 대상 ‘경영리더십과정’ 교육 실시"
-            },
-            {
-              "name": "AP신문",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xSmdQYmU5TTBuN2FBZmpidEY5Zkx0bXF5YnZxcDZmWFZsS19UTENMWE9XNGxHSHVfTDlOajVLWGNZLTlvc05reXFxZ0htV2tURkhRbFhDRmJoQm1ab0U2dzZWbWM3NzlPZy1LRtIBbEFVX3lxTE5xSmdQYmU5TTBuN2FBZmpidEY5Zkx0bXF5YnZxcDZmWFZsS19UTENMWE9XNGxHSHVfTDlOajVLWGNZLTlvc05reXFxZ0htV2tURkhRbFhDRmJoQm1ab0U2dzZWbWM3NzlPZy1LRg?oc=5",
-              "origin": "google",
-              "title": "강호동, ‘농심천심’에 AI 경영 접목…농협 조합장 미래역량 키운다"
             },
             {
               "name": "한국금융신문",
@@ -9634,6 +9665,25 @@
           "source_count": 2,
           "published": "2026-09-13T00:00:02+09:00",
           "ts": 1789225202.0,
+          "group": "trend_insight",
+          "group_label": "전망 · 심층분석"
+        },
+        {
+          "title": "[KCSCON 2026] 최종보 LG유플러스 보안사업담당 “통신망과 보안을 하나로”…AI·SASE·아이덴티티 아우르는 통합 보안 전략 공개",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBVElXRkpKNW85V1VKZ254ejZCTk5fNWNJdDZMVFVZa29LVHdzTHpxZGM2UURhZ2FLc3dzWDloU3dUb1BxM2w4NmxQVExIaXhkY19qcS1qb2gxSjJLX3dFNWQwdFBVRy1MMzZ4Qg?oc=5",
+          "snippet": "",
+          "source": "데일리시큐",
+          "sources": [
+            {
+              "name": "데일리시큐",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBVElXRkpKNW85V1VKZ254ejZCTk5fNWNJdDZMVFVZa29LVHdzTHpxZGM2UURhZ2FLc3dzWDloU3dUb1BxM2w4NmxQVExIaXhkY19qcS1qb2gxSjJLX3dFNWQwdFBVRy1MMzZ4Qg?oc=5",
+              "origin": "google",
+              "title": "[KCSCON 2026] 최종보 LG유플러스 보안사업담당 “통신망과 보안을 하나로”…AI·SASE·아이덴티티 아우르는 통합 보안 전략 공개"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-09-13T11:41:30+09:00",
+          "ts": 1789267290.0,
           "group": "trend_insight",
           "group_label": "전망 · 심층분석"
         },
@@ -9940,25 +9990,6 @@
           "ts": 1789185600.0,
           "group": "trend_insight",
           "group_label": "전망 · 심층분석"
-        },
-        {
-          "title": "\"반도체 산업은 항상 사이클\"…현재 국면에서 투자 전략은?",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhMjFHbmYyWHUtR2JJMGV0cnNvcEJzZEM4Ylp0SnJTazJxak45RUd0UUFOOW5SVG1DTFJhNElja1hpMU1OcVEtMnd6SGsydUhGNlFLM0J3aGRZZw?oc=5",
-          "snippet": "",
-          "source": "한국경제",
-          "sources": [
-            {
-              "name": "한국경제",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhMjFHbmYyWHUtR2JJMGV0cnNvcEJzZEM4Ylp0SnJTazJxak45RUd0UUFOOW5SVG1DTFJhNElja1hpMU1OcVEtMnd6SGsydUhGNlFLM0J3aGRZZw?oc=5",
-              "origin": "google",
-              "title": "\"반도체 산업은 항상 사이클\"…현재 국면에서 투자 전략은?"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-12T08:00:03+09:00",
-          "ts": 1789167603.0,
-          "group": "trend_insight",
-          "group_label": "전망 · 심층분석"
         }
       ]
     },
@@ -9968,7 +9999,7 @@
       "priority": 15,
       "page": "trends",
       "preview": 3,
-      "count": 15,
+      "count": 14,
       "items": [
         {
           "title": "중국 AI칩 시장, 엔비디아 빈자리 채우는 화웨이·GPU 4소룡",
@@ -10239,25 +10270,6 @@
           "source_count": 1,
           "published": "2026-09-12T10:01:00+09:00",
           "ts": 1789174860.0,
-          "group": "trend_global",
-          "group_label": "글로벌 동향"
-        },
-        {
-          "title": "가입자 절반이 해외…유튜브식 수익 배분 AI 캐릭터 챗",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UT1huSms3WlZ3aDFWcVp3UWFkRVJZTjB2SG0xT2QzaUoyWWdaSEJRRmZVUnJKUEhXNDdLeExOQkpPV3A0b3ZRaU92RlI1U2dUd2p3Tk42czBtUm1jUlhyY2N3WDlHZ25QUDVFaHMwWnRkUQ?oc=5",
-          "snippet": "",
-          "source": "마켓인",
-          "sources": [
-            {
-              "name": "마켓인",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UT1huSms3WlZ3aDFWcVp3UWFkRVJZTjB2SG0xT2QzaUoyWWdaSEJRRmZVUnJKUEhXNDdLeExOQkpPV3A0b3ZRaU92RlI1U2dUd2p3Tk42czBtUm1jUlhyY2N3WDlHZ25QUDVFaHMwWnRkUQ?oc=5",
-              "origin": "google",
-              "title": "가입자 절반이 해외…유튜브식 수익 배분 AI 캐릭터 챗"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-09-12T08:00:03+09:00",
-          "ts": 1789167603.0,
           "group": "trend_global",
           "group_label": "글로벌 동향"
         }
