@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "generated_at": "2026-10-17T10:09:13.045570+09:00",
+  "generated_at": "2026-10-17T10:39:12.560516+09:00",
   "window_hours": 30,
   "sources": [
     "네이버뉴스(API HUB)",
@@ -9,11 +9,11 @@
   "use_naver": true,
   "preview_items": 5,
   "counts": {
-    "collected": 4056,
-    "kept": 1718,
-    "excluded": 2338,
-    "consolidated": 876,
-    "multi": 218
+    "collected": 4059,
+    "kept": 1727,
+    "excluded": 2332,
+    "consolidated": 894,
+    "multi": 219
   },
   "groups": [
     {
@@ -73,15 +73,52 @@
               "title": "[경기 24시] 경기게임오디션 ‘역대 최고 경쟁률’…길드스튜디오 ‘남모’ 우승"
             },
             {
+              "name": "내외뉴스통신",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nYjlrZzBsOVRtMkpxWXEwd09zNTFIa0pZWkltVGhERUZ5ejFoRWpQN0lmYlNERlFNQmU5eXBwYmZ6Z0hkbjdxbVlQakFnNThzcU9VZ3dRelFVSGNsN0x3X3JTWDhrRl9vYmxRYdIBcEFVX3lxTE80eGNLVTgwbUR6RFlUeGt3UGd3QTlGR2Nodmp1RFMyQlh2ejhuUGI3ZF9ld09XRHRhN2tfQ1pHeVJMWUdfWnlpVHdSbGpMY1pBNlZDWFJiWHhiOUVfYTRleENyeE1IMDRQVHZUMkVhV0Q?oc=5",
+              "origin": "google",
+              "title": "역대 최고 경쟁률 뚫었다, 경기게임오디션 우승작은 ‘남모(NAMMO)"
+            },
+            {
               "name": "에너지경제신문",
               "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oM25rd0dJbHRBdDNRNTg1VUpDdmFXZ2hnNUdWWkR0NFIydGw3NGg4TDRXWjVvX1oydTVUZEFfYjBnRHdXM0FzOU55OFFrd21HZEI0a2p4My1JNzg?oc=5",
               "origin": "google",
               "title": "역대 최고 경쟁 뚫은 ‘남모’, 2026 경기게임오디션 우승"
             }
           ],
-          "source_count": 8,
+          "source_count": 9,
           "published": "2026-10-16T15:46:00+09:00",
           "ts": 1792133160.0,
+          "group": "gca",
+          "group_label": "경기콘텐츠진흥원"
+        },
+        {
+          "title": "경기게임오디션 우승작은 ‘남모’",
+          "url": "https://www.naeil.com/news/read/605346?ref=naver",
+          "snippet": "경기도와 경기콘텐츠진흥원은 15일 성남시 판교 경기창조경제혁신센터에서 열린 게임오디션 일반부문 최종 우승작에 ‘남모’를 개발한 길드스튜디오에 돌아갔다고 밝혔다. 올해로 21회를 맞이한 경기게임오디션에는...",
+          "source": "naeil.com",
+          "sources": [
+            {
+              "name": "naeil.com",
+              "url": "https://www.naeil.com/news/read/605346?ref=naver",
+              "origin": "naver",
+              "title": "경기게임오디션 우승작은 ‘남모’"
+            },
+            {
+              "name": "econonews.co.kr",
+              "url": "http://www.econonews.co.kr/news/articleView.html?idxno=445798",
+              "origin": "naver",
+              "title": "경기도, '2026 경기게임오디션' 최종 우승에 길드스튜디오 '남모' 선정"
+            },
+            {
+              "name": "현대일보",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yTWxqVjY2N082ZTNKbnNSU19CcWszeWpWU3FJZEl1Z0RIdlU0VW5KQVpxazFzT2lGWHZVTHFkQTJRNER3VDBubWhYODViU1FsQW03NnNscDZZdXN6T2R0OHN2TE1xM21oWmtkeVFB?oc=5",
+              "origin": "google",
+              "title": "길드스튜디오 ‘남모’, 경기게임오디션 최종 우승"
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-10-16T13:02:00+09:00",
+          "ts": 1792123320.0,
           "group": "gca",
           "group_label": "경기콘텐츠진흥원"
         },
@@ -107,31 +144,6 @@
           "source_count": 2,
           "published": "2026-10-16T17:40:00+09:00",
           "ts": 1792140000.0,
-          "group": "gca",
-          "group_label": "경기콘텐츠진흥원"
-        },
-        {
-          "title": "경기게임오디션 우승작은 ‘남모’",
-          "url": "https://www.naeil.com/news/read/605346?ref=naver",
-          "snippet": "경기도와 경기콘텐츠진흥원은 15일 성남시 판교 경기창조경제혁신센터에서 열린 게임오디션 일반부문 최종 우승작에 ‘남모’를 개발한 길드스튜디오에 돌아갔다고 밝혔다. 올해로 21회를 맞이한 경기게임오디션에는...",
-          "source": "naeil.com",
-          "sources": [
-            {
-              "name": "naeil.com",
-              "url": "https://www.naeil.com/news/read/605346?ref=naver",
-              "origin": "naver",
-              "title": "경기게임오디션 우승작은 ‘남모’"
-            },
-            {
-              "name": "econonews.co.kr",
-              "url": "http://www.econonews.co.kr/news/articleView.html?idxno=445798",
-              "origin": "naver",
-              "title": "경기도, '2026 경기게임오디션' 최종 우승에 길드스튜디오 '남모' 선정"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-10-16T13:02:00+09:00",
-          "ts": 1792123320.0,
           "group": "gca",
           "group_label": "경기콘텐츠진흥원"
         },
@@ -320,195 +332,50 @@
       "priority": 2,
       "page": "main",
       "preview": null,
-      "count": 82,
+      "count": 97,
       "items": [
         {
-          "title": "추미애 '소방 재정 빨대' 발언에 소방노조·야당 맹공... 민주당, 공식 ...",
-          "url": "https://www.insight.co.kr/news/578107",
-          "snippet": "추미애 경기도지사의 '소방 재정 빨대' 발언이 거센 파문을 일으키자 더불어민주당이 17일 공식 사과에... 이용우 대변인은 17일 서면 브리핑을 통해 \"추미애 경기도지사가 소방 재정을 설명하는 과정에서 사용한 표현으로...",
-          "source": "insight.co.kr",
+          "title": "추미애, 부천 화재 소방관 순직 애도 \"추모에 그치지 않겠다, 현장 안전...",
+          "url": "https://www.imaeil.com/page/view/2026101710331809150",
+          "snippet": "추미애 경기도지사가 경기 부천의 한 공장 화재 진압 과정에서 소방관 1명이 순직한 데 대해 깊은 애도를 표하며 \"추모하는 것에 그치지 않겠다\"고 밝혔다. 추미애 지사는 17일 오전 10시 27분쯤 페이스북을 통해 \"국민의...",
+          "source": "imaeil.com",
           "sources": [
             {
-              "name": "insight.co.kr",
-              "url": "https://www.insight.co.kr/news/578107",
+              "name": "imaeil.com",
+              "url": "https://www.imaeil.com/page/view/2026101710331809150",
               "origin": "naver",
-              "title": "추미애 '소방 재정 빨대' 발언에 소방노조·야당 맹공... 민주당, 공식 ..."
-            },
-            {
-              "name": "kizmom.com",
-              "url": "https://www.kizmom.com/news/articleView.html?idxno=113350",
-              "origin": "naver",
-              "title": "추미애 '소방 재정 빨대' 발언 논란…국민의힘 \"소방공무원에 사과하라..."
-            },
-            {
-              "name": "wikitree.co.kr",
-              "url": "https://www.wikitree.co.kr/articles/1166926",
-              "origin": "naver",
-              "title": "“소방이 골치아픈 재정 빨대” 추미애 발언 사흘뒤…부천 화재 소방관..."
-            },
-            {
-              "name": "세계일보",
-              "url": "https://www.segye.com/newsView/20261017500862?OutUrl=naver",
-              "origin": "naver",
-              "title": "“소방, 재정 빨대” 실언에 궁지 몰린 추미애…민주당이 대신 사과 [어..."
-            },
-            {
-              "name": "한국일보",
-              "url": "https://www.hankookilbo.com/news/article/A2026101610270005430?did=NA",
-              "origin": "naver",
-              "title": "[사설] 부천 화재 소방관 희생과 \"소방은 재정 빨대\" 秋의 부적절 발언"
-            },
-            {
-              "name": "YTN",
-              "url": "https://www.ytn.co.kr/_ln/0101_202610162248280094",
-              "origin": "naver",
-              "title": "추미애 '소방 빨대' 발언에 국힘 맹공...민주, 대신 사과"
-            },
-            {
-              "name": "조선일보",
-              "url": "https://www.chosun.com/politics/blue_house/2026/10/16/DKLSOD4TOZEQDLW5ELAILXSG5U/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-              "origin": "naver",
-              "title": "추미애 ‘소방 재정 빨대’ 논란 속... 李대통령 “소방관에 천금을 준..."
-            },
-            {
-              "name": "뉴스1",
-              "url": "https://www.news1.kr/local/gyeonggi/6323063",
-              "origin": "naver",
-              "title": "국민의힘 \"'소방 재정 빨대'라더니 예산까지 삭감\"…추미애 지사 비판"
-            },
-            {
-              "name": "JTBC",
-              "url": "https://news.jtbc.co.kr/article/NB12323232?influxDiv=NAVER",
-              "origin": "naver",
-              "title": "[비하인드 뉴스] \"소방은 재정 빨대\" 추미애 발언 후폭풍…경기도 해명"
-            },
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202610162100001",
-              "origin": "naver",
-              "title": "소방관들, 경기도청 앞 1인 시위···“추미애, ‘소방 재정 빨대’ 발..."
-            },
-            {
-              "name": "조선비즈",
-              "url": "https://biz.chosun.com/topics/topics_social/2026/10/14/5VFZGXPJUVEW3E35OTR5KRTGDM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-              "origin": "naver",
-              "title": "소방 노조, 추미애에 ‘재정 빨대’ 발언 사과 요구… 경기도 “국고지..."
+              "title": "추미애, 부천 화재 소방관 순직 애도 \"추모에 그치지 않겠다, 현장 안전..."
             },
             {
               "name": "뉴스핌",
-              "url": "https://www.newspim.com/news/view/20261016001385",
+              "url": "https://www.newspim.com/news/view/20261017000035",
               "origin": "naver",
-              "title": "'소방은 재정 빨대' 추미애, 부천 화재 현장서 해명 질문에 \"그런 얘기 ..."
+              "title": "부천 화재 순직 소방관, 경기도청장으로 장례…19일 영결식"
             },
             {
-              "name": "동아일보",
-              "url": "https://www.donga.com/news/Politics/article/all/20261016/134857269/1",
+              "name": "한국일보",
+              "url": "https://www.hankookilbo.com/news/article/A2026101710250000932?did=NA",
               "origin": "naver",
-              "title": "李 “소방관에 천금 준들 아깝겠나”…추미애 ‘재정 빨대’ 발언 저격..."
-            },
-            {
-              "name": "mbn.co.kr",
-              "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5225490",
-              "origin": "naver",
-              "title": "\"그런 얘기 하지 말라\"…'빨대 소방 재정' 질문에 날 선 추미애"
-            },
-            {
-              "name": "경기일보",
-              "url": "https://www.kyeonggi.com/article/20261016580413",
-              "origin": "naver",
-              "title": "“우리가 재정 빨대인가”…황선우 소방노조 경기위원장, 추미애 발언에..."
-            },
-            {
-              "name": "TV조선",
-              "url": "https://news.tvchosun.com/site/data/html_dir/2026/10/16/2026101690176.html",
-              "origin": "naver",
-              "title": "추미애 경기도지사 '소방 재정 빨대' 발언에 격분…\"관사 불 지르겠다\"..."
-            },
-            {
-              "name": "뉴시스",
-              "url": "https://www.newsis.com/view/NISX20261016_0003829291",
-              "origin": "naver",
-              "title": "\"소방관을 재정의 짐 취급?\"…이기인, 추미애 '빨대' 발언 비판"
-            },
-            {
-              "name": "서울경제",
-              "url": "https://www.sedaily.com/article/20102622?ref=naver",
-              "origin": "naver",
-              "title": "‘소방 재정 빨대’ 추미애 논란…당사자 침묵 속 與가 고개 숙여"
-            },
-            {
-              "name": "한국글로벌뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtR0VWNXpUZXZBODZqZUMtQnBLMjNzSDZhN240RFAyYl9uX3pIa00xZmpKem5kQW9iV2tKeFVzT3hKc3Z2dDdZa1g3RjU5VktCeEpBMnpQUmV4dEVFZDg1dA?oc=5",
-              "origin": "google",
-              "title": "“소방관이 재정 빨대인가”추미애 경기지사 발언에 소방계 반발 확산"
+              "title": "이 대통령, 부천 화재 소방관 순직에 \"참담한 마음… 안전대책 점검\""
             },
             {
               "name": "문화일보",
-              "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvdFRCUElmUUJUY29ZYjJ1cmdJNzNzNzlDYU52aFY4di1uY2pvQXJ2NnJaTFJRUXBlRWNrWFExNGE3ZXV4MldmZktjOGE2b001?oc=5",
-              "origin": "google",
-              "title": "추미애 경기지사 ‘소방 재정 빨대’ 발언에 격분…“관사 불 지르겠다” 협박한 60대 검거"
+              "url": "https://www.munhwa.com/article/11624159?ref=naver",
+              "origin": "naver",
+              "title": "[속보] 李대통령, 부천 화재 소방관 순직에 “참담한 마음…희생 잊지 ..."
             },
             {
-              "name": "인천일보",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93NmRyUlJmVVRPMTZHYU00Rm1vRFZVQ2N6bDNNWFpRRVEwOHliVWRIY1lTbVlENGdFNzBfdUM2LUNVcG55ekE2MWwyX09USDY4MnFUSlJBSzQyYmM5a0c0WVpqOHh1RmhXOHNUOW1aUQ?oc=5",
-              "origin": "google",
-              "title": "윤성근 전 경기도의원, 추미애 ‘소방 재정 빨대’ 발언 규탄…“소방관에 사과해야”"
+              "name": "wikitree.co.kr",
+              "url": "https://www.wikitree.co.kr/articles/1166945",
+              "origin": "naver",
+              "title": "부천 화재로 순직한 소방관 장례 '경기도청장'으로 치러진다"
             },
             {
-              "name": "한국NGO신문",
-              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByV3hjQldIaklQcGk3MUdLNjFkeXVlbWw5d3piWEJ1bk9zTTdQSklySk9BdVh2enNCZGRqT19hcUFQVEdVRjVZQUtDbEZ2MUxtMW00WFR0RTQ4TWN5ZWJEckoyaDNNanB0?oc=5",
-              "origin": "google",
-              "title": "‘소방은 재정 빨대’ 발언 추미애 경기지사, 부천 화재 현장 찾아"
+              "name": "연합뉴스TV",
+              "url": "http://www.yonhapnewstv.co.kr/news/AKR20261017100004ZVP",
+              "origin": "naver",
+              "title": "국힘 \"순직 소방관 애도…이재명 정부·추미애 석고대죄해야\""
             },
-            {
-              "name": "Chosunbiz",
-              "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaTg0aFg5dGxwQWJsUVo4ZTJQX0VVa3Njb2pTWUYwTUk3eldvQjBzR0pWaVNxd29GWHB0QlZjZHAxQzFOamc5OXkya3BJSmZHcFJqUEx4T3RBNUFGUFpyUFJwdmlhc0MwOXE4RFFGX0QwM1ZEYjJoaGg5T1c1aXJHV2U5YTlrSjl3WEHSAZ4BQVVfeXFMTVhTLS1QSDA0MTVTMzBnaHB0dlVSa3pqOG5HTnBubVI4am0yTENGbXVqZ0J2U1A4UzdCWHlpZU11TDV1TU5QdEROTnprSmR0RFlTQzM4ZHQtOGtwTjNndUJJcUloaDZfWGRYZlNRT3BtM3pOTWwzWVNTbGprT0N3MFVNdnpqdVJQcVp6Sm01dm5Sc3paN3RrbEVWN2tkVXc?oc=5",
-              "origin": "google",
-              "title": "소방 노조, 추미애에 ‘재정 빨대’ 발언 사과 요구… 경기도 “국고지원 필요 강조 취지” - 조선비즈"
-            },
-            {
-              "name": "경인매일",
-              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42dVYzZC0wMU5ER3hNNWNsSU85NTdzY1Q4TWlyN19WTjV3Qm54Y25EakVGelY4U3dKN2x2M1BHVnZUNWNJSHg2enlPTFViLTViUFJMMUdyYXlNSzR5MG1MNk9hSWhJSE5V?oc=5",
-              "origin": "google",
-              "title": "경기도의회 국민의힘, 추미애 지사 소방 예산 발언 비판...공식 사과 촉구"
-            },
-            {
-              "name": "데일리엔뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKQWdkb1l1R1RxVDFHYTBXaGJkdzl5Mkg1MFZQazZ0bWNiMDRlOFNiWW44TGpJb0ViWEtZeXpNTldrU0FuTWdDdkwtY2l6V19ERjc1OUtEMFRuZw?oc=5",
-              "origin": "google",
-              "title": "경기도의회 국민의힘, 추미애 ‘소방 재정 빨대’ 발언 강력 비판…“즉각 사과해야”"
-            },
-            {
-              "name": "퍼블릭타임스",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmemFNdVJab3ptVVJqSXViTzJNa3VsUkJiekJEUXlpN25yWk0zRHVwbnNzNzlBcmowTmRELTdFcktHS0JQam5aNmI2b3BZY09ZdlRPX1VIYlRxS2QzZ1pJcGRyZXBITlpaWFHSAW5BVV95cUxQUlh1bEk2OS1wSGwxNWFxTmZBX3lLT2VtTjduamQ1RjN5M0R1aDktWVlHMml5aXJ6dkxQMHZwZHhFcVVEQTRuRWFoMmIxTGxzTHg5WURRMVNfVXdadzlZMlN5UHJJSXpEU3ZqUnJfdw?oc=5",
-              "origin": "google",
-              "title": "“소방이 재정 빨대?” 소방노조, 추미애 경기지사에 사과 요구"
-            },
-            {
-              "name": "OBS경인TV",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TZEM1NDRGTmoxMXRORTRqNW5xSEJ1X3d6ZExldUp2bXBRc3pscjBQQjlnVXFMcHBkejZMenVNOENfemxoMmRtTlc0b0lTb3o2TjNQOU9TbFlqZkNTTWlvZE1VaDByQ0gtMUltaUN3?oc=5",
-              "origin": "google",
-              "title": "소방노조, 추미애 '재정 빨대' 발언 반발…경기도 해명"
-            },
-            {
-              "name": "뉴데일리 경기",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xRmJFcjRkRlFjZlVjRThaTHlDMnpfRHFqNzJRcFZjSndRSEVfbTYteEhTalFmc1VhREl6TmdOdW1qX0pCM05mTUcxRkttRzJVLTI0VHhGMTg1YXB2TlYxRE5PcFREOThXTXdGanJpVXZ6al9pM0luR3RESFAzSDTSAX9BVV95cUxNMUZiRXI0ZEZRY2ZVY0U4Wkx5QzJ6X0RxajcyUXBWY0p3UUhFX202LXhIU2pRZnNVYURJek5nTnVtal9KQjNOZk1HMUZLbUcyVS0yNFR4RjE4NWFwdk5WMUROT3BURDk4V013RmpyaVV2empfaTNJbkd0REhQM0g0?oc=5",
-              "origin": "google",
-              "title": "경기도의회 국힘 \"추미애, 소방은 '재정 빨대' 발언 사죄하라\""
-            }
-          ],
-          "source_count": 28,
-          "published": "2026-10-17T09:42:00+09:00",
-          "ts": 1792197720.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "'소방 발언' 논란 추미애...부천 화재 현장 찾아 \"헌신에 감사\"",
-          "url": "https://www.ytn.co.kr/_ln/0115_202610162143502730",
-          "snippet": "가운데, 추미애 경기도지사가 현장을 찾았습니다. 경기도청 국정감사에서 '소방 재정' 관련 발언으로 논란을 빚은 지 사흘 만입니다. 최기성 기자입니다. [기자] 추미애 경기도지사가 제주에서 열리는 전국체육대회 개회식...",
-          "source": "YTN",
-          "sources": [
             {
               "name": "YTN",
               "url": "https://www.ytn.co.kr/_ln/0115_202610162143502730",
@@ -516,16 +383,10 @@
               "title": "'소방 발언' 논란 추미애...부천 화재 현장 찾아 \"헌신에 감사\""
             },
             {
-              "name": "연합뉴스TV",
-              "url": "http://www.yonhapnewstv.co.kr/news/MYH20261016203633K1b",
-              "origin": "naver",
-              "title": "'재정 빨대' 논란 속…추미애, 부천 화재 현장행"
-            },
-            {
-              "name": "뉴스핌",
-              "url": "https://www.newspim.com/news/view/20261016001387",
-              "origin": "naver",
-              "title": "추미애, 일정 취소하고 부천 화재현장으로…\"소방 가족 헌신 진심으로 ..."
+              "name": "한국NGO신문",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByV3hjQldIaklQcGk3MUdLNjFkeXVlbWw5d3piWEJ1bk9zTTdQSklySk9BdVh2enNCZGRqT19hcUFQVEdVRjVZQUtDbEZ2MUxtMW00WFR0RTQ4TWN5ZWJEckoyaDNNanB0?oc=5",
+              "origin": "google",
+              "title": "‘소방은 재정 빨대’ 발언 추미애 경기지사, 부천 화재 현장 찾아"
             },
             {
               "name": "경인방송 뉴스",
@@ -550,17 +411,152 @@
               "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kLW9UdUgtdDR4TzN6bGktM21YLWpsR3MtRFFyWDRfMkcxNEJCVFAzam1aZ2pHSXdWaUZjNFRTWE9xdmRpRkFSZ1dKb2JzcDhuUmx5Um1KSHFORDZGNXZLUE9VMmNXTTA?oc=5",
               "origin": "google",
               "title": "추미애 경기도지사, 부천 공장 화재 현장 방문…부상 소방관 지원 약속"
-            },
-            {
-              "name": "전국매일신문",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTX3JrRnFVenBzNXdUNk5ib2w2aVNqOXVIZlpUSk91VXJNek9EWmU3SWJzWjJuY21QQS1Bci01ZGlvVGt4OE0tSENNOUhTdDNBOTVtM1FHQl9Cb1owTVV0TFdaMUFYLUk1Ykh5WmNR?oc=5",
-              "origin": "google",
-              "title": "추미애 경기도지사, 부천 공장 화재 현장 찾아"
             }
           ],
-          "source_count": 8,
-          "published": "2026-10-16T21:43:00+09:00",
-          "ts": 1792154580.0,
+          "source_count": 12,
+          "published": "2026-10-17T10:34:00+09:00",
+          "ts": 1792200840.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "“소방, 재정 빨대” 실언에 궁지 몰린 추미애…민주당이 대신 사과 [어...",
+          "url": "https://www.segye.com/newsView/20261017500862?OutUrl=naver",
+          "snippet": "보인 추미애 경기지사가 궁지에 몰린 형국이다. 이 대통령을 비롯한 여권 주류의 견제구에도 아랑곳하지... 추미애 경기도지사가 13일 경기 수원시 경기도청에서 열린 국회 행정안전위원회의 경기도에 대한 국정감사에서...",
+          "source": "세계일보",
+          "sources": [
+            {
+              "name": "세계일보",
+              "url": "https://www.segye.com/newsView/20261017500862?OutUrl=naver",
+              "origin": "naver",
+              "title": "“소방, 재정 빨대” 실언에 궁지 몰린 추미애…민주당이 대신 사과 [어..."
+            },
+            {
+              "name": "YTN",
+              "url": "https://www.ytn.co.kr/_ln/0101_202610162248280094",
+              "origin": "naver",
+              "title": "추미애 '소방 빨대' 발언에 국힘 맹공...민주, 대신 사과"
+            },
+            {
+              "name": "조선일보",
+              "url": "https://www.chosun.com/politics/blue_house/2026/10/16/DKLSOD4TOZEQDLW5ELAILXSG5U/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+              "origin": "naver",
+              "title": "추미애 ‘소방 재정 빨대’ 논란 속... 李대통령 “소방관에 천금을 준..."
+            },
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202610162100001",
+              "origin": "naver",
+              "title": "소방관들, 경기도청 앞 1인 시위···“추미애, ‘소방 재정 빨대’ 발..."
+            },
+            {
+              "name": "조선비즈",
+              "url": "https://biz.chosun.com/topics/topics_social/2026/10/14/5VFZGXPJUVEW3E35OTR5KRTGDM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+              "origin": "naver",
+              "title": "소방 노조, 추미애에 ‘재정 빨대’ 발언 사과 요구… 경기도 “국고지..."
+            },
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261016103051001?input=1195m",
+              "origin": "naver",
+              "title": "추미애 '재정 빨대' 발언에…與 대신 사과·국힘 \"망언\" 재비판(종합)"
+            },
+            {
+              "name": "한국글로벌뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtR0VWNXpUZXZBODZqZUMtQnBLMjNzSDZhN240RFAyYl9uX3pIa00xZmpKem5kQW9iV2tKeFVzT3hKc3Z2dDdZa1g3RjU5VktCeEpBMnpQUmV4dEVFZDg1dA?oc=5",
+              "origin": "google",
+              "title": "“소방관이 재정 빨대인가”추미애 경기지사 발언에 소방계 반발 확산"
+            },
+            {
+              "name": "인천일보",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93NmRyUlJmVVRPMTZHYU00Rm1vRFZVQ2N6bDNNWFpRRVEwOHliVWRIY1lTbVlENGdFNzBfdUM2LUNVcG55ekE2MWwyX09USDY4MnFUSlJBSzQyYmM5a0c0WVpqOHh1RmhXOHNUOW1aUQ?oc=5",
+              "origin": "google",
+              "title": "윤성근 전 경기도의원, 추미애 ‘소방 재정 빨대’ 발언 규탄…“소방관에 사과해야”"
+            },
+            {
+              "name": "Chosunbiz",
+              "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaTg0aFg5dGxwQWJsUVo4ZTJQX0VVa3Njb2pTWUYwTUk3eldvQjBzR0pWaVNxd29GWHB0QlZjZHAxQzFOamc5OXkya3BJSmZHcFJqUEx4T3RBNUFGUFpyUFJwdmlhc0MwOXE4RFFGX0QwM1ZEYjJoaGg5T1c1aXJHV2U5YTlrSjl3WEHSAZ4BQVVfeXFMTVhTLS1QSDA0MTVTMzBnaHB0dlVSa3pqOG5HTnBubVI4am0yTENGbXVqZ0J2U1A4UzdCWHlpZU11TDV1TU5QdEROTnprSmR0RFlTQzM4ZHQtOGtwTjNndUJJcUloaDZfWGRYZlNRT3BtM3pOTWwzWVNTbGprT0N3MFVNdnpqdVJQcVp6Sm01dm5Sc3paN3RrbEVWN2tkVXc?oc=5",
+              "origin": "google",
+              "title": "소방 노조, 추미애에 ‘재정 빨대’ 발언 사과 요구… 경기도 “국고지원 필요 강조 취지” - 조선비즈"
+            },
+            {
+              "name": "데일리엔뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKQWdkb1l1R1RxVDFHYTBXaGJkdzl5Mkg1MFZQazZ0bWNiMDRlOFNiWW44TGpJb0ViWEtZeXpNTldrU0FuTWdDdkwtY2l6V19ERjc1OUtEMFRuZw?oc=5",
+              "origin": "google",
+              "title": "경기도의회 국민의힘, 추미애 ‘소방 재정 빨대’ 발언 강력 비판…“즉각 사과해야”"
+            },
+            {
+              "name": "퍼블릭타임스",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmemFNdVJab3ptVVJqSXViTzJNa3VsUkJiekJEUXlpN25yWk0zRHVwbnNzNzlBcmowTmRELTdFcktHS0JQam5aNmI2b3BZY09ZdlRPX1VIYlRxS2QzZ1pJcGRyZXBITlpaWFHSAW5BVV95cUxQUlh1bEk2OS1wSGwxNWFxTmZBX3lLT2VtTjduamQ1RjN5M0R1aDktWVlHMml5aXJ6dkxQMHZwZHhFcVVEQTRuRWFoMmIxTGxzTHg5WURRMVNfVXdadzlZMlN5UHJJSXpEU3ZqUnJfdw?oc=5",
+              "origin": "google",
+              "title": "“소방이 재정 빨대?” 소방노조, 추미애 경기지사에 사과 요구"
+            }
+          ],
+          "source_count": 11,
+          "published": "2026-10-17T05:44:00+09:00",
+          "ts": 1792183440.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "부천 공장 화재 진압 중 부상 김진석 소방위 순직…경기도청장 엄수",
+          "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1302249",
+          "snippet": "소방대원 뒷모습 바라보는 추미애 지사. 경기 부천시 도장공장 화재 현장에서 진압 및 구조활동 중 부상을... 추미애 경기도지사는 고인의 마지막 길에 소홀함이 없도록 경기도 차원에서 최고의 예우를 갖춰 장례를 진행할...",
+          "source": "jeonmae.co.kr",
+          "sources": [
+            {
+              "name": "jeonmae.co.kr",
+              "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1302249",
+              "origin": "naver",
+              "title": "부천 공장 화재 진압 중 부상 김진석 소방위 순직…경기도청장 엄수"
+            },
+            {
+              "name": "etoday.co.kr",
+              "url": "https://www.etoday.co.kr/news/view/2636895",
+              "origin": "naver",
+              "title": "'구조할 사람 있다' 판단에 들어간 선착대…부천 화재 김진석 소방위 끝..."
+            },
+            {
+              "name": "파이낸셜뉴스",
+              "url": "https://www.fnnews.com/news/202610162014449163",
+              "origin": "naver",
+              "title": "부천 도장 공장 화재 부상자 8명…소방관 1명 심정지"
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-10-17T10:32:00+09:00",
+          "ts": 1792200720.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "야당, '소방 빨대' 발언 공세‥\"추미애는 입이 없나\"·\"뻔뻔함의 극치\"",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6858647_36911.html",
+          "snippet": "국민의힘이 소방 예산을 두고 '재정 빨대'라고 표현해 논란을 빚은 추미애 경기도지사를 향해 논평 세 건을... 앞서 추미애 지사는 나흘 전 국회 행정안전위원회 국정감사에서, \"소방이 가장 큰 골치 아픈 재정 빨대 같다\"고...",
+          "source": "MBC",
+          "sources": [
+            {
+              "name": "MBC",
+              "url": "https://imnews.imbc.com/news/2026/politics/article/6858647_36911.html",
+              "origin": "naver",
+              "title": "야당, '소방 빨대' 발언 공세‥\"추미애는 입이 없나\"·\"뻔뻔함의 극치\""
+            },
+            {
+              "name": "insight.co.kr",
+              "url": "https://www.insight.co.kr/news/578107",
+              "origin": "naver",
+              "title": "추미애 '소방 재정 빨대' 발언에 소방노조·야당 맹공... 민주당, 공식 ..."
+            },
+            {
+              "name": "kizmom.com",
+              "url": "https://www.kizmom.com/news/articleView.html?idxno=113350",
+              "origin": "naver",
+              "title": "추미애 '소방 재정 빨대' 발언 논란…국민의힘 \"소방공무원에 사과하라..."
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-10-17T10:15:00+09:00",
+          "ts": 1792199700.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -592,6 +588,149 @@
           "source_count": 3,
           "published": "2026-10-17T00:57:00+09:00",
           "ts": 1792166220.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "국민의힘 \"'소방 재정 빨대'라더니 예산까지 삭감\"…추미애 지사 비판",
+          "url": "https://www.news1.kr/local/gyeonggi/6323063",
+          "snippet": "추미애 경기도지사의 이른바 '소방 재정 빨대' 발언과 소방예산 감액 문제를 두고 국민의힘 경기도당이 비판의 날을 세웠다. 도당은 16일 입장문을 내고 \"도민의 생명을 지키기 위해 화마 속으로 뛰어드는 소방공무원들이...",
+          "source": "뉴스1",
+          "sources": [
+            {
+              "name": "뉴스1",
+              "url": "https://www.news1.kr/local/gyeonggi/6323063",
+              "origin": "naver",
+              "title": "국민의힘 \"'소방 재정 빨대'라더니 예산까지 삭감\"…추미애 지사 비판"
+            },
+            {
+              "name": "매일경제",
+              "url": "https://www.mk.co.kr/article/12178252",
+              "origin": "naver",
+              "title": "추미애 “소방이 재정 빨대” 후폭풍…野 “경기도가 소방 예산 삭감”"
+            },
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261016174300061?input=1195m",
+              "origin": "naver",
+              "title": "국힘 경기도당 \"경기도, 소방차 구매 축소·추모 예산 삭감\""
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-10-16T22:03:00+09:00",
+          "ts": 1792155780.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "李 \"소방관 헌신에 천금 아깝겠나\"… 추미애 '재정 빨대' 논란 염두?",
+          "url": "https://www.hankookilbo.com/news/article/A2026101620280002663?did=NA",
+          "snippet": "이에 추미애 경기지사의 '소방 재정 빨대' 발언 논란을 염두에 둔 게 아니냐는 해석이 나왔다. 이 대통령은... 이 대통령의 발언은 추미애 경기지사의 '소방 재정 빨대' 발언 논란 속에 나왔다. 앞서 추 지사는 13일 국회...",
+          "source": "한국일보",
+          "sources": [
+            {
+              "name": "한국일보",
+              "url": "https://www.hankookilbo.com/news/article/A2026101620280002663?did=NA",
+              "origin": "naver",
+              "title": "李 \"소방관 헌신에 천금 아깝겠나\"… 추미애 '재정 빨대' 논란 염두?"
+            },
+            {
+              "name": "jasm.co.kr",
+              "url": "https://www.jasm.co.kr/news/view/321888/?sc=Naver",
+              "origin": "naver",
+              "title": "李대통령, 부상 소방관·장병 쾌유기원…\"헌신에 천금 아깝겠나\""
+            },
+            {
+              "name": "서울경제",
+              "url": "https://www.sedaily.com/article/20102622?ref=naver",
+              "origin": "naver",
+              "title": "‘소방 재정 빨대’ 추미애 논란…당사자 침묵 속 與가 고개 숙여"
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-10-16T20:46:00+09:00",
+          "ts": 1792151160.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "흐느끼는 소방관들 위로한 추미애… ‘소방 빨대’ 발언엔 사과 없었다",
+          "url": "https://www.segye.com/newsView/20261016515658?OutUrl=naver",
+          "snippet": "사과 추미애 경기도지사가 16일 소방관 5명이 다친 경기 부천의 공장 화재 현장을 찾아 부상 소방관들의... 추미애 경기도지사가 16일 부천 오정구의 한 도장공장 화재현장을 살피던 중 흐느끼는 한 소방관을 위로하고 있다....",
+          "source": "세계일보",
+          "sources": [
+            {
+              "name": "세계일보",
+              "url": "https://www.segye.com/newsView/20261016515658?OutUrl=naver",
+              "origin": "naver",
+              "title": "흐느끼는 소방관들 위로한 추미애… ‘소방 빨대’ 발언엔 사과 없었다"
+            },
+            {
+              "name": "문화일보",
+              "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvdFRCUElmUUJUY29ZYjJ1cmdJNzNzNzlDYU52aFY4di1uY2pvQXJ2NnJaTFJRUXBlRWNrWFExNGE3ZXV4MldmZktjOGE2b001?oc=5",
+              "origin": "google",
+              "title": "추미애 경기지사 ‘소방 재정 빨대’ 발언에 격분…“관사 불 지르겠다” 협박한 60대 검거"
+            },
+            {
+              "name": "경인매일",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42dVYzZC0wMU5ER3hNNWNsSU85NTdzY1Q4TWlyN19WTjV3Qm54Y25EakVGelY4U3dKN2x2M1BHVnZUNWNJSHg2enlPTFViLTViUFJMMUdyYXlNSzR5MG1MNk9hSWhJSE5V?oc=5",
+              "origin": "google",
+              "title": "경기도의회 국민의힘, 추미애 지사 소방 예산 발언 비판...공식 사과 촉구"
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-10-16T20:02:00+09:00",
+          "ts": 1792148520.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "민주 \"순직 소방공무원 깊이 애도...추미애 발언 거듭 사죄\"",
+          "url": "https://www.ytn.co.kr/_ln/0101_202610171027544972",
+          "snippet": "이어 추미애 경기지사의 소방 재정 관련 발언으로 상처받은 소방공무원과 가족들께 다시 한 번 사과를 전했는데, 위험한 현장에서 묵묵히 소임을 다하는 분들의 노고와 자부심을 충분히 헤아리지 못한 점을 무겁게...",
+          "source": "YTN",
+          "sources": [
+            {
+              "name": "YTN",
+              "url": "https://www.ytn.co.kr/_ln/0101_202610171027544972",
+              "origin": "naver",
+              "title": "민주 \"순직 소방공무원 깊이 애도...추미애 발언 거듭 사죄\""
+            },
+            {
+              "name": "연합뉴스TV",
+              "url": "http://www.yonhapnewstv.co.kr/news/AKR20261017102013Ori",
+              "origin": "naver",
+              "title": "민주 \"소방공무원 숭고한 희생 애도…추미애 발언 다시 한번 사죄\""
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-10-17T10:27:00+09:00",
+          "ts": 1792200420.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "부천 공장화재 순직 소방관 장례, 경기도청장 치른다…19일 영결식",
+          "url": "https://www.kyeonggi.com/article/20261017580034",
+          "snippet": "한편 전날 화재 현장을 찾은 추미애 경기도지사는 “소방관들의 용기와 헌신, 노고에 감사드린다. 경기도는 치료를 통해 빨리 회복될 수 있도록 만전을 기하겠다”고 밝혔다. 이재명 대통령도 전날 제주에서 열린...",
+          "source": "경기일보",
+          "sources": [
+            {
+              "name": "경기일보",
+              "url": "https://www.kyeonggi.com/article/20261017580034",
+              "origin": "naver",
+              "title": "부천 공장화재 순직 소방관 장례, 경기도청장 치른다…19일 영결식"
+            },
+            {
+              "name": "아시아경제",
+              "url": "https://view.asiae.co.kr/article/2026101710100395682",
+              "origin": "naver",
+              "title": "경기도, 순직 김진석 소방위 장례 '경기도청장'으로 엄수"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-10-17T10:24:00+09:00",
+          "ts": 1792200240.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -671,31 +810,6 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "[사진] 부천 공장 화재…소방관의 눈물",
-          "url": "https://www.joongang.co.kr/article/25470478",
-          "snippet": "추미애 경기도지사(왼쪽)가 16일 경기 부천시 금속 사출 인쇄공장 화재 현장에서 동료의 부상으로 슬퍼하는 소방대원을 위로하고 있다. 소방관 6명과 공장 관계자 2명이 다쳤고, 중상을 입은 소방관 2명 중 1명은 심정지...",
-          "source": "중앙일보",
-          "sources": [
-            {
-              "name": "중앙일보",
-              "url": "https://www.joongang.co.kr/article/25470478",
-              "origin": "naver",
-              "title": "[사진] 부천 공장 화재…소방관의 눈물"
-            },
-            {
-              "name": "파이낸셜뉴스",
-              "url": "https://www.fnnews.com/news/202610162014449163",
-              "origin": "naver",
-              "title": "부천 도장 공장 화재 부상자 8명…소방관 1명 심정지"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-10-17T01:19:00+09:00",
-          "ts": 1792167540.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
           "title": "[사설]‘빨대 망언’ 추미애 다가서자 등 돌리고 흐느낀 소방관들",
           "url": "https://www.donga.com/news/Opinion/article/all/20261016/134857750/2",
           "snippet": "추미애 경기도지사는 현장을 방문해 치료와 회복에 만전을 기하겠다고 했다. 하지만 소방관들은 추 지사에게 등을 돌린 채 동료의 생사를 걱정하며 오열했다. 어깨를 떨군 소방관들의 얼굴과 진압복은 온통 검은...",
@@ -717,81 +831,6 @@
           "source_count": 2,
           "published": "2026-10-16T23:25:00+09:00",
           "ts": 1792160700.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "추미애 “소방이 재정 빨대” 후폭풍…野 “경기도가 소방 예산 삭감”",
-          "url": "https://www.mk.co.kr/article/12178252",
-          "snippet": "추미애 경기지사의 ‘소방, 재정 빨대’ 발언 논란이 연일 이어지는 가운데 국민의힘 경기도당이 “소방 공무원들에게 사과하고 실질적인 예산과 정책으로 안전을 책임지라”고 촉구했다. 도당은 16일 입장문을 통해...",
-          "source": "매일경제",
-          "sources": [
-            {
-              "name": "매일경제",
-              "url": "https://www.mk.co.kr/article/12178252",
-              "origin": "naver",
-              "title": "추미애 “소방이 재정 빨대” 후폭풍…野 “경기도가 소방 예산 삭감”"
-            },
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20261016174300061?input=1195m",
-              "origin": "naver",
-              "title": "국힘 경기도당 \"경기도, 소방차 구매 축소·추모 예산 삭감\""
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-10-16T21:40:00+09:00",
-          "ts": 1792154400.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "李 \"소방관 헌신에 천금 아깝겠나\"… 추미애 '재정 빨대' 논란 염두?",
-          "url": "https://www.hankookilbo.com/news/article/A2026101620280002663?did=NA",
-          "snippet": "이에 추미애 경기지사의 '소방 재정 빨대' 발언 논란을 염두에 둔 게 아니냐는 해석이 나왔다. 이 대통령은... 이 대통령의 발언은 추미애 경기지사의 '소방 재정 빨대' 발언 논란 속에 나왔다. 앞서 추 지사는 13일 국회...",
-          "source": "한국일보",
-          "sources": [
-            {
-              "name": "한국일보",
-              "url": "https://www.hankookilbo.com/news/article/A2026101620280002663?did=NA",
-              "origin": "naver",
-              "title": "李 \"소방관 헌신에 천금 아깝겠나\"… 추미애 '재정 빨대' 논란 염두?"
-            },
-            {
-              "name": "jasm.co.kr",
-              "url": "https://www.jasm.co.kr/news/view/321888/?sc=Naver",
-              "origin": "naver",
-              "title": "李대통령, 부상 소방관·장병 쾌유기원…\"헌신에 천금 아깝겠나\""
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-10-16T20:46:00+09:00",
-          "ts": 1792151160.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "\"경기도지사 관사에 불지르겠다\" 협박한 60대 체포",
-          "url": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=290093",
-          "snippet": "이 남성은 어제(15) 오전 10시 반쯤, 국정감사 관련 뉴스를 시청하던 중 추미애 경기도지사의 소방 관련 발언에 화가 나 119에 전화를 건 뒤 \"관사에 불을 지르겠다\"고 협박한 혐의를 받고 있습니다.",
-          "source": "busanmbc.co.kr",
-          "sources": [
-            {
-              "name": "busanmbc.co.kr",
-              "url": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=290093",
-              "origin": "naver",
-              "title": "\"경기도지사 관사에 불지르겠다\" 협박한 60대 체포"
-            },
-            {
-              "name": "부산경남대표방송 KNN 뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ibzVQZW4xOHdSQWtYcm1PbnBhQXJBS1pFWFRfZXgydFNGY3hxSkw0RUZlV3Z0NjM1Q1NvblhlTmcwQURvZHhrVDJOR19lcGF6cU5WMA?oc=5",
-              "origin": "google",
-              "title": "추미애 경기도지사 관사 방화 협박 60대 검거"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-10-16T19:36:00+09:00",
-          "ts": 1792146960.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -842,56 +881,6 @@
           "source_count": 2,
           "published": "2026-10-16T18:58:00+09:00",
           "ts": 1792144680.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "\"경기도지사 관사에 불 지르겠다\" 119에 전화한 60대 검거",
-          "url": "https://www.newsis.com/view/NISX20261016_0003828911",
-          "snippet": "",
-          "source": "뉴시스",
-          "sources": [
-            {
-              "name": "뉴시스",
-              "url": "https://www.newsis.com/view/NISX20261016_0003828911",
-              "origin": "naver",
-              "title": "\"경기도지사 관사에 불 지르겠다\" 119에 전화한 60대 검거"
-            },
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20261016064300051?input=1195m",
-              "origin": "naver",
-              "title": "\"경기도지사 관사에 불 지르겠다\" 119 신고한 60대 입건"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-10-16T17:24:00+09:00",
-          "ts": 1792139040.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "추미애 '재정 빨대' 발언에…與 대신 사과·국힘 \"망언\" 재비판(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261016103051001?input=1195m",
-          "snippet": "민주 \"소방관 노고 못 헤아려\"…'김민석·추미애' 대립 속 공식 사과 국힘 \"秋 '호화 관사' 12억원이면 소화기 6만개…소방관 명예 지킬 것\" 김정진 노선웅 기자 = 더불어민주당 소속 추미애 경기도지사가 이른바 '소방 재정...",
-          "source": "연합뉴스",
-          "sources": [
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20261016103051001?input=1195m",
-              "origin": "naver",
-              "title": "추미애 '재정 빨대' 발언에…與 대신 사과·국힘 \"망언\" 재비판(종합)"
-            },
-            {
-              "name": "경인일보",
-              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBleHlLSm9DUS15bjhqU3NMek9BOWdlTGxNWWNldF9adEljRGxReDltSGFjSVo5OEtCZ1UyY2hKRzBTdTRQTzBBT0xLNjYwbUZ1SXc?oc=5",
-              "origin": "google",
-              "title": "“재정 빨대” 발언 파장 확산…추미애 도지사에 사과 요구 속 고개 숙인 與"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-10-16T17:07:00+09:00",
-          "ts": 1792138020.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -996,21 +985,59 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "국힘 \"순직 소방관 애도…이재명 정부·추미애 석고대죄해야\"",
-          "url": "http://www.yonhapnewstv.co.kr/news/AKR20261017100004ZVP",
-          "snippet": "대통령과 추미애 경기도지사의 책임을 물었습니다. 국민의힘 최수진 원내수석대변인은 오늘(17일) 논평을... 일관했다\"며 \"추미애 지사는 입을 다물고, 민주당 지도부만 마지못해 대리 사과에 나섰다\"고 지적했습니다. 최...",
-          "source": "연합뉴스TV",
+          "title": "추미애 \"순직 소방관 마지막 길 한치 소홀함 없도록 예우\" 당부",
+          "url": "https://www.yna.co.kr/view/AKR20261017021800061?input=1195m",
+          "snippet": "'경기도청장'으로 거행, 19일 영결식…추 지사, 오후 2시 빈소 조문 추미애 경기도지사는 17일 부천 공장화재로 순직한 고(故) 김진석 소방위의 마지막 길에 한 치의 소홀함이 없도록 경기도가 온 정성을 다해 예우하라고...",
+          "source": "연합뉴스",
           "sources": [
             {
-              "name": "연합뉴스TV",
-              "url": "http://www.yonhapnewstv.co.kr/news/AKR20261017100004ZVP",
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261017021800061?input=1195m",
               "origin": "naver",
-              "title": "국힘 \"순직 소방관 애도…이재명 정부·추미애 석고대죄해야\""
+              "title": "추미애 \"순직 소방관 마지막 길 한치 소홀함 없도록 예우\" 당부"
             }
           ],
           "source_count": 1,
-          "published": "2026-10-17T10:00:00+09:00",
-          "ts": 1792198800.0,
+          "published": "2026-10-17T10:28:00+09:00",
+          "ts": 1792200480.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "추미애 “고(故) 김진석 소방위 마지막 가는 길, 정성을 다해 예우” 당...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/2026/10/17/20261017500014?wlog_tag3=naver",
+          "snippet": "추미애 경기도지사가 16일 화재진압을 하다 심정지에 빠진 뒤 끝내 숨진 고 김진석 소방위 마지막 가는 길에... 그러면서 “​추미애 경기도지사가 고인의 마지막 길에 한 치의 소홀함도 없도록 경기도가 온 정성을 다해...",
+          "source": "서울신문",
+          "sources": [
+            {
+              "name": "서울신문",
+              "url": "https://www.seoul.co.kr/news/publicnews/local_govern/2026/10/17/20261017500014?wlog_tag3=naver",
+              "origin": "naver",
+              "title": "추미애 “고(故) 김진석 소방위 마지막 가는 길, 정성을 다해 예우” 당..."
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-10-17T10:24:00+09:00",
+          "ts": 1792200240.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "\"추미애, 보증금 12억 호화 관사에 살며 억대 관용차 몰면서...\"",
+          "url": "https://www.wikitree.co.kr/articles/1166946",
+          "snippet": "빗댄 추미애 경기도지사에게 사죄를 요구했다. 경기 부천시 공장 화재 현장에 투입됐던 소방관이 끝내 숨진 가운데 나온 논평이다. 국민의힘은 이재명 대통령까지 함께 비판했다.추미애 경기도지사가 16일 화재가 발생한...",
+          "source": "wikitree.co.kr",
+          "sources": [
+            {
+              "name": "wikitree.co.kr",
+              "url": "https://www.wikitree.co.kr/articles/1166946",
+              "origin": "naver",
+              "title": "\"추미애, 보증금 12억 호화 관사에 살며 억대 관용차 몰면서...\""
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-10-17T10:06:00+09:00",
+          "ts": 1792199160.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -1030,25 +1057,6 @@
           "source_count": 1,
           "published": "2026-10-17T09:54:00+09:00",
           "ts": 1792198440.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "'구조할 사람 있다' 판단에 들어간 선착대…부천 소방관 끝내 순직",
-          "url": "https://www.etoday.co.kr/news/view/2636895",
-          "snippet": "추미애 경기도지사는 현장 방문 뒤 페이스북에서 당시 상황을 이렇게 전했다. 그는 \"현장 작업자들을 먼저 대피시킨 뒤 마지막까지 남아 있던 소방관들이 유독가스 흡입과 급격한 화재 확산으로 미처 대피하지 못한 것...",
-          "source": "etoday.co.kr",
-          "sources": [
-            {
-              "name": "etoday.co.kr",
-              "url": "https://www.etoday.co.kr/news/view/2636895",
-              "origin": "naver",
-              "title": "'구조할 사람 있다' 판단에 들어간 선착대…부천 소방관 끝내 순직"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-10-17T09:48:00+09:00",
-          "ts": 1792198080.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -1167,25 +1175,6 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "“경제·연정·평화에서 다시 경제로”…31년 된 부지사 직함에 담길 추...",
-          "url": "https://www.kyeonggi.com/article/20261015580351",
-          "snippet": "다음 주 초 민선 9기 추미애 도정의 조직개편안이 발표 예정인 가운데, 현재 ‘경제부지사’로 불리는 이 자리의 명칭과 역할에도 변화가 있을지 주목된다. 16일 경기도의 ‘경기도 조직변천사’에 따르면 1963년 지금의...",
-          "source": "경기일보",
-          "sources": [
-            {
-              "name": "경기일보",
-              "url": "https://www.kyeonggi.com/article/20261015580351",
-              "origin": "naver",
-              "title": "“경제·연정·평화에서 다시 경제로”…31년 된 부지사 직함에 담길 추..."
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-10-17T07:02:00+09:00",
-          "ts": 1792188120.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
           "title": "1부 오늘의 주요뉴스",
           "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6858621_37012.html",
           "snippet": "추미애 경기도지사는 현장을 찾아 소방관들을 위로했지만, 논란이 된 '재정 빨대' 발언에 대해서 사과하지는 않았습니다. ◀ 앵커 ▶ 경찰이 인천 상가에서 흉기 난동으로 10명을 다치게 한 59살 최충락의 신상을...",
@@ -1205,21 +1194,21 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "김일중 경기도의원 \"도민 불편엔 여야 없어…성과로 증명\"",
-          "url": "https://www.newsis.com/view/NISX20261015_0003827851",
-          "snippet": "추미애 경기도지사의 긴축재정 기조에서 기존 사업의 성과와 연속성을 살펴 도민에게 필요한 정책이 위축되지 않도록 하겠다는 취지다. 김 의원은 \"재정 긴축이 경기도의 재정 건전성을 확보하는 데 도움이 될 수 있지만...",
-          "source": "뉴시스",
+          "title": "“경제·연정·평화에서 다시 경제로”…31년 된 부지사 직함에 담길 추...",
+          "url": "https://www.kyeonggi.com/article/20261015580351",
+          "snippet": "다음 주 초 민선 9기 추미애 도정의 조직개편안이 발표 예정인 가운데, 현재 ‘경제부지사’로 불리는 이 자리의 명칭과 역할에도 변화가 있을지 주목된다. 16일 경기도의 ‘경기도 조직변천사’에 따르면 1963년 지금의...",
+          "source": "경기일보",
           "sources": [
             {
-              "name": "뉴시스",
-              "url": "https://www.newsis.com/view/NISX20261015_0003827851",
+              "name": "경기일보",
+              "url": "https://www.kyeonggi.com/article/20261015580351",
               "origin": "naver",
-              "title": "김일중 경기도의원 \"도민 불편엔 여야 없어…성과로 증명\""
+              "title": "“경제·연정·평화에서 다시 경제로”…31년 된 부지사 직함에 담길 추..."
             }
           ],
           "source_count": 1,
-          "published": "2026-10-17T07:00:00+09:00",
-          "ts": 1792188000.0,
+          "published": "2026-10-17T07:02:00+09:00",
+          "ts": 1792188120.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -1234,6 +1223,25 @@
               "url": "https://www.joongang.co.kr/article/25470504",
               "origin": "naver",
               "title": "대선 땐 한 배 탔는데…범여권 5인, 대통령에 등 돌린 이유"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-10-17T07:00:00+09:00",
+          "ts": 1792188000.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "김일중 경기도의원 \"도민 불편엔 여야 없어…성과로 증명\"",
+          "url": "https://www.newsis.com/view/NISX20261015_0003827851",
+          "snippet": "추미애 경기도지사의 긴축재정 기조에서 기존 사업의 성과와 연속성을 살펴 도민에게 필요한 정책이 위축되지 않도록 하겠다는 취지다. 김 의원은 \"재정 긴축이 경기도의 재정 건전성을 확보하는 데 도움이 될 수 있지만...",
+          "source": "뉴시스",
+          "sources": [
+            {
+              "name": "뉴시스",
+              "url": "https://www.newsis.com/view/NISX20261015_0003827851",
+              "origin": "naver",
+              "title": "김일중 경기도의원 \"도민 불편엔 여야 없어…성과로 증명\""
             }
           ],
           "source_count": 1,
@@ -1277,6 +1285,25 @@
           "source_count": 1,
           "published": "2026-10-17T04:30:00+09:00",
           "ts": 1792179000.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "[사진] 부천 공장 화재…소방관의 눈물",
+          "url": "https://www.joongang.co.kr/article/25470478",
+          "snippet": "추미애 경기도지사(왼쪽)가 16일 경기 부천시 금속 사출 인쇄공장 화재 현장에서 동료의 부상으로 슬퍼하는 소방대원을 위로하고 있다. 소방관 6명과 공장 관계자 2명이 다쳤고, 중상을 입은 소방관 2명 중 1명은 심정지...",
+          "source": "중앙일보",
+          "sources": [
+            {
+              "name": "중앙일보",
+              "url": "https://www.joongang.co.kr/article/25470478",
+              "origin": "naver",
+              "title": "[사진] 부천 공장 화재…소방관의 눈물"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-10-17T01:19:00+09:00",
+          "ts": 1792167540.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -1376,6 +1403,25 @@
           "group_label": "경기도지사"
         },
         {
+          "title": "[포커스] '소방 빨대' 발언 논란...조희대 탄핵 논의 공식화",
+          "url": "https://www.ytn.co.kr/_ln/0101_202610162236121777",
+          "snippet": "추미애 경기지사가 오늘 부천 공장 화재 현장을 찾았습니다. 하지만 추 지사의 '소방 재정 빨대' 발언과 겹치면서 논란이 확산하고 있는데요. 관련 영상부터 보시겠습니다. [추미애 / 경기도지사 : 소방이 가장 큰 골치 아픈...",
+          "source": "YTN",
+          "sources": [
+            {
+              "name": "YTN",
+              "url": "https://www.ytn.co.kr/_ln/0101_202610162236121777",
+              "origin": "naver",
+              "title": "[포커스] '소방 빨대' 발언 논란...조희대 탄핵 논의 공식화"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-10-16T22:36:00+09:00",
+          "ts": 1792157760.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
           "title": "'빨대'라더니…국힘 \"추미애의 경기도, 소방차 구매 축소·추모 예산 삭...",
           "url": "https://www.imaeil.com/page/view/2026101622002394456",
           "snippet": "소방을 '재정 빨대'에 빗댄 추미애 경기지사의 발언이 16일 발생한 부천 소방관 중상 사고와 맞물려 더욱 비판받고 있는 가운데, 국민의힘은 경기도가 최근 예산 편성 과정에서 소방 관련 항목 일부를 부분·전액 삭감한...",
@@ -1452,6 +1498,25 @@
           "group_label": "경기도지사"
         },
         {
+          "title": "[비하인드 뉴스] \"소방은 재정 빨대\" 추미애 발언 후폭풍…경기도 해명",
+          "url": "https://news.jtbc.co.kr/article/NB12323232?influxDiv=NAVER",
+          "snippet": "",
+          "source": "JTBC",
+          "sources": [
+            {
+              "name": "JTBC",
+              "url": "https://news.jtbc.co.kr/article/NB12323232?influxDiv=NAVER",
+              "origin": "naver",
+              "title": "[비하인드 뉴스] \"소방은 재정 빨대\" 추미애 발언 후폭풍…경기도 해명"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-10-16T21:40:00+09:00",
+          "ts": 1792154400.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
           "title": "화재 현장 달려온 추미애, \"재정 빨대\" 묻자 '손사래'…민주당, 대리 사...",
           "url": "https://news.tvchosun.com/site/data/html_dir/2026/10/16/2026101690243.html",
           "snippet": "추미애 경기지사는 다급하게 화재 현장으로 달려왔습니다. \"소방관들이 골치 아픈 재정 빨대 같다\"라는... [리포트] 사흘 전 국정감사장에서 소방 예산을 '재정 빨대'에 빗대 거센 논란을 일으켰던 추미애 경기도지사....",
@@ -1467,6 +1532,25 @@
           "source_count": 1,
           "published": "2026-10-16T21:28:00+09:00",
           "ts": 1792153680.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "'재정 빨대' 논란 속…추미애, 부천 화재 현장행",
+          "url": "http://www.yonhapnewstv.co.kr/news/MYH20261016203633K1b",
+          "snippet": "국회 행정안전위원회 경기도 국정감사에서 '소방 재정 빨대' 발언으로 거센 후폭풍을 맞고 있는 추미애... [기자] 부천 공장 화재 직후, 제주 전국체전 개회식으로 향하던 추미애 경기도지사는 논란을 의식한 듯 곧장 화재...",
+          "source": "연합뉴스TV",
+          "sources": [
+            {
+              "name": "연합뉴스TV",
+              "url": "http://www.yonhapnewstv.co.kr/news/MYH20261016203633K1b",
+              "origin": "naver",
+              "title": "'재정 빨대' 논란 속…추미애, 부천 화재 현장행"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-10-16T20:37:00+09:00",
+          "ts": 1792150620.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -1509,6 +1593,25 @@
           "group_label": "경기도지사"
         },
         {
+          "title": "소방노조, 추미애 '재정 빨대' 발언 반발…경기도 해명",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TZEM1NDRGTmoxMXRORTRqNW5xSEJ1X3d6ZExldUp2bXBRc3pscjBQQjlnVXFMcHBkejZMenVNOENfemxoMmRtTlc0b0lTb3o2TjNQOU9TbFlqZkNTTWlvZE1VaDByQ0gtMUltaUN3?oc=5",
+          "snippet": "",
+          "source": "OBS경인TV",
+          "sources": [
+            {
+              "name": "OBS경인TV",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TZEM1NDRGTmoxMXRORTRqNW5xSEJ1X3d6ZExldUp2bXBRc3pscjBQQjlnVXFMcHBkejZMenVNOENfemxoMmRtTlc0b0lTb3o2TjNQOU9TbFlqZkNTTWlvZE1VaDByQ0gtMUltaUN3?oc=5",
+              "origin": "google",
+              "title": "소방노조, 추미애 '재정 빨대' 발언 반발…경기도 해명"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-10-16T20:01:00+09:00",
+          "ts": 1792148460.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
           "title": "[만물상] 위대한 ‘재정 빨대’",
           "url": "https://www.chosun.com/opinion/manmulsang/2026/10/16/KHXHGW53LNEJ7BFQZUXSDDASZM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
           "snippet": "그들 옆에 추미애 경기지사가 어색하게 서 있다. ▶추 지사는 경기도 소방의 총책임자다. 그런 사람 입에서 “소방은 가장 큰, 골치 아픈 재정 빨대 같다”는 말이 나왔다. 누군가에겐 인간과 국가의 가치를 확인하는 숭고한...",
@@ -1528,21 +1631,97 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "“추미애, 무릎 꿇고 사과하라”…민주당 “추 지사 표현 사과”",
-          "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000555460",
-          "snippet": "추미애 경기지사의 '재정 빨대' 발언에 분노한 소방관들은 경기도청으로 몰려갔습니다. 7만 소방관들에게... [기자] [현장음] \"추미애 경기도지사는 즉각 사과하라! 사과하라! 사과하라!\" 경기도청을 찾은 소방공무원들은...",
-          "source": "ichannela.com",
+          "title": "\"경기도지사 관사에 불지르겠다\" 협박한 60대 체포",
+          "url": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=290093",
+          "snippet": "이 남성은 어제(15) 오전 10시 반쯤, 국정감사 관련 뉴스를 시청하던 중 추미애 경기도지사의 소방 관련 발언에 화가 나 119에 전화를 건 뒤 \"관사에 불을 지르겠다\"고 협박한 혐의를 받고 있습니다.",
+          "source": "busanmbc.co.kr",
           "sources": [
             {
-              "name": "ichannela.com",
-              "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000555460",
+              "name": "busanmbc.co.kr",
+              "url": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=290093",
               "origin": "naver",
-              "title": "“추미애, 무릎 꿇고 사과하라”…민주당 “추 지사 표현 사과”"
+              "title": "\"경기도지사 관사에 불지르겠다\" 협박한 60대 체포"
             }
           ],
           "source_count": 1,
-          "published": "2026-10-16T19:10:00+09:00",
-          "ts": 1792145400.0,
+          "published": "2026-10-16T19:36:00+09:00",
+          "ts": 1792146960.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "추미애 경기도지사, 부천 공장 화재 현장 찾아",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTX3JrRnFVenBzNXdUNk5ib2w2aVNqOXVIZlpUSk91VXJNek9EWmU3SWJzWjJuY21QQS1Bci01ZGlvVGt4OE0tSENNOUhTdDNBOTVtM1FHQl9Cb1owTVV0TFdaMUFYLUk1Ykh5WmNR?oc=5",
+          "snippet": "",
+          "source": "전국매일신문",
+          "sources": [
+            {
+              "name": "전국매일신문",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTX3JrRnFVenBzNXdUNk5ib2w2aVNqOXVIZlpUSk91VXJNek9EWmU3SWJzWjJuY21QQS1Bci01ZGlvVGt4OE0tSENNOUhTdDNBOTVtM1FHQl9Cb1owTVV0TFdaMUFYLUk1Ykh5WmNR?oc=5",
+              "origin": "google",
+              "title": "추미애 경기도지사, 부천 공장 화재 현장 찾아"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-10-16T18:50:00+09:00",
+          "ts": 1792144200.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "“우리가 재정 빨대인가”…황선우 소방노조 경기위원장, 추미애 발언에...",
+          "url": "https://www.kyeonggi.com/article/20261016580413",
+          "snippet": "추미애 경기도지사의 이른바 ‘소방 재정 빨대’ 발언을 둘러싼 논란이 이어지는 가운데 소방통합노조가 경기도청 앞에서 1인 시위에 나서며 반발하고 있다. 노조는 발언의 취지는 이해한다면서도 소방공무원을 재정...",
+          "source": "경기일보",
+          "sources": [
+            {
+              "name": "경기일보",
+              "url": "https://www.kyeonggi.com/article/20261016580413",
+              "origin": "naver",
+              "title": "“우리가 재정 빨대인가”…황선우 소방노조 경기위원장, 추미애 발언에..."
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-10-16T18:47:00+09:00",
+          "ts": 1792144020.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "추미애 경기도지사 '소방 재정 빨대' 발언에 격분…\"관사 불 지르겠다\"...",
+          "url": "https://news.tvchosun.com/site/data/html_dir/2026/10/16/2026101690176.html",
+          "snippet": "",
+          "source": "TV조선",
+          "sources": [
+            {
+              "name": "TV조선",
+              "url": "https://news.tvchosun.com/site/data/html_dir/2026/10/16/2026101690176.html",
+              "origin": "naver",
+              "title": "추미애 경기도지사 '소방 재정 빨대' 발언에 격분…\"관사 불 지르겠다\"..."
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-10-16T18:47:00+09:00",
+          "ts": 1792144020.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "경기도의회 국힘 \"추미애, 소방은 '재정 빨대' 발언 사죄하라\"",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xRmJFcjRkRlFjZlVjRThaTHlDMnpfRHFqNzJRcFZjSndRSEVfbTYteEhTalFmc1VhREl6TmdOdW1qX0pCM05mTUcxRkttRzJVLTI0VHhGMTg1YXB2TlYxRE5PcFREOThXTXdGanJpVXZ6al9pM0luR3RESFAzSDTSAX9BVV95cUxNMUZiRXI0ZEZRY2ZVY0U4Wkx5QzJ6X0RxajcyUXBWY0p3UUhFX202LXhIU2pRZnNVYURJek5nTnVtal9KQjNOZk1HMUZLbUcyVS0yNFR4RjE4NWFwdk5WMUROT3BURDk4V013RmpyaVV2empfaTNJbkd0REhQM0g0?oc=5",
+          "snippet": "",
+          "source": "뉴데일리 경기",
+          "sources": [
+            {
+              "name": "뉴데일리 경기",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xRmJFcjRkRlFjZlVjRThaTHlDMnpfRHFqNzJRcFZjSndRSEVfbTYteEhTalFmc1VhREl6TmdOdW1qX0pCM05mTUcxRkttRzJVLTI0VHhGMTg1YXB2TlYxRE5PcFREOThXTXdGanJpVXZ6al9pM0luR3RESFAzSDTSAX9BVV95cUxNMUZiRXI0ZEZRY2ZVY0U4Wkx5QzJ6X0RxajcyUXBWY0p3UUhFX202LXhIU2pRZnNVYURJek5nTnVtal9KQjNOZk1HMUZLbUcyVS0yNFR4RjE4NWFwdk5WMUROT3BURDk4V013RmpyaVV2empfaTNJbkd0REhQM0g0?oc=5",
+              "origin": "google",
+              "title": "경기도의회 국힘 \"추미애, 소방은 '재정 빨대' 발언 사죄하라\""
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-10-16T18:47:00+09:00",
+          "ts": 1792144020.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -1562,6 +1741,63 @@
           "source_count": 1,
           "published": "2026-10-16T17:43:00+09:00",
           "ts": 1792140180.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "\"소방관을 재정의 짐 취급?\"…이기인, 추미애 '빨대' 발언 비판",
+          "url": "https://www.newsis.com/view/NISX20261016_0003829291",
+          "snippet": "이지우 인턴 기자 = 이기인 개혁신당 비대위원장이 추미애 경기도지사의 '소방 재정 빨대' 발언을 비판하며 소방관 지원 확대를 촉구했다. 16일 이 위원장은 소셜미디어(SNS)를 통해 \"부천 공장 화재로 소방관 다섯 분과 공장...",
+          "source": "뉴시스",
+          "sources": [
+            {
+              "name": "뉴시스",
+              "url": "https://www.newsis.com/view/NISX20261016_0003829291",
+              "origin": "naver",
+              "title": "\"소방관을 재정의 짐 취급?\"…이기인, 추미애 '빨대' 발언 비판"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-10-16T17:41:00+09:00",
+          "ts": 1792140060.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "\"경기도지사 관사에 불 지르겠다\" 119에 전화한 60대 검거",
+          "url": "https://www.newsis.com/view/NISX20261016_0003828911",
+          "snippet": "",
+          "source": "뉴시스",
+          "sources": [
+            {
+              "name": "뉴시스",
+              "url": "https://www.newsis.com/view/NISX20261016_0003828911",
+              "origin": "naver",
+              "title": "\"경기도지사 관사에 불 지르겠다\" 119에 전화한 60대 검거"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-10-16T17:24:00+09:00",
+          "ts": 1792139040.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "추미애 경기도지사 관사 방화 협박 60대 검거",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ibzVQZW4xOHdSQWtYcm1PbnBhQXJBS1pFWFRfZXgydFNGY3hxSkw0RUZlV3Z0NjM1Q1NvblhlTmcwQURvZHhrVDJOR19lcGF6cU5WMA?oc=5",
+          "snippet": "",
+          "source": "부산경남대표방송 KNN 뉴스",
+          "sources": [
+            {
+              "name": "부산경남대표방송 KNN 뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ibzVQZW4xOHdSQWtYcm1PbnBhQXJBS1pFWFRfZXgydFNGY3hxSkw0RUZlV3Z0NjM1Q1NvblhlTmcwQURvZHhrVDJOR19lcGF6cU5WMA?oc=5",
+              "origin": "google",
+              "title": "추미애 경기도지사 관사 방화 협박 60대 검거"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-10-16T17:22:00+09:00",
+          "ts": 1792138920.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -1657,6 +1893,25 @@
           "source_count": 1,
           "published": "2026-10-16T16:58:00+09:00",
           "ts": 1792137480.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "“재정 빨대” 발언 파장 확산…추미애 도지사에 사과 요구 속 고개 숙인 與",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBleHlLSm9DUS15bjhqU3NMek9BOWdlTGxNWWNldF9adEljRGxReDltSGFjSVo5OEtCZ1UyY2hKRzBTdTRQTzBBT0xLNjYwbUZ1SXc?oc=5",
+          "snippet": "",
+          "source": "경인일보",
+          "sources": [
+            {
+              "name": "경인일보",
+              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBleHlLSm9DUS15bjhqU3NMek9BOWdlTGxNWWNldF9adEljRGxReDltSGFjSVo5OEtCZ1UyY2hKRzBTdTRQTzBBT0xLNjYwbUZ1SXc?oc=5",
+              "origin": "google",
+              "title": "“재정 빨대” 발언 파장 확산…추미애 도지사에 사과 요구 속 고개 숙인 與"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-10-16T16:44:57+09:00",
+          "ts": 1792136697.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -1809,6 +2064,25 @@
           "source_count": 1,
           "published": "2026-10-16T14:53:00+09:00",
           "ts": 1792129980.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "\"경기도지사 관사에 불 지르겠다\" 119 신고한 60대 입건",
+          "url": "https://www.yna.co.kr/view/AKR20261016064300051?input=1195m",
+          "snippet": "",
+          "source": "연합뉴스",
+          "sources": [
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261016064300051?input=1195m",
+              "origin": "naver",
+              "title": "\"경기도지사 관사에 불 지르겠다\" 119 신고한 60대 입건"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-10-16T14:44:00+09:00",
+          "ts": 1792129440.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -2172,25 +2446,6 @@
           "ts": 1792094520.0,
           "group": "governor",
           "group_label": "경기도지사"
-        },
-        {
-          "title": "'김지용 내홍' 벗어나고 싶은 민주당… 특검·탄핵 카드로 지지율 회복...",
-          "url": "https://www.hankookilbo.com/news/article/A2026101508590003735?did=NA",
-          "snippet": "다만 향후 추미애 경기지사 등 강경파 반발이 재연될 가능성도 남아 있다. 개혁 드라이브로 내부 결속 시도 인선 갈등을 일단락한 민주당은 검찰·사법개혁 의제를 다시 전면에 내세우고 있다. 전용기 최고위원은 YTN...",
-          "source": "한국일보",
-          "sources": [
-            {
-              "name": "한국일보",
-              "url": "https://www.hankookilbo.com/news/article/A2026101508590003735?did=NA",
-              "origin": "naver",
-              "title": "'김지용 내홍' 벗어나고 싶은 민주당… 특검·탄핵 카드로 지지율 회복..."
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-10-16T04:31:00+09:00",
-          "ts": 1792092660.0,
-          "group": "governor",
-          "group_label": "경기도지사"
         }
       ]
     },
@@ -2452,13 +2707,13 @@
         },
         {
           "title": "경기도의회 미래과학협력위원회, 어르신과 함께 사회공헌형 게임콘텐츠 체험",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1MnRYRWhLY3BwTUNBaHpZNjRROW9ib1h0RENqQ1lmbnNFZG4yWXZ3RW5mOEtIRWpETkZsa3pNbE9uZDJMT1R4Zm90YjhXTk40MzhtTE9fU0xDSjJVblUydVdUMHNNNDFWdXc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qWUwycmVqeURqcWxwQUl5ekRWMHR4WlF3OEsxNW1FSVVTOGpraXZxQTRUdUtvTDlNWkZNWG9QRU56a2Z5am12S3dYTEd2dlZpZUk4bjdIdFgtZGtjZ0ZJU3c0aHQ0Q3F5?oc=5",
           "snippet": "",
           "source": "경기시사투데이",
           "sources": [
             {
               "name": "경기시사투데이",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1MnRYRWhLY3BwTUNBaHpZNjRROW9ib1h0RENqQ1lmbnNFZG4yWXZ3RW5mOEtIRWpETkZsa3pNbE9uZDJMT1R4Zm90YjhXTk40MzhtTE9fU0xDSjJVblUydVdUMHNNNDFWdXc?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qWUwycmVqeURqcWxwQUl5ekRWMHR4WlF3OEsxNW1FSVVTOGpraXZxQTRUdUtvTDlNWkZNWG9QRU56a2Z5am12S3dYTEd2dlZpZUk4bjdIdFgtZGtjZ0ZJU3c0aHQ0Q3F5?oc=5",
               "origin": "google",
               "title": "경기도의회 미래과학협력위원회, 어르신과 함께 사회공헌형 게임콘텐츠 체험"
             },
@@ -2841,12 +3096,6 @@
               "title": "고양산업진흥원, 고양 콘텐츠 팝업 페스타 2026 개최"
             },
             {
-              "name": "리버럴미디어",
-              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vLWN5RV9RVnZsVG1RWXJWVXF5c19ONW5wcUpCaGpoY2Zkb3REN3VRYlFaYWJBUkFOcmJ5T1JETGdDLVRuQkVtSGxxQUVkSzRaODE3SWtQVndPaUVDX3RBRl9jYjY?oc=5",
-              "origin": "google",
-              "title": "고양산업진흥원, ‘고양 콘텐츠 팝업 페스타’ 개최"
-            },
-            {
               "name": "경기시사투데이",
               "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvQzVqUDVTUzR6dnR5c19UZ3A3RkluNDMtVGlLRXlydWZDUnZQc2U5N0o3WW9wRU10OHpsX2RxenFxQXdHT0EtVlNMMnQ4cVRaME9JYnhDQkxxYk02T2ZCZ05SSGp2eHlU?oc=5",
               "origin": "google",
@@ -2855,6 +3104,12 @@
             {
               "name": "한국시사경제",
               "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hVW94clRFbGFNTmhBdXVUZXNkVmF5ZFMwNlpmYlh3ZWdFMlkzR1NFSExDdWZiXzZkM1NYNm80NmRsS3NuWGtqdmFtTncwdmdhNUhvV0JNS3VxYmNmdEY0akpVMFNQc1NBTXc?oc=5",
+              "origin": "google",
+              "title": "고양산업진흥원, ‘고양 콘텐츠 팝업 페스타’ 개최"
+            },
+            {
+              "name": "리버럴미디어",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vLWN5RV9RVnZsVG1RWXJWVXF5c19ONW5wcUpCaGpoY2Zkb3REN3VRYlFaYWJBUkFOcmJ5T1JETGdDLVRuQkVtSGxxQUVkSzRaODE3SWtQVndPaUVDX3RBRl9jYjY?oc=5",
               "origin": "google",
               "title": "고양산업진흥원, ‘고양 콘텐츠 팝업 페스타’ 개최"
             }
@@ -3082,6 +3337,37 @@
           "group_label": "부천시(콘텐츠 관련)"
         },
         {
+          "title": "한국만화영상진흥원, 제이로빈 작가 초청 마스터클래스 개최",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11WWFGTndkZTRPN0pHR3FtTG4tQlBIREJHeHdWaS1NY3dnYWp6TV8tLVQ1N0FJc3ZjUWh6T2czS1dkSkVrMENmaG92VjI4b3NEcWNxUUNQVGFXUktnZm5VUTVPOUZGVlE2WWc?oc=5",
+          "snippet": "",
+          "source": "부천포커스",
+          "sources": [
+            {
+              "name": "부천포커스",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11WWFGTndkZTRPN0pHR3FtTG4tQlBIREJHeHdWaS1NY3dnYWp6TV8tLVQ1N0FJc3ZjUWh6T2czS1dkSkVrMENmaG92VjI4b3NEcWNxUUNQVGFXUktnZm5VUTVPOUZGVlE2WWc?oc=5",
+              "origin": "google",
+              "title": "한국만화영상진흥원, 제이로빈 작가 초청 마스터클래스 개최"
+            },
+            {
+              "name": "ibs뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLeW1mb2JodVE4MXpBczMxNk4yUnFGOU9oWUtRalRFb2FZaEJBX3l2X25yVmJETDZ2OGJPd3JSMHZFdVVGazE1Rg?oc=5",
+              "origin": "google",
+              "title": "한국만화영상진흥원, 제이로빈 작가 초청 ‘한국만화웹툰아카데미’ 마스터클래스 성료"
+            },
+            {
+              "name": "생생부천",
+              "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSHBmUFcwUjFFbXpFSGxVdVVFc0tXVGhnYnpuYVYxQjlPVlgyNWdHa0d5TFZTWG45Nnh5S0lWVkR0RkN1YnREa1VHWXhBOVBCYzlSTG9pOEl5dkczSm4zRkpNN2luMzgxV3JoV1JNRkRxZUo2b2ZqV203RDk2UlNDMzdzTTI5NnFMMEFBa19paVNDLUNiVlBHSk04d2R3cmFEVGRRbS1oVllpWENWbXl0WkMySHd5MERzdDZiT3JlN0dLeTlRWkloYXZiLThsbXA5VFhNTHQ3ckEwNVVJbTRz?oc=5",
+              "origin": "google",
+              "title": "한국만화영상진흥원, 제이로빈 작가 초청 ‘한국만화웹툰아카데미’ 마스터클래스 성료"
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-10-16T13:31:49+09:00",
+          "ts": 1792125109.0,
+          "group": "bucheon",
+          "group_label": "부천시(콘텐츠 관련)"
+        },
+        {
           "title": "[문화기획] 부천의축제, 대학과 손잡고 ‘젊은 축제’로 체질 개선해야",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15THhiZFdNLVp6OG5fdmNSV0Jqd1JkcFF6NVdCeXFmMWVrQnVTbHZTSXFZSkFKekpkTWU4SlNzZVBlaDYwX2V1c0hSamJBUVlyRWJVeEhOM2pmUmo2RFZVd0NlNzNaU1p2allz?oc=5",
           "snippet": "",
@@ -3103,31 +3389,6 @@
           "source_count": 2,
           "published": "2026-10-16T18:12:39+09:00",
           "ts": 1792141959.0,
-          "group": "bucheon",
-          "group_label": "부천시(콘텐츠 관련)"
-        },
-        {
-          "title": "한국만화영상진흥원, 제이로빈 작가 초청 ‘한국만화웹툰아카데미’ 마스터클래스 성료",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSHBmUFcwUjFFbXpFSGxVdVVFc0tXVGhnYnpuYVYxQjlPVlgyNWdHa0d5TFZTWG45Nnh5S0lWVkR0RkN1YnREa1VHWXhBOVBCYzlSTG9pOEl5dkczSm4zRkpNN2luMzgxV3JoV1JNRkRxZUo2b2ZqV203RDk2UlNDMzdzTTI5NnFMMEFBa19paVNDLUNiVlBHSk04d2R3cmFEVGRRbS1oVllpWENWbXl0WkMySHd5MERzdDZiT3JlN0dLeTlRWkloYXZiLThsbXA5VFhNTHQ3ckEwNVVJbTRz?oc=5",
-          "snippet": "",
-          "source": "생생부천",
-          "sources": [
-            {
-              "name": "생생부천",
-              "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSHBmUFcwUjFFbXpFSGxVdVVFc0tXVGhnYnpuYVYxQjlPVlgyNWdHa0d5TFZTWG45Nnh5S0lWVkR0RkN1YnREa1VHWXhBOVBCYzlSTG9pOEl5dkczSm4zRkpNN2luMzgxV3JoV1JNRkRxZUo2b2ZqV203RDk2UlNDMzdzTTI5NnFMMEFBa19paVNDLUNiVlBHSk04d2R3cmFEVGRRbS1oVllpWENWbXl0WkMySHd5MERzdDZiT3JlN0dLeTlRWkloYXZiLThsbXA5VFhNTHQ3ckEwNVVJbTRz?oc=5",
-              "origin": "google",
-              "title": "한국만화영상진흥원, 제이로빈 작가 초청 ‘한국만화웹툰아카데미’ 마스터클래스 성료"
-            },
-            {
-              "name": "ibs뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLeW1mb2JodVE4MXpBczMxNk4yUnFGOU9oWUtRalRFb2FZaEJBX3l2X25yVmJETDZ2OGJPd3JSMHZFdVVGazE1Rg?oc=5",
-              "origin": "google",
-              "title": "한국만화영상진흥원, 제이로빈 작가 초청 ‘한국만화웹툰아카데미’ 마스터클래스 성료"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-10-16T10:10:00+09:00",
-          "ts": 1792113000.0,
           "group": "bucheon",
           "group_label": "부천시(콘텐츠 관련)"
         },
@@ -3231,7 +3492,7 @@
       "priority": 7,
       "page": "main",
       "preview": null,
-      "count": 63,
+      "count": 61,
       "items": [
         {
           "title": "킨텍스, 마이스 업계 최초 ‘AI 안전관리 어워즈’ 대상…첨단 기술로 ...",
@@ -3506,6 +3767,109 @@
           "group_label": "경기도 산하기관"
         },
         {
+          "title": "경기관광공사, 17일 도담뜰서 도래미마켓과 함께하는 '경기, 장(場) 앞마...",
+          "url": "https://view.asiae.co.kr/article/2026101610215090688",
+          "snippet": "'컬처라운지 경기, 장(場)'은 수원 광교 경기융합타운 도담뜰 인근 보행몰(경기도서관 옆)에 약 400㎡로 조성된 복합 문화·관광공간이다. 경기관광공사, 경기아트센터 등 문화 관광 분야 6개 공공기관이 참여해 기관별...",
+          "source": "아시아경제",
+          "sources": [
+            {
+              "name": "아시아경제",
+              "url": "https://view.asiae.co.kr/article/2026101610215090688",
+              "origin": "naver",
+              "title": "경기관광공사, 17일 도담뜰서 도래미마켓과 함께하는 '경기, 장(場) 앞마..."
+            },
+            {
+              "name": "글로벌뉴스통신GNA",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmbXl0RnZxSW9ZZGxxbjNIa0ZsMWxBN0tUNnBZNnZMTFhlWXhYNkZ6V3czWmlVZW1GeHlBanBOc3lKOXJNZlZCaE56djdNTF8yNFpsd3AtMFR2LXliRkdRZE1SZnhjaEFKVHJkaUVFZVdyRktH?oc=5",
+              "origin": "google",
+              "title": "경기도·경기관광공사, 17일 ‘경기, 장 앞마당 콘서트’ 개최"
+            },
+            {
+              "name": "팝콘뉴스",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WNkdXb0tSU1ZJeEpqLThudG03YUYzcVljX0ZSVTNZSWgwTkwxc05wanBKbmNuT29pa2p4MjdZN1N5dmg0X3R4VUZBS1kzbUQzQ3dYMFFEWWd5YWNpaU9zWjJHR1JybEMxRVJjUUhfdUN5QdIBckFVX3lxTE5WNkdXb0tSU1ZJeEpqLThudG03YUYzcVljX0ZSVTNZSWgwTkwxc05wanBKbmNuT29pa2p4MjdZN1N5dmg0X3R4VUZBS1kzbUQzQ3dYMFFEWWd5YWNpaU9zWjJHR1JybEMxRVJjUUhfdUN5QQ?oc=5",
+              "origin": "google",
+              "title": "경기관광공사, 도래미마켓과 함께하는 ‘경기, 장(場) 앞마당 콘서트’ 개최"
+            },
+            {
+              "name": "경인종합일보",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2WlZFUjktdFBncVJKclo3VEdIWDJuTFhGVEc3RERRbEhOMHFuVE1abm9rVEVpZENabUJwTGNuSDA0WGRscnBYVDRRdFlUcExLLVpWbjBibUxIVGxUM09yWl85cjhramNMS0MxZHR4N0tBUdIBckFVX3lxTFA2WlZFUjktdFBncVJKclo3VEdIWDJuTFhGVEc3RERRbEhOMHFuVE1abm9rVEVpZENabUJwTGNuSDA0WGRscnBYVDRRdFlUcExLLVpWbjBibUxIVGxUM09yWl85cjhramNMS0MxZHR4N0tBUQ?oc=5",
+              "origin": "google",
+              "title": "경기관광공사, 17일 '경기, 장(場) 앞마당 콘서트' 개최"
+            },
+            {
+              "name": "CNB뉴스",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5EUXd1T1dnSTJhUkVKUUJiMGNqalZTbjRQajJhbm5PMmJkSURhcGhIUWVpLUFJSnd3QkZqQWtWcUZTbFdXUXBELVMybWhaVzlxS1F1a0x3a1h6UDVGMmh2cThuYy1wVTRiNldn?oc=5",
+              "origin": "google",
+              "title": "경기도-경기관광공사, 도래미마켓과 함께하는 ‘경기, 장(場) 앞마당 콘서트’ 개최"
+            },
+            {
+              "name": "서울신문",
+              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb2lVU1JZVW1iVEN5UGQ3ZGUyc3N3ZnZidTBDNF95MlpwRGtPMkp3eVlUbEZzX0w5U3lhYXVNMFZjNlZmTlJrODAwNlRpdmllYzN3bFlvemNRRDZxQnhyUElwXzhTN25BZTNKWXdXZExOTkdfMUJWcjJVcFZYaXFCYjhwRUVwNnNXR2VfbHJ2eWljQ2pL?oc=5",
+              "origin": "google",
+              "title": "경기관광공사, 제철과일과 함께하는 ‘경기, 장(場) 앞마당 콘서트’ 개최"
+            },
+            {
+              "name": "매일경제",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HbHFQMnVqREYtbTZlYWhPOUpxNWZRazN6Y1gyMzcwdGRBZ01aSTZMU1RhcGxOcHBVaWNVYkJuUUhVYkhJUHNHOGRCQWtmVnN0VzVDMQ?oc=5",
+              "origin": "google",
+              "title": "“문화와 관광의 콜라보”…경기관광공사, ‘경기, 장 앞마당 콘서트’ 17일 개최"
+            },
+            {
+              "name": "KPI뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rNFF0VFNhai1nSzBZYXhQQ2hESE1TV0IwdTZFcHZ5Nl9SeGdCMHFVcG5WUFZPYnI2NmxSYS1VZHBXb2xfUDgxc1dOM3dDY0w5VFdR?oc=5",
+              "origin": "google",
+              "title": "경기관광공사, 17일 ′경기, 장(場) 앞마당 콘서트′ 개최"
+            },
+            {
+              "name": "웹이코노미",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13djZaZEp1U1BFS0Vublk5T0IyWHVEeW5Fb0I1eGllalREbXlPQlFFMG01azRRSjdrNzBVUlJTWFFBRktyd0dTTlJlLTV2NEVoMGJ1MFh3S2ZCOEI0dWx1Wm83X0tlWU9NYVpuakY0WVJ3UQ?oc=5",
+              "origin": "google",
+              "title": "경기관광공사, 도래미마켓과 ‘경기, 장 앞마당 콘서트’ 개최"
+            },
+            {
+              "name": "정안뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sVTZsUng2TG1nUEFCS3RSVW9JeGN0TURqalAzc3N0VDN3bDBnOXJvMGVRR3VWck9VS054QWstdXA4RHd3R2xxVUpadGNUcEl4aTlLaVVMblRiajJCOUE0czBYMHo?oc=5",
+              "origin": "google",
+              "title": "경기관광공사, 도래미마켓과 함께하는 ‘경기, 장(場) 앞마당 콘서트’ 개최"
+            },
+            {
+              "name": "뉴스잡",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1yQWFEV0t4YkJLaS1tdUlmeUhSU2pYOGpDR2lIVFBGQ0pIMDlBejJpNlZrdFBVU19JOGRoYldsMHZkVWJlTTNiTnBNV1c2TUF4b0FvUDYzbzdiRzNOLVhUeDJCN2NtaUprTTZr0gFrQVVfeXFMTXJBYURXS3hiQktpLW11SWZ5SFJTalg4akNHaUhUUEZDSkgwOUF6Mmk2Vmt0UFVTX0k4ZGhiV2wwdmRVYmVNM2JOcE1XVzZNQXhvQW9QNjNvN2JHM04tWFR4MkI3Y21pSmtNNms?oc=5",
+              "origin": "google",
+              "title": "경기관광공사, 도래미마켓과 함께하는 ‘경기, 장(場) 앞마당 콘서트’ 개최"
+            },
+            {
+              "name": "스포츠서울",
+              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9OdTFic0lMX2dIYkFPTzAzT21CdEVqc1ZQdWZPd04xLTY2RE0wVFM3VEpKNl9pU0dKNHdGZjU2WnYzekVsWmRIY0s4NkRXWVM4LXBLZ3VkU1Q?oc=5",
+              "origin": "google",
+              "title": "경기관광공사,17일 ‘경기, 장(場) 앞마당 콘서트’ 진행"
+            },
+            {
+              "name": "중앙뉴스타임스",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tczEySzljdjl1Rndwems5UWJyaTFKeHNpQ3dOMzJpY3hBUHRvaVBNXzJvbVBrMU1hZUJkbVhvZ3ZrMnNJZS0zQ2tTczFEemxoWkpTdnNwdnRuM2tuV0JBMEFheVU?oc=5",
+              "origin": "google",
+              "title": "경기관광공사, 도래미마켓과 함께하는 ‘경기, 장(場) 앞마당 콘서트’ 개최"
+            },
+            {
+              "name": "시사일보",
+              "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MV1pzTzI5TkFES04tczMxaGF5MHdTWFJkZ0U5ZFl0U0J6Y09SZTNqT1JSbUFlUE5FTGNReUwzTjNRT2ZrM2prMHhMdVZ5Zw?oc=5",
+              "origin": "google",
+              "title": "경기관광공사, 도래미마켓과 함께하는 ‘경기, 장(場) 앞마당 콘서트’ 개최"
+            },
+            {
+              "name": "중부시사신문",
+              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sRHhvU2tTWktuejc0aDRXbmZsa25HY1JoVXdVZG5xTy1pU0dVd0Vyb2R4LWpWV2tuMVhNWEg4S3NLWDdKMkZXTUhoLVVSTzZFdjlvaVNFNE1tUGtaYkRvU3pFbw?oc=5",
+              "origin": "google",
+              "title": "경기관광공사, 도래미마켓과 함께하는 ‘경기, 장(場) 앞마당 콘서트’ 개최"
+            }
+          ],
+          "source_count": 15,
+          "published": "2026-10-16T10:21:00+09:00",
+          "ts": 1792113660.0,
+          "group": "gg_agencies",
+          "group_label": "경기도 산하기관"
+        },
+        {
           "title": "킨텍스·위스타트, 청소년 지원 ‘뷰티풀’ 캠페인...K뷰티 열기, 따뜻한...",
           "url": "https://www.m-economynews.com/news/article.html?no=71770",
           "snippet": "킨텍스는 아동복지기관 위스타트와 K-뷰티를 매개로 지역 사회공헌과 나눔문화 확산에 나섰다고 16일 밝혔다. 킨텍스는 지난 15일 ‘2026 K-뷰티엑스포 코리아’에서 위스타트와 ‘마음을 채우는 We Start BeautyFull(이하...",
@@ -3599,85 +3963,6 @@
           "source_count": 14,
           "published": "2026-10-16T18:10:00+09:00",
           "ts": 1792141800.0,
-          "group": "gg_agencies",
-          "group_label": "경기도 산하기관"
-        },
-        {
-          "title": "경기관광공사, 17일 도담뜰서 도래미마켓과 함께하는 '경기, 장(場) 앞마...",
-          "url": "https://view.asiae.co.kr/article/2026101610215090688",
-          "snippet": "'컬처라운지 경기, 장(場)'은 수원 광교 경기융합타운 도담뜰 인근 보행몰(경기도서관 옆)에 약 400㎡로 조성된 복합 문화·관광공간이다. 경기관광공사, 경기아트센터 등 문화 관광 분야 6개 공공기관이 참여해 기관별...",
-          "source": "아시아경제",
-          "sources": [
-            {
-              "name": "아시아경제",
-              "url": "https://view.asiae.co.kr/article/2026101610215090688",
-              "origin": "naver",
-              "title": "경기관광공사, 17일 도담뜰서 도래미마켓과 함께하는 '경기, 장(場) 앞마..."
-            },
-            {
-              "name": "팝콘뉴스",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WNkdXb0tSU1ZJeEpqLThudG03YUYzcVljX0ZSVTNZSWgwTkwxc05wanBKbmNuT29pa2p4MjdZN1N5dmg0X3R4VUZBS1kzbUQzQ3dYMFFEWWd5YWNpaU9zWjJHR1JybEMxRVJjUUhfdUN5QdIBckFVX3lxTE5WNkdXb0tSU1ZJeEpqLThudG03YUYzcVljX0ZSVTNZSWgwTkwxc05wanBKbmNuT29pa2p4MjdZN1N5dmg0X3R4VUZBS1kzbUQzQ3dYMFFEWWd5YWNpaU9zWjJHR1JybEMxRVJjUUhfdUN5QQ?oc=5",
-              "origin": "google",
-              "title": "경기관광공사, 도래미마켓과 함께하는 ‘경기, 장(場) 앞마당 콘서트’ 개최"
-            },
-            {
-              "name": "CNB뉴스",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5EUXd1T1dnSTJhUkVKUUJiMGNqalZTbjRQajJhbm5PMmJkSURhcGhIUWVpLUFJSnd3QkZqQWtWcUZTbFdXUXBELVMybWhaVzlxS1F1a0x3a1h6UDVGMmh2cThuYy1wVTRiNldn?oc=5",
-              "origin": "google",
-              "title": "경기도-경기관광공사, 도래미마켓과 함께하는 ‘경기, 장(場) 앞마당 콘서트’ 개최"
-            },
-            {
-              "name": "서울신문",
-              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb2lVU1JZVW1iVEN5UGQ3ZGUyc3N3ZnZidTBDNF95MlpwRGtPMkp3eVlUbEZzX0w5U3lhYXVNMFZjNlZmTlJrODAwNlRpdmllYzN3bFlvemNRRDZxQnhyUElwXzhTN25BZTNKWXdXZExOTkdfMUJWcjJVcFZYaXFCYjhwRUVwNnNXR2VfbHJ2eWljQ2pL?oc=5",
-              "origin": "google",
-              "title": "경기관광공사, 제철과일과 함께하는 ‘경기, 장(場) 앞마당 콘서트’ 개최"
-            },
-            {
-              "name": "웹이코노미",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13djZaZEp1U1BFS0Vublk5T0IyWHVEeW5Fb0I1eGllalREbXlPQlFFMG01azRRSjdrNzBVUlJTWFFBRktyd0dTTlJlLTV2NEVoMGJ1MFh3S2ZCOEI0dWx1Wm83X0tlWU9NYVpuakY0WVJ3UQ?oc=5",
-              "origin": "google",
-              "title": "경기관광공사, 도래미마켓과 ‘경기, 장 앞마당 콘서트’ 개최"
-            },
-            {
-              "name": "정안뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sVTZsUng2TG1nUEFCS3RSVW9JeGN0TURqalAzc3N0VDN3bDBnOXJvMGVRR3VWck9VS054QWstdXA4RHd3R2xxVUpadGNUcEl4aTlLaVVMblRiajJCOUE0czBYMHo?oc=5",
-              "origin": "google",
-              "title": "경기관광공사, 도래미마켓과 함께하는 ‘경기, 장(場) 앞마당 콘서트’ 개최"
-            },
-            {
-              "name": "경기연합뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wY3lERnEwbU00eVZZSXJHMUY0V0ZMODVGbnlrUDd4Unc2UnJOREZZX0tBWTUtdFZMenpkalB4ejVySm1qTnV2Rl9XZEpOczNqb19rdDJLWWV6UlB3ckRoNUVOaHlFdWfSAWdBVV95cUxNcGN5REZxMG1NNHlWWUlyRzFGNFdGTDg1Rm55a1A3eFJ3NlJyTkRGWV9LQVk1LXRWTHp6ZGpQeHo1ckptak51dkZfV2RKTnMzam9fa3QyS1llelJQd3JEaDVFTmh5RXVn?oc=5",
-              "origin": "google",
-              "title": "경기관광공사, 도래미마켓과 함께하는 ‘경기, 장(場) 앞마당 콘서트’ 개최"
-            },
-            {
-              "name": "뉴스잡",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1yQWFEV0t4YkJLaS1tdUlmeUhSU2pYOGpDR2lIVFBGQ0pIMDlBejJpNlZrdFBVU19JOGRoYldsMHZkVWJlTTNiTnBNV1c2TUF4b0FvUDYzbzdiRzNOLVhUeDJCN2NtaUprTTZr0gFrQVVfeXFMTXJBYURXS3hiQktpLW11SWZ5SFJTalg4akNHaUhUUEZDSkgwOUF6Mmk2Vmt0UFVTX0k4ZGhiV2wwdmRVYmVNM2JOcE1XVzZNQXhvQW9QNjNvN2JHM04tWFR4MkI3Y21pSmtNNms?oc=5",
-              "origin": "google",
-              "title": "경기관광공사, 도래미마켓과 함께하는 ‘경기, 장(場) 앞마당 콘서트’ 개최"
-            },
-            {
-              "name": "시사일보",
-              "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MV1pzTzI5TkFES04tczMxaGF5MHdTWFJkZ0U5ZFl0U0J6Y09SZTNqT1JSbUFlUE5FTGNReUwzTjNRT2ZrM2prMHhMdVZ5Zw?oc=5",
-              "origin": "google",
-              "title": "경기관광공사, 도래미마켓과 함께하는 ‘경기, 장(場) 앞마당 콘서트’ 개최"
-            },
-            {
-              "name": "중부시사신문",
-              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sRHhvU2tTWktuejc0aDRXbmZsa25HY1JoVXdVZG5xTy1pU0dVd0Vyb2R4LWpWV2tuMVhNWEg4S3NLWDdKMkZXTUhoLVVSTzZFdjlvaVNFNE1tUGtaYkRvU3pFbw?oc=5",
-              "origin": "google",
-              "title": "경기관광공사, 도래미마켓과 함께하는 ‘경기, 장(場) 앞마당 콘서트’ 개최"
-            },
-            {
-              "name": "중앙뉴스타임스",
-              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tczEySzljdjl1Rndwems5UWJyaTFKeHNpQ3dOMzJpY3hBUHRvaVBNXzJvbVBrMU1hZUJkbVhvZ3ZrMnNJZS0zQ2tTczFEemxoWkpTdnNwdnRuM2tuV0JBMEFheVU?oc=5",
-              "origin": "google",
-              "title": "경기관광공사, 도래미마켓과 함께하는 ‘경기, 장(場) 앞마당 콘서트’ 개최"
-            }
-          ],
-          "source_count": 11,
-          "published": "2026-10-16T10:21:00+09:00",
-          "ts": 1792113660.0,
           "group": "gg_agencies",
           "group_label": "경기도 산하기관"
         },
@@ -3810,6 +4095,55 @@
           "group_label": "경기도 산하기관"
         },
         {
+          "title": "‘DEEP CONNECT’ 소부장·뿌리기술, 10월 28일부터 3일간 킨텍스서 만난다",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ha3AxcnNtOTFsOW83UWxlNVNfNVZtWWxQSFpBZndzQWJSMmhjcUs4a2F5TGpYQ0xHQ0d0VzFoeGxxTUl0Rjc3V1ptZkpkc3Zwdk1Na2JLT2ZzeUx0dG1SSDN2OXpVdEJlSXY5Zw?oc=5",
+          "snippet": "",
+          "source": "미디어데일",
+          "sources": [
+            {
+              "name": "미디어데일",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ha3AxcnNtOTFsOW83UWxlNVNfNVZtWWxQSFpBZndzQWJSMmhjcUs4a2F5TGpYQ0xHQ0d0VzFoeGxxTUl0Rjc3V1ptZkpkc3Zwdk1Na2JLT2ZzeUx0dG1SSDN2OXpVdEJlSXY5Zw?oc=5",
+              "origin": "google",
+              "title": "‘DEEP CONNECT’ 소부장·뿌리기술, 10월 28일부터 3일간 킨텍스서 만난다"
+            },
+            {
+              "name": "글로벌 비즈 뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xcXlwSWYtLVk5VE5GZXYyWDlrd185bk9kYm9oUnFOY2VTZXZuZE1GNnVmYjVqTlFWeTg0MjJLeTRQTXFrckd1Q0JNRVk2ekhkbEVtMXNWRlNFOVdkZjlYbGdTUFhmYUNj0gFoQVVfeXFMTXFxeXBJZi0tWTlUTkZldjJYOWt3XzluT2Rib2hScU5jZVNldm5kTUY2dWZiNWpOUVZ5ODQyMkt5NFBNcWtyR3VDQk1FWTZ6SGRsRW0xc1ZGU0U5V2RmOVhsZ1NQWGZhQ2M?oc=5",
+              "origin": "google",
+              "title": "‘DEEP CONNECT’ 소부장·뿌리기술, 10월 28일부터 3일간 킨텍스서 만난다"
+            },
+            {
+              "name": "데일리매거진",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Vak5tVGp4OGllODkwUExIOU9qYkRKcWszamRyVXBLbzJRT1paQXg5MlMtMTJXdTNmcldjOW9XMVRuWkZkam5OVEJWS1ZudVRJQ1h4bXdBN1d2ZFN5WkhMTVdqWFNpNFZLWHBQV2ZYb3VuUXY3Rm1z?oc=5",
+              "origin": "google",
+              "title": "'2026 소재부품장비·뿌리기술대전'…오는 28일부터 3일간 킨텍스서 개최"
+            },
+            {
+              "name": "투데이안",
+              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5walBiSUU1MlFjZzBaQzJQbkhlbkZwX0xQLTJtSDA5RzRrUFpKVnI0LTczZmRmWGw5OUFFbHp1Sm5DODhfZHJSbTFEQjRFRHVTU0pNdHlZOHRoNDZ3cGc?oc=5",
+              "origin": "google",
+              "title": "‘DEEP CONNECT’ 소부장·뿌리기술, 10월 28일부터 3일간 킨텍스서 만난다"
+            },
+            {
+              "name": "경기시사투데이",
+              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xNnVGM2YwNzI3VlBoMVBRYXRma0V2djdacTFVS055LTNmQ1JUOWZnc1N6emMyUXVyWXJybDRIWlJUd2NTSUxITzFFaUxsc0pkYkdiT2FzTTFqbzhhMXc?oc=5",
+              "origin": "google",
+              "title": "‘DEEP CONNECT’ 소부장·뿌리기술, 10월 28일부터 3일간 킨텍스서 만난다"
+            },
+            {
+              "name": "스페셜타임스",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MS3hiVjFYa0xQVDRYNmlfYWFyNDR2TFZzemoyY1VPQ0syMEszeUZGdGlGbmw4Y2NtTFpLYVBwNzR2UWMtVU15SlctTkZWTFI4M2NFM2RVelVvQWtYdnl5ZGlMN2lsbFpuZjIzNEYzQjl2UQ?oc=5",
+              "origin": "google",
+              "title": "소부장·뿌리기술대전 10월 28~30일 킨텍스, 수출·구매·투자상담 한자리에"
+            }
+          ],
+          "source_count": 6,
+          "published": "2026-10-17T08:11:53+09:00",
+          "ts": 1792192313.0,
+          "group": "gg_agencies",
+          "group_label": "경기도 산하기관"
+        },
+        {
           "title": "경과원, 파주 지역경제 활성화 기업 간담회",
           "url": "https://www.newsis.com/view/NISX20261016_0003828841",
           "snippet": "경기도경제과학진흥원(경과원)은 16일 파주 본원에서 지역경제 활성화를 위한 기업 간담회를 개최했다고 밝혔다. 이날 간담회에는 파주시 기업인협의회 소속 6개 단체와 파주상공회의소 관계자 등 10여 명이 참석했다....",
@@ -3855,92 +4189,6 @@
           "source_count": 6,
           "published": "2026-10-16T11:19:00+09:00",
           "ts": 1792117140.0,
-          "group": "gg_agencies",
-          "group_label": "경기도 산하기관"
-        },
-        {
-          "title": "경기도·경기관광공사, 17일 ‘경기, 장 앞마당 콘서트’ 개최",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmbXl0RnZxSW9ZZGxxbjNIa0ZsMWxBN0tUNnBZNnZMTFhlWXhYNkZ6V3czWmlVZW1GeHlBanBOc3lKOXJNZlZCaE56djdNTF8yNFpsd3AtMFR2LXliRkdRZE1SZnhjaEFKVHJkaUVFZVdyRktH?oc=5",
-          "snippet": "",
-          "source": "글로벌뉴스통신GNA",
-          "sources": [
-            {
-              "name": "글로벌뉴스통신GNA",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmbXl0RnZxSW9ZZGxxbjNIa0ZsMWxBN0tUNnBZNnZMTFhlWXhYNkZ6V3czWmlVZW1GeHlBanBOc3lKOXJNZlZCaE56djdNTF8yNFpsd3AtMFR2LXliRkdRZE1SZnhjaEFKVHJkaUVFZVdyRktH?oc=5",
-              "origin": "google",
-              "title": "경기도·경기관광공사, 17일 ‘경기, 장 앞마당 콘서트’ 개최"
-            },
-            {
-              "name": "경인종합일보",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2WlZFUjktdFBncVJKclo3VEdIWDJuTFhGVEc3RERRbEhOMHFuVE1abm9rVEVpZENabUJwTGNuSDA0WGRscnBYVDRRdFlUcExLLVpWbjBibUxIVGxUM09yWl85cjhramNMS0MxZHR4N0tBUdIBckFVX3lxTFA2WlZFUjktdFBncVJKclo3VEdIWDJuTFhGVEc3RERRbEhOMHFuVE1abm9rVEVpZENabUJwTGNuSDA0WGRscnBYVDRRdFlUcExLLVpWbjBibUxIVGxUM09yWl85cjhramNMS0MxZHR4N0tBUQ?oc=5",
-              "origin": "google",
-              "title": "경기관광공사, 17일 '경기, 장(場) 앞마당 콘서트' 개최"
-            },
-            {
-              "name": "매일경제",
-              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HbHFQMnVqREYtbTZlYWhPOUpxNWZRazN6Y1gyMzcwdGRBZ01aSTZMU1RhcGxOcHBVaWNVYkJuUUhVYkhJUHNHOGRCQWtmVnN0VzVDMQ?oc=5",
-              "origin": "google",
-              "title": "‘문화와 관광의 콜라보’…경기관광공사, 내일 ‘경기, 장 앞마당 콘서트’ 개최"
-            },
-            {
-              "name": "KPI뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rNFF0VFNhai1nSzBZYXhQQ2hESE1TV0IwdTZFcHZ5Nl9SeGdCMHFVcG5WUFZPYnI2NmxSYS1VZHBXb2xfUDgxc1dOM3dDY0w5VFdR?oc=5",
-              "origin": "google",
-              "title": "경기관광공사, 17일 ′경기, 장(場) 앞마당 콘서트′ 개최"
-            },
-            {
-              "name": "스포츠서울",
-              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9OdTFic0lMX2dIYkFPTzAzT21CdEVqc1ZQdWZPd04xLTY2RE0wVFM3VEpKNl9pU0dKNHdGZjU2WnYzekVsWmRIY0s4NkRXWVM4LXBLZ3VkU1Q?oc=5",
-              "origin": "google",
-              "title": "경기관광공사,17일 ‘경기, 장(場) 앞마당 콘서트’ 진행"
-            }
-          ],
-          "source_count": 5,
-          "published": "2026-10-17T08:07:48+09:00",
-          "ts": 1792192068.0,
-          "group": "gg_agencies",
-          "group_label": "경기도 산하기관"
-        },
-        {
-          "title": "‘DEEP CONNECT’ 소부장·뿌리기술, 10월 28일부터 3일간 킨텍스서 만난다",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xcXlwSWYtLVk5VE5GZXYyWDlrd185bk9kYm9oUnFOY2VTZXZuZE1GNnVmYjVqTlFWeTg0MjJLeTRQTXFrckd1Q0JNRVk2ekhkbEVtMXNWRlNFOVdkZjlYbGdTUFhmYUNj0gFoQVVfeXFMTXFxeXBJZi0tWTlUTkZldjJYOWt3XzluT2Rib2hScU5jZVNldm5kTUY2dWZiNWpOUVZ5ODQyMkt5NFBNcWtyR3VDQk1FWTZ6SGRsRW0xc1ZGU0U5V2RmOVhsZ1NQWGZhQ2M?oc=5",
-          "snippet": "",
-          "source": "글로벌 비즈 뉴스",
-          "sources": [
-            {
-              "name": "글로벌 비즈 뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xcXlwSWYtLVk5VE5GZXYyWDlrd185bk9kYm9oUnFOY2VTZXZuZE1GNnVmYjVqTlFWeTg0MjJLeTRQTXFrckd1Q0JNRVk2ekhkbEVtMXNWRlNFOVdkZjlYbGdTUFhmYUNj0gFoQVVfeXFMTXFxeXBJZi0tWTlUTkZldjJYOWt3XzluT2Rib2hScU5jZVNldm5kTUY2dWZiNWpOUVZ5ODQyMkt5NFBNcWtyR3VDQk1FWTZ6SGRsRW0xc1ZGU0U5V2RmOVhsZ1NQWGZhQ2M?oc=5",
-              "origin": "google",
-              "title": "‘DEEP CONNECT’ 소부장·뿌리기술, 10월 28일부터 3일간 킨텍스서 만난다"
-            },
-            {
-              "name": "데일리매거진",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Vak5tVGp4OGllODkwUExIOU9qYkRKcWszamRyVXBLbzJRT1paQXg5MlMtMTJXdTNmcldjOW9XMVRuWkZkam5OVEJWS1ZudVRJQ1h4bXdBN1d2ZFN5WkhMTVdqWFNpNFZLWHBQV2ZYb3VuUXY3Rm1z?oc=5",
-              "origin": "google",
-              "title": "'2026 소재부품장비·뿌리기술대전'…오는 28일부터 3일간 킨텍스서 개최"
-            },
-            {
-              "name": "투데이안",
-              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5walBiSUU1MlFjZzBaQzJQbkhlbkZwX0xQLTJtSDA5RzRrUFpKVnI0LTczZmRmWGw5OUFFbHp1Sm5DODhfZHJSbTFEQjRFRHVTU0pNdHlZOHRoNDZ3cGc?oc=5",
-              "origin": "google",
-              "title": "‘DEEP CONNECT’ 소부장·뿌리기술, 10월 28일부터 3일간 킨텍스서 만난다"
-            },
-            {
-              "name": "경기시사투데이",
-              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xNnVGM2YwNzI3VlBoMVBRYXRma0V2djdacTFVS055LTNmQ1JUOWZnc1N6emMyUXVyWXJybDRIWlJUd2NTSUxITzFFaUxsc0pkYkdiT2FzTTFqbzhhMXc?oc=5",
-              "origin": "google",
-              "title": "‘DEEP CONNECT’ 소부장·뿌리기술, 10월 28일부터 3일간 킨텍스서 만난다"
-            },
-            {
-              "name": "스페셜타임스",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MS3hiVjFYa0xQVDRYNmlfYWFyNDR2TFZzemoyY1VPQ0syMEszeUZGdGlGbmw4Y2NtTFpLYVBwNzR2UWMtVU15SlctTkZWTFI4M2NFM2RVelVvQWtYdnl5ZGlMN2lsbFpuZjIzNEYzQjl2UQ?oc=5",
-              "origin": "google",
-              "title": "소부장·뿌리기술대전 10월 28~30일 킨텍스, 수출·구매·투자상담 한자리에"
-            }
-          ],
-          "source_count": 5,
-          "published": "2026-10-17T02:37:13+09:00",
-          "ts": 1792172233.0,
           "group": "gg_agencies",
           "group_label": "경기도 산하기관"
         },
@@ -4615,25 +4863,6 @@
           "group_label": "경기도 산하기관"
         },
         {
-          "title": "경기관광공사 \"17일 오후 3시 도청서 만나요\"",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ldUlkMjFUaWhtWTBmcS15R0VUaDE0TXd5TThSNm9RdnZjNVNxQmdCVHpXSTJfcnZ6T05oa3lzN3Zyb3VUZVhWekZyc2tyNWZGLXlGRGRJQy00OWJGcXlzVGNXQXI5Q19ZVXfSAW5BVV95cUxPYjNHdzJZaHVDOExOYW5BM1cyaTZ0NHI0UUFSQzlWYkdWS29naGR6YVhGV2NPVkgxODlNRHQzYzVJcFlxSl9jeDJ5R2o5aG5vUXc2MHEyQ2xzcE9WWld5QVd4OV9WbnF4ME5ib2E2Zw?oc=5",
-          "snippet": "",
-          "source": "퍼블릭타임스",
-          "sources": [
-            {
-              "name": "퍼블릭타임스",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ldUlkMjFUaWhtWTBmcS15R0VUaDE0TXd5TThSNm9RdnZjNVNxQmdCVHpXSTJfcnZ6T05oa3lzN3Zyb3VUZVhWekZyc2tyNWZGLXlGRGRJQy00OWJGcXlzVGNXQXI5Q19ZVXfSAW5BVV95cUxPYjNHdzJZaHVDOExOYW5BM1cyaTZ0NHI0UUFSQzlWYkdWS29naGR6YVhGV2NPVkgxODlNRHQzYzVJcFlxSl9jeDJ5R2o5aG5vUXc2MHEyQ2xzcE9WWld5QVd4OV9WbnF4ME5ib2E2Zw?oc=5",
-              "origin": "google",
-              "title": "경기관광공사 \"17일 오후 3시 도청서 만나요\""
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-10-16T16:04:09+09:00",
-          "ts": 1792134249.0,
-          "group": "gg_agencies",
-          "group_label": "경기도 산하기관"
-        },
-        {
           "title": "이승윤, 이번엔 킨텍스 실내 접수…7개월 만에 다시 판 벌인다",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NLW5XejRMSG1kdXlmY092VG9XYjQxRmFiNVF0ZHd5Mm9LVExKUDlaRVNhcDNKTXBSSV9mZUlOUVA4aTQtZllfT3Y3dHlrWE5FN0N2M1YwM2dGSFZWUzFtdFMwMlk0UHRpVlNF0gFuQVVfeXFMUHFaenoxVFpPeldYb1oxTjlXUTRlZDA2anJXNUUwTEkyaXhqREp2d1VGUFFOcmFtVTJUbFpkNk5FRy1xbHdqUEsyZHJsZ3NjbEtOb281WXJqN1RIN1pOcndMSktaR0wzVDYyN2RjRFE?oc=5",
           "snippet": "",
@@ -5116,7 +5345,7 @@
       "priority": 8,
       "page": "main",
       "preview": null,
-      "count": 9,
+      "count": 10,
       "items": [
         {
           "title": "충남콘텐츠진흥원, FLY ASIA서 AI 콘텐츠 스타트업 투자유치 지원…헬로...",
@@ -5280,6 +5509,25 @@
           "group_label": "중앙부처(콘텐츠)"
         },
         {
+          "title": "[국감 2026] 한국 토종마켓 2곳, 정부 게임 제작 지원 빠져도 되나?",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wZE11dHNZY0stVHhpMl9zakttWEpiQ2VPc21vSWI1UEJWajNCM3lnWFFPVmZpMmRLNjNzbzRNUUt3YnFvQzk3a3E5RVpRMzhTYlE?oc=5",
+          "snippet": "",
+          "source": "디시인사이드",
+          "sources": [
+            {
+              "name": "디시인사이드",
+              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wZE11dHNZY0stVHhpMl9zakttWEpiQ2VPc21vSWI1UEJWajNCM3lnWFFPVmZpMmRLNjNzbzRNUUt3YnFvQzk3a3E5RVpRMzhTYlE?oc=5",
+              "origin": "google",
+              "title": "[국감 2026] 한국 토종마켓 2곳, 정부 게임 제작 지원 빠져도 되나?"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-10-17T09:55:24+09:00",
+          "ts": 1792198524.0,
+          "group": "central",
+          "group_label": "중앙부처(콘텐츠)"
+        },
+        {
           "title": "[기자수첩]게임산업은 뒷전, 정부 차원 관심과 지속 논의 必",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qSTBuV3FfZW9GT0tET1RIYUVVcnhZbVNGNmducGxVV19oWnhPc19YM0dnQzdrbC1mXy05T2dQQmpJYkNMOUlIdWxiOERVb2ZETnRCYlptNFVTVHIyNUVzbGlyWlJwQXhHTEtF0gFrQVVfeXFMTmpJMG5XcV9lb0ZPS0RPVEhhRVVyeFltU0Y2Z25wbFVXX2haeE9zX1gzR2dDN2tsLWZfLTlPZ1BCakliQ0w5SUh1bGI4RFVvZkROdEJiWm00VVNUcjI1RXNsaXJaUnBBeEdMS0U?oc=5",
           "snippet": "",
@@ -5363,7 +5611,7 @@
       "priority": 11,
       "page": "trends",
       "preview": 3,
-      "count": 366,
+      "count": 367,
       "items": [
         {
           "title": "제논, AI 에이전트 통합 포털 ‘제나(GenA)’ 정식 출시",
@@ -5765,12 +6013,6 @@
               "title": "엔젤로보틱스, 창업자 공경철 대표 복귀...웨어러블 로봇 넘어 피지컬 ..."
             },
             {
-              "name": "Investing.com 한국어",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54TlBSaEJBNmxsQjEwSEtQQWR0QW9MOGtPVzI2OHNJVGVIbkRnaGRKNWhvMnZ5WXZrQU41alZnTXladWhpcEJXQnFCcVRHa1RrdmlBVDdGejQyMklDNGtCVWtOZ3NFdE0wd0taOUVlTGk?oc=5",
-              "origin": "google",
-              "title": "엔젤로보틱스, 창업자 공경철 대표이사 선임…피지컬 AI 본격 도약 By EBN"
-            },
-            {
               "name": "핀포인트뉴스",
               "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WVjF0WkREODdEbFdXSHBlNlVYbThFSG5OVEpOQjZqZ0Q0cDFMbzVNcjlyWmpGc3dTX25VYnJDNkc0MzZBR0E4eFNkRzhiUFRkbEsyTW5pVnQxU0ZWclZXUTJnSC1iWVR1dzNHcklCUk5KVjDSAXdBVV95cUxObVE3SkpuMUtKU2VjUWxKdFYxYm9IZmVnT0FQY0dsV0lDNzl1MnV3Q0FLQmdkMVFNZVdXNTVWaG55X0VBRTdSNXI2bDZVX1J5N0pMWVJqQ3JtdkRJeFRydWhzeGdZV3JIVTNyNHYwNF8zX29COFByZw?oc=5",
               "origin": "google",
@@ -5793,6 +6035,12 @@
               "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORUhlT0xaWFYyOWF0Sl9YSkRza1dxNmVBZnVjcDVQOENCSjNCejRLWVFZZ0ZoRWVsQ2hVRmJTdWF6OXduWFBPSDJ4WTJaNm03OWMyREFHXzF0RENGbzBQMzFZOW05dnlDTFBJc1RncmVfR0RQeGNsM1RtcUpFWkNZLWpB0gGWAUFVX3lxTFAyUlZuSlpMT3lRb2RHXzJfS2hyTTlZcmYwa21IcnUweFpCN2N6VVVZejdyMEhSOUhubG1CMnFzOURJTU1TNnBHTEM3U1ZKWHFIaGRKU2NaOUhiY2I4OHZUR2tfdnZwbWtyRGE1NnljUnVQZm9qM1p5VnBfZWNpbnE5REZBdUZNZmU2cGZPcVUzSDExekFNUQ?oc=5",
               "origin": "google",
               "title": "공경철 엔젤로보틱스 창업자, 2년 만에 대표 복귀… “피지컬 AI 사업 확대” - 조선비즈"
+            },
+            {
+              "name": "www.ebn.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xeE01X0dYQVQ0amZQNGJqbGp6dEc4djZxQVE5cGR5WkFoMlM4M0R6bkc4aEJwVlllYnNRaXJTMHFHM3lWcnMyMDQxRHA1OGI2MTFfdl9lNzZLaVFOQTZpYTlrNDc1Mlcw?oc=5",
+              "origin": "google",
+              "title": "엔젤로보틱스, 창업자 공경철 대표이사 선임…피지컬 AI 본격 도약"
             },
             {
               "name": "의학신문",
@@ -5819,16 +6067,16 @@
               "title": "엔젤로보틱스, 창업자 공경철 대표이사 선임… 피지컬 AI 기업 도약 가속화"
             },
             {
+              "name": "Investing.com 한국어",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54TlBSaEJBNmxsQjEwSEtQQWR0QW9MOGtPVzI2OHNJVGVIbkRnaGRKNWhvMnZ5WXZrQU41alZnTXladWhpcEJXQnFCcVRHa1RrdmlBVDdGejQyMklDNGtCVWtOZ3NFdE0wd0taOUVlTGk?oc=5",
+              "origin": "google",
+              "title": "엔젤로보틱스, 창업자 공경철 대표이사 선임…피지컬 AI 본격 도약 By EBN"
+            },
+            {
               "name": "메디파나뉴스",
               "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kV1p5bGF4VjZ0dVo3MGd0UGk4WHJPQWJ2dkFGOTA0VTJQcmxyZ1BmWEI1Sk5HZkpBS1JYWEttdTFJNWhaRUZwanhaU21SVHlMM1N3SG5FaDlCLU4zRWNaZmI3azNNQWRzd01Z?oc=5",
               "origin": "google",
               "title": "엔젤로보틱스, 창업자 공경철 대표 복귀…피지컬 AI 사업 강화"
-            },
-            {
-              "name": "www.ebn.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xeE01X0dYQVQ0amZQNGJqbGp6dEc4djZxQVE5cGR5WkFoMlM4M0R6bkc4aEJwVlllYnNRaXJTMHFHM3lWcnMyMDQxRHA1OGI2MTFfdl9lNzZLaVFOQTZpYTlrNDc1Mlcw?oc=5",
-              "origin": "google",
-              "title": "엔젤로보틱스, 창업자 공경철 대표이사 선임…피지컬 AI 본격 도약"
             }
           ],
           "source_count": 16,
@@ -5874,6 +6122,12 @@
               "title": "트웰브랩스, 영상 AI 에이전트 출시…편집·분석 자동화"
             },
             {
+              "name": "매일경제 마켓",
+              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wNlc2dVFsX2czaFExRFdoMVMtSHBFMUtXMTFEYktvdmZOTV9TZDZQYjVkLW5IdHR0WXFaTDVkMWJSQ25maUFSTFFpU2VxbV8zRFE?oc=5",
+              "origin": "google",
+              "title": "[테크스냅] 트웰브랩스, 영상이해 AI 에이전트 '자키' 출시"
+            },
+            {
               "name": "매일경제",
               "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBmSVFTejBIa0t1M191M2t5Z2tZR29naEJQb2VHa1VJdFY3bmgzenlZRmxvVERtdEgycVdSNHVmWnVDLTV6SUE?oc=5",
               "origin": "google",
@@ -5908,17 +6162,90 @@
               "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OZU9xVDhtRDhGcVQyMmpUeHhwX3g1a0dBYkhwWE9SeTZMZEMxYlNrRENjTlNYaXVUbDU5SnZFc05qLXJLcjA4N2QwWUNZSTVJM3gxS29hSFVfcG02b0hKQzU1U1J6a2R6NDlN?oc=5",
               "origin": "google",
               "title": "트웰브랩스, 영상 검색부터 편집까지 맡는 AI 에이전트 ‘자키’ 출시"
-            },
-            {
-              "name": "매일경제 마켓",
-              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wNlc2dVFsX2czaFExRFdoMVMtSHBFMUtXMTFEYktvdmZOTV9TZDZQYjVkLW5IdHR0WXFaTDVkMWJSQ25maUFSTFFpU2VxbV8zRFE?oc=5",
-              "origin": "google",
-              "title": "[테크스냅] 트웰브랩스, 영상이해 AI 에이전트 '자키' 출시"
             }
           ],
           "source_count": 12,
           "published": "2026-10-16T17:20:00+09:00",
           "ts": 1792138800.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "엔비디아, 346만원부터 'RTX 스파크' 출시...\"에이전틱 AI 원년\"[현장]",
+          "url": "http://www.inews24.com/view/2016025",
+          "snippet": "AI 개발과 콘텐츠 제작을 주로 하면서 게임도 즐기는 이용자를 겨냥했다. 고사양은 900만원대…가격·호환성이 과제 제품은 PC 제조사들이 자체 브랜드로 판매한다. 고사양 모델은 900만원대까지 올라간다. 메모리...",
+          "source": "아이뉴스24",
+          "sources": [
+            {
+              "name": "아이뉴스24",
+              "url": "http://www.inews24.com/view/2016025",
+              "origin": "naver",
+              "title": "엔비디아, 346만원부터 'RTX 스파크' 출시...\"에이전틱 AI 원년\"[현장]"
+            },
+            {
+              "name": "datanet.co.kr",
+              "url": "https://www.datanet.co.kr/news/articleView.html?idxno=215160",
+              "origin": "naver",
+              "title": "'엔비디아 RTX 스파크' 출시 ··· 1페타플롭 AI 성능으로 윈도우 PC 새..."
+            },
+            {
+              "name": "아주경제",
+              "url": "https://www.ajunews.com/view/20261016152320106",
+              "origin": "naver",
+              "title": "엔비디아 'RTX 스파크' 출시…윈도우 AI PC 시장 본격 공략"
+            },
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261016163000017?input=1195m",
+              "origin": "naver",
+              "title": "[AI픽] 클라우드 없이 AI 돌린다…엔비디아 'RTX 스파크' 출시"
+            },
+            {
+              "name": "지디넷코리아",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxeXRFdWVzTFAwa3NuTTZfWXFkc0hWd0gyUGhiSjRuMWl6bXNQWVhlRDJ1WkpFZDhWRkJrc1NPckJIY3dZUDVQbXZOc2tVNE9obmUtUWpn?oc=5",
+              "origin": "google",
+              "title": "엔비디아, 'RTX 스파크' 정식 출시 \"AI 개발부터 4K 게임까지 구동\""
+            },
+            {
+              "name": "IT조선",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ISy1NNi1rZExDVnJqQlhXS1RnRjJqek5VZWlGcWdueEI0WlZadDFreTg0SmQ1OFl5Sk52dEFQUmtXRFdxOFVzVlZTS0RERFZ4Sy1jTXZEd19acjhWXzJMU25jLUU0bWdFQkJxaG1oV2rSAXRBVV95cUxQWjJOcEt4LXpKQUcyNUtaREFlUmpocWRJeVBYbTJGa2ZrS1dTOHBnUE4zb1hJME1NVThxTnZOLUxRSGFuTUVISmFMbmxLb3NNeXhfaEVUUXFHX1NnUTdLMVVvRGlaSmROa0hObjJyaWVfeWo2ZQ?oc=5",
+              "origin": "google",
+              "title": "엔비디아 ‘RTX 스파크’ 공식 출시… “AI 활용성 높지만 가격 부담”"
+            },
+            {
+              "name": "재경일보",
+              "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBiLTItV1RnM09Mc3hTTDEwY0c0VVRaR2RiN0lxV3Y3bkJJTWJZZzczNWJYRGR5aXBXTk5GTDhQb19XdXJxNFVUMGxZWQ?oc=5",
+              "origin": "google",
+              "title": "엔비디아, 클라우드 연결 없이 AI 구동하는 ‘RTX 스파크’ 출시 : 기업·산업"
+            },
+            {
+              "name": "코인리더스",
+              "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE03RnNSX2c3V21aenQ4RUVMUzNvbVI2YzVfdU85ZjBrY1hhZWlSRUtzMlRoUnhqbGVIT3FPd0g1TUt6QjdLQ0Mzag?oc=5",
+              "origin": "google",
+              "title": "[AI픽] 클라우드 없이 AI 돌린다…엔비디아 'RTX 스파크' 출시"
+            },
+            {
+              "name": "뉴스투온",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oUnp6VWs3ZjFyejByeUJkQ2xCaElfcnVtNzZBWXpIV3gxUDBQUWZjOWpUbUtXUnE0UHI3WlByOFQtLUROM284dzk4OUo4dU1JNnJlY3VsQUc5czl5TmhYaTFtN1hfUEtqZDNNMQ?oc=5",
+              "origin": "google",
+              "title": "엔비디아, 게임·작업·AI용 PC 칩 ‘RTX 스파크’ 출시"
+            },
+            {
+              "name": "디지털데일리",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4QjlUWXcwVFA2Ny1GNFVnX1d1TC1mWmxaVWM5dmh1RDM5TE9ObHg2WGpoaGZ5Qi16YWY2cnFxbmpGMWN0dGRFaTc5Ty1RLUdLNzlnSjBuMjZTNGJGWkdCTEp2aE4?oc=5",
+              "origin": "google",
+              "title": "젠슨 황 \"개인용 AI 에이전트까지 고려했다\"…엔비디아, 블랙웰 기반 'RTX 스파크' 윈도우 PC 출시"
+            },
+            {
+              "name": "데이터넷",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2Sm1qMElOOGxVeGFMeDhBaldLcVhSaU9sSVA5elVwNUtza1ByaDNHWFV1M0RkTVdXVzJUZk9KUVRLSzV0U3BnOThZYm1pcmdyZkhXUHl5Q1RqUjB0d0YxN3p3Z3ljNzcwSjFyNA?oc=5",
+              "origin": "google",
+              "title": "‘엔비디아 RTX 스파크’ 출시 ··· 1페타플롭 AI 성능으로 윈도우 PC 새 시대 개막"
+            }
+          ],
+          "source_count": 11,
+          "published": "2026-10-16T21:19:00+09:00",
+          "ts": 1792153140.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -6071,79 +6398,6 @@
           "source_count": 10,
           "published": "2026-10-17T09:42:00+09:00",
           "ts": 1792197720.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "엔비디아, 346만원부터 'RTX 스파크' 출시...\"에이전틱 AI 원년\"[현장]",
-          "url": "http://www.inews24.com/view/2016025",
-          "snippet": "AI 개발과 콘텐츠 제작을 주로 하면서 게임도 즐기는 이용자를 겨냥했다. 고사양은 900만원대…가격·호환성이 과제 제품은 PC 제조사들이 자체 브랜드로 판매한다. 고사양 모델은 900만원대까지 올라간다. 메모리...",
-          "source": "아이뉴스24",
-          "sources": [
-            {
-              "name": "아이뉴스24",
-              "url": "http://www.inews24.com/view/2016025",
-              "origin": "naver",
-              "title": "엔비디아, 346만원부터 'RTX 스파크' 출시...\"에이전틱 AI 원년\"[현장]"
-            },
-            {
-              "name": "datanet.co.kr",
-              "url": "https://www.datanet.co.kr/news/articleView.html?idxno=215160",
-              "origin": "naver",
-              "title": "'엔비디아 RTX 스파크' 출시 ··· 1페타플롭 AI 성능으로 윈도우 PC 새..."
-            },
-            {
-              "name": "아주경제",
-              "url": "https://www.ajunews.com/view/20261016152320106",
-              "origin": "naver",
-              "title": "엔비디아 'RTX 스파크' 출시…윈도우 AI PC 시장 본격 공략"
-            },
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20261016163000017?input=1195m",
-              "origin": "naver",
-              "title": "[AI픽] 클라우드 없이 AI 돌린다…엔비디아 'RTX 스파크' 출시"
-            },
-            {
-              "name": "IT조선",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ISy1NNi1rZExDVnJqQlhXS1RnRjJqek5VZWlGcWdueEI0WlZadDFreTg0SmQ1OFl5Sk52dEFQUmtXRFdxOFVzVlZTS0RERFZ4Sy1jTXZEd19acjhWXzJMU25jLUU0bWdFQkJxaG1oV2rSAXRBVV95cUxQWjJOcEt4LXpKQUcyNUtaREFlUmpocWRJeVBYbTJGa2ZrS1dTOHBnUE4zb1hJME1NVThxTnZOLUxRSGFuTUVISmFMbmxLb3NNeXhfaEVUUXFHX1NnUTdLMVVvRGlaSmROa0hObjJyaWVfeWo2ZQ?oc=5",
-              "origin": "google",
-              "title": "엔비디아 ‘RTX 스파크’ 공식 출시… “AI 활용성 높지만 가격 부담”"
-            },
-            {
-              "name": "재경일보",
-              "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBiLTItV1RnM09Mc3hTTDEwY0c0VVRaR2RiN0lxV3Y3bkJJTWJZZzczNWJYRGR5aXBXTk5GTDhQb19XdXJxNFVUMGxZWQ?oc=5",
-              "origin": "google",
-              "title": "엔비디아, 클라우드 연결 없이 AI 구동하는 ‘RTX 스파크’ 출시 : 기업·산업"
-            },
-            {
-              "name": "코인리더스",
-              "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE03RnNSX2c3V21aenQ4RUVMUzNvbVI2YzVfdU85ZjBrY1hhZWlSRUtzMlRoUnhqbGVIT3FPd0g1TUt6QjdLQ0Mzag?oc=5",
-              "origin": "google",
-              "title": "[AI픽] 클라우드 없이 AI 돌린다…엔비디아 'RTX 스파크' 출시"
-            },
-            {
-              "name": "디지털데일리",
-              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4QjlUWXcwVFA2Ny1GNFVnX1d1TC1mWmxaVWM5dmh1RDM5TE9ObHg2WGpoaGZ5Qi16YWY2cnFxbmpGMWN0dGRFaTc5Ty1RLUdLNzlnSjBuMjZTNGJGWkdCTEp2aE4?oc=5",
-              "origin": "google",
-              "title": "젠슨 황 \"개인용 AI 에이전트까지 고려했다\"…엔비디아, 블랙웰 기반 'RTX 스파크' 윈도우 PC 출시"
-            },
-            {
-              "name": "데이터넷",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2Sm1qMElOOGxVeGFMeDhBaldLcVhSaU9sSVA5elVwNUtza1ByaDNHWFV1M0RkTVdXVzJUZk9KUVRLSzV0U3BnOThZYm1pcmdyZkhXUHl5Q1RqUjB0d0YxN3p3Z3ljNzcwSjFyNA?oc=5",
-              "origin": "google",
-              "title": "‘엔비디아 RTX 스파크’ 출시 ··· 1페타플롭 AI 성능으로 윈도우 PC 새 시대 개막"
-            },
-            {
-              "name": "뉴스투온",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oUnp6VWs3ZjFyejByeUJkQ2xCaElfcnVtNzZBWXpIV3gxUDBQUWZjOWpUbUtXUnE0UHI3WlByOFQtLUROM284dzk4OUo4dU1JNnJlY3VsQUc5czl5TmhYaTFtN1hfUEtqZDNNMQ?oc=5",
-              "origin": "google",
-              "title": "엔비디아, 게임·작업·AI용 PC 칩 ‘RTX 스파크’ 출시"
-            }
-          ],
-          "source_count": 10,
-          "published": "2026-10-16T21:19:00+09:00",
-          "ts": 1792153140.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -6428,17 +6682,11 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "中 희토류 이어 기술 수출도 제한, AI 바이오 등 40개 기술 대상",
-          "url": "https://www.newspim.com/news/view/20261017000025",
-          "snippet": "대형 AI 모델과 AI 에이전트 관련 기술을 포함해 14개 기술은 수출 금지를 검토하고, 나머지 26개 기술은 수출 제한 대상으로 분류할 계획이다. AI 기술의 해외 이전에 대한 관리를 강화하면서 국가 안보와 핵심 산업...",
-          "source": "뉴스핌",
+          "title": "中, 수출통제에 AI·바이오·태양광 등 기술도 포함 추진",
+          "url": "https://www.newsis.com/view/NISX20261016_0003829704",
+          "snippet": "AI 분야의 경우 대형 모델과 AI 에이전트, 컴퓨팅 파워 클러스터, 정보처리 등과 관련된 23개 기술이 포함된다. 다만 오픈소스화나 학술 논문 발표 등의 방식으로 공공 영역에 진입한 기술은 수출 통제 범위에 포함되지...",
+          "source": "뉴시스",
           "sources": [
-            {
-              "name": "뉴스핌",
-              "url": "https://www.newspim.com/news/view/20261017000025",
-              "origin": "naver",
-              "title": "中 희토류 이어 기술 수출도 제한, AI 바이오 등 40개 기술 대상"
-            },
             {
               "name": "뉴시스",
               "url": "https://www.newsis.com/view/NISX20261016_0003829704",
@@ -6482,9 +6730,9 @@
               "title": "中, AI·바이오·태양광 기술 40개 수출통제 추진"
             }
           ],
-          "source_count": 8,
-          "published": "2026-10-17T09:51:00+09:00",
-          "ts": 1792198260.0,
+          "source_count": 7,
+          "published": "2026-10-16T19:20:00+09:00",
+          "ts": 1792146000.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -6795,6 +7043,12 @@
               "title": "브릴스, 美 외국산 로봇 규제에 ‘북미 현지 생산’ 승부수···피지컬 AI 로봇 제조 추진"
             },
             {
+              "name": "미디어인천신문",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kdEk1cXhnaXU4VUJmOFd5T2prbEF3cDVuRWlqcFlHOGZIeF9vVHFaVVJfNHVuUEdpWUl2RkppalJkRlgtVEc3S3ZtMWh0ZGRPeGFRYkxUWlA0MHJPeHlVS1g3TlVzTWFyRno0?oc=5",
+              "origin": "google",
+              "title": "美 외국산 로봇 규제...브릴스, 피지컬 AI 로봇 현지 생산 체제 추진"
+            },
+            {
               "name": "프라임경제",
               "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1OWlnLUtrMzMyWGRPRG9UVGVPZkFXclZ3R3dYYmFTZjdmbk9XcUNKallSemNXam5IeGdmZ0tNY0lNSi16eWZTNEFzM1NzYTFtcGd1S25PV20wRkd0QXVGQ0tYTHhsOVBVTXMteQ?oc=5",
               "origin": "google",
@@ -6805,12 +7059,6 @@
               "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoQ2ZfcTlGc05pLVNGcG9ZamZubWp2SVd0TXU0QmRNVV93NXJ3bjRGZVlOTkt1QzBWTlVvbWt3NWdkQURlQVZsTVlaRXZJdk1fOWQwR0JPOHNfempvc0E0Z1VObFd2OEhxNjVV0gFrQVVfeXFMUGhDZl9xOUZzTmktU0Zwb1lqZm5tanZJV3RNdTRCZE1VX3c1cnduNEZlWU5OS3VDMFZOVW9ta3c1Z2RBRGVBVmxNWVpFdkl2TV85ZDBHQk84c196am9zQTRnVU5sV3Y4SHE2NVU?oc=5",
               "origin": "google",
               "title": "美 로봇 인증 장벽 높아지자… 브릴스, 미시간서 '피지컬 AI 로봇' 현지 생산 추진"
-            },
-            {
-              "name": "미디어인천신문",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kdEk1cXhnaXU4VUJmOFd5T2prbEF3cDVuRWlqcFlHOGZIeF9vVHFaVVJfNHVuUEdpWUl2RkppalJkRlgtVEc3S3ZtMWh0ZGRPeGFRYkxUWlA0MHJPeHlVS1g3TlVzTWFyRno0?oc=5",
-              "origin": "google",
-              "title": "美 외국산 로봇 규제...브릴스, 피지컬 AI 로봇 현지 생산 체제 추진"
             }
           ],
           "source_count": 5,
@@ -7074,6 +7322,43 @@
           "source_count": 5,
           "published": "2026-10-16T11:34:00+09:00",
           "ts": 1792118040.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "엑시나, AI 추론용 CXL 메모리 공유 시연",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2cmVPczltWEVodkhtbXZIckl1S1NqRlk4WVlGZUxkby1QUHgxSVc5UjVqNmMtck5IX1ZKZmRIN0Qyd2s1clhBbUJldUhxTHRWWUhBY0JuME8yRHJ4MUpqYkpvY2pDYWk0?oc=5",
+          "snippet": "",
+          "source": "https://www.newsphere.kr/",
+          "sources": [
+            {
+              "name": "https://www.newsphere.kr/",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2cmVPczltWEVodkhtbXZIckl1S1NqRlk4WVlGZUxkby1QUHgxSVc5UjVqNmMtck5IX1ZKZmRIN0Qyd2s1clhBbUJldUhxTHRWWUhBY0JuME8yRHJ4MUpqYkpvY2pDYWk0?oc=5",
+              "origin": "google",
+              "title": "엑시나, AI 추론용 CXL 메모리 공유 시연"
+            },
+            {
+              "name": "venturesquare.net",
+              "url": "https://www.venturesquare.net/1120582/",
+              "origin": "naver",
+              "title": "엑시나, SK하이닉스와 AI 메모리 기술 협력…‘OCP 글로벌 서밋’서 CXL ..."
+            },
+            {
+              "name": "https://spt.co.kr/",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJb1QtdVlTaVV2N3Y0cjJodHh1LVoyTVVUTF9ZaDJNWElIUmtXeVRCSlVWcnFabEZFd19vNENkaGNrNXZSb3RXd1dFbnpVUk40ZmQzRmlFSVNOUV9r?oc=5",
+              "origin": "google",
+              "title": "엑시나, 'OCP 글로벌 서밋'서 CXL 메모리 기반 AI 추론 기술 시연"
+            },
+            {
+              "name": "더에이아이",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWOTdMUmpiYXI5ckhsQjlnYWFPQkFwY3JHTl9lbzNtVWp6QUFsenhNbXBhZ0xxYmlMOE5Hd3JNbzRYM20yZUVRZnljQlAtM3AwdTdSeXoyczBES3NaVXFyX0xLZFd2MjhlTHhr?oc=5",
+              "origin": "google",
+              "title": "AI 추론 병목, 메모리에서 해법 찾는다...엑시나, CXL 기반 ‘MX1’ 선보여"
+            }
+          ],
+          "source_count": 4,
+          "published": "2026-10-16T22:52:34+09:00",
+          "ts": 1792158754.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -7683,37 +7968,6 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "엑시나, AI 추론용 CXL 메모리 공유 시연",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2cmVPczltWEVodkhtbXZIckl1S1NqRlk4WVlGZUxkby1QUHgxSVc5UjVqNmMtck5IX1ZKZmRIN0Qyd2s1clhBbUJldUhxTHRWWUhBY0JuME8yRHJ4MUpqYkpvY2pDYWk0?oc=5",
-          "snippet": "",
-          "source": "https://www.newsphere.kr/",
-          "sources": [
-            {
-              "name": "https://www.newsphere.kr/",
-              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2cmVPczltWEVodkhtbXZIckl1S1NqRlk4WVlGZUxkby1QUHgxSVc5UjVqNmMtck5IX1ZKZmRIN0Qyd2s1clhBbUJldUhxTHRWWUhBY0JuME8yRHJ4MUpqYkpvY2pDYWk0?oc=5",
-              "origin": "google",
-              "title": "엑시나, AI 추론용 CXL 메모리 공유 시연"
-            },
-            {
-              "name": "venturesquare.net",
-              "url": "https://www.venturesquare.net/1120582/",
-              "origin": "naver",
-              "title": "엑시나, SK하이닉스와 AI 메모리 기술 협력…‘OCP 글로벌 서밋’서 CXL ..."
-            },
-            {
-              "name": "더에이아이",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWOTdMUmpiYXI5ckhsQjlnYWFPQkFwY3JHTl9lbzNtVWp6QUFsenhNbXBhZ0xxYmlMOE5Hd3JNbzRYM20yZUVRZnljQlAtM3AwdTdSeXoyczBES3NaVXFyX0xLZFd2MjhlTHhr?oc=5",
-              "origin": "google",
-              "title": "AI 추론 병목, 메모리에서 해법 찾는다...엑시나, CXL 기반 ‘MX1’ 선보여"
-            }
-          ],
-          "source_count": 3,
-          "published": "2026-10-16T22:52:34+09:00",
-          "ts": 1792158754.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
           "title": "라이너, AI로 일상 속 통념 검증하는 연구공모전 개최…14세 이상 누구나...",
           "url": "https://www.venturesquare.net/1120656/",
           "snippet": "글로벌 AI 에이전트 스타트업 라이너(대표 김진우)는 일상에서 접하는 통념을 학술적 근거로 검증하는 ‘제1회 라이너 스콜라 연구공모전’을 개최하고 오는 25일까지...",
@@ -8211,21 +8465,21 @@
         },
         {
           "title": "아스트라제네카, MASH·심근병증 AI 신약발굴에 최대 15억달러 투자",
-          "url": "https://www.medicopharma.co.kr/news/articleView.html?idxno=69893",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IUVR6NzMwNllRd2dwQ0dzNEUxM0FDMWxPUDBLeGJERS1OVlAyWHk2M0tEdWc1NnppS0JlWTk4bXBUTk5YSktIUDBZdTBwZWdiZ0I1cTlpbHpyOFNBTzczWFJuOFRveEtzanhHQ2ViMHFFQQ?oc=5",
           "snippet": "연구개발은 인시트로가 자체 AI 플랫폼 '버추얼 휴먼(Virtual Human)'을 활용해 질환 관련 표적을 발굴하고 후보물질을 개발하는 방식으로 진행된다. 아스트라제네카는 선정된 프로그램의 글로벌 독점권을 확보하고...",
-          "source": "더바이오",
+          "source": "메디코파마",
           "sources": [
-            {
-              "name": "더바이오",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oTUxwREZ0NmxYQXd6WWZYNHBqMWVQbl9ubUs1SHBRWnFFckJfR2JGQ2kzWld1YjBfLVc5aDBTNDZTYkRGc3lkbGNrYnBOVFN1dzdOY1A5dHBtTVRzekZWQ1gwT3pqS1RRTUpXVWRlZmzSAXBBVV95cUxNaE1McERGdDZsWEF3ellmWDRwajFlUG5fbm1LNUhwUVpxRXJCX0diRkNpM1pXdWIwXy1XOWgwUzQ2U2JERnN5ZGxja2JwTlRTdXc3TmNQOXRwbU1Uc3pGVkNYME96aktUUU1KV1VkZWZs?oc=5",
-              "origin": "google",
-              "title": "AZ, 美 AI 기업 인시트로와 MASH·심근병증 신약 발굴 협력…2조원 규모"
-            },
             {
               "name": "메디코파마",
               "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IUVR6NzMwNllRd2dwQ0dzNEUxM0FDMWxPUDBLeGJERS1OVlAyWHk2M0tEdWc1NnppS0JlWTk4bXBUTk5YSktIUDBZdTBwZWdiZ0I1cTlpbHpyOFNBTzczWFJuOFRveEtzanhHQ2ViMHFFQQ?oc=5",
               "origin": "google",
               "title": "아스트라제네카, MASH·심근병증 AI 신약발굴에 최대 15억달러 투자"
+            },
+            {
+              "name": "더바이오",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oTUxwREZ0NmxYQXd6WWZYNHBqMWVQbl9ubUs1SHBRWnFFckJfR2JGQ2kzWld1YjBfLVc5aDBTNDZTYkRGc3lkbGNrYnBOVFN1dzdOY1A5dHBtTVRzekZWQ1gwT3pqS1RRTUpXVWRlZmzSAXBBVV95cUxNaE1McERGdDZsWEF3ellmWDRwajFlUG5fbm1LNUhwUVpxRXJCX0diRkNpM1pXdWIwXy1XOWgwUzQ2U2JERnN5ZGxja2JwTlRTdXc3TmNQOXRwbU1Uc3pGVkNYME96aktUUU1KV1VkZWZs?oc=5",
+              "origin": "google",
+              "title": "AZ, 美 AI 기업 인시트로와 MASH·심근병증 신약 발굴 협력…2조원 규모"
             },
             {
               "name": "헬스오",
@@ -8593,6 +8847,31 @@
           "source_count": 2,
           "published": "2026-10-16T17:40:00+09:00",
           "ts": 1792140000.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "'13년 흑자' 인텔리빅스 \"인공지능의 눈으로 안전 책임진다\" [IPO톡톡]",
+          "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610160123&t=NN",
+          "snippet": "인텔리빅스는 상장 이후 국방 AI, 피지컬 AI(Physical AI), 자연어 영상 검색 등의 신사업을 발전시킨다는 목표다. 국방 분야에서는 악천후 등 야간 환경에서도 최대 200m 전방의 목표물을 정밀 식별하는 전천후 AI...",
+          "source": "한국경제TV",
+          "sources": [
+            {
+              "name": "한국경제TV",
+              "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610160123&t=NN",
+              "origin": "naver",
+              "title": "'13년 흑자' 인텔리빅스 \"인공지능의 눈으로 안전 책임진다\" [IPO톡톡]"
+            },
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261016089100008?input=1195m",
+              "origin": "naver",
+              "title": "[IPO챗] 인텔리빅스 \"13년 흑자로 실적 증명…'안전AI' 원천기술 확보\""
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-10-16T17:33:00+09:00",
+          "ts": 1792139580.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -9297,6 +9576,44 @@
           "group_label": "AI · 생성형AI"
         },
         {
+          "title": "매그나이트·LG 애드 솔루션즈, 파트너십 3년 연장…TV 홈 화면 광고에 AI 에이전트 도입",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PcGxLM1FWckhxVW5VaU8tMUZoYjUtMjkzbk9LV2wyQTRScDBhVGtrTEVOSThwRm9sNU84YnZNTG9BZjFVOXEyejNpMC1CMlI2ak8ybmxId3RteWt0azE1M3h1YWJKZm82dzJIcQ?oc=5",
+          "snippet": "",
+          "source": "매드타임스",
+          "sources": [
+            {
+              "name": "매드타임스",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PcGxLM1FWckhxVW5VaU8tMUZoYjUtMjkzbk9LV2wyQTRScDBhVGtrTEVOSThwRm9sNU84YnZNTG9BZjFVOXEyejNpMC1CMlI2ak8ybmxId3RteWt0azE1M3h1YWJKZm82dzJIcQ?oc=5",
+              "origin": "google",
+              "title": "매그나이트·LG 애드 솔루션즈, 파트너십 3년 연장…TV 홈 화면 광고에 AI 에이전트 도입"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-10-17T10:26:49+09:00",
+          "ts": 1792200409.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "[AI프리뷰] 17일 광주 KIA-LG 준PO 1차전, 네일vs톨허스트 & 김도영vs오스...",
+          "url": "https://www.newspim.com/news/view/20261017000029",
+          "snippet": "상단의 'AI MY 뉴스' 로그인을 통해 뉴스핌의 차세대 AI 콘텐츠 서비스를 활용해보기 바랍니다. 2026 KBO... *위 내용은 생성형 AI로 예측한 경기 분석 [명령어 : 10월 17일 광주 KIA-LG 준PO 1차전을 분석해줘=CHAT GPT]",
+          "source": "뉴스핌",
+          "sources": [
+            {
+              "name": "뉴스핌",
+              "url": "https://www.newspim.com/news/view/20261017000029",
+              "origin": "naver",
+              "title": "[AI프리뷰] 17일 광주 KIA-LG 준PO 1차전, 네일vs톨허스트 & 김도영vs오스..."
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-10-17T10:15:00+09:00",
+          "ts": 1792199700.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
           "title": "양봉농가 허리 지키는 '벌통 운반 보조장치' 개발…벌통 이동시간 등 72...",
           "url": "https://www.pressian.com/pages/articles/2026101710010656264?utm_source=naver&utm_medium=search",
           "snippet": "농촌진흥청은 서울대학교(한웅철 교수 연구팀)와 함께 장치에 부착된 카메라로 벌통 위치와 각도를 인식해 스스로 벌통에 접근하도록 물리적 인공지능(피지컬 AI) 기술을 적용할 계획이다. 이 장치를 활용하면 한 사람이...",
@@ -9354,6 +9671,25 @@
           "group_label": "AI · 생성형AI"
         },
         {
+          "title": "AI주 폭락에도 비트코인은 선방…반등 조건은[도예리의 디지털자산 노트]",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNVDBaVEVXRE92NXBWUmVoTmEyUWcwSnAxbzFzcWlkZnp0LXRSZ3p3VWdBYklPb0l4alUtTHJoYkZSMFBuOVh6N3ZaR2p1bmNWN0Vn0gFTQVVfeXFMUE1UMFpURVdET3Y1cFZSZWhOYTJRZzBKcDFvMXNxaWRmenQtdFJnendVZ0FiSU9vSXhqVS1McmhiRlIwUG45WHo3dlpHanVuY1Y3RWc?oc=5",
+          "snippet": "",
+          "source": "서울경제",
+          "sources": [
+            {
+              "name": "서울경제",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNVDBaVEVXRE92NXBWUmVoTmEyUWcwSnAxbzFzcWlkZnp0LXRSZ3p3VWdBYklPb0l4alUtTHJoYkZSMFBuOVh6N3ZaR2p1bmNWN0Vn0gFTQVVfeXFMUE1UMFpURVdET3Y1cFZSZWhOYTJRZzBKcDFvMXNxaWRmenQtdFJnendVZ0FiSU9vSXhqVS1McmhiRlIwUG45WHo3dlpHanVuY1Y3RWc?oc=5",
+              "origin": "google",
+              "title": "AI주 폭락에도 비트코인은 선방…반등 조건은[도예리의 디지털자산 노트]"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-10-17T10:00:00+09:00",
+          "ts": 1792198800.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
           "title": "소셜앤비즈·한국AI융합비즈연구원, 대전신용보증재단서 소상공인 대상 AI 홍보마케팅 실습 교육 성료",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRX2NPaW5mRnUxLTktVU1FWUdZNndqaEV0Q3FDRlY0dEZkTXZFRUNsakp0Tmo2V3VEWkNlNzhCc1RLMkg5NXlaRVZlQ2tMekhPcUdXanNPaHRpSHdiZTd2TmRidmEyWXVTVmkxXw?oc=5",
           "snippet": "",
@@ -9369,6 +9705,25 @@
           "source_count": 1,
           "published": "2026-10-17T09:54:09+09:00",
           "ts": 1792198449.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "中 희토류 이어 기술 수출도 제한, AI 바이오 등 40개 기술 대상",
+          "url": "https://www.newspim.com/news/view/20261017000025",
+          "snippet": "대형 AI 모델과 AI 에이전트 관련 기술을 포함해 14개 기술은 수출 금지를 검토하고, 나머지 26개 기술은 수출 제한 대상으로 분류할 계획이다. AI 기술의 해외 이전에 대한 관리를 강화하면서 국가 안보와 핵심 산업...",
+          "source": "뉴스핌",
+          "sources": [
+            {
+              "name": "뉴스핌",
+              "url": "https://www.newspim.com/news/view/20261017000025",
+              "origin": "naver",
+              "title": "中 희토류 이어 기술 수출도 제한, AI 바이오 등 40개 기술 대상"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-10-17T09:51:00+09:00",
+          "ts": 1792198260.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -9523,101 +9878,6 @@
           "ts": 1792196245.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "AI 쇼핑 에이전트 '1초 만에 결제, 최저가 싹쓸이'",
-          "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=172310",
-          "snippet": "미국 월스트리트저널은 16일(현지시간) \"AI 에이전트가 기업과 소비자 사이에 개입하면서 전자상거래 업체에 새로운 기회와 부담을 동시에 안기고 있다\"고 전했다. 메타의 '뮤즈'와 오픈AI의 '닷츠' 등은 소비자의 상품...",
-          "source": "choicenews.co.kr",
-          "sources": [
-            {
-              "name": "choicenews.co.kr",
-              "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=172310",
-              "origin": "naver",
-              "title": "AI 쇼핑 에이전트 '1초 만에 결제, 최저가 싹쓸이'"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-10-17T09:08:00+09:00",
-          "ts": 1792195680.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "산불·고수온 양식·딥페이크… 제주 고교생 50팀, 과학으로 해법 찾는...",
-          "url": "https://www.fnnews.com/news/202610170903327094",
-          "snippet": "인공지능(AI)을 활용한 딥페이크 탐지까지. 제주 고등학생 50개 팀이 지역 산업과 환경·안전 문제를 과학적... 분석, 생성형 AI의 연구 활용과 교차 검증 방법 등을 설명한다. 이번 행사는 제주특별자치도교육청이 주최...",
-          "source": "파이낸셜뉴스",
-          "sources": [
-            {
-              "name": "파이낸셜뉴스",
-              "url": "https://www.fnnews.com/news/202610170903327094",
-              "origin": "naver",
-              "title": "산불·고수온 양식·딥페이크… 제주 고교생 50팀, 과학으로 해법 찾는..."
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-10-17T09:08:00+09:00",
-          "ts": 1792195680.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "[경영전략 써밋 2026] [영상] 김녹원 딥엑스 대표, “피지컬 AI 제조혁신...",
-          "url": "https://dealsite.co.kr/articles/170687",
-          "snippet": "김 대표는 데이터센터 증설이 전력과 자원 부족에 부딪히는 상황에서 초저전력 AI 반도체와 피지컬 AI가 새로운 해법이 될 수 있다고 강조했는데요. 제조 현장과 소프트웨어, 시스템 통합, AI 반도체 기업 간 협력을...",
-          "source": "dealsite.co.kr",
-          "sources": [
-            {
-              "name": "dealsite.co.kr",
-              "url": "https://dealsite.co.kr/articles/170687",
-              "origin": "naver",
-              "title": "[경영전략 써밋 2026] [영상] 김녹원 딥엑스 대표, “피지컬 AI 제조혁신..."
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-10-17T09:02:00+09:00",
-          "ts": 1792195320.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "[이서영의 재테크루] 연금계좌 900만원 넣으면 148만원 환급?…연말정산...",
-          "url": "https://www.ajunews.com/view/20261016153138132",
-          "snippet": "카카오는 개인 맞춤형 AI 에이전트를 제작할 수 있는 '칸바스(Kanvas)' 개발을 추진하고 있다. 향후 연말정산이나 세금 신고 등 복잡한 업무를 AI가 지원하는 맞춤형 절세 서비스로 확장될 가능성이 있다. 더 큰...",
-          "source": "아주경제",
-          "sources": [
-            {
-              "name": "아주경제",
-              "url": "https://www.ajunews.com/view/20261016153138132",
-              "origin": "naver",
-              "title": "[이서영의 재테크루] 연금계좌 900만원 넣으면 148만원 환급?…연말정산..."
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-10-17T09:02:00+09:00",
-          "ts": 1792195320.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "센티언트, AI 핑거프린팅 10종 취약점 규명…오픈 벤치마크 공개",
-          "url": "https://www.sentv.co.kr/article/view/sentv202610150102",
-          "snippet": "학계와 산업계에 공개했다. 이와 함께 센티언트는 재현성과 연구 확장을 지원하기 위해 오픈소스... 센티언트 관계자는 “생성형 AI 모델이 다양한 경로로 변형 및 재배포되더라도 원작권을 온전히 식별하고 증명할...",
-          "source": "sentv.co.kr",
-          "sources": [
-            {
-              "name": "sentv.co.kr",
-              "url": "https://www.sentv.co.kr/article/view/sentv202610150102",
-              "origin": "naver",
-              "title": "센티언트, AI 핑거프린팅 10종 취약점 규명…오픈 벤치마크 공개"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-10-17T09:02:00+09:00",
-          "ts": 1792195320.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
         }
       ]
     },
@@ -9627,17 +9887,17 @@
       "priority": 12,
       "page": "trends",
       "preview": 3,
-      "count": 80,
+      "count": 78,
       "items": [
         {
           "title": "화성시문화관광재단, ‘2026 화성황금해안길 사진·숏폼공모전’ 개최",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ReGNvM0puSzlZZ0owdDVBVHI3MXZ3VFJqOHltcEpiZGlXYUhMU3ZHUWNkcGNwN1ZwSmR0U3pvOS1tLVBpV0VyeGd1b0lKRndsUzIyMmxRa01TN2pzeEZxU2doMkZZVS1NLXNFYTBR0gFyQVVfeXFMT3BscE5kX3dsSWt2VUtXNzg4X2FLUFFuTFBubmY1UTY5STdlN1ZwZEExZGhZYWpjd3dFalNTbXFQSWtOU25sWEI1b1VoS2UxcHlkV19xWjFzQkVhdFUxMi1BdFNISGNpT1d6Zy16d2ZhcFpR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wbHBOZF93bElrdlVLVzc4OF9hS1BRbkxQbm5mNVE2OUk3ZTdWcGRBMWRoWWFqY3d3RWpTU21xUElrTlNubFhCNW9VaEtlMXB5ZFdfcVoxc0JFYXRVMTItQXRTSEhjaU9XemctendmYXBaUdIBckFVX3lxTE9wbHBOZF93bElrdlVLVzc4OF9hS1BRbkxQbm5mNVE2OUk3ZTdWcGRBMWRoWWFqY3d3RWpTU21xUElrTlNubFhCNW9VaEtlMXB5ZFdfcVoxc0JFYXRVMTItQXRTSEhjaU9XemctendmYXBaUQ?oc=5",
           "snippet": "",
           "source": "팝콘뉴스",
           "sources": [
             {
               "name": "팝콘뉴스",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ReGNvM0puSzlZZ0owdDVBVHI3MXZ3VFJqOHltcEpiZGlXYUhMU3ZHUWNkcGNwN1ZwSmR0U3pvOS1tLVBpV0VyeGd1b0lKRndsUzIyMmxRa01TN2pzeEZxU2doMkZZVS1NLXNFYTBR0gFyQVVfeXFMT3BscE5kX3dsSWt2VUtXNzg4X2FLUFFuTFBubmY1UTY5STdlN1ZwZEExZGhZYWpjd3dFalNTbXFQSWtOU25sWEI1b1VoS2UxcHlkV19xWjFzQkVhdFUxMi1BdFNISGNpT1d6Zy16d2ZhcFpR?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wbHBOZF93bElrdlVLVzc4OF9hS1BRbkxQbm5mNVE2OUk3ZTdWcGRBMWRoWWFqY3d3RWpTU21xUElrTlNubFhCNW9VaEtlMXB5ZFdfcVoxc0JFYXRVMTItQXRTSEhjaU9XemctendmYXBaUdIBckFVX3lxTE9wbHBOZF93bElrdlVLVzc4OF9hS1BRbkxQbm5mNVE2OUk3ZTdWcGRBMWRoWWFqY3d3RWpTU21xUElrTlNubFhCNW9VaEtlMXB5ZFdfcVoxc0JFYXRVMTItQXRTSEhjaU9XemctendmYXBaUQ?oc=5",
               "origin": "google",
               "title": "화성시문화관광재단, ‘2026 화성황금해안길 사진·숏폼공모전’ 개최"
             },
@@ -9702,6 +9962,12 @@
               "title": "화성시문화관광재단, ‘2026 화성 황금해안길 사진·숏폼 공모전’ 개최"
             },
             {
+              "name": "경기북부탑뉴스",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4Rkp4QlZjNFVhRDlXZGNVWjVfVS1jVVdxdDhLbGRHSFpHNDNXcV95TlZYRURCVlU0dllrbU56OF93LVF6dFRveUNUT3RCMS1QMXVDd3lKMUIwQlh4elVQd041bjV4SjQyQ1ZGeA?oc=5",
+              "origin": "google",
+              "title": "'2026 화성황금해안길 사진·숏폼공모전' 개최"
+            },
+            {
               "name": "뉴스N연합",
               "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9FaC1GaEotNFBYWTVMbVJGQUFKc0dQNWVIQ1hyc3M5Nkd4QzBkZ0JiZEx1MkJjN0tVVWo5T1BhRktUeFBERnUybEVR?oc=5",
               "origin": "google",
@@ -9712,17 +9978,11 @@
               "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1QWlqQWFZM1dCYmJpaEZjYVJZQnhBWlBkcjhuUnZrbXVZaWczMnkxZkNvYzliTmlSdU52TEhLb2tKcFhuS3pnaGQtQTFEcWxCUWVmMGpWR2FkelhrZ3pJQVI3aFo?oc=5",
               "origin": "google",
               "title": "‘2026 화성황금해안길 사진·숏폼 공모전’ 개최"
-            },
-            {
-              "name": "경기북부탑뉴스",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4Rkp4QlZjNFVhRDlXZGNVWjVfVS1jVVdxdDhLbGRHSFpHNDNXcV95TlZYRURCVlU0dllrbU56OF93LVF6dFRveUNUT3RCMS1QMXVDd3lKMUIwQlh4elVQd041bjV4SjQyQ1ZGeA?oc=5",
-              "origin": "google",
-              "title": "'2026 화성황금해안길 사진·숏폼공모전' 개최"
             }
           ],
           "source_count": 14,
-          "published": "2026-10-16T17:45:05+09:00",
-          "ts": 1792140305.0,
+          "published": "2026-10-16T18:39:53+09:00",
+          "ts": 1792143593.0,
           "group": "trend_content",
           "group_label": "콘텐츠 · 크리에이터"
         },
@@ -10909,25 +11169,6 @@
           "group_label": "콘텐츠 · 크리에이터"
         },
         {
-          "title": "웹툰, 드라마로 뻗는다…㈜아이비김영 메가커리어랩, '웹툰+영상' 제작 인재 양성",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DWjRtTjk5aGVTcldyV1B0V1Q1bnBCZjhkOC0xTmw1Q213R0swT3FDRmhMSGlnSThheTQtcjMtUFZFbXJFWnNNbmktbUZRc0VNTWxlOXoxRW1sNnQyaG9EaGtheW13aU1JSnFneQ?oc=5",
-          "snippet": "",
-          "source": "파이낸스투데이",
-          "sources": [
-            {
-              "name": "파이낸스투데이",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DWjRtTjk5aGVTcldyV1B0V1Q1bnBCZjhkOC0xTmw1Q213R0swT3FDRmhMSGlnSThheTQtcjMtUFZFbXJFWnNNbmktbUZRc0VNTWxlOXoxRW1sNnQyaG9EaGtheW13aU1JSnFneQ?oc=5",
-              "origin": "google",
-              "title": "웹툰, 드라마로 뻗는다…㈜아이비김영 메가커리어랩, '웹툰+영상' 제작 인재 양성"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-10-16T10:45:50+09:00",
-          "ts": 1792115150.0,
-          "group": "trend_content",
-          "group_label": "콘텐츠 · 크리에이터"
-        },
-        {
           "title": "“어려운 복지 홍보 관성 과감히 타치, 숏폼·AI 결합한 소통 백본망 수혈… 충북광역자활센터, 홍보 공모전 성료”",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBScjBIVXlqUHhKMlJEWGE1VmJOdks5bjBSTUd6S1pveGY1ZXZqQzJueTd5SXBRcS10RF9YTUdRMlVNNlZTRVRvWWVPek9DMzVVYVIzYw?oc=5",
           "snippet": "",
@@ -11363,25 +11604,6 @@
           "ts": 1792094400.0,
           "group": "trend_content",
           "group_label": "콘텐츠 · 크리에이터"
-        },
-        {
-          "title": "제작비 '500억 아니면 5억'…'허리' 사라지며 다양성도 소멸하는 K영화",
-          "url": "https://www.hankookilbo.com/news/article/A2026101506200003076?did=NA",
-          "snippet": "스펙터클 있거나, 손익 위험 낮은 영화만 생존 온라인동영상서비스(OTT) 확장과 코로나19 팬데믹을 거치며... 넷플릭스 오리지널 영화로 제작했다. 이달 9일 부산국제영화제 '포럼 비프'에서도 중예산 영화를 주제로...",
-          "source": "한국일보",
-          "sources": [
-            {
-              "name": "한국일보",
-              "url": "https://www.hankookilbo.com/news/article/A2026101506200003076?did=NA",
-              "origin": "naver",
-              "title": "제작비 '500억 아니면 5억'…'허리' 사라지며 다양성도 소멸하는 K영화"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-10-16T04:31:00+09:00",
-          "ts": 1792092660.0,
-          "group": "trend_content",
-          "group_label": "콘텐츠 · 크리에이터"
         }
       ]
     },
@@ -11391,7 +11613,7 @@
       "priority": 13,
       "page": "trends",
       "preview": 3,
-      "count": 156,
+      "count": 160,
       "items": [
         {
           "title": "라인게임즈, 서바이버라이크 신작 '엠버 앤 블레이드' 2027년 1월 8일 얼...",
@@ -11534,55 +11756,6 @@
           "group_label": "게임 · e스포츠"
         },
         {
-          "title": "2K, 마피아 III 현세대 콘솔 버전 출시",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2TjR1dXhtclctQW5TZmMwNEk3bFU1VHBzNm01RVlfQ09Va1h5djB4dGhFTnZFVmdXM1BibjNkc1BWNDNrZnZsOFhqSTVWMndNdzN4RjNEdHFBMmhHbXhvZXVxX2E?oc=5",
-          "snippet": "PS5 및 Xbox Series X|S 버전은 60 FPS 게임플레이를 지원하며, 임무 진행 시 전반적인 안정성, 그래픽 및... 스팀 버전에도 임무 진행, 도전 과제 추적, NPC 행동 등 게임플레이를 개선하했으며, 그래픽과 화면 설정...",
-          "source": "베타뉴스",
-          "sources": [
-            {
-              "name": "베타뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2TjR1dXhtclctQW5TZmMwNEk3bFU1VHBzNm01RVlfQ09Va1h5djB4dGhFTnZFVmdXM1BibjNkc1BWNDNrZnZsOFhqSTVWMndNdzN4RjNEdHFBMmhHbXhvZXVxX2E?oc=5",
-              "origin": "google",
-              "title": "2K, 마피아 III 현세대 콘솔 버전 출시"
-            },
-            {
-              "name": "디스이즈게임",
-              "url": "https://www.thisisgame.com/articles/431021",
-              "origin": "naver",
-              "title": "2K, '마피아 III' 출시 10주년 기념 현세대 콘솔 버전 출시 및 Steam 업데..."
-            },
-            {
-              "name": "게임포커스",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IWTBGZWZLcFhZWFZzdlU1d204M3RTeW90dmg5SlZOV3hPWUt1VnZTcFhQQXIyUW03Y2pZRXcxeXVZaXJQdmlBSkZBWWtKZ0MxVXBXb2dfWXZMVmVXeTN2TA?oc=5",
-              "origin": "google",
-              "title": "2K, ‘마피아 III’ 출시 10주년 기념 현세대 콘솔 버전 출시... 편의성 개선 업데이트도 공개"
-            },
-            {
-              "name": "ACROFAN",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtc3RkMFpsUmhQaXdmb01BaHd5RHBXSEtvUzI4bHU4dHB4dVBwQ2d2Zm1ZdDlRZDdtV0pYNFRwS1pLR1Z6alZNYnkzNnNvYmJ5cDBHQ0tQaWlaUm8?oc=5",
-              "origin": "google",
-              "title": "2K, ‘마피아 III’ 출시 10주년 기념 현세대 콘솔 버전 및 업데이트 공개"
-            },
-            {
-              "name": "게임어바웃",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zcDRVZy0ta19LMWRyOUhRS2tvMzBmSTFmbmJvQ29OMWpHWmU3eVVRVDdEQXZLeGpmd1gwRHkzSUpxUVIwenlFYUFxUnZPSjRIZWVWLXhMekNjZ014TUc4MjdoVEs4UzRleFlTSA?oc=5",
-              "origin": "google",
-              "title": "2K, ‘마피아 III’ 출시 10주년 기념 현세대 콘솔 버전 및 업데이트 공개"
-            },
-            {
-              "name": "인벤",
-              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJT3hndDBUME9lS08tMFRTSDhLQkhydWNIYjlhZGRlMlpRVzRqbmh1SmlXbmk1LTFGaS1lNTlFYjZ6QTFsOGNic3IyandiWXgwam84engzT20xRVlma0E?oc=5",
-              "origin": "google",
-              "title": "마피아3 10주년, 현세대 콘솔 버전 출시 및 스팀 업데이트"
-            }
-          ],
-          "source_count": 6,
-          "published": "2026-10-16T15:18:00+09:00",
-          "ts": 1792131480.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
           "title": "컴투스플랫폼, 日 도쿄서 B2B 세미나 성료…일본 게임 백엔드 서비스 시장 주목",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05YkYtQjRjTGdGeWRDZ1dyMjBPaEtrak9VTkN5bE1LS0RGcGpsS0JEXy1nRGNQTVVpQ3hJdWJocDlSMllobVVVVmt3dEtPNkVqZ2czdHJn?oc=5",
           "snippet": "",
@@ -11623,11 +11796,66 @@
               "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIT1BiczFrRUJGSy1PdTQ0a05iQ3hRU01yZm5xUmItWDg4WVVtZGhfYVczSmEwOWJPTm5UbHB5ckk4WG5WX19TUC1CaE5OTXhGUGdvX0NQZHpJYTNPR0x2RklTVHV1V0w4ZldmUndJZw?oc=5",
               "origin": "google",
               "title": "컴투스플랫폼, 게임 백엔드 기술로 일본 시장 공략…‘하이브’ 글로벌 확장"
+            },
+            {
+              "name": "아주경제",
+              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyd1ExRmd3akFVUWZxVTNFeHZqWVd6UmVhODRDQXR5ZEc5Yl9CQXhMWFc2TklPMGRUYktobkRtNFY1RV9DR3FFQmlyaVBOWFdKVkVWbWNYUkvSAVhBVV95cUxQMndRMUZnd2pBVVFmcVUzRXh2allXelJlYTg0Q0F0eWRHOWJfQkF4TFhXNk5JTzBkVGJLaG5EbTRWNUVfQ0dxRUJpcmlQTlhXSlZFVm1jWFJL?oc=5",
+              "origin": "google",
+              "title": "컴투스플랫폼, 日서 B2B 세미나 개최…현지 게임 백엔드 시장 공략"
+            }
+          ],
+          "source_count": 7,
+          "published": "2026-10-16T14:44:40+09:00",
+          "ts": 1792129480.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
+          "title": "2K, 마피아 III 현세대 콘솔 버전 출시",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2TjR1dXhtclctQW5TZmMwNEk3bFU1VHBzNm01RVlfQ09Va1h5djB4dGhFTnZFVmdXM1BibjNkc1BWNDNrZnZsOFhqSTVWMndNdzN4RjNEdHFBMmhHbXhvZXVxX2E?oc=5",
+          "snippet": "PS5 및 Xbox Series X|S 버전은 60 FPS 게임플레이를 지원하며, 임무 진행 시 전반적인 안정성, 그래픽 및... 스팀 버전에도 임무 진행, 도전 과제 추적, NPC 행동 등 게임플레이를 개선하했으며, 그래픽과 화면 설정...",
+          "source": "베타뉴스",
+          "sources": [
+            {
+              "name": "베타뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2TjR1dXhtclctQW5TZmMwNEk3bFU1VHBzNm01RVlfQ09Va1h5djB4dGhFTnZFVmdXM1BibjNkc1BWNDNrZnZsOFhqSTVWMndNdzN4RjNEdHFBMmhHbXhvZXVxX2E?oc=5",
+              "origin": "google",
+              "title": "2K, 마피아 III 현세대 콘솔 버전 출시"
+            },
+            {
+              "name": "디스이즈게임",
+              "url": "https://www.thisisgame.com/articles/431021",
+              "origin": "naver",
+              "title": "2K, '마피아 III' 출시 10주년 기념 현세대 콘솔 버전 출시 및 Steam 업데..."
+            },
+            {
+              "name": "게임포커스",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IWTBGZWZLcFhZWFZzdlU1d204M3RTeW90dmg5SlZOV3hPWUt1VnZTcFhQQXIyUW03Y2pZRXcxeXVZaXJQdmlBSkZBWWtKZ0MxVXBXb2dfWXZMVmVXeTN2TA?oc=5",
+              "origin": "google",
+              "title": "2K, ‘마피아 III’ 출시 10주년 기념 현세대 콘솔 버전 출시... 편의성 개선 업데이트도 공개"
+            },
+            {
+              "name": "ACROFAN",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtc3RkMFpsUmhQaXdmb01BaHd5RHBXSEtvUzI4bHU4dHB4dVBwQ2d2Zm1ZdDlRZDdtV0pYNFRwS1pLR1Z6alZNYnkzNnNvYmJ5cDBHQ0tQaWlaUm8?oc=5",
+              "origin": "google",
+              "title": "2K, ‘마피아 III’ 출시 10주년 기념 현세대 콘솔 버전 및 업데이트 공개"
+            },
+            {
+              "name": "인벤",
+              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJT3hndDBUME9lS08tMFRTSDhLQkhydWNIYjlhZGRlMlpRVzRqbmh1SmlXbmk1LTFGaS1lNTlFYjZ6QTFsOGNic3IyandiWXgwam84engzT20xRVlma0E?oc=5",
+              "origin": "google",
+              "title": "마피아3 10주년, 현세대 콘솔 버전 출시 및 스팀 업데이트"
+            },
+            {
+              "name": "게임어바웃",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zcDRVZy0ta19LMWRyOUhRS2tvMzBmSTFmbmJvQ29OMWpHWmU3eVVRVDdEQXZLeGpmd1gwRHkzSUpxUVIwenlFYUFxUnZPSjRIZWVWLXhMekNjZ014TUc4MjdoVEs4UzRleFlTSA?oc=5",
+              "origin": "google",
+              "title": "2K, ‘마피아 III’ 출시 10주년 기념 현세대 콘솔 버전 및 업데이트 공개"
             }
           ],
           "source_count": 6,
-          "published": "2026-10-16T14:44:40+09:00",
-          "ts": 1792129480.0,
+          "published": "2026-10-16T15:18:00+09:00",
+          "ts": 1792131480.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
         },
@@ -11862,22 +12090,22 @@
           "group_label": "게임 · e스포츠"
         },
         {
-          "title": "그라비티 '라그나로크: GO' 동남아 공략…태국·인니 게임매체 잇단 주...",
-          "url": "https://sateconomy.co.kr/news/view/1065589804577977",
-          "snippet": "말 출시 전망…정확한 일정·초기 성과는 미확인 ▲ 그라비티 게임 비전(GGV)이 방치형 레트로 픽셀 RPG ‘Ragnarok: GO’의 동남아시아 지역 사전예약을 시작했다 [그라비티] 그라비티가 신작 '라그나로크: GO'의...",
-          "source": "sateconomy.co.kr",
+          "title": "그라비티, 신작 '라그나로크: 고' 동남아 사전 예약 시작",
+          "url": "http://www.inews24.com/view/2015989",
+          "snippet": "그라비티는 홍콩 지사 그라비티 게임 비전(GGV)이 신작 '라그나로크: 고(Ragnarok: GO)'의 동남아시아 지역 사전... 사전 예약은 이날부터 정식 출시 전까지 진행된다. 게임 공식 홈페이지와 현지 구글 플레이, 애플 앱스토어를...",
+          "source": "아이뉴스24",
           "sources": [
-            {
-              "name": "sateconomy.co.kr",
-              "url": "https://sateconomy.co.kr/news/view/1065589804577977",
-              "origin": "naver",
-              "title": "그라비티 '라그나로크: GO' 동남아 공략…태국·인니 게임매체 잇단 주..."
-            },
             {
               "name": "아이뉴스24",
               "url": "http://www.inews24.com/view/2015989",
               "origin": "naver",
               "title": "그라비티, 신작 '라그나로크: 고' 동남아 사전 예약 시작"
+            },
+            {
+              "name": "sateconomy.co.kr",
+              "url": "https://sateconomy.co.kr/news/view/1065589804577977",
+              "origin": "naver",
+              "title": "그라비티 '라그나로크: GO' 동남아 공략…태국·인니 게임매체 잇단 주..."
             }
           ],
           "source_count": 2,
@@ -12100,7 +12328,7 @@
             },
             {
               "name": "스페셜타임스",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DNlk2VTM0eHdQSHpMSUg3c3VYSUFlWkpZdzIxN2lwSXFRWXU3UEFNdW10VUFYLXJvWEdZN242VXlFUkthQnA1UGVMT1R3YmtraTlhR05YVmRpVk9hV1JZNmVPaGgyUlV1OFNpT1N3NzlMUQ?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BdkFKS2lTNHc3WkphWmtndWhVcmMzdEd2VWpfU25PanBtMW1nUGZvSC12TjhoMFZuOElZZ0lEMFBrdzFmNVpDSlFoY2t1ckI1WXNMeWhVTHhQOGEzdy14U0lDbDBjLTYyZXVvZ2owdXN2OFU?oc=5",
               "origin": "google",
               "title": "큐게임즈, 호러 게임 ‘나이트워치’ 10월 22일 스위치 2 출시…2만4000원"
             }
@@ -12212,6 +12440,25 @@
           "group_label": "게임 · e스포츠"
         },
         {
+          "title": "\"게임 샀으면 내 것\" 미 의원, 소유권 법안 발의 예고",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iNWM5ZEVFUEZmLVM5Qk42RnRyUkFZaHFzOVd5RmV3Q0JvNjI0T21aaWU4MGlYYUFkdXd0VFVvT3pxbkxLSHpmU1VFN1RoUElKX0hsa255S2NwNWJyOGc?oc=5",
+          "snippet": "",
+          "source": "인벤",
+          "sources": [
+            {
+              "name": "인벤",
+              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iNWM5ZEVFUEZmLVM5Qk42RnRyUkFZaHFzOVd5RmV3Q0JvNjI0T21aaWU4MGlYYUFkdXd0VFVvT3pxbkxLSHpmU1VFN1RoUElKX0hsa255S2NwNWJyOGc?oc=5",
+              "origin": "google",
+              "title": "\"게임 샀으면 내 것\" 미 의원, 소유권 법안 발의 예고"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-10-17T10:18:55+09:00",
+          "ts": 1792199935.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
           "title": "구독자 80만 IT 유튜버 눈쟁이의 1인 개발작 ‘말드할라’, 스팀 정식 출시",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EVkk3MzB2SGpKQk5WLUFzblpYSDQyWG5RMXQtYWNZUXlnNlFjZklIcDM3bkVkRG5xbFFtZl9ZN0F3aW1nSDJRWGZRSF8?oc=5",
           "snippet": "",
@@ -12232,8 +12479,8 @@
         },
         {
           "title": "\"성장 부담 낮추는 전략 통했다\" MMORPG 신작 잇단 흥행",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CSEZFSTFjZU9hY0hUYWhhNGp6YnpVYUtvZFZsMnNtdjljUWV0MEFUSVJDR09tVTRiNk1CWFIyR0RXV0hEZmVBVHhpc0g3TzdfUzhUVlJ5M05QeGd4NHlFRjFOemM3eS05eUN5ZmVwdlpCZXFJTURrQjRfMA?oc=5",
-          "snippet": "",
+          "url": "https://www.thebigdata.co.kr/view.php?ud=202610161540184480a47484cf8_23",
+          "snippet": "글로벌 시장조사업체 센서타워 집계 기준 올해 국내 출시 모바일 게임 신작 가운데 가장 높은 매출이다. 신작 흥행에 힘입어 MMORPG 시장도 회복세를 보이고 있다. 센서타워에 따르면 지난 9월 국내 모바일 MMORPG 매출은 약...",
           "source": "빅데이터뉴스",
           "sources": [
             {
@@ -12421,6 +12668,44 @@
           "group_label": "게임 · e스포츠"
         },
         {
+          "title": "게임 배경과 심벌 디자인을 잇는 바둑이 포커 피시방 테마 해설",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX0VZaU9DZWl2TThwRno1ZGtFZ203WlVPdm1aZFlpcjJCWm5pZ2JxdWZMYTdEM1Jpa1ZvbWxHd1dYNzgyVFpMN1hLc1QzT1B4QWMwMHAyeEZGMTZVNXlTdzJ0bmhiOWk3NFd4b3RCVVlLOV93NEtyNHdhcVFjaDU4TW1KcDBpd2NNSXdQMWhuc3I3WUVzMWphUDV0MlEwell1d2JyVjUyelRIZDhkc1BrQkl3?oc=5",
+          "snippet": "",
+          "source": "Calgary Roughnecks",
+          "sources": [
+            {
+              "name": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX0VZaU9DZWl2TThwRno1ZGtFZ203WlVPdm1aZFlpcjJCWm5pZ2JxdWZMYTdEM1Jpa1ZvbWxHd1dYNzgyVFpMN1hLc1QzT1B4QWMwMHAyeEZGMTZVNXlTdzJ0bmhiOWk3NFd4b3RCVVlLOV93NEtyNHdhcVFjaDU4TW1KcDBpd2NNSXdQMWhuc3I3WUVzMWphUDV0MlEwell1d2JyVjUyelRIZDhkc1BrQkl3?oc=5",
+              "origin": "google",
+              "title": "게임 배경과 심벌 디자인을 잇는 바둑이 포커 피시방 테마 해설"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-10-17T04:39:32+09:00",
+          "ts": 1792179572.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
+          "title": "게임이 시작되지 않을 때 확인할 실시간 베팅 보험 이용 조건",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaEttQl9rT2pjbXpxR3VPX1hLR3ZkX0s4S256NnFPSVJidy1FRElpM0RUNEJpOGpMT2doX1pqYUxJZTIwdk9VV2IxRHhqZjdLcy1TYUc1akJEZm55QW85RWhrbUYtS0Q2bk5LMGVKek4wN2VTbnVMZkpDLTRBZlZac0hmRmV2UGdSaVFmX2toRzk3VDJ5by10RENPTHJBVGhXQzFF?oc=5",
+          "snippet": "",
+          "source": "Calgary Roughnecks",
+          "sources": [
+            {
+              "name": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaEttQl9rT2pjbXpxR3VPX1hLR3ZkX0s4S256NnFPSVJidy1FRElpM0RUNEJpOGpMT2doX1pqYUxJZTIwdk9VV2IxRHhqZjdLcy1TYUc1akJEZm55QW85RWhrbUYtS0Q2bk5LMGVKek4wN2VTbnVMZkpDLTRBZlZac0hmRmV2UGdSaVFmX2toRzk3VDJ5by10RENPTHJBVGhXQzFF?oc=5",
+              "origin": "google",
+              "title": "게임이 시작되지 않을 때 확인할 실시간 베팅 보험 이용 조건"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-10-17T04:13:51+09:00",
+          "ts": 1792178031.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
           "title": "게임 기능을 주제별로 읽는 토토 언오버 연장 콘텐츠 모음",
           "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOFctWnlscktEaWlLUGt6Ync1dGI5UDNTNVR4LXJtRExLbWRCSFJuX2RKSHJGZUVqdmpJc19wSGFGMmFwbUtqVXA1QnB4aUVvd2tFUTE0M05ReUtOTGhxdnIyQ0NxbDhTZXFmWDhfdVMzd0NFdXRYOTVIdFp0UkRueFZxdUxYaXdURVk2Yml1cU5LdmZlc1F3UTRrNEl3Wm1vMzIzbE1aSEQ5OEprSjh3OFRwOXptMmMxamlNRzZpcERBRVRXREFRblBDRW83WnpQM1BmbkhBeWx0Y2ItQ09YdWpn?oc=5",
           "snippet": "",
@@ -12493,6 +12778,25 @@
           "source_count": 1,
           "published": "2026-10-17T02:50:42+09:00",
           "ts": 1792173042.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
+          "title": "카카오 블록 체인 채용 게임 설명의 예시 조합 읽기",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yNjJFd1cwSVo5cjdqMlpuc25QN1ViaFN1WWFwYjF3Q0RROXJDV3VHLS05dzAxdV9Sa1FyWGVvU0VLejhtYm1ZenRmb1ZhWHdtQzZMNElQVVBwaTJjUFZEVWxYUW56c3htMk1HNQ?oc=5",
+          "snippet": "",
+          "source": "Calgary Roughnecks",
+          "sources": [
+            {
+              "name": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yNjJFd1cwSVo5cjdqMlpuc25QN1ViaFN1WWFwYjF3Q0RROXJDV3VHLS05dzAxdV9Sa1FyWGVvU0VLejhtYm1ZenRmb1ZhWHdtQzZMNElQVVBwaTJjUFZEVWxYUW56c3htMk1HNQ?oc=5",
+              "origin": "google",
+              "title": "카카오 블록 체인 채용 게임 설명의 예시 조합 읽기"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-10-17T02:35:04+09:00",
+          "ts": 1792172104.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
         },
@@ -12611,6 +12915,25 @@
           "group_label": "게임 · e스포츠"
         },
         {
+          "title": "프리스핀 횟수 표시가 있다면? 완전 무료 게임 사이트 화면 해설",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcTJWVWFiSDZjMjJ2WmZLSWpTQUFzX092YWstQ0RmVEdBdWJ2THZGZHd1Z2NWcFlRTExXUUhRaWo3aHJUaUlfcGh0T19CSFFtQmZ6enBNRGstOTVhWTZGdm14cGIwY0FzT2JhcndFeVVZRk85akk1cU56aW42bllnSVZZSWN1OU4zanRJZEttZzVvb1VKX0dKSUE4UVZGU1hHV2VoVU90WFJkdDNqOHZGOFUxNlRDQmRmQVN0YlJFN1NxN1RiVWc?oc=5",
+          "snippet": "",
+          "source": "Calgary Roughnecks",
+          "sources": [
+            {
+              "name": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcTJWVWFiSDZjMjJ2WmZLSWpTQUFzX092YWstQ0RmVEdBdWJ2THZGZHd1Z2NWcFlRTExXUUhRaWo3aHJUaUlfcGh0T19CSFFtQmZ6enBNRGstOTVhWTZGdm14cGIwY0FzT2JhcndFeVVZRk85akk1cU56aW42bllnSVZZSWN1OU4zanRJZEttZzVvb1VKX0dKSUE4UVZGU1hHV2VoVU90WFJkdDNqOHZGOFUxNlRDQmRmQVN0YlJFN1NxN1RiVWc?oc=5",
+              "origin": "google",
+              "title": "프리스핀 횟수 표시가 있다면? 완전 무료 게임 사이트 화면 해설"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-10-17T00:35:51+09:00",
+          "ts": 1792164951.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
           "title": "777 게임 슬롯보증 PC 화면의 메뉴 배치",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRFZ2Ml8xS0N4QWZ4UG1Ldzk0bHNkalducjhPWlpIUG1Dem1aTmppRkppZFhyUlA1bWE1dm9wWGQ1VG1KaXJjbm14V3IwdzViMzdqdDRJR0hnT3JyTFBNcjN4RE8tZzgyem5FYUJhYl8xeVdqa1ZtRlhWTFZ5UlNCRkxEaFljaHBaVWlwUE9yZThJRFVQMUhvSkdkWkhGUQ?oc=5",
           "snippet": "",
@@ -12664,6 +12987,25 @@
           "source_count": 1,
           "published": "2026-10-16T23:52:12+09:00",
           "ts": 1792162332.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
+          "title": "보너스 이름이 같아도 조건은 다를 수 있는 광저우 아시안게임 골프",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RZGR5SGRkWFFqdEhfUnNwVkRKZ3F5aGN4TlR4bDlmMzNqVW5rOUF4U04tbFctamUtT3ZyZjBTQUdqT1k2SW8tQXk1YnYxbUZNbWw1dXJvNFVjaF9rYmtHamxFa2tiZw?oc=5",
+          "snippet": "",
+          "source": "Calgary Roughnecks",
+          "sources": [
+            {
+              "name": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RZGR5SGRkWFFqdEhfUnNwVkRKZ3F5aGN4TlR4bDlmMzNqVW5rOUF4U04tbFctamUtT3ZyZjBTQUdqT1k2SW8tQXk1YnYxbUZNbWw1dXJvNFVjaF9rYmtHamxFa2tiZw?oc=5",
+              "origin": "google",
+              "title": "보너스 이름이 같아도 조건은 다를 수 있는 광저우 아시안게임 골프"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-10-16T23:35:57+09:00",
+          "ts": 1792161357.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
         },
@@ -13220,7 +13562,7 @@
         },
         {
           "title": "몰아치기! 라인게임즈, 불금 '삼켰다'",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtaE02em5uWHN5V2lQbl9wN3VnekdkSTBlTVZZeTk0WmNIcUtpelV3VXFkNGZBV1g4Nm1LNTREWXByb1lHVjNyd0JOWklSQThMZWZ4eFFlZ3FPQnJIUXBOSF94bTZkTkE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVNDk0SHVhQ1Y3cjNrcHdPazlmWmI3cW9WZFFGSUoydW5XdWk4RnpoM0JuclFGOFY0WnNocUl3dEh3Wmg4UmRTOVB2RUZpeGZVZkJNZVRHdkUyUHdGR2tWdnc2ZUMtTjk2V1E?oc=5",
           "snippet": "",
           "source": "게임앤드",
           "sources": [
@@ -13882,120 +14224,6 @@
           "ts": 1792126800.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
-        },
-        {
-          "title": "건담 신작 모바일 게임 ‘블리츠 오더’ 공개…한국 테스트 500명, 26일까지 모집 - https://www.diarypoint.com/",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5rSVdXamIzdlZEYkFGR0tOamo1VnNPemZ4WHBEWHZQdHZKejh1N2k4NE5oRkJrcGdSZHU1b3d1OG5HYVZnTnhxVlZiaV9pZUVvMF9YSFh0Q2g0dDVBbGFfRnEyZVhFNVAwdVV3?oc=5",
-          "snippet": "",
-          "source": "https://www.diarypoint.com/",
-          "sources": [
-            {
-              "name": "https://www.diarypoint.com/",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5rSVdXamIzdlZEYkFGR0tOamo1VnNPemZ4WHBEWHZQdHZKejh1N2k4NE5oRkJrcGdSZHU1b3d1OG5HYVZnTnhxVlZiaV9pZUVvMF9YSFh0Q2g0dDVBbGFfRnEyZVhFNVAwdVV3?oc=5",
-              "origin": "google",
-              "title": "건담 신작 모바일 게임 ‘블리츠 오더’ 공개…한국 테스트 500명, 26일까지 모집 - https://www.diarypoint.com/"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-10-16T13:21:00+09:00",
-          "ts": 1792124460.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
-          "title": "베트남은 뛰고 태국은 멈칫…무엇이 갈랐나",
-          "url": "https://www.naeil.com/news/read/605304?ref=naver",
-          "snippet": "이에 비해 제국주의 시대에도 독립을 유지했던 태국은 1966년 아시안게임을 개최했고, 우리가 유치했다가... 10년 새 뒤집힌 성장·수출 격차 지난 10년간 베트남의 경제성장률은 태국보다 4~5%포인트 높았다. 코로나가...",
-          "source": "naeil.com",
-          "sources": [
-            {
-              "name": "naeil.com",
-              "url": "https://www.naeil.com/news/read/605304?ref=naver",
-              "origin": "naver",
-              "title": "베트남은 뛰고 태국은 멈칫…무엇이 갈랐나"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-10-16T13:02:00+09:00",
-          "ts": 1792123320.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
-          "title": "오산대 e스포츠과, 전국 e스포츠대회·학술포럼 동시 개최",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE45d3hta1BzM3U0YTdvN24yV3FQVjlnNGQxa3VBYl9qQ0dLMGRCUE9IRUp3ZUJ4V0lEeEFkbnNqWjNvODFXY2tlcXFZRnVTaUh4UVYtS0FWRGNoWWZiQVhVamtIUHNyMUs5YkdSOGZraEZXUdIBckFVX3lxTE45d3hta1BzM3U0YTdvN24yV3FQVjlnNGQxa3VBYl9qQ0dLMGRCUE9IRUp3ZUJ4V0lEeEFkbnNqWjNvODFXY2tlcXFZRnVTaUh4UVYtS0FWRGNoWWZiQVhVamtIUHNyMUs5YkdSOGZraEZXUQ?oc=5",
-          "snippet": "",
-          "source": "잡포스트",
-          "sources": [
-            {
-              "name": "잡포스트",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE45d3hta1BzM3U0YTdvN24yV3FQVjlnNGQxa3VBYl9qQ0dLMGRCUE9IRUp3ZUJ4V0lEeEFkbnNqWjNvODFXY2tlcXFZRnVTaUh4UVYtS0FWRGNoWWZiQVhVamtIUHNyMUs5YkdSOGZraEZXUdIBckFVX3lxTE45d3hta1BzM3U0YTdvN24yV3FQVjlnNGQxa3VBYl9qQ0dLMGRCUE9IRUp3ZUJ4V0lEeEFkbnNqWjNvODFXY2tlcXFZRnVTaUh4UVYtS0FWRGNoWWZiQVhVamtIUHNyMUs5YkdSOGZraEZXUQ?oc=5",
-              "origin": "google",
-              "title": "오산대 e스포츠과, 전국 e스포츠대회·학술포럼 동시 개최"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-10-16T13:00:01+09:00",
-          "ts": 1792123201.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
-          "title": "소니 정책에 소비자 불만 증폭…\"PS5 비공식 무료 스토어\" 등장",
-          "url": "https://www.consumuch.com/news/articleView.html?idxno=79259",
-          "snippet": "탈옥된 PS5에서 유료 게임을 무료로 제공하는 비공식 스토어가 등장한 가운데 정품조차 지원하지 않는 기능까지 구현돼 충격을 주고 있다. 향후 출시될 'GTA 6' 등 주요 신작도 무단 복제나 유출 위험에 노출될 수 있다는...",
-          "source": "consumuch.com",
-          "sources": [
-            {
-              "name": "consumuch.com",
-              "url": "https://www.consumuch.com/news/articleView.html?idxno=79259",
-              "origin": "naver",
-              "title": "소니 정책에 소비자 불만 증폭…\"PS5 비공식 무료 스토어\" 등장"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-10-16T12:48:00+09:00",
-          "ts": 1792122480.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
-          "title": "괴물에게 음식 먹이는 '원 모어 플레이트!' 11월 스팀 출시",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tNW5HY3BZX2duMVczQXJSUFc5MF9SVzhMc1RLRmlfeGt1ZHZYWk9ENTZjZ2hfd2dGd0w4WllVY1RMVmp0SjctUHIyRG9LWjcweFpseWoyV0pVck3SAVtBVV95cUxObTVuR2NwWV9nbjFXM0FyUlBXOTBfUlc4THNUS0ZpX3hrdWR2WFpPRDU2Y2doX3dnRndMOFpZVWNUTFZqdEo3LVByMkRvS1o3MHhabHlqMldKVXJN?oc=5",
-          "snippet": "",
-          "source": "게임메카",
-          "sources": [
-            {
-              "name": "게임메카",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tNW5HY3BZX2duMVczQXJSUFc5MF9SVzhMc1RLRmlfeGt1ZHZYWk9ENTZjZ2hfd2dGd0w4WllVY1RMVmp0SjctUHIyRG9LWjcweFpseWoyV0pVck3SAVtBVV95cUxObTVuR2NwWV9nbjFXM0FyUlBXOTBfUlc4THNUS0ZpX3hrdWR2WFpPRDU2Y2doX3dnRndMOFpZVWNUTFZqdEo3LVByMkRvS1o3MHhabHlqMldKVXJN?oc=5",
-              "origin": "google",
-              "title": "괴물에게 음식 먹이는 '원 모어 플레이트!' 11월 스팀 출시"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-10-16T12:43:36+09:00",
-          "ts": 1792122216.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
-          "title": "펄어비스 인디게임 육성 프로젝트 '빅잼' 연타석 홈런 올해도 게임대상 싹쓸이할까",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xcUZjM3plSk02b2R3QWxic2VGRmZOU20zSXFGNTJpZ1MwazlEX2lZb3otVDN2Uk1ENFpnZk5WNHRDYWFWS2xtVG12YmNnNXV0XzYyZnFUQ1RCU0diWWZLdF9SZ3B1ZUo4SFkxeQ?oc=5",
-          "snippet": "",
-          "source": "경향게임스",
-          "sources": [
-            {
-              "name": "경향게임스",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xcUZjM3plSk02b2R3QWxic2VGRmZOU20zSXFGNTJpZ1MwazlEX2lZb3otVDN2Uk1ENFpnZk5WNHRDYWFWS2xtVG12YmNnNXV0XzYyZnFUQ1RCU0diWWZLdF9SZ3B1ZUo4SFkxeQ?oc=5",
-              "origin": "google",
-              "title": "펄어비스 인디게임 육성 프로젝트 '빅잼' 연타석 홈런 올해도 게임대상 싹쓸이할까"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-10-16T12:29:08+09:00",
-          "ts": 1792121348.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
         }
       ]
     },
@@ -14005,7 +14233,7 @@
       "priority": 14,
       "page": "trends",
       "preview": 3,
-      "count": 47,
+      "count": 46,
       "items": [
         {
           "title": "미국증시 전망, AI 기업 부채 불안에 반도체 약세…워시 발언이 반등 변수",
@@ -14507,6 +14735,25 @@
           "group_label": "전망 · 심층분석"
         },
         {
+          "title": "SK하이닉스 주가 전망: AI 추론 수요의 폭발적 성장이 2030년까지 지속적인 성장을 이끌 수 있을까?",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObjYzeVAzNGNfcmNuN0phVWFjWGsxbE9hcThPQ2Z1Si1ENk5JZlZjNkhUX0hVVXRoNTFXRFBFUS1mM1BZM2VLY0dtRzdOWkdFT0k4Wjh4bjRwWTJWNGh5NjNuYjYwazIwNTU0WmgtMTVxVHg4aktRVzl1eVpDYkw1UXdEYlY3V05yRzlsNGxKa0VCbllKZGpBVmhnX2lnZjAxeExjaWNwb2JWZw?oc=5",
+          "snippet": "",
+          "source": "TradingKey",
+          "sources": [
+            {
+              "name": "TradingKey",
+              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObjYzeVAzNGNfcmNuN0phVWFjWGsxbE9hcThPQ2Z1Si1ENk5JZlZjNkhUX0hVVXRoNTFXRFBFUS1mM1BZM2VLY0dtRzdOWkdFT0k4Wjh4bjRwWTJWNGh5NjNuYjYwazIwNTU0WmgtMTVxVHg4aktRVzl1eVpDYkw1UXdEYlY3V05yRzlsNGxKa0VCbllKZGpBVmhnX2lnZjAxeExjaWNwb2JWZw?oc=5",
+              "origin": "google",
+              "title": "SK하이닉스 주가 전망: AI 추론 수요의 폭발적 성장이 2030년까지 지속적인 성장을 이끌 수 있을까?"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-10-16T13:00:00+09:00",
+          "ts": 1792123200.0,
+          "group": "trend_insight",
+          "group_label": "전망 · 심층분석"
+        },
+        {
           "title": "CNBC 암울 전망에도...돈나무 언니 \"AI 덕에 2030년 세계성장률 7.3%\"",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wWVR0MmNjU3RCZzdia19BNHdqeDJvc0FlTTVWcldTMEJRRjNNVkgwU0FuV1ZvUHRjVGp5YU5BNHRtNE1HUGpoZTJjcjNoSXFHeFBoVnUtWjR4UDJaRnRob3JWLVh3R2xhWFVLSWYwNFhYWGl2?oc=5",
           "snippet": "",
@@ -14716,25 +14963,6 @@
           "group_label": "전망 · 심층분석"
         },
         {
-          "title": "엔비디아 주가 전망: 젠슨 황 \"AI 칩 수요 강력\", 댄 아이브스는 매도세를 매수 기회로 평가; 주가는 다시 상승세로 돌아설 수 있을까?",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQamNCQlg4VnV6VFNXSmJMUVBFdzN5eUFqMUROdGh6RkhYdkR3Wkd5UjF0U1VGbkhfeWhiTVB4SjFTbmJtV3hOSjl3SkFHdUY3bmRPbUF5S1hicnJtU19IdzI2ZW80UmxvT2RMZGhUQTA5RFA2ZGQxMmVXU1hYM0UxdUxqUUY5bFRKOFJiM0pRb2tILUNyRjJVLVlVYl9McVVMYkJvejJ1NV93SUhQWm5YV2NMc3o1aENmRjRJU2h0WUdWU3VhdXFxZE9NVUFKZ29ncjdXOWdqM3huYUVo?oc=5",
-          "snippet": "",
-          "source": "TradingKey",
-          "sources": [
-            {
-              "name": "TradingKey",
-              "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQamNCQlg4VnV6VFNXSmJMUVBFdzN5eUFqMUROdGh6RkhYdkR3Wkd5UjF0U1VGbkhfeWhiTVB4SjFTbmJtV3hOSjl3SkFHdUY3bmRPbUF5S1hicnJtU19IdzI2ZW80UmxvT2RMZGhUQTA5RFA2ZGQxMmVXU1hYM0UxdUxqUUY5bFRKOFJiM0pRb2tILUNyRjJVLVlVYl9McVVMYkJvejJ1NV93SUhQWm5YV2NMc3o1aENmRjRJU2h0WUdWU3VhdXFxZE9NVUFKZ29ncjdXOWdqM3huYUVo?oc=5",
-              "origin": "google",
-              "title": "엔비디아 주가 전망: 젠슨 황 \"AI 칩 수요 강력\", 댄 아이브스는 매도세를 매수 기회로 평가; 주가는 다시 상승세로 돌아설 수 있을까?"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-10-16T09:26:00+09:00",
-          "ts": 1792110360.0,
-          "group": "trend_insight",
-          "group_label": "전망 · 심층분석"
-        },
-        {
           "title": "레메디, 인도서 돈 버는 기술 입증…AI 진단으로 성장축 ↑",
           "url": "https://www.fnnews.com/news/202610160902200554",
           "snippet": "아니라 산업용 비파괴검사 장비까지 사업 영역을 넓히고 있다. 새로운 성장동력은 AI 영상진단이다.... 이 연구원은 \"중장기적으로 수익원을 다변화하며 성장의 지속성을 입증할 때 기업가치 상승이 본격화될 전망...",
@@ -14904,25 +15132,6 @@
           "ts": 1792098000.0,
           "group": "trend_insight",
           "group_label": "전망 · 심층분석"
-        },
-        {
-          "title": "AI-바이오-문화콘텐츠-반도체 사각축… 미래산업지도 바뀐다",
-          "url": "https://www.donga.com/news/Society/article/all/20261015/134842778/2",
-          "snippet": "확장될 전망이다. 영종하늘도시 3단계 유보지 가운데 약 148만5000m²를 바이오의약, 의료기기 업종을 중심으로 하는 바이오특화단지로 개발하는 방안을 추진하고 있다. 문화콘텐츠와 반도체 산업도 새로운 성장축...",
-          "source": "동아일보",
-          "sources": [
-            {
-              "name": "동아일보",
-              "url": "https://www.donga.com/news/Society/article/all/20261015/134842778/2",
-              "origin": "naver",
-              "title": "AI-바이오-문화콘텐츠-반도체 사각축… 미래산업지도 바뀐다"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-10-16T04:33:00+09:00",
-          "ts": 1792092780.0,
-          "group": "trend_insight",
-          "group_label": "전망 · 심층분석"
         }
       ]
     },
@@ -14932,7 +15141,7 @@
       "priority": 15,
       "page": "trends",
       "preview": 3,
-      "count": 36,
+      "count": 38,
       "items": [
         {
           "title": "이즈나, 자체 콘텐츠 ‘일본왔즈나’ 론칭…오늘(16일) 첫 선",
@@ -15097,6 +15306,25 @@
           "group_label": "글로벌 동향"
         },
         {
+          "title": "중국, 첨단 모델 등 23가지 AI 기술 수출 통제 추진…오픈소스·API는 예외",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiMXF0dHBnQnh0V0FYM3ctVTJJaFZWRDZVV1BncndBSEkyX2E3cnJtWTRQQ19hTnREeWw5SlN3Z3BJYmNGVE9adGpJRzZ0eGItdWJETDd3VmFyU2RLblJJOEdQdjZPZHNHNlE?oc=5",
+          "snippet": "",
+          "source": "AI타임스",
+          "sources": [
+            {
+              "name": "AI타임스",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiMXF0dHBnQnh0V0FYM3ctVTJJaFZWRDZVV1BncndBSEkyX2E3cnJtWTRQQ19hTnREeWw5SlN3Z3BJYmNGVE9adGpJRzZ0eGItdWJETDd3VmFyU2RLblJJOEdQdjZPZHNHNlE?oc=5",
+              "origin": "google",
+              "title": "중국, 첨단 모델 등 23가지 AI 기술 수출 통제 추진…오픈소스·API는 예외"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-10-17T10:27:56+09:00",
+          "ts": 1792200476.0,
+          "group": "trend_global",
+          "group_label": "글로벌 동향"
+        },
+        {
           "title": "[곽재원 컬럼] 중국 반도체의 역습, 한국은 언제까지 강국인가",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LTlk4ZjNSX3VHQlBMV0hyRjlqcDVYdEUxZjlVSmVSamFtYVV2WU1CNUJPODBiak45dm9lQlNYNkhGRkhrQnVMNUFLcVUwdS1mdEh6V2xVRHZMOHFjU0t0aFBGbVhuSkZseDhEMw?oc=5",
           "snippet": "",
@@ -15150,6 +15378,25 @@
           "source_count": 1,
           "published": "2026-10-17T05:41:41+09:00",
           "ts": 1792183301.0,
+          "group": "trend_global",
+          "group_label": "글로벌 동향"
+        },
+        {
+          "title": "\"실리콘밸리엔 없는 데이터 보물\" 한국 제조업이 AI 시대 승자가 되는 법 - 영상 | 멀티미디어",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcU9Jdmx4Tm1BS0lJSktkRTFxUUJDMjVGbkJUOUtJNDNMcUc2QUhpOV8tTlJ4UmZMU2FqVElrc09XYjBxaHR0ek51bE52d3ZxSm5WUXhQN0NfMDlkeENMX0RyU243dmJQZHVnX2lWNFJjcHJBemlnRXU2T1kyRFZfSW91V2gxZm5vTW5xMnJuNVB6a3hjTThHMl9vNlNMdnhDWDF0YW1WREJQdTNJLXhGeFRObkNPekl3a2h4clZteFhaNFl1czBGb05rQ1F4SHZzYUNPc0hoUDJES0pqU2tJekJiaV9iQQ?oc=5",
+          "snippet": "",
+          "source": "대한민국 정책브리핑",
+          "sources": [
+            {
+              "name": "대한민국 정책브리핑",
+              "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcU9Jdmx4Tm1BS0lJSktkRTFxUUJDMjVGbkJUOUtJNDNMcUc2QUhpOV8tTlJ4UmZMU2FqVElrc09XYjBxaHR0ek51bE52d3ZxSm5WUXhQN0NfMDlkeENMX0RyU243dmJQZHVnX2lWNFJjcHJBemlnRXU2T1kyRFZfSW91V2gxZm5vTW5xMnJuNVB6a3hjTThHMl9vNlNMdnhDWDF0YW1WREJQdTNJLXhGeFRObkNPekl3a2h4clZteFhaNFl1czBGb05rQ1F4SHZzYUNPc0hoUDJES0pqU2tJekJiaV9iQQ?oc=5",
+              "origin": "google",
+              "title": "\"실리콘밸리엔 없는 데이터 보물\" 한국 제조업이 AI 시대 승자가 되는 법 - 영상 | 멀티미디어"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-10-17T05:21:27+09:00",
+          "ts": 1792182087.0,
           "group": "trend_global",
           "group_label": "글로벌 동향"
         },
