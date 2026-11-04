@@ -162,7 +162,21 @@ def press_display(name: str, url: str = "") -> str:
     nm = (name or "").strip()
     if nm and _DOMAINISH_RE.match(nm):
         nm = press_name("https://" + nm, fallback=nm)
-    return nm or (d if d and not _is_agg(d) else "")
+    alias = NAME_ALIASES.get(_SPACE_RE.sub("", nm).lower())
+    return alias or nm or (d if d and not _is_agg(d) else "")
+
+
+# 구글이 한글 매체명 대신 영문 표기를 주는 곳 — 같은 매체가 둘로 세어지는 걸 막는다.
+# 키는 공백·기호를 지우고 소문자로 만든 형태.
+NAME_ALIASES = {
+    "ohmynews": "오마이뉴스", "yonhapnews": "연합뉴스",
+    "yonhapnewsagency": "연합뉴스", "newsis": "뉴시스",
+    "hankyoreh": "한겨레", "thehankyoreh": "한겨레",
+    "chosunbiz": "조선비즈", "kbsnews": "KBS", "sbsnews": "SBS",
+    "mbcnews": "MBC", "ytnnews": "YTN", "platum": "플래텀",
+    "edaily": "이데일리", "newspim": "뉴스핌", "pressian": "프레시안",
+    "nocutnews": "노컷뉴스", "aitimes": "AI타임스",
+}
 
 
 def is_domainish(name: str) -> bool:
