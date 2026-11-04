@@ -234,6 +234,31 @@ def process(articles: list, meta: dict, cfg: dict) -> dict:
     for m in pending:
         clusters.append({"members": [m], "rep": m})
 
+    # 4차: 회차를 넘나드는 재병합.
+    # 3차 재검증은 '떨어져 나온 기사끼리'만 다시 묶으므로, 한 번 확정된 묶음과는
+    # 두 번 다시 비교되지 않는다 → 제목이 완전히 같은 기사가 서로 다른 묶음으로
+    # 남는 일이 생겼다(2026-11-04 실측: 경과원 AI 행정혁신 1개 사건이 20덩이).
+    # 대표끼리 한 번 더 훑어 합친다(낱말이 하나도 안 겹치는 쌍은 건너뛰어 비용 절감).
+    tok_idx = {}
+    for i, c in enumerate(clusters):
+        for t in c["rep"]["_toks"]:
+            tok_idx.setdefault(t, []).append(i)
+    gone = [False] * len(clusters)
+    for i, c in enumerate(clusters):
+        if gone[i]:
+            continue
+        cand = sorted({j for t in c["rep"]["_toks"]
+                       for j in tok_idx.get(t, []) if j > i})
+        for j in cand:
+            if gone[j]:
+                continue
+            if same_story(c["rep"], clusters[j]["rep"], thr, df):
+                c["members"].extend(clusters[j]["members"])
+                gone[j] = True
+    before_merge = len(clusters)
+    clusters = [c for i, c in enumerate(clusters) if not gone[i]]
+    remerged = before_merge - len(clusters)
+
     out_clusters = []
     for c in clusters:
         members, rep = c["members"], c["rep"]
@@ -277,7 +302,15 @@ def process(articles: list, meta: dict, cfg: dict) -> dict:
     groups_out = []
     for g in sorted(cfg.get("groups", []), key=lambda x: x.get("priority", 99)):
         items = [c for c in out_clusters if c["group"] == g["id"]]
-        items.sort(key=lambda c: (c["source_count"], c["ts"]), reverse=True)
+        # boost: 그룹이 지정한 '먼저 보여줄 유형'을 섹션 맨 앞으로(그 안에서는 매체수·시각 순).
+        # 건수가 많은 섹션에서 기본 노출 5개가 행사·홍보로만 채워지는 걸 막는다.
+        bo = g.get("boost") or []
+        if bo:
+            for c in items:
+                if any(w in c["title"] for w in bo):
+                    c["flag"] = g.get("boost_label", "경영·혁신")
+        items.sort(key=lambda c: (bool(c.get("flag")), c["source_count"], c["ts"]),
+                   reverse=True)
         if items:
             groups_out.append({"id": g["id"], "label": g["label"],
                                "priority": g.get("priority", 99),
@@ -299,7 +332,7 @@ def process(articles: list, meta: dict, cfg: dict) -> dict:
         "groups": groups_out,
     }
     print(f"[process] 수집 {collected} → 관련 {len(kept)} → 통합 {len(out_clusters)}개 "
-          f"(제외 {collected - len(kept)}, 복수보도 {multi}, 오병합분리 {split})")
+          f"(제외 {collected - len(kept)}, 복수보도 {multi}, 오병합분리 {split}, 회차간재병합 {remerged})")
     return result
 
 

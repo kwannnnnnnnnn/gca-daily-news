@@ -63,6 +63,7 @@ padding:11px 13px;margin-bottom:8px}
 .hot{background:var(--hotbg);color:var(--hot);border-radius:20px;padding:1px 8px;font-weight:700;font-size:.71rem}
 .snip{margin:7px 0 0;font-size:.84rem;color:var(--muted);
 display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.flag{background:#0f766e;color:#fff;border-radius:4px;padding:1px 6px;font-size:.68rem;font-weight:600}
 .chips{margin-top:8px;display:flex;flex-wrap:wrap;gap:5px}
 details.srcs{margin-top:6px;font-size:.74rem}
 details.srcs>summary{list-style:none;cursor:pointer;color:var(--muted);
@@ -126,6 +127,8 @@ def _card(item: dict) -> str:
     cnt = item.get("source_count", 1)
     ago = _ago(item.get("ts", 0))
     meta = [f'<span class="src">{esc(item.get("source"))}</span>']
+    if item.get("flag"):          # 경영평가·벤치마킹에 쓸 만한 유형 표시
+        meta.append(f'<span class="flag">{esc(item["flag"])}</span>')
     if cnt > 1:
         meta.append(f'<span class="hot">🔥 {cnt}개 매체</span>')
     if ago:
