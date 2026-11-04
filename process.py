@@ -153,6 +153,49 @@ def same_story(a: dict, b: dict, threshold: float, idf: dict) -> bool:
     return False
 
 
+def _entity_of(title: str, entities: list):
+    """제목에 등장한 기관(별칭 묶음의 대표 표기). 못 찾으면 None."""
+    for names in entities or []:
+        for n in names:
+            if n and n in title:
+                return names[0]
+    return None
+
+
+def _spread(items: list, window: int, entities: list) -> list:
+    """상단 window칸을 서로 다른 기관으로 채운다(나머지는 받은 순서 유지).
+
+    같은 사건이 여러 덩이로 쪼개지면 한 기관이 섹션 상단을 통째로 차지한다
+    (2026-11-04: 경과원 AI 행정혁신 한 건이 상위 5칸을 독식, 경기신보 건이 묻힘).
+
+    ★기관 대표는 '매체 수가 가장 많은 기사'로 뽑는다★ — boost 배지를 먼저 보면
+    쪼개진 조각 중 작은 것(2매체)이 그 기관 대표로 올라오고 정작 본 기사(10매체)가
+    묻힌다. 기관을 고르는 순서에서만 배지를 우선한다.
+    """
+    by_score = sorted(items, key=lambda c: (c["source_count"], c["ts"]), reverse=True)
+    reps, used, spare = [], set(), []
+    for it in by_score:
+        if len(reps) >= window:
+            break
+        e = _entity_of(it.get("title", ""), entities)
+        if e is None:
+            spare.append(it)          # 기관을 못 가리면 빈칸 채우기용으로 보류
+            continue
+        if e in used:
+            continue
+        used.add(e)
+        reps.append(it)
+    for it in spare:                  # 기관 수가 모자라면 미상 기사로 채움
+        if len(reps) >= window:
+            break
+        reps.append(it)
+    # 앞칸끼리는 경영·혁신 배지 우선 → 그다음 매체 수
+    reps.sort(key=lambda c: (bool(c.get("flag")), c["source_count"], c["ts"]),
+              reverse=True)
+    picked = {id(x) for x in reps}
+    return reps + [x for x in items if id(x) not in picked]
+
+
 def process(articles: list, meta: dict, cfg: dict) -> dict:
     settings = cfg.get("settings", {})
     gmap = build_group_map(cfg)
@@ -300,6 +343,7 @@ def process(articles: list, meta: dict, cfg: dict) -> dict:
         })
 
     groups_out = []
+    prev_n = settings.get("preview_items", 5)
     for g in sorted(cfg.get("groups", []), key=lambda x: x.get("priority", 99)):
         items = [c for c in out_clusters if c["group"] == g["id"]]
         # boost: 그룹이 지정한 '먼저 보여줄 유형'을 섹션 맨 앞으로(그 안에서는 매체수·시각 순).
@@ -311,6 +355,9 @@ def process(articles: list, meta: dict, cfg: dict) -> dict:
                     c["flag"] = g.get("boost_label", "경영·혁신")
         items.sort(key=lambda c: (bool(c.get("flag")), c["source_count"], c["ts"]),
                    reverse=True)
+        if g.get("spread_by_entity"):
+            items = _spread(items, g.get("preview_items") or prev_n,
+                            g.get("entities"))
         if items:
             groups_out.append({"id": g["id"], "label": g["label"],
                                "priority": g.get("priority", 99),
