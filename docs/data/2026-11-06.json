@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T14:40:28.833135+09:00",
+  "generated_at": "2026-11-06T14:52:15.889273+09:00",
   "window_hours": 30,
   "sources": [
     "네이버뉴스(API HUB)",
@@ -9,11 +9,11 @@
   "use_naver": true,
   "preview_items": 5,
   "counts": {
-    "collected": 4465,
-    "kept": 2470,
-    "excluded": 1995,
-    "consolidated": 1023,
-    "multi": 341
+    "collected": 4454,
+    "kept": 2454,
+    "excluded": 2000,
+    "consolidated": 1020,
+    "multi": 337
   },
   "groups": [
     {
@@ -147,6 +147,12 @@
               "title": "경기 콘텐츠 스타트업, 투자 한파 뚫고 471억원 유치"
             },
             {
+              "name": "전국매일신문",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QbzBBRmItWEtaRDUyd0ZvaExDeUYtNWVJb25mN05Fd3huTFFCUE0xLU9FT2hFOFBqSzhYdkpSTFd1cDF0MWp1ZVZRdVBWRVBBTTNiRF96QVR6UkJNdFBsWGdlakZaMXlHQTZfNE5n?oc=5",
+              "origin": "google",
+              "title": "경기콘텐츠진흥원, 유망 콘텐츠 스타트업 12개사 투자유치 무대 마련"
+            },
+            {
               "name": "메트로신문",
               "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BOTJZOXd0UzZzZWp4M2dERHRmSnR0M1hSR2x1anozcVE4V2p3eUYyQWpLSE1zYUp4N18xZjN1cHVSQ3JFTnNCcHNjdGVhTnp4bnNKRmY3cG9IbjRNWUc4OA?oc=5",
               "origin": "google",
@@ -157,12 +163,6 @@
               "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85VWtLZURnd2xjQi16UWFhN0ZSQ0ItZFZvQ3lTLUo3R2pPTkFIc09CWG4zTGpBbTFxcUFPTjhFNFNNVXhQQkVULVJjZllFY1YxMXJoTjdFTWNneHE5SEFTaTU5MXNqT0dzV1JzMg?oc=5",
               "origin": "google",
               "title": "경기콘텐츠진흥원, 471억 원 끌어온 데모데이에 내년 예산 확대 파란불"
-            },
-            {
-              "name": "전국매일신문",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QbzBBRmItWEtaRDUyd0ZvaExDeUYtNWVJb25mN05Fd3huTFFCUE0xLU9FT2hFOFBqSzhYdkpSTFd1cDF0MWp1ZVZRdVBWRVBBTTNiRF96QVR6UkJNdFBsWGdlakZaMXlHQTZfNE5n?oc=5",
-              "origin": "google",
-              "title": "경기콘텐츠진흥원, 유망 콘텐츠 스타트업 12개사 투자유치 무대 마련"
             }
           ],
           "source_count": 5,
@@ -505,7 +505,7 @@
       "priority": 2,
       "page": "main",
       "preview": null,
-      "count": 69,
+      "count": 70,
       "items": [
         {
           "title": "이혜원 경기도의회 도시환경부위원장 “협치는 말뿐, 예산은 밀실에서...",
@@ -559,6 +559,49 @@
           "source_count": 7,
           "published": "2026-11-05T15:56:00+09:00",
           "ts": 1793861760.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "추미애, 道 조직개편 반발에 수정 지시…조만간 수정안 재입법예고",
+          "url": "https://www.kyeonggi.com/article/20261106580269",
+          "snippet": "홍은광 경기도 대변인은 6일 서면 브리핑을 통해 추미애 경기도지사가 조직개편안과 관련해 제기된 의견을 토대로 농수산생명, 축산동물복지 업무 추진 체제에 대한 이 같은 지시를 내렸다고 밝혔다. 추 지사는 우선 각...",
+          "source": "경기일보",
+          "sources": [
+            {
+              "name": "경기일보",
+              "url": "https://www.kyeonggi.com/article/20261106580269",
+              "origin": "naver",
+              "title": "추미애, 道 조직개편 반발에 수정 지시…조만간 수정안 재입법예고"
+            },
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261106109900061?input=1195m",
+              "origin": "naver",
+              "title": "경기도 조직개편안 수정…농수산·축산 업무 독립성은 유지"
+            },
+            {
+              "name": "아주경제",
+              "url": "https://www.ajunews.com/view/20261106140146604",
+              "origin": "naver",
+              "title": "경기도, 조직개편 수정안 재입법예고...행정2부지사 지휘체계 일원화"
+            },
+            {
+              "name": "econonews.co.kr",
+              "url": "http://www.econonews.co.kr/news/articleView.html?idxno=446830",
+              "origin": "naver",
+              "title": "경기도, 민선 9기 조직개편안 수정 추진…농수산·축산 업무체계 조정"
+            },
+            {
+              "name": "팍스경제TV",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZTDJTX2ZKZmh2NnVKdngzcXc4X0tqLWxQeUtTT1pPSWpmb0puQzRXcnY0cDRPTlltUUNaQXBzSU5XdzJ1dDZuTV9wVUdXaXBRamlleFg1dnJNWEJkZ2Y4UXFub05jcjQ?oc=5",
+              "origin": "google",
+              "title": "추미애 경기도지사, 민선 9기 조직개편안 수정 지시…농축산·동물복지 기능 강화"
+            }
+          ],
+          "source_count": 5,
+          "published": "2026-11-06T14:36:00+09:00",
+          "ts": 1793943360.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -735,43 +778,6 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "경기도 조직개편안 수정…농수산·축산 업무 독립성은 유지",
-          "url": "https://www.yna.co.kr/view/AKR20261106109900061?input=1195m",
-          "snippet": "추미애, 전문성 바탕으로 부서 간 협력 강화 지시…내주 초 재입법예고 경기도가 민선 9기 첫 조직개편안의 일부를 수정해 다음 주 초 재입법예고한다. 홍은광 경기도 대변인은 6일 서면 브리핑을 통해 \"추미애 지사가...",
-          "source": "연합뉴스",
-          "sources": [
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20261106109900061?input=1195m",
-              "origin": "naver",
-              "title": "경기도 조직개편안 수정…농수산·축산 업무 독립성은 유지"
-            },
-            {
-              "name": "인천일보",
-              "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336157",
-              "origin": "naver",
-              "title": "경기도, 축산동물복지국 독립 유지 방침"
-            },
-            {
-              "name": "아시아경제",
-              "url": "https://view.asiae.co.kr/article/2026110613532000532",
-              "origin": "naver",
-              "title": "추미애 지사 \"농수산생명·축산동물복지 업무 행정2부지사로 일원화\""
-            },
-            {
-              "name": "econonews.co.kr",
-              "url": "http://www.econonews.co.kr/news/articleView.html?idxno=446830",
-              "origin": "naver",
-              "title": "경기도, 민선 9기 조직개편안 수정 추진…농수산·축산 업무체계 조정"
-            }
-          ],
-          "source_count": 4,
-          "published": "2026-11-06T14:21:00+09:00",
-          "ts": 1793942460.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
           "title": "경기도, 연천 산란계 농가 고병원성 AI(H5N9) 발생에 '총력 대응'",
           "url": "https://hbnpress.com/news/view/1065613630592348",
           "snippet": "△사진= 경기도청 전경 추미애 경기도지사는 “가축전염병이 도민 먹거리 안전과 물가에 직결되는 중대한 문제라며, 초기 대응과 강력한 선제적 차단방역에 총력을 다할 것”을 지시했다. 이번 방역 관련 추미애 지사 4대...",
@@ -840,37 +846,6 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "경기도 \"내년 예산 아직 편성 중⋯ 필수 민생예산 우선 반영\"",
-          "url": "https://www.asiatime.co.kr/article/20261106500158",
-          "snippet": "추미애 경기도지사도 생명·안전과 취약계층, 필수 민생사업 예산을 우선 반영하도록 지시했다는 것이 도의 설명이다. 도는 올해 2차 추가경정예산에서 당초 3개월분이 편성되지 않았던 결식아동 지원과 유·초·중·고...",
-          "source": "asiatime.co.kr",
-          "sources": [
-            {
-              "name": "asiatime.co.kr",
-              "url": "https://www.asiatime.co.kr/article/20261106500158",
-              "origin": "naver",
-              "title": "경기도 \"내년 예산 아직 편성 중⋯ 필수 민생예산 우선 반영\""
-            },
-            {
-              "name": "프레시안",
-              "url": "https://www.pressian.com/pages/articles/2026110517524356721?utm_source=naver&utm_medium=search",
-              "origin": "naver",
-              "title": "경기도, 2027년 본예산 편성안 내주 도의회 제출…\"민생 예산 우선 반영..."
-            },
-            {
-              "name": "비즈월드",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zWlRPTTFZazdPNy1yLUxkb202U0tuR05hbTR1NE80ZjB3U0ZUenRIaVlQVWhJaGtSY3JjS3JKN3p6ekxTYUlIZUdYaURfTTdvUi00WENtSWdfMkxTMFcxbDBPbU9FbnQ3VnZv?oc=5",
-              "origin": "google",
-              "title": "추미애 경기도지사, 내년 민생예산 우선 확보 지시"
-            }
-          ],
-          "source_count": 3,
-          "published": "2026-11-06T13:50:00+09:00",
-          "ts": 1793940600.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
           "title": "“비판 말고 대안”…추미애의 전두환 ‘달빛정책’ 소환 [오상도의 경...",
           "url": "https://www.segye.com/newsView/20261106501015?OutUrl=naver",
           "snippet": "5일 오전 경기도의회 본회의장에서 열린 제395회 정례회 제3차 본회의에서 추미애 경기도지사가 질의에 답하고 있다. 경기도 제공 전 전 대통령은 불과 사흘 만에 다시 인용됐다. 주인공은 추미애 경기도지사다. 앞서 추...",
@@ -898,6 +873,31 @@
           "source_count": 3,
           "published": "2026-11-06T06:04:00+09:00",
           "ts": 1793912640.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "경기도 \"내년 예산 아직 편성 중⋯ 필수 민생예산 우선 반영\"",
+          "url": "https://www.asiatime.co.kr/article/20261106500158",
+          "snippet": "추미애 경기도지사도 생명·안전과 취약계층, 필수 민생사업 예산을 우선 반영하도록 지시했다는 것이 도의 설명이다. 도는 올해 2차 추가경정예산에서 당초 3개월분이 편성되지 않았던 결식아동 지원과 유·초·중·고...",
+          "source": "asiatime.co.kr",
+          "sources": [
+            {
+              "name": "asiatime.co.kr",
+              "url": "https://www.asiatime.co.kr/article/20261106500158",
+              "origin": "naver",
+              "title": "경기도 \"내년 예산 아직 편성 중⋯ 필수 민생예산 우선 반영\""
+            },
+            {
+              "name": "비즈월드",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zWlRPTTFZazdPNy1yLUxkb202U0tuR05hbTR1NE80ZjB3U0ZUenRIaVlQVWhJaGtSY3JjS3JKN3p6ekxTYUlIZUdYaURfTTdvUi00WENtSWdfMkxTMFcxbDBPbU9FbnQ3VnZv?oc=5",
+              "origin": "google",
+              "title": "추미애 경기도지사, 내년 민생예산 우선 확보 지시"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-11-06T13:50:00+09:00",
+          "ts": 1793940600.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -1102,6 +1102,44 @@
           "group_label": "경기도지사"
         },
         {
+          "title": "경기도 예산 37.6조인데…실제 쓸 수 있는 돈은 '5%' 불과",
+          "url": "https://www.mt.co.kr/policy/2026/11/06/2026110614284443924",
+          "snippet": "추미애 도지사는 \"예산 외형이 크다고 해서 실제로 활용할 수 있는 재원이 넉넉한 것은 아니다\"라며 \"도민 삶에 필수적인 사업을 안정적으로 추진할 수 있도록 지출 구조를 정비하고, 중앙과 지방 간 합리적인 재정...",
+          "source": "머니투데이",
+          "sources": [
+            {
+              "name": "머니투데이",
+              "url": "https://www.mt.co.kr/policy/2026/11/06/2026110614284443924",
+              "origin": "naver",
+              "title": "경기도 예산 37.6조인데…실제 쓸 수 있는 돈은 '5%' 불과"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-11-06T14:46:00+09:00",
+          "ts": 1793943960.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "[소방 국가직 6년] ② '재정 빨대' 오명 쓴 경기 소방… 예산 뜯어보니",
+          "url": "https://news.skbroadband.com/news/articleView.html?idxno=242497",
+          "snippet": "추미애 경기도지사의 이 발언입니다. [추미애 / 경기도지사] \"소방이 가장 큰, 골치 아픈 재정 빨대 같습니다.\" 이 발언에 소방관들의 반발이 이어졌고, 추 지사는 결국 사과했습니다. 왜 이런 말이 나왔을까요? 그 이유를...",
+          "source": "news.skbroadband.com",
+          "sources": [
+            {
+              "name": "news.skbroadband.com",
+              "url": "https://news.skbroadband.com/news/articleView.html?idxno=242497",
+              "origin": "naver",
+              "title": "[소방 국가직 6년] ② '재정 빨대' 오명 쓴 경기 소방… 예산 뜯어보니"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-11-06T14:40:00+09:00",
+          "ts": 1793943600.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
           "title": "\"아이들 밥상 지켜라\"…추미애 공동위원장 둔 먹거리위원회 반발",
           "url": "https://news.tf.co.kr/read/national/2385809.htm",
           "snippet": "민간위원 22명…어린이 건강과일·학교급식·취약계층 예산 확보 촉구 예산 삭감 가능성에 반기…추미애 면담 공개 요구 추미애 경기도지사가 공동위원장으로 있는 경기도 먹거리위원회가 내년도 먹거리 예산 삭감...",
@@ -1117,25 +1155,6 @@
           "source_count": 1,
           "published": "2026-11-06T14:27:00+09:00",
           "ts": 1793942820.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
-          "title": "경기도, 조직개편 수정안 재입법예고...행정2부지사 지휘체계 일원화",
-          "url": "https://www.ajunews.com/view/20261106140146604",
-          "snippet": "com [사진=경기도] 추미애 경기도지사가 민선 9기 첫 조직개편을 둘러싸고 제기된 농수산생명과 축산동물복지... 홍 대변인은 \"추미애 경기도지사는 민선 9기 조직개편안과 관련하여 제기된 의견을 토대로 농수산생명...",
-          "source": "아주경제",
-          "sources": [
-            {
-              "name": "아주경제",
-              "url": "https://www.ajunews.com/view/20261106140146604",
-              "origin": "naver",
-              "title": "경기도, 조직개편 수정안 재입법예고...행정2부지사 지휘체계 일원화"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-11-06T14:10:00+09:00",
-          "ts": 1793941800.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -1159,21 +1178,40 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "추미애 경기도지사, 민선 9기 조직개편안 수정 지시…농축산·동물복지 기능 강화",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZTDJTX2ZKZmh2NnVKdngzcXc4X0tqLWxQeUtTT1pPSWpmb0puQzRXcnY0cDRPTlltUUNaQXBzSU5XdzJ1dDZuTV9wVUdXaXBRamlleFg1dnJNWEJkZ2Y4UXFub05jcjQ?oc=5",
-          "snippet": "",
-          "source": "팍스경제TV",
+          "title": "경기도, 축산동물복지국 독립 유지 방침",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336157",
+          "snippet": "추미애 지사는 두 국의 독립성을 유지하되 지휘체계는 행정2부지사로 일원화하라고 지시했다. 홍은광 경기도 대변인은 6일 서면 브리핑을 통해 추 지사가 조직개편안에 대해 제기된 의견을 기반으로 농수산생명과...",
+          "source": "인천일보",
           "sources": [
             {
-              "name": "팍스경제TV",
-              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZTDJTX2ZKZmh2NnVKdngzcXc4X0tqLWxQeUtTT1pPSWpmb0puQzRXcnY0cDRPTlltUUNaQXBzSU5XdzJ1dDZuTV9wVUdXaXBRamlleFg1dnJNWEJkZ2Y4UXFub05jcjQ?oc=5",
-              "origin": "google",
-              "title": "추미애 경기도지사, 민선 9기 조직개편안 수정 지시…농축산·동물복지 기능 강화"
+              "name": "인천일보",
+              "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336157",
+              "origin": "naver",
+              "title": "경기도, 축산동물복지국 독립 유지 방침"
             }
           ],
           "source_count": 1,
-          "published": "2026-11-06T13:53:13+09:00",
-          "ts": 1793940793.0,
+          "published": "2026-11-06T13:56:00+09:00",
+          "ts": 1793940960.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "추미애 지사 \"농수산생명·축산동물복지 업무 행정2부지사로 일원화\"",
+          "url": "https://view.asiae.co.kr/article/2026110613532000532",
+          "snippet": "추미애 경기도지사가 민선 9기 조직개편안과 관련해 농수산생명·축산동물복지 업무의 지휘 체계를... 홍은광 경기도 대변인은 6일 서면 브리핑을 통해 추미애 지사가 조직개편안과 관련해 제기된 다양한 의견을 반영해...",
+          "source": "아시아경제",
+          "sources": [
+            {
+              "name": "아시아경제",
+              "url": "https://view.asiae.co.kr/article/2026110613532000532",
+              "origin": "naver",
+              "title": "추미애 지사 \"농수산생명·축산동물복지 업무 행정2부지사로 일원화\""
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-11-06T13:53:00+09:00",
+          "ts": 1793940780.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -1463,25 +1501,6 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "경기도,내년예산 '필수민생 증액편성' ...'삭감 확정 아냐'",
-          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=730798",
-          "snippet": "추미애 지사 지시에 따라 지방채 발행과 기금 예치금 사용도 검토 중이다. 추 지사는 앞서 생명·안전과 취약계층 보호, 필수 민생사업 예산을 우선 반영하도록 지시했다. 홍 대변인은 올해 제2회 추가경정예산에서도...",
-          "source": "the-biz.co.kr",
-          "sources": [
-            {
-              "name": "the-biz.co.kr",
-              "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=730798",
-              "origin": "naver",
-              "title": "경기도,내년예산 '필수민생 증액편성' ...'삭감 확정 아냐'"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-11-05T17:56:00+09:00",
-          "ts": 1793868960.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
           "title": "추미애 “보육예산 올해 말까지 기존대로 지원”…내년 지원 유지엔 신...",
           "url": "https://www.kyeonggi.com/article/20261105580511",
           "snippet": "추미애 경기도지사가 예산 부족으로 삭감 위기에 놓였던 어린이집 운영비와 보육교직원 처우개선비 등에 대해 올해 말까지 기존 수준으로 지원하겠다고 밝혔다. 다만 내년도 재정 여건이 더욱 어려워질 것으로...",
@@ -1539,25 +1558,6 @@
           "group_label": "경기도지사"
         },
         {
-          "title": "추미애 도정, 여야 모두 '경고음'… 예산·인사·조직개편 도마 위",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqZ2JfOXNhVUFfYTFSNHlUVktrZzFtUUxBVlZzcjNkSnp4anQyYjhEU0Jnd3hEMHVtcmRDZndlMlN3a3c3SzJRQ2U2SFJrOWdVSFpHZk5FQnRwNzFqcGlEYUpZNU1BeHlaWVBDanI3ZmZHYnc2Q0xUU1dn0gF_QVVfeXFMT0thU29wbno4Q1Q1SDAxdV9pWXkyRHRQSlg3eGNRNzJHUjJlM1B0elZQQW9GOUxqZDNBeTNqNnMtVTN6elpZVTlDeG96dUxoMnhnSVF4SDRxR3BUdDNKa3otRUpTNk96T05na3N2NC1hY1JYbTJtZEFFY0d6WHpGMA?oc=5",
-          "snippet": "뉴데일리 김현우 기자 = 추미애 경기도지사가 경기도의회 본회의 도정질문 사흘째인 5일까지 여야 의원들로부터 예산과 인사, 조직개편 등 도정 운영 전반에 걸쳐 잇따른 지적을 받았다. 국민의힘이 재정위기와 인사...",
-          "source": "뉴데일리 경기",
-          "sources": [
-            {
-              "name": "뉴데일리 경기",
-              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqZ2JfOXNhVUFfYTFSNHlUVktrZzFtUUxBVlZzcjNkSnp4anQyYjhEU0Jnd3hEMHVtcmRDZndlMlN3a3c3SzJRQ2U2SFJrOWdVSFpHZk5FQnRwNzFqcGlEYUpZNU1BeHlaWVBDanI3ZmZHYnc2Q0xUU1dn0gF_QVVfeXFMT0thU29wbno4Q1Q1SDAxdV9pWXkyRHRQSlg3eGNRNzJHUjJlM1B0elZQQW9GOUxqZDNBeTNqNnMtVTN6elpZVTlDeG96dUxoMnhnSVF4SDRxR3BUdDNKa3otRUpTNk96T05na3N2NC1hY1JYbTJtZEFFY0d6WHpGMA?oc=5",
-              "origin": "google",
-              "title": "추미애 도정, 여야 모두 '경고음'… 예산·인사·조직개편 도마 위"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-11-05T17:34:00+09:00",
-          "ts": 1793867640.0,
-          "group": "governor",
-          "group_label": "경기도지사"
-        },
-        {
           "title": "추미애, 경기도의회서 ‘전두환 일화’ 꺼낸 이유는?",
           "url": "https://www.chosun.com/national/regional/2026/11/05/RUJI4M6AVFEFDB752K3WNLRZ2A/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
           "snippet": "3줄 요약 ㆍ추미애, 전두환 달빛 정책 일화 인용 ㆍ예산 삭감 비판 대신 대안 제시 촉구 ㆍ소방 인건비 국가 부담 필요성 강조 추미애 경기도지사는 5일 경기도의회에서 전두환 전 대통령의 ‘달빛 정책’ 발언과 관련한...",
@@ -1592,6 +1592,25 @@
           "source_count": 1,
           "published": "2026-11-05T17:20:00+09:00",
           "ts": 1793866800.0,
+          "group": "governor",
+          "group_label": "경기도지사"
+        },
+        {
+          "title": "추미애 도정, 여야 모두 '경고음'… 예산·인사·조직개편 도마 위",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqZ2JfOXNhVUFfYTFSNHlUVktrZzFtUUxBVlZzcjNkSnp4anQyYjhEU0Jnd3hEMHVtcmRDZndlMlN3a3c3SzJRQ2U2SFJrOWdVSFpHZk5FQnRwNzFqcGlEYUpZNU1BeHlaWVBDanI3ZmZHYnc2Q0xUU1dn0gF_QVVfeXFMT0thU29wbno4Q1Q1SDAxdV9pWXkyRHRQSlg3eGNRNzJHUjJlM1B0elZQQW9GOUxqZDNBeTNqNnMtVTN6elpZVTlDeG96dUxoMnhnSVF4SDRxR3BUdDNKa3otRUpTNk96T05na3N2NC1hY1JYbTJtZEFFY0d6WHpGMA?oc=5",
+          "snippet": "",
+          "source": "뉴데일리 경기",
+          "sources": [
+            {
+              "name": "뉴데일리 경기",
+              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqZ2JfOXNhVUFfYTFSNHlUVktrZzFtUUxBVlZzcjNkSnp4anQyYjhEU0Jnd3hEMHVtcmRDZndlMlN3a3c3SzJRQ2U2SFJrOWdVSFpHZk5FQnRwNzFqcGlEYUpZNU1BeHlaWVBDanI3ZmZHYnc2Q0xUU1dn0gF_QVVfeXFMT0thU29wbno4Q1Q1SDAxdV9pWXkyRHRQSlg3eGNRNzJHUjJlM1B0elZQQW9GOUxqZDNBeTNqNnMtVTN6elpZVTlDeG96dUxoMnhnSVF4SDRxR3BUdDNKa3otRUpTNk96T05na3N2NC1hY1JYbTJtZEFFY0d6WHpGMA?oc=5",
+              "origin": "google",
+              "title": "추미애 도정, 여야 모두 '경고음'… 예산·인사·조직개편 도마 위"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-11-05T17:06:00+09:00",
+          "ts": 1793865960.0,
           "group": "governor",
           "group_label": "경기도지사"
         },
@@ -2078,7 +2097,7 @@
       "priority": 3,
       "page": "main",
       "preview": null,
-      "count": 33,
+      "count": 34,
       "items": [
         {
           "title": "경기도의회 교육행정위원회, ‘2026년도 행정사무감사’ 본격 돌입",
@@ -2384,8 +2403,8 @@
               "title": "황은화 경기도의원, 경기문화재단 비위 관련 경기도의 신속 대응 및 철..."
             },
             {
-              "name": "광흥타임즈",
-              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GeHFKcUQ2ZlZNeXNfLTdBc1VvTlBaOGFLRTdqOFJSQkFnT1d5aE9aZEx0ZUcxWUt4cWxCd1pWUG44Um5tbGZvVVRid0JoQTBfNXJfTXk4R1RMaXV2VVlr?oc=5",
+              "name": "경기탑뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xcEdZSFkzaE1EaDI5QUl3WGR1ZVNrZnFSWlJDa1lXTHRKWnRoU1BnR0hzMjFUbmhDQVVoeWJsa0xRcGpBWXpacDRiSlF4T0JGZlVMV2pMYlFzN1RSSzFfNGxsNA?oc=5",
               "origin": "google",
               "title": "경기도의회 황은화 의원, 경기문화재단 비위대처 도의 발빠른 대응 및 지도·감독 철저 요구"
             },
@@ -2396,52 +2415,21 @@
               "title": "경기도의회 황은화 의원, 경기문화재단 비위대처 도의 발빠른 대응 및 지도·감독 철저 요구"
             },
             {
+              "name": "광흥타임즈",
+              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GeHFKcUQ2ZlZNeXNfLTdBc1VvTlBaOGFLRTdqOFJSQkFnT1d5aE9aZEx0ZUcxWUt4cWxCd1pWUG44Um5tbGZvVVRid0JoQTBfNXJfTXk4R1RMaXV2VVlr?oc=5",
+              "origin": "google",
+              "title": "경기도의회 황은화 의원, 경기문화재단 비위대처 도의 발빠른 대응 및 지도·감독 철저 요구"
+            },
+            {
               "name": "도민연합뉴스",
               "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wbWJOTV9fTWJqdFo0enBHYjlsOXpuR0RSZXFGMHR3UVJTMU1WN3UtazdrWXdBWFMzOWxMdU1Ua29zN1MwSmVqa29vVzVfVmhuU3hjTGNFRzZaOVNpUW1mQ3V3OUx4WUpvWFE?oc=5",
               "origin": "google",
               "title": "황은화 의원, 경기문화재단 비위대처 도의 발빠른 대응 및 지도·감독 철저 요구"
             }
           ],
-          "source_count": 4,
+          "source_count": 5,
           "published": "2026-11-06T13:38:00+09:00",
           "ts": 1793939880.0,
-          "group": "gg_council",
-          "group_label": "경기도의회(문체·미래위·예산)"
-        },
-        {
-          "title": "경기도의회 경제노동위, 6일부터 행정사무감사",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fcFAxbnFvNkxmdEdWZnRwV1kwd3Z6eUFFQ3ZsOENZNXpwMUtZWnlNekhhM1JQQmlUc2JrMjdvcWdGUExyWFFfdWFjZV9RbmplUk9aQllhYlpsVFhCLWpTQ3RB?oc=5",
-          "snippet": "",
-          "source": "경인미래신문",
-          "sources": [
-            {
-              "name": "경인미래신문",
-              "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fcFAxbnFvNkxmdEdWZnRwV1kwd3Z6eUFFQ3ZsOENZNXpwMUtZWnlNekhhM1JQQmlUc2JrMjdvcWdGUExyWFFfdWFjZV9RbmplUk9aQllhYlpsVFhCLWpTQ3RB?oc=5",
-              "origin": "google",
-              "title": "경기도의회 경제노동위, 6일부터 행정사무감사"
-            },
-            {
-              "name": "로이슈",
-              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CUm5td011azFfRlZscHhUd2xuN01xaU5UbXRhcTBsV3htdDdBSEZYMkhZRXFUcFZTRHBFYk9obWNSQnpqWVl2Y3hsOVNwOXRZWEhLdDVqVFVnZ3FGTGlERU9rXzgyejlNSzA1MnhEaWkwRUc4TjN3aDl3?oc=5",
-              "origin": "google",
-              "title": "경기도의회 경제노동위, 6일부터 행정사무감사…장태환 위원장 \"정착 반영 철저 점검\""
-            },
-            {
-              "name": "매일일보",
-              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YV1pKUDJwSjFXeGN3M2RzSDZTMlZvQ3puTzU4RzFyT0lnbzliQmEyZl85djQ5Z2Y3cElJZjRCUjRIX3FYOHprR2x5LVZUVWpHRWZUZDZIbm9BS29IaWt3XzZHVS0?oc=5",
-              "origin": "google",
-              "title": "경기도의회 경제노동위, 6일부터 14일간 행정사무감사"
-            },
-            {
-              "name": "선데이뉴스신문",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11dS1yYmw5ZmFFdGgxR2YzRUJqdzctd25tYnZiT1d4NWxza3VaUkJUR2V2RW1YVEgzdHVMeGdkSHhSR0tEUFRxNkhGbXlBZklTV2hPUGNxWHhselk?oc=5",
-              "origin": "google",
-              "title": "경기도의회 경제노동위원회, 6일부터 행정사무감사…민생경제·일자리 정책 집중 점검"
-            }
-          ],
-          "source_count": 4,
-          "published": "2026-11-05T13:09:00+09:00",
-          "ts": 1793851740.0,
           "group": "gg_council",
           "group_label": "경기도의회(문체·미래위·예산)"
         },
@@ -2495,21 +2483,52 @@
               "title": "경기도의회 교육기획위 김포교육지원청서 본격 행감 '돌입'"
             },
             {
-              "name": "경기도정신문",
-              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyb2hvdzRRY1ZUQzVMbDFxaHVaUUdzb2YyaS1HR2xhWi1NQVFrZk9zOWRTN0NlT2Q0blBBa2RYSjRQOWV1amt2UzZDWWg1ektGM0dRYzY5NzNKbXdfTjUtbFY4UDlzTU0?oc=5",
-              "origin": "google",
-              "title": "경기도의회 교육기획위, 14일간 도교육청 행정사무감사 돌입"
-            },
-            {
               "name": "NSP통신",
               "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5X3B5blcwdkVibjVUV0F3NFlNZW9BQ1REcHVlYjBDNEFSRVZianpqX0szUlV0bFFwaWpoZkc3VWJvdDY2TVdfb1Y1cHM4OXlxbTNYMGxlZlV3SFk3V1I3cQ?oc=5",
               "origin": "google",
               "title": "경기도의회 교육기획위, 행감 착수…김포교육지원청 시작 본청·교육지원청 점검"
+            },
+            {
+              "name": "경기도정신문",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyb2hvdzRRY1ZUQzVMbDFxaHVaUUdzb2YyaS1HR2xhWi1NQVFrZk9zOWRTN0NlT2Q0blBBa2RYSjRQOWV1amt2UzZDWWg1ektGM0dRYzY5NzNKbXdfTjUtbFY4UDlzTU0?oc=5",
+              "origin": "google",
+              "title": "경기도의회 교육기획위, 14일간 도교육청 행정사무감사 돌입"
             }
           ],
           "source_count": 3,
           "published": "2026-11-06T13:39:48+09:00",
           "ts": 1793939988.0,
+          "group": "gg_council",
+          "group_label": "경기도의회(문체·미래위·예산)"
+        },
+        {
+          "title": "경기도의회, 행정사무감사 착수…민생경제·예산 집행 검증",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XZk9TV0dhRGsteVYtMGFJVzNVeVlqOER5ZHN5NGVGX01SeE54X2VYWHY0Y2p3bC1MTlVHUVloeXotWDFEc2xhYmFQV1hZYV80amNXNzVRdHZDOW9NcHdsTG9vTzc?oc=5",
+          "snippet": "",
+          "source": "매일일보",
+          "sources": [
+            {
+              "name": "매일일보",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XZk9TV0dhRGsteVYtMGFJVzNVeVlqOER5ZHN5NGVGX01SeE54X2VYWHY0Y2p3bC1MTlVHUVloeXotWDFEc2xhYmFQV1hZYV80amNXNzVRdHZDOW9NcHdsTG9vTzc?oc=5",
+              "origin": "google",
+              "title": "경기도의회, 행정사무감사 착수…민생경제·예산 집행 검증"
+            },
+            {
+              "name": "경기일보",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lZ1o2elBsX2dMQ0NyOWhGZlMzdnVoSzlUNXdweVVMVGxqX1daNUV3MDExdWo1WkNaT3FLSDNwZjBnYUhLRzNTVG10eERWampqcUstSXJ6bUhCbEU?oc=5",
+              "origin": "google",
+              "title": "“삭감된 민생 예산 어쩌나”…경기도의회, 감액추경·재정난 송곳 검증 예고 [영상]"
+            },
+            {
+              "name": "선데이뉴스신문",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11dS1yYmw5ZmFFdGgxR2YzRUJqdzctd25tYnZiT1d4NWxza3VaUkJUR2V2RW1YVEgzdHVMeGdkSHhSR0tEUFRxNkhGbXlBZklTV2hPUGNxWHhselk?oc=5",
+              "origin": "google",
+              "title": "경기도의회 경제노동위원회, 6일부터 행정사무감사…민생경제·일자리 정책 집중 점검"
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-11-06T13:19:05+09:00",
+          "ts": 1793938745.0,
           "group": "gg_council",
           "group_label": "경기도의회(문체·미래위·예산)"
         },
@@ -2576,27 +2595,27 @@
           "group_label": "경기도의회(문체·미래위·예산)"
         },
         {
-          "title": "경기도의회, 행정사무감사 착수…민생경제·예산 집행 검증",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XZk9TV0dhRGsteVYtMGFJVzNVeVlqOER5ZHN5NGVGX01SeE54X2VYWHY0Y2p3bC1MTlVHUVloeXotWDFEc2xhYmFQV1hZYV80amNXNzVRdHZDOW9NcHdsTG9vTzc?oc=5",
-          "snippet": "",
-          "source": "매일일보",
+          "title": "한영수 경기도의원 \"인자위·일자리재단 통합 검토해야\"",
+          "url": "https://www.asiatime.co.kr/article/20261106500256",
+          "snippet": "조직 효율화와 포승지구 노동환경 개선 촉구 6일 경기도의회 경제노동위원회 2026 행정사무감사에서 한영수 도의원이 경제실을 상대로 질의하고 있다. 사진=임성민 기자 한영수 경기도의원이 경기도인적자원개발위원회와...",
+          "source": "asiatime.co.kr",
           "sources": [
             {
-              "name": "매일일보",
-              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XZk9TV0dhRGsteVYtMGFJVzNVeVlqOER5ZHN5NGVGX01SeE54X2VYWHY0Y2p3bC1MTlVHUVloeXotWDFEc2xhYmFQV1hZYV80amNXNzVRdHZDOW9NcHdsTG9vTzc?oc=5",
-              "origin": "google",
-              "title": "경기도의회, 행정사무감사 착수…민생경제·예산 집행 검증"
+              "name": "asiatime.co.kr",
+              "url": "https://www.asiatime.co.kr/article/20261106500256",
+              "origin": "naver",
+              "title": "한영수 경기도의원 \"인자위·일자리재단 통합 검토해야\""
             },
             {
-              "name": "경기일보",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lZ1o2elBsX2dMQ0NyOWhGZlMzdnVoSzlUNXdweVVMVGxqX1daNUV3MDExdWo1WkNaT3FLSDNwZjBnYUhLRzNTVG10eERWampqcUstSXJ6bUhCbEU?oc=5",
-              "origin": "google",
-              "title": "“삭감된 민생 예산 어쩌나”…경기도의회, 감액추경·재정난 송곳 검증 예고 [영상]"
+              "name": "뉴스1",
+              "url": "https://www.news1.kr/local/gyeonggi/6345696",
+              "origin": "naver",
+              "title": "한영수 도의원 \"경기도 인적자원개발위·일자리재단 기능 통합해야\""
             }
           ],
           "source_count": 2,
-          "published": "2026-11-06T13:19:05+09:00",
-          "ts": 1793938745.0,
+          "published": "2026-11-06T14:38:00+09:00",
+          "ts": 1793943480.0,
           "group": "gg_council",
           "group_label": "경기도의회(문체·미래위·예산)"
         },
@@ -2722,6 +2741,31 @@
           "source_count": 2,
           "published": "2026-11-05T14:21:00+09:00",
           "ts": 1793856060.0,
+          "group": "gg_council",
+          "group_label": "경기도의회(문체·미래위·예산)"
+        },
+        {
+          "title": "경기도의회 경제노동위, 6일부터 행정사무감사",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fcFAxbnFvNkxmdEdWZnRwV1kwd3Z6eUFFQ3ZsOENZNXpwMUtZWnlNekhhM1JQQmlUc2JrMjdvcWdGUExyWFFfdWFjZV9RbmplUk9aQllhYlpsVFhCLWpTQ3RB?oc=5",
+          "snippet": "",
+          "source": "경인미래신문",
+          "sources": [
+            {
+              "name": "경인미래신문",
+              "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fcFAxbnFvNkxmdEdWZnRwV1kwd3Z6eUFFQ3ZsOENZNXpwMUtZWnlNekhhM1JQQmlUc2JrMjdvcWdGUExyWFFfdWFjZV9RbmplUk9aQllhYlpsVFhCLWpTQ3RB?oc=5",
+              "origin": "google",
+              "title": "경기도의회 경제노동위, 6일부터 행정사무감사"
+            },
+            {
+              "name": "로이슈",
+              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CUm5td011azFfRlZscHhUd2xuN01xaU5UbXRhcTBsV3htdDdBSEZYMkhZRXFUcFZTRHBFYk9obWNSQnpqWVl2Y3hsOVNwOXRZWEhLdDVqVFVnZ3FGTGlERU9rXzgyejlNSzA1MnhEaWkwRUc4TjN3aDl3?oc=5",
+              "origin": "google",
+              "title": "경기도의회 경제노동위, 6일부터 행정사무감사…장태환 위원장 \"정착 반영 철저 점검\""
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-11-05T13:09:00+09:00",
+          "ts": 1793851740.0,
           "group": "gg_council",
           "group_label": "경기도의회(문체·미래위·예산)"
         },
@@ -3081,45 +3125,8 @@
       "priority": 4,
       "page": "main",
       "preview": null,
-      "count": 6,
+      "count": 5,
       "items": [
-        {
-          "title": "구리남양주교육지원청, 생성형 AI로 학원 운영 안내 영상 4편 제작…위...",
-          "url": "https://www.viva100.com/article/20261105500086",
-          "snippet": "경기도구리남양주교육지원청이 생성형 인공지능(AI)을 활용해 학원 운영 안내 영상 4편을 자체 제작하고... 영상은 총 4편으로, 반복 위반 사례를 다룬 AI 애니메이션 1편과 학원 설립 절차, 수업 시작 전 필수 이행사항...",
-          "source": "viva100.com",
-          "sources": [
-            {
-              "name": "viva100.com",
-              "url": "https://www.viva100.com/article/20261105500086",
-              "origin": "naver",
-              "title": "구리남양주교육지원청, 생성형 AI로 학원 운영 안내 영상 4편 제작…위..."
-            },
-            {
-              "name": "경기신문",
-              "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpWm5ETlFtTjZGUzVDbVkyT0pKem40ZW9ISEh3Y08tbVo5cDZ4Ri1UN0ZtRl83ZkdKRnhCSVlURlBuaUR6dl9VVV9sdW5qbk5LdElHbmQySkVSNnY2SWFlcTFR?oc=5",
-              "origin": "google",
-              "title": "구리남양주교육지원청, 생성형 AI 활용 학원 운영 안내 영상 자체 제작… 예방 중심 관리 강화"
-            },
-            {
-              "name": "경기일보",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JUnhRVkllLWp1bE9LdHFVcHB1MlVsTTIyc3FpR0s4T3piUWU4eUo5VHVWNm5rd3g3a1VuZC1LTFBjNGRNNnRXRDdzVWlkVUFmekF4Sk1ibEZMWWc?oc=5",
-              "origin": "google",
-              "title": "“적발보다 예방”…구리남양주교육청, 최초 AI 활용 학원 운영 안내 영상 제작"
-            },
-            {
-              "name": "브릿지경제",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zRllvckJLRHNkOEZud1I3VEpyaUdWUWNYUHk1VVlmajNYV3c5SnpjVzB2eXhWLU81WlJ6VmdDYjBsRUNEc0I3RXNtQVRzRnZpUU9rRElrM1ZHZw?oc=5",
-              "origin": "google",
-              "title": "구리남양주교육지원청, 생성형 AI로 학원 운영 안내 영상 4편 제작…위반 예방 강화"
-            }
-          ],
-          "source_count": 4,
-          "published": "2026-11-05T08:42:00+09:00",
-          "ts": 1793835720.0,
-          "group": "province",
-          "group_label": "경기도(콘텐츠 관련)"
-        },
         {
           "title": "시흥도시공사, AI 기반 일일 정보공유 콘텐츠 ‘AX Factory Daily Brief’ 도입",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LTXFpQ3lyRzI5Ty1jYlRRbnExaVVCRW5TclY2NGFmU25ZWURET3hzZ1Q5bm1fVTQxSWVQOGY3OUlDd04zZ210T0ZyMHgyNmVhZWFPVU53R1RGY196azRrbg?oc=5",
@@ -3262,14 +3269,14 @@
               "title": "부천시, 문화콘텐츠 전문인력 양성 위해 3개 기관 맞손"
             },
             {
-              "name": "누리일보",
-              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZdVhnTW9QQ3pXOXQtRTFfWVdZR3lVRktiMjJETVJPQk43NjdfVkE3SGtlclFjM0w0U3JDSFFRLURzVkRzU19CNmpKcFFJS1ZNT0Y1eV9PRnJidXVH?oc=5",
+              "name": "파이낸셜경제",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90QUgtX3Jpa01KcnR6S1dBNUdCQlk2aHBaQm1SejZ3aDRpNWV1LVZPR1JHUHpyM3Rvb2l4aF90bHpBbG1WUDY0MXViTTJ2eXg1elF1OHBjUXZGeVQzWWFjUURKY2d1MG9JNTRORDIyZ0Q?oc=5",
               "origin": "google",
               "title": "부천시, 문화콘텐츠 전문인력 양성 위해 3개 기관 맞손"
             },
             {
-              "name": "파이낸셜경제",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90QUgtX3Jpa01KcnR6S1dBNUdCQlk2aHBaQm1SejZ3aDRpNWV1LVZPR1JHUHpyM3Rvb2l4aF90bHpBbG1WUDY0MXViTTJ2eXg1elF1OHBjUXZGeVQzWWFjUURKY2d1MG9JNTRORDIyZ0Q?oc=5",
+              "name": "누리일보",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZdVhnTW9QQ3pXOXQtRTFfWVdZR3lVRktiMjJETVJPQk43NjdfVkE3SGtlclFjM0w0U3JDSFFRLURzVkRzU19CNmpKcFFJS1ZNT0Y1eV9PRnJidXVH?oc=5",
               "origin": "google",
               "title": "부천시, 문화콘텐츠 전문인력 양성 위해 3개 기관 맞손"
             },
@@ -3293,31 +3300,6 @@
           "group_label": "부천시(콘텐츠 관련)"
         },
         {
-          "title": "'만화계 연대' 제26회 만화의 날 기념식 부천서 열려",
-          "url": "http://news.lghellovision.net/news/articleView.html?idxno=561154",
-          "snippet": "[조관제/한국만화영상진흥원 이사장: \"우리 만화의 기본이 탄탄해지기 위해서는 독립 만화, 실험 만화, 이런 만화 장르가 다양하게 같이 발전해야 우리 만화와 웹툰이 더 튼튼해지리라 믿습니다. 정부에서 저변 확대를 위한...",
-          "source": "news.lghellovision.net",
-          "sources": [
-            {
-              "name": "news.lghellovision.net",
-              "url": "http://news.lghellovision.net/news/articleView.html?idxno=561154",
-              "origin": "naver",
-              "title": "'만화계 연대' 제26회 만화의 날 기념식 부천서 열려"
-            },
-            {
-              "name": "LG헬로비전",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QM1NRRGdDcHU1YkNjeXQ4ODhkajVGQnpNRWFubVl0b3lyWHN3eUdXV19VUDhybFdrZlRQRmhxTnZFYzdOdy0xbUd6U3ZKVThZNGJkX2h4Y1EyR0VmUTVjT3JrQk9DMkNjUmpCRHcybWdNTXRmVmfSAXZBVV95cUxNUDNTUURnQ3B1NWJDY3l0ODg4ZGo1RkJ6TUVhbm1ZdG95clhzd3lHV1dfVVA4cmxXa2ZUUEZocU52RWM3TnctMW1HelN2SlU4WTRiZF9oeGNRMkdFZlE1Y09ya0JPQzJDY1JqQkR3Mm1nTU10ZlZn?oc=5",
-              "origin": "google",
-              "title": "[인터뷰단신] '만화계 연대' 제26회 만화의 날 기념식 부천서 열려"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-11-05T10:44:00+09:00",
-          "ts": 1793843040.0,
-          "group": "bucheon",
-          "group_label": "부천시(콘텐츠 관련)"
-        },
-        {
           "title": "세계의 애니메이션이 부천에 모였다! BIAF 2026",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWmktaEhYQlh6YzRCdFlpOFEwdEo3cHVmR0s1b3BQNmdZUTF1Ni1RdWdUbVhnS1BCdnBRdVJ1a3QzUnZPV2oyVjctWXlTblVoM1M1NzdzeFl1d3FydE1qVnBrWTdSQUE4SkRTbzA2cUF1aTIwVjRYUGFQLXVRZDNCVDB6V1JSRjJNb2JjWQ?oc=5",
           "snippet": "",
@@ -3335,6 +3317,25 @@
           "ts": 1793852880.0,
           "group": "bucheon",
           "group_label": "부천시(콘텐츠 관련)"
+        },
+        {
+          "title": "[인터뷰단신] '만화계 연대' 제26회 만화의 날 기념식 부천서 열려",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QM1NRRGdDcHU1YkNjeXQ4ODhkajVGQnpNRWFubVl0b3lyWHN3eUdXV19VUDhybFdrZlRQRmhxTnZFYzdOdy0xbUd6U3ZKVThZNGJkX2h4Y1EyR0VmUTVjT3JrQk9DMkNjUmpCRHcybWdNTXRmVmfSAXZBVV95cUxNUDNTUURnQ3B1NWJDY3l0ODg4ZGo1RkJ6TUVhbm1ZdG95clhzd3lHV1dfVVA4cmxXa2ZUUEZocU52RWM3TnctMW1HelN2SlU4WTRiZF9oeGNRMkdFZlE1Y09ya0JPQzJDY1JqQkR3Mm1nTU10ZlZn?oc=5",
+          "snippet": "",
+          "source": "LG헬로비전",
+          "sources": [
+            {
+              "name": "LG헬로비전",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QM1NRRGdDcHU1YkNjeXQ4ODhkajVGQnpNRWFubVl0b3lyWHN3eUdXV19VUDhybFdrZlRQRmhxTnZFYzdOdy0xbUd6U3ZKVThZNGJkX2h4Y1EyR0VmUTVjT3JrQk9DMkNjUmpCRHcybWdNTXRmVmfSAXZBVV95cUxNUDNTUURnQ3B1NWJDY3l0ODg4ZGo1RkJ6TUVhbm1ZdG95clhzd3lHV1dfVVA4cmxXa2ZUUEZocU52RWM3TnctMW1HelN2SlU4WTRiZF9oeGNRMkdFZlE1Y09ya0JPQzJDY1JqQkR3Mm1nTU10ZlZn?oc=5",
+              "origin": "google",
+              "title": "[인터뷰단신] '만화계 연대' 제26회 만화의 날 기념식 부천서 열려"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-11-05T10:53:39+09:00",
+          "ts": 1793843619.0,
+          "group": "bucheon",
+          "group_label": "부천시(콘텐츠 관련)"
         }
       ]
     },
@@ -3344,7 +3345,7 @@
       "priority": 7,
       "page": "main",
       "preview": null,
-      "count": 121,
+      "count": 122,
       "items": [
         {
           "title": "경기신보, '이지원' 통해 보증 이후 경영 역량강화까지 지원",
@@ -3997,18 +3998,6 @@
               "title": "경기교통공사, 양주 재가장애인가구에 김장김치 전달"
             },
             {
-              "name": "뉴스파노라마",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zX1VkVmJPNXhFaEpUT2RFdUtDcktoeU5KMVV5ZnNzNHE0ZDd2UHZpS0tzOGpVUW5nRjNHZXFrdDRJMEVxamVtWUdxbTRlMWZaRW1JOGJUTXlSVi1wdHVTQUFyb1VUY2d6bkhtWXc0OA?oc=5",
-              "origin": "google",
-              "title": "경기교통공사·경기도 광역이동지원센터, 양주지역 재가장애인 가구에 김장김치 전달"
-            },
-            {
-              "name": "서울뉴스통신",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wUThFa0JMRmZpX3ZGeF9KTW5kNVMtOEktcmU0UjI1cXZsbzMwSWdiYVE3T184ZjB5NHpTZFFFdlA5azhET09VdkNBYUdTZ3F1bzk4eUhHbGxyZ1JwbG9FeGp4ZncxZGZjTW5j?oc=5",
-              "origin": "google",
-              "title": "경기교통공사·경기도 광역이동지원센터, 양주지역 재가장애인 가구에 김장김치 전달"
-            },
-            {
               "name": "CNB뉴스",
               "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YaS0xdFk1SktsQ3pwQ2ZrbDVJcktQV2dUdUxtNUhVQnhSWFg4Mm1aU3o1OXZvd3VXa1VwNkNZZnNrWnVSRTdTazlfQlh4dG4wbHpqb2NiNEQ0ckdGeFViMS0ydGQxNDBQekNZ?oc=5",
               "origin": "google",
@@ -4017,6 +4006,18 @@
             {
               "name": "동방일보",
               "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ONEZGZzA0bUtRaDl2MC0yOXVURDZxcVBHcFJtWk02TGYteEhkS1VMYzNSeWtBQ2JmaFdjSkN4VGo2US1QX3FDaElFWkZuMlhQMEIzTFlCYjhER01BdF9WS3JSbE94QmQ0WHkzUjk2bzZjN0U?oc=5",
+              "origin": "google",
+              "title": "경기교통공사·경기도 광역이동지원센터, 양주지역 재가장애인 가구에 김장김치 전달"
+            },
+            {
+              "name": "뉴스파노라마",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zX1VkVmJPNXhFaEpUT2RFdUtDcktoeU5KMVV5ZnNzNHE0ZDd2UHZpS0tzOGpVUW5nRjNHZXFrdDRJMEVxamVtWUdxbTRlMWZaRW1JOGJUTXlSVi1wdHVTQUFyb1VUY2d6bkhtWXc0OA?oc=5",
+              "origin": "google",
+              "title": "경기교통공사·경기도 광역이동지원센터, 양주지역 재가장애인 가구에 김장김치 전달"
+            },
+            {
+              "name": "서울뉴스통신",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wUThFa0JMRmZpX3ZGeF9KTW5kNVMtOEktcmU0UjI1cXZsbzMwSWdiYVE3T184ZjB5NHpTZFFFdlA5azhET09VdkNBYUdTZ3F1bzk4eUhHbGxyZ1JwbG9FeGp4ZncxZGZjTW5j?oc=5",
               "origin": "google",
               "title": "경기교통공사·경기도 광역이동지원센터, 양주지역 재가장애인 가구에 김장김치 전달"
             },
@@ -4101,11 +4102,17 @@
           "group_label": "경기도 산하기관"
         },
         {
-          "title": "경기문화재단, ‘작은 조각, 큰 세상’ 전시",
-          "url": "https://www.sportsseoul.com/news/read/1647483?ref=naver",
-          "snippet": "〔스포츠서울│수원=좌승훈기자〕경기문화재단은 장애 아동을 위한 놀이미술 키트 ‘호기심 예술 상자’가 발달장애 학생들의 손을 거쳐 하나의 전시로 탄생했다고 6일 밝혔다. ‘호기심 예술상자’는 ‘미적 호기심’과...",
-          "source": "경기핫타임뉴스",
+          "title": "경기문화재단, 장애 아동 놀이미술 키트 ‘호기심 예술상자’ 연계 전시 진행",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4T0lyRHRyd0N5MzJxTVF1ZWF4OHVuQlZKYVY0S0M3RkgzQV9jVnRfaG53LTBsdHFQN2pZalpiaUpNbDI1RTNyZlk2cG5lWVZZRDVNLU5raGstQnd3YVpBbW9xUVBpamszcF9F?oc=5",
+          "snippet": "",
+          "source": "서울뉴스통신",
           "sources": [
+            {
+              "name": "서울뉴스통신",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4T0lyRHRyd0N5MzJxTVF1ZWF4OHVuQlZKYVY0S0M3RkgzQV9jVnRfaG53LTBsdHFQN2pZalpiaUpNbDI1RTNyZlk2cG5lWVZZRDVNLU5raGstQnd3YVpBbW9xUVBpamszcF9F?oc=5",
+              "origin": "google",
+              "title": "경기문화재단, 장애 아동 놀이미술 키트 ‘호기심 예술상자’ 연계 전시 진행"
+            },
             {
               "name": "경기핫타임뉴스",
               "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KV2hfaWdGbUp2RWtLMmwyMDZodHF5cnJGMmZQQ1FaQmw4dkNqS09rbENfcko4bnVka0duN0lMSHMtQm9wWXdYZWtDaGJaZmNMY0c0bnNuZENpU1MzU3JTVDRqTkI5cHM?oc=5",
@@ -4131,12 +4138,6 @@
               "title": "'작은 조각, 큰 세상' 경기문화재단, 장애 아동 놀이미술 키트 '호기심 예술상자' 연계 전시 진행"
             },
             {
-              "name": "스포츠서울",
-              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aQlNlbUhHT3J5clFNcVZCejE4WEtCWHBuLVZjOTlLa0lUajBaSWhaZW1FM0xaU19uQmk1WThfN2Y2VVJhWTBwbUtZOUUydTJJMkU3MWVodXY?oc=5",
-              "origin": "google",
-              "title": "경기문화재단, ‘작은 조각, 큰 세상’ 전시"
-            },
-            {
               "name": "웹이코노미",
               "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JUjZjYzIwY1hCTDNPb1NvTUNQNHhyVUVUZWdobktyZlB6UldGRnBld2VGcWpxdzhleG5BeFcxMlhqaVNYSFA3S2cyUXVGeXZkWE9LalVySTdlTXRFM1dRb2N0OEZlVXZ2TnQ0WHptbE9MQQ?oc=5",
               "origin": "google",
@@ -4150,57 +4151,8 @@
             }
           ],
           "source_count": 7,
-          "published": "2026-11-06T13:12:00+09:00",
-          "ts": 1793938320.0,
-          "group": "gg_agencies",
-          "group_label": "경기도 산하기관"
-        },
-        {
-          "title": "경기연구원 \"군사규제 82% 경기북부에 '국제평화도시' 조성해야\" |",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90RWZBTmNNN1RVX182LU4zOTQ3VzNnV3F1ODc1RzhVOWdKaEwwOC0yNWJMMnFZbzZvU2x2aHMzWVNfVzBaQmNjYnVVTklQeDM4cTdVMjl2RnNicnR3clpKVVZpaGF1ckdhZWIyZUk0R2pNMGZMb0E?oc=5",
-          "snippet": "",
-          "source": "LG헬로비전",
-          "sources": [
-            {
-              "name": "LG헬로비전",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90RWZBTmNNN1RVX182LU4zOTQ3VzNnV3F1ODc1RzhVOWdKaEwwOC0yNWJMMnFZbzZvU2x2aHMzWVNfVzBaQmNjYnVVTklQeDM4cTdVMjl2RnNicnR3clpKVVZpaGF1ckdhZWIyZUk0R2pNMGZMb0E?oc=5",
-              "origin": "google",
-              "title": "경기연구원 \"군사규제 82% 경기북부에 '국제평화도시' 조성해야\" |"
-            },
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20261105114100061?input=1195m",
-              "origin": "naver",
-              "title": "경기연구원, 북부 접경지역에 '국제평화도시' 조성 방안 제안"
-            },
-            {
-              "name": "천지일보",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91MVJlenZNM1YybHNHSDl2dFJrLW91TGZsZ1FlMUNiaERncjBoeC1vU3YxVUJmaXBsV0NQZWRTckd0Q1RqQmFPVDlsVFVOMzhQTTRaQTZkRDRfRzVhMVFoWHcydThrdjUtTlE?oc=5",
-              "origin": "google",
-              "title": "연천 면적 92.6% 군사시설보호구역… 경기연구원, ‘국제평화도시’ 조성 제안"
-            },
-            {
-              "name": "뉴시스",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mWDBhWWJUN0owYm5uUklOM0lZVlc0c1g0SHZBMzlWLXN4QXJTNWNKY2xwOFNsU3Q2Q1d3UnUxWk9vRXczU1gxUTl5UDUzZGVMOHZOa19EeC1xbDRWYlZ6a9IBeEFVX3lxTE9DSi03SGNNcDBVelFvN1ZTX3laT1dEU0V3RnVWRVJhNE1iY3BIaTRDTHpub3VXZjV0NHdFbm9QbmlldXhEZFYtSGk3YzB5aXhEVFBJYk83U3Y3N1BtbEpCZTRKTkVGc0MwalU3VE5DdFZ0NEVqUWtJNA?oc=5",
-              "origin": "google",
-              "title": "경기연구원, 북부 접경지역에 '국제평화도시' 조성 제안"
-            },
-            {
-              "name": "월드장애인사랑뉴스",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DcHZkNVNFWkVQb0hrd1d4akZfUHd3MHR5ellRWXB0NWltUHp3WGxabWltU0dveUU0YmFRNzk1b1dkVTJBRktjeFBNM1NKaHBXVGJzMlFLNFdzNHVpY2lTNHdUYTNMa1FlMnVtSE41Zw?oc=5",
-              "origin": "google",
-              "title": "경기연구원, 경기북부 접경지역 ‘국제평화도시’ 조성 제안…중첩규제 해소·평화경제 거점 추진"
-            },
-            {
-              "name": "경기타임스 e",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NWWhJMkFzS1J5WldxVHJ5alpweWlLREI0Q0dQVmo3N1ZWaFRaYlNXZHBVZnNMMXo3VzhLM0NlU1BRT002U2ZFdFoxOS1UMC04bVMydjJJemROVm53Vkw3T0wyMFNUZVZTVFEzTg?oc=5",
-              "origin": "google",
-              "title": "\"규제에 묶인 경기북부 접경지역, '국제평화도시'로 판 바꿔야\"...경기연구원 \"지원·보상 넘어 평화경제 성장거점으로 전환\""
-            }
-          ],
-          "source_count": 6,
-          "published": "2026-11-06T11:35:51+09:00",
-          "ts": 1793932551.0,
+          "published": "2026-11-06T13:17:40+09:00",
+          "ts": 1793938660.0,
           "group": "gg_agencies",
           "group_label": "경기도 산하기관"
         },
@@ -4303,6 +4255,49 @@
           "group_label": "경기도 산하기관"
         },
         {
+          "title": "경기연구원 \"군사규제 82% 경기북부에 '국제평화도시' 조성해야\" |",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90RWZBTmNNN1RVX182LU4zOTQ3VzNnV3F1ODc1RzhVOWdKaEwwOC0yNWJMMnFZbzZvU2x2aHMzWVNfVzBaQmNjYnVVTklQeDM4cTdVMjl2RnNicnR3clpKVVZpaGF1ckdhZWIyZUk0R2pNMGZMb0E?oc=5",
+          "snippet": "",
+          "source": "LG헬로비전",
+          "sources": [
+            {
+              "name": "LG헬로비전",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90RWZBTmNNN1RVX182LU4zOTQ3VzNnV3F1ODc1RzhVOWdKaEwwOC0yNWJMMnFZbzZvU2x2aHMzWVNfVzBaQmNjYnVVTklQeDM4cTdVMjl2RnNicnR3clpKVVZpaGF1ckdhZWIyZUk0R2pNMGZMb0E?oc=5",
+              "origin": "google",
+              "title": "경기연구원 \"군사규제 82% 경기북부에 '국제평화도시' 조성해야\" |"
+            },
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261105114100061?input=1195m",
+              "origin": "naver",
+              "title": "경기연구원, 북부 접경지역에 '국제평화도시' 조성 방안 제안"
+            },
+            {
+              "name": "뉴시스",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mWDBhWWJUN0owYm5uUklOM0lZVlc0c1g0SHZBMzlWLXN4QXJTNWNKY2xwOFNsU3Q2Q1d3UnUxWk9vRXczU1gxUTl5UDUzZGVMOHZOa19EeC1xbDRWYlZ6a9IBeEFVX3lxTE9DSi03SGNNcDBVelFvN1ZTX3laT1dEU0V3RnVWRVJhNE1iY3BIaTRDTHpub3VXZjV0NHdFbm9QbmlldXhEZFYtSGk3YzB5aXhEVFBJYk83U3Y3N1BtbEpCZTRKTkVGc0MwalU3VE5DdFZ0NEVqUWtJNA?oc=5",
+              "origin": "google",
+              "title": "경기연구원, 북부 접경지역에 '국제평화도시' 조성 제안"
+            },
+            {
+              "name": "월드장애인사랑뉴스",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DcHZkNVNFWkVQb0hrd1d4akZfUHd3MHR5ellRWXB0NWltUHp3WGxabWltU0dveUU0YmFRNzk1b1dkVTJBRktjeFBNM1NKaHBXVGJzMlFLNFdzNHVpY2lTNHdUYTNMa1FlMnVtSE41Zw?oc=5",
+              "origin": "google",
+              "title": "경기연구원, 경기북부 접경지역 ‘국제평화도시’ 조성 제안…중첩규제 해소·평화경제 거점 추진"
+            },
+            {
+              "name": "경기타임스 e",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NWWhJMkFzS1J5WldxVHJ5alpweWlLREI0Q0dQVmo3N1ZWaFRaYlNXZHBVZnNMMXo3VzhLM0NlU1BRT002U2ZFdFoxOS1UMC04bVMydjJJemROVm53Vkw3T0wyMFNUZVZTVFEzTg?oc=5",
+              "origin": "google",
+              "title": "\"규제에 묶인 경기북부 접경지역, '국제평화도시'로 판 바꿔야\"...경기연구원 \"지원·보상 넘어 평화경제 성장거점으로 전환\""
+            }
+          ],
+          "source_count": 5,
+          "published": "2026-11-06T11:35:51+09:00",
+          "ts": 1793932551.0,
+          "group": "gg_agencies",
+          "group_label": "경기도 산하기관"
+        },
+        {
           "title": "고양산업진흥원, 킨텍스서 소셜브릿지 마켓 6회차 개최",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TeEdWX0xLMlVwUHhnZ2tRZmdoeXZSNGwxR2VJdW0wd0hsYzg5UzdBWDFzdlRDb3JUakNBLW4wQk5ydFFQdXlxaFBSS1ZpeXRPOXRlOWVaZVpqMFlnSGp5eElGZGFRdHo0TVRiaFcyZks4dw?oc=5",
           "snippet": "",
@@ -4385,6 +4380,43 @@
           "source_count": 5,
           "published": "2026-11-05T15:54:00+09:00",
           "ts": 1793861640.0,
+          "group": "gg_agencies",
+          "group_label": "경기도 산하기관"
+        },
+        {
+          "title": "카카오모빌리티, '통합 운영 플랫폼'으로 로봇 서비스 확산 돕는다",
+          "url": "https://www.etnews.com/20261106000241",
+          "snippet": "카카오모빌리티는 지난 5일 경기 고양시 킨텍스에서 열린 '2026 국제로봇비즈니스컨퍼런스(IRBC 2026)'에 참가해 피지컬 인공지능(AI) 시대 로봇 플랫폼 비전을 제시했다고 6일 밝혔다. 이날 모빌리티 트랙에 연사로 참여한...",
+          "source": "전자신문",
+          "sources": [
+            {
+              "name": "전자신문",
+              "url": "https://www.etnews.com/20261106000241",
+              "origin": "naver",
+              "title": "카카오모빌리티, '통합 운영 플랫폼'으로 로봇 서비스 확산 돕는다"
+            },
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261106060200017?input=1195m",
+              "origin": "naver",
+              "title": "[AI픽] 카카오모빌리티 \"로봇 상용화 핵심은 플랫폼 기반 통합 운영\""
+            },
+            {
+              "name": "한스경제",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1RmhtdFFKMkp1WXo0LVB6dU5GVUYycGVCOHJhRmdkMmR2V2dKSXBSeGVtVDllRFphdGFfVHJlRzNZYXZyZk4yQW5Bdjh2cW9NTWJnUmFqT2xJcGI2cFNaTjhuMU00a1NGQUxN?oc=5",
+              "origin": "google",
+              "title": "카카오모빌리티, ‘브링온’으로 로봇 통합 제어…피지컬 AI 확대"
+            },
+            {
+              "name": "서울경제",
+              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IbFh2c3I0XzdIdEtaSXhvZW5iVHlrd0FsWE81aDlPTWlvcDBRZWZ6aWh3b1FFS0g4ejFZMVpaVEdzNERRNGZzTTYzZ1VWNktmLXfSAVNBVV95cUxQTVFoRHdVSFQxUDNhTFUwMGxaMnNINGUtc05LaHpBd0R3ajlZU1hFZ3lCX3ZIZFAwR0pxX2tDN1dzczFkVGR1SGd4VWIwUFZORzZkNA?oc=5",
+              "origin": "google",
+              "title": "카카오모빌리티, 로봇 통합 운영 플랫폼 고도화…피지컬 AI 상용화 속도"
+            }
+          ],
+          "source_count": 4,
+          "published": "2026-11-06T14:42:00+09:00",
+          "ts": 1793943720.0,
           "group": "gg_agencies",
           "group_label": "경기도 산하기관"
         },
@@ -4533,6 +4565,37 @@
           "source_count": 4,
           "published": "2026-11-05T09:21:00+09:00",
           "ts": 1793838060.0,
+          "group": "gg_agencies",
+          "group_label": "경기도 산하기관"
+        },
+        {
+          "title": "2026년도 (재)경기대진테크노파크 입주기업 간담회 개최",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Iak13akVNSTlhb19tUl9ZWEQzSlhFTjZ6U3NkakY5b0VmSWJrYWExanMzeS1Ec2JlNzB2THBrZWg5SE8zaktacnhMSHBkQ2xhYi1UenVvLXczVHpTZVViS1hBSQ?oc=5",
+          "snippet": "",
+          "source": "경기탑뉴스",
+          "sources": [
+            {
+              "name": "경기탑뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Iak13akVNSTlhb19tUl9ZWEQzSlhFTjZ6U3NkakY5b0VmSWJrYWExanMzeS1Ec2JlNzB2THBrZWg5SE8zaktacnhMSHBkQ2xhYi1UenVvLXczVHpTZVViS1hBSQ?oc=5",
+              "origin": "google",
+              "title": "2026년도 (재)경기대진테크노파크 입주기업 간담회 개최"
+            },
+            {
+              "name": "행정신문",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lWHZCdzc4MWVTS0xmS3ZabGJ0SElidU95NjdDMTdteEFHQ3pUaWZocWIwcTFxcm90RW5HMlMxT1dIQWthUlhEU095TVJtdWZNZ0V2NVlOYWxMZEVTX0pQVDQ0Rzh2djdkeE9SMQ?oc=5",
+              "origin": "google",
+              "title": "2026년도 (재)경기대진테크노파크 입주기업 간담회 개최"
+            },
+            {
+              "name": "문화매일신문",
+              "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sNTd5QUhHSnhCTVIzdDNpbFkwX05pUVlZeENPSE00TklFNFRsSEI4ZGl2bkZmTjRIT0ptWFBXQkdYNmdha3Z0V0p6Zw?oc=5",
+              "origin": "google",
+              "title": "2026년도 (재)경기대진테크노파크 입주기업 간담회 개최"
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-11-06T13:30:03+09:00",
+          "ts": 1793939403.0,
           "group": "gg_agencies",
           "group_label": "경기도 산하기관"
         },
@@ -4769,31 +4832,6 @@
           "source_count": 2,
           "published": "2026-11-06T13:42:00+09:00",
           "ts": 1793940120.0,
-          "group": "gg_agencies",
-          "group_label": "경기도 산하기관"
-        },
-        {
-          "title": "2026년도 (재)경기대진테크노파크 입주기업 간담회 개최",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Iak13akVNSTlhb19tUl9ZWEQzSlhFTjZ6U3NkakY5b0VmSWJrYWExanMzeS1Ec2JlNzB2THBrZWg5SE8zaktacnhMSHBkQ2xhYi1UenVvLXczVHpTZVViS1hBSQ?oc=5",
-          "snippet": "",
-          "source": "경기탑뉴스",
-          "sources": [
-            {
-              "name": "경기탑뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Iak13akVNSTlhb19tUl9ZWEQzSlhFTjZ6U3NkakY5b0VmSWJrYWExanMzeS1Ec2JlNzB2THBrZWg5SE8zaktacnhMSHBkQ2xhYi1UenVvLXczVHpTZVViS1hBSQ?oc=5",
-              "origin": "google",
-              "title": "2026년도 (재)경기대진테크노파크 입주기업 간담회 개최"
-            },
-            {
-              "name": "행정신문",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lWHZCdzc4MWVTS0xmS3ZabGJ0SElidU95NjdDMTdteEFHQ3pUaWZocWIwcTFxcm90RW5HMlMxT1dIQWthUlhEU095TVJtdWZNZ0V2NVlOYWxMZEVTX0pQVDQ0Rzh2djdkeE9SMQ?oc=5",
-              "origin": "google",
-              "title": "2026년도 (재)경기대진테크노파크 입주기업 간담회 개최"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-11-06T13:30:03+09:00",
-          "ts": 1793939403.0,
           "group": "gg_agencies",
           "group_label": "경기도 산하기관"
         },
@@ -5123,6 +5161,25 @@
           "group_label": "경기도 산하기관"
         },
         {
+          "title": "[현장] DN솔루션즈, 공작기계·로봇·AI 융합 기술 주도…로보월드서 첨...",
+          "url": "https://www.socialvalue.kr/news/view/1065588830499360",
+          "snippet": "6일 경기도 고양시 킨텍스 제1전시장에서 열린 '2026 로보월드' 현장. 이날 전시장에서는 산업용 로봇부터 협동로봇, 인공지능(AI) 소프트웨어, 스마트 제조·자동화 솔루션까지 다양한 첨단 기술이 경연을 펼치고 있었다....",
+          "source": "socialvalue.kr",
+          "sources": [
+            {
+              "name": "socialvalue.kr",
+              "url": "https://www.socialvalue.kr/news/view/1065588830499360",
+              "origin": "naver",
+              "title": "[현장] DN솔루션즈, 공작기계·로봇·AI 융합 기술 주도…로보월드서 첨..."
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-11-06T14:44:00+09:00",
+          "ts": 1793943840.0,
+          "group": "gg_agencies",
+          "group_label": "경기도 산하기관"
+        },
+        {
           "title": "'홈플러스 사태' 피해 고스란히…납품 중소기업 \"미정산 대금 밀리고 발...",
           "url": "https://www.hankyung.com/article/202611069731g",
           "snippet": "전기요금 체납으로 포천송우점과 킨텍스점 등 6개 점포는 지난달 단전 예고를 받았으며, 인천송도점에도 이달 전력 공급 중단이 예고됐다. 국회가 지난 9월 17일 통과시킨 대규모유통업법 개정안은 직매입 대금...",
@@ -5199,21 +5256,21 @@
           "group_label": "경기도 산하기관"
         },
         {
-          "title": "경기문화재단, 장애 아동 놀이미술 키트 ‘호기심 예술상자’ 연계 전시 진행",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4T0lyRHRyd0N5MzJxTVF1ZWF4OHVuQlZKYVY0S0M3RkgzQV9jVnRfaG53LTBsdHFQN2pZalpiaUpNbDI1RTNyZlk2cG5lWVZZRDVNLU5raGstQnd3YVpBbW9xUVBpamszcF9F?oc=5",
-          "snippet": "",
-          "source": "서울뉴스통신",
+          "title": "경기문화재단, ‘작은 조각, 큰 세상’ 전시",
+          "url": "https://www.sportsseoul.com/news/read/1647483?ref=naver",
+          "snippet": "〔스포츠서울│수원=좌승훈기자〕경기문화재단은 장애 아동을 위한 놀이미술 키트 ‘호기심 예술 상자’가 발달장애 학생들의 손을 거쳐 하나의 전시로 탄생했다고 6일 밝혔다. ‘호기심 예술상자’는 ‘미적 호기심’과...",
+          "source": "스포츠서울",
           "sources": [
             {
-              "name": "서울뉴스통신",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4T0lyRHRyd0N5MzJxTVF1ZWF4OHVuQlZKYVY0S0M3RkgzQV9jVnRfaG53LTBsdHFQN2pZalpiaUpNbDI1RTNyZlk2cG5lWVZZRDVNLU5raGstQnd3YVpBbW9xUVBpamszcF9F?oc=5",
+              "name": "스포츠서울",
+              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aQlNlbUhHT3J5clFNcVZCejE4WEtCWHBuLVZjOTlLa0lUajBaSWhaZW1FM0xaU19uQmk1WThfN2Y2VVJhWTBwbUtZOUUydTJJMkU3MWVodXY?oc=5",
               "origin": "google",
-              "title": "경기문화재단, 장애 아동 놀이미술 키트 ‘호기심 예술상자’ 연계 전시 진행"
+              "title": "경기문화재단, ‘작은 조각, 큰 세상’ 전시"
             }
           ],
           "source_count": 1,
-          "published": "2026-11-06T13:17:40+09:00",
-          "ts": 1793938660.0,
+          "published": "2026-11-06T13:12:00+09:00",
+          "ts": 1793938320.0,
           "group": "gg_agencies",
           "group_label": "경기도 산하기관"
         },
@@ -5427,25 +5484,6 @@
           "group_label": "경기도 산하기관"
         },
         {
-          "title": "[AI픽] 카카오모빌리티 \"로봇 상용화 핵심은 플랫폼 기반 통합 운영\"",
-          "url": "https://www.yna.co.kr/view/AKR20261106060200017?input=1195m",
-          "snippet": "이번 행사는 지난 4∼5일 경기 고양시 킨텍스에서 AI 전환(AX), 휴머노이드·피지컬 AI, 모빌리티 등 3개 트랙으로 진행됐다. 전날 모빌리티 트랙 연사로 나선 강은규 카카오모빌리티 미래사업플랫폼팀 리더는 '연결을 넘어...",
-          "source": "연합뉴스",
-          "sources": [
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20261106060200017?input=1195m",
-              "origin": "naver",
-              "title": "[AI픽] 카카오모빌리티 \"로봇 상용화 핵심은 플랫폼 기반 통합 운영\""
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-11-06T10:35:00+09:00",
-          "ts": 1793928900.0,
-          "group": "gg_agencies",
-          "group_label": "경기도 산하기관"
-        },
-        {
           "title": "도자와 차의 만남…전통문화 가치 재조명 나선다",
           "url": "https://www.suwonilbo.kr/view.html?id=L2611061018535653",
           "snippet": "한국도자재단과 명원문화재단이 도자문화와 차문화 간 교류 및 협력을 통해 전통문화의 가치를 재조명하고, 양 분야의 발전을 위해 업무협약을 체결했다. 명원문화재단에서 지난 4일 진행된 협약에서 양 기관은 ▲주최...",
@@ -5466,13 +5504,13 @@
         },
         {
           "title": "경기연구원, “접경지역, 규제와 보상에서 한반도 평화경제 성장거점으로”",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15UUpFZkJMNm5DYlR2Vm9CdTlOOWRPMlpmcmFTLWMwWFo0RFZ3ZEFCZE5NUmt4N2xfQ21KTlBLazlEWVBZWGhjbVd0MDhHeTBBQlp3andkc20teXZQVG91Yno0NTfSAWdBVV95cUxOSWxLRmtpSEtmN1g1aWlzRTl6aTYtaFhSUXU5VFhmWDhKZE5wanlzT0dFTVhpYUc2bDFkVE5VSHZiMEQyWEpTel9XV0ItREF2aWc5cXU2UjA1M1hkaTI0TXVfSGhHYjF3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ldVVkOUZPelB0a1ZrTlFLczBQTHBEemZkbGdzaFlGaE93RmE0Z3VQN3M3Nno4T0toQ01KNzVNaXhURXRCU1FZUmo5ZFJrdXZXbFNxQnJ2WW9NNGdNZjMtZlB1d9IBZ0FVX3lxTE5JbEtGa2lIS2Y3WDVpaXNFOXppNi1oWFJRdTlUWGZYOEpkTnBqeXNPR0VNWGlhRzZsMWRUTlVIdmIwRDJYSlN6X1dXQi1EQXZpZzlxdTZSMDUzWGRpMjRNdV9IaEdiMXc?oc=5",
           "snippet": "",
           "source": "국민기자뉴스",
           "sources": [
             {
               "name": "국민기자뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15UUpFZkJMNm5DYlR2Vm9CdTlOOWRPMlpmcmFTLWMwWFo0RFZ3ZEFCZE5NUmt4N2xfQ21KTlBLazlEWVBZWGhjbVd0MDhHeTBBQlp3andkc20teXZQVG91Yno0NTfSAWdBVV95cUxOSWxLRmtpSEtmN1g1aWlzRTl6aTYtaFhSUXU5VFhmWDhKZE5wanlzT0dFTVhpYUc2bDFkVE5VSHZiMEQyWEpTel9XV0ItREF2aWc5cXU2UjA1M1hkaTI0TXVfSGhHYjF3?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ldVVkOUZPelB0a1ZrTlFLczBQTHBEemZkbGdzaFlGaE93RmE0Z3VQN3M3Nno4T0toQ01KNzVNaXhURXRCU1FZUmo5ZFJrdXZXbFNxQnJ2WW9NNGdNZjMtZlB1d9IBZ0FVX3lxTE5JbEtGa2lIS2Y3WDVpaXNFOXppNi1oWFJRdTlUWGZYOEpkTnBqeXNPR0VNWGlhRzZsMWRUTlVIdmIwRDJYSlN6X1dXQi1EQXZpZzlxdTZSMDUzWGRpMjRNdV9IaEdiMXc?oc=5",
               "origin": "google",
               "title": "경기연구원, “접경지역, 규제와 보상에서 한반도 평화경제 성장거점으로”"
             }
@@ -6546,25 +6584,6 @@
           "ts": 1793837460.0,
           "group": "gg_agencies",
           "group_label": "경기도 산하기관"
-        },
-        {
-          "title": "동해시, 수소특화단지 기업 유치 추진",
-          "url": "https://www.g1tv.co.kr/news?mid=1_207_3&newsid=350653",
-          "snippet": "동해시는 오늘(5일) 일산 킨텍스에서 열리는 수소특화단지 기업 유치 설명회에 참가해 수소 저장 운송 분야 기업들을 상대로 입주 여건과 투자 여건을 홍보합니다. 동해시는 수소 클러스터 내 산업진흥센터와...",
-          "source": "g1tv.co.kr",
-          "sources": [
-            {
-              "name": "g1tv.co.kr",
-              "url": "https://www.g1tv.co.kr/news?mid=1_207_3&newsid=350653",
-              "origin": "naver",
-              "title": "동해시, 수소특화단지 기업 유치 추진"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-11-05T09:11:00+09:00",
-          "ts": 1793837460.0,
-          "group": "gg_agencies",
-          "group_label": "경기도 산하기관"
         }
       ]
     },
@@ -6574,19 +6593,19 @@
       "priority": 8,
       "page": "main",
       "preview": null,
-      "count": 20,
+      "count": 19,
       "items": [
         {
-          "title": "문화체육관광부, 민관이 함께 '케이-콘텐츠' 해외 침해 대응 방안 모색",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwNS1UR3NhME4yQVNIVHBKa25jRS1IdVhZSTUtM1N4amNVSWwtbWw0amRsY2tsaF9FUDY2eTd0eGpuWUN4X196a3RXM3IydG9qaHEzOVU2TTRiQ01aY2JqTnNlRmk?oc=5",
+          "title": "K팝 위조상품부터 웹툰 불법유통까지…정부, 해외 K-콘텐츠 침해 대응 나선다 - https://www.didimkorea.net/",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fZGQ3ZERjeC1oeTRPa1dfWnY4YXFkWkxIcXp3bE42ZXRYd3VIYWxRLVVxMmdOS3NSNF92MHZJVlpkMHl3eVZWQ0NfeTVSUzg?oc=5",
           "snippet": "",
-          "source": "정도일보",
+          "source": "https://www.didimkorea.net/",
           "sources": [
             {
-              "name": "정도일보",
-              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwNS1UR3NhME4yQVNIVHBKa25jRS1IdVhZSTUtM1N4amNVSWwtbWw0amRsY2tsaF9FUDY2eTd0eGpuWUN4X196a3RXM3IydG9qaHEzOVU2TTRiQ01aY2JqTnNlRmk?oc=5",
+              "name": "https://www.didimkorea.net/",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fZGQ3ZERjeC1oeTRPa1dfWnY4YXFkWkxIcXp3bE42ZXRYd3VIYWxRLVVxMmdOS3NSNF92MHZJVlpkMHl3eVZWQ0NfeTVSUzg?oc=5",
               "origin": "google",
-              "title": "문화체육관광부, 민관이 함께 '케이-콘텐츠' 해외 침해 대응 방안 모색"
+              "title": "K팝 위조상품부터 웹툰 불법유통까지…정부, 해외 K-콘텐츠 침해 대응 나선다 - https://www.didimkorea.net/"
             },
             {
               "name": "뉴스1",
@@ -6601,10 +6620,10 @@
               "title": "웹툰 불법유통·K팝 위조상품…문체부, 해외 침해 대응 논의"
             },
             {
-              "name": "https://www.didimkorea.net/",
-              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fZGQ3ZERjeC1oeTRPa1dfWnY4YXFkWkxIcXp3bE42ZXRYd3VIYWxRLVVxMmdOS3NSNF92MHZJVlpkMHl3eVZWQ0NfeTVSUzg?oc=5",
-              "origin": "google",
-              "title": "K팝 위조상품부터 웹툰 불법유통까지…정부, 해외 K-콘텐츠 침해 대응 나선다 - https://www.didimkorea.net/"
+              "name": "노컷뉴스",
+              "url": "https://www.nocutnews.co.kr/news/6602425?utm_source=naver&utm_medium=article&utm_campaign=20261105094145",
+              "origin": "naver",
+              "title": "판치는 불법 웹툰에 가짜 K팝 상품…정부·업계 머리 맞댄다"
             },
             {
               "name": "https://www.climatepol.com/",
@@ -6615,6 +6634,12 @@
             {
               "name": "뉴스다",
               "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZSVg4U3dETWpvRGtyZ3JIMUxLbzE2OGd1R1FWWGFrdVNaVHFQN1NreUJLalo5N0EyVExaU3Iwb1NxSjVVbDAtOGxseUE1MkxGcEJNanNTSzcwTFYyeWo4?oc=5",
+              "origin": "google",
+              "title": "문화체육관광부, 민관이 함께 '케이-콘텐츠' 해외 침해 대응 방안 모색"
+            },
+            {
+              "name": "정도일보",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwNS1UR3NhME4yQVNIVHBKa25jRS1IdVhZSTUtM1N4amNVSWwtbWw0amRsY2tsaF9FUDY2eTd0eGpuWUN4X196a3RXM3IydG9qaHEzOVU2TTRiQ01aY2JqTnNlRmk?oc=5",
               "origin": "google",
               "title": "문화체육관광부, 민관이 함께 '케이-콘텐츠' 해외 침해 대응 방안 모색"
             },
@@ -6679,7 +6704,7 @@
               "title": "문체부, '제10차 해외지식재산보호협의체' 개최…K-콘텐츠 불법유통 민관 공동 대응"
             }
           ],
-          "source_count": 16,
+          "source_count": 17,
           "published": "2026-11-05T18:51:30+09:00",
           "ts": 1793872290.0,
           "group": "central",
@@ -6696,12 +6721,6 @@
               "url": "https://www.venturesquare.net/1125885/",
               "origin": "naver",
               "title": "충남콘텐츠진흥원, 싱가포르 FAO Partners와 협력…지역 스타트업 동남아..."
-            },
-            {
-              "name": "금강일보",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PN1c5RkNTRE5nMy0yeUNJQk5vTjVPX0hxaElnSExseGduOUF0TVYxWTVfOHItSGtUN0ZfX2JiN3RfcVBXbUxELTZCWVhRdXVBbFdkUzNMWTZiWGFENk0wbjhnOWRGcGpPcFE?oc=5",
-              "origin": "google",
-              "title": "충남콘텐츠진흥원, 싱가포르 ‘SWITCH 2026’서 지역 스타트업 해외 시장 진출 지원"
             },
             {
               "name": "주간한국",
@@ -6728,6 +6747,12 @@
               "title": "충남콘텐츠진흥원, 싱가포르 벤처캐피탈 FAO Partners와 글로벌 진출 지원을 위한 업무협약(MOU) 체결"
             },
             {
+              "name": "금강일보",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PN1c5RkNTRE5nMy0yeUNJQk5vTjVPX0hxaElnSExseGduOUF0TVYxWTVfOHItSGtUN0ZfX2JiN3RfcVBXbUxELTZCWVhRdXVBbFdkUzNMWTZiWGFENk0wbjhnOWRGcGpPcFE?oc=5",
+              "origin": "google",
+              "title": "충남콘텐츠진흥원, 싱가포르 ‘SWITCH 2026’서 지역 스타트업 해외 시장 진출 지원"
+            },
+            {
               "name": "굿뉴스365",
               "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WM1lqYXpnYjB3T1FGRnduUGsyT2syUUtvUFlkOEhEWnBCZlhyTWNGMXl1ekFxVUMwV0tuT2Foc1hXQmpsUWREbUdMM1VaOGN2NlI4M044Y095dE5DZWlvcld2aFY5NEJrWkdDMDlOUFR6bnAtcGc?oc=5",
               "origin": "google",
@@ -6747,6 +6772,49 @@
           "group_label": "중앙부처(콘텐츠)"
         },
         {
+          "title": "콘진원, 국내 콘텐츠 기업 8685만 달러 수출·투자 상담",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1422434",
+          "snippet": "사진=콘진원 제공 한국콘텐츠진흥원이 싱가포르에서 국내 콘텐츠 기업의 아세안 시장 진출과 해외 투자 유치를 위한 종합 지원 프로그램을 성공적으로 마쳤다. 문화체육관광부와 한국콘텐츠진흥원은 지난달...",
+          "source": "글로벌이코노믹",
+          "sources": [
+            {
+              "name": "글로벌이코노믹",
+              "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRzZOUS1HTWNRamlrdVlwcFh2YjJHT1h3NFdpb1NkOVdscXhSNDVwSF9oSGFTMjF5S3I0dVNjb0ZwNUVwSDc0TU12UXZCYlBVamhSZXp3enZZaDhSQkxHaHVFek9SSkJ5VnJBanRKNmxPdUU5c3ViTU1lT09NS09fNkEyZWRBZnh2b2c?oc=5",
+              "origin": "google",
+              "title": "콘진원, 싱가포르서 수출·투자 상담 지원…MOU 15건 체결"
+            },
+            {
+              "name": "beSUCCESS",
+              "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1xa2xMeWZodThWMmlhYTJiZ01LLWFJcllsX050RHl3ckFqWEdfOUFPMm1oRkVjTzZmcFdGVFo4SG9FZjhZUEE?oc=5",
+              "origin": "google",
+              "title": "콘진원, 싱가포르 ‘스위치 2026’ 연계 지원…8,685만 달러 수출·투자 상담 달성"
+            },
+            {
+              "name": "스타트업엔(StartupN)",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXMjRRd1RaTUN1bDJ3MXRVbXJpb0xkcC1zYnNKYTRRT0xjSGxTWXVnX2loZTVCX3hyYXdPeDYwTDBnU25PQzdnQ3hWcV9aeVBraTdfd2ZWVTAxVlFKeXBlUW5qN25GZXNkWWU0atIBbEFVX3lxTFBXMjRRd1RaTUN1bDJ3MXRVbXJpb0xkcC1zYnNKYTRRT0xjSGxTWXVnX2loZTVCX3hyYXdPeDYwTDBnU25PQzdnQ3hWcV9aeVBraTdfd2ZWVTAxVlFKeXBlUW5qN25GZXNkWWU0ag?oc=5",
+              "origin": "google",
+              "title": "콘진원, 싱가포르서 K-콘텐츠 기업 해외 투자·수출 지원…상담 843건 기록"
+            },
+            {
+              "name": "데일리한국",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96VlVFQXRiaXhoeXJHTkJMWldTRkZtVDRxdGVkckYzMWF3bFZIMkJVbmtrazAxQW83X1VIeUdhUWpDOHRwZUJlM2tTaGwyNkt5aUlGRU9nX1hfaWQ4RHRzb213MjVrZXRZMFlra05EY9IBc0FVX3lxTE9HdDJuR2l0ZHNPblBYXy1VeGhRLWhrRVhqdmZRY3hBZE5VU3ZsY3VKaXRralh0TUt4NjFMQzRWa2NLSjJLVmU0dV81V3BXWjh6SzVmWldSb3ZmX282S3RsWUtFd2dpQTBEeDNsd3VsT2REX0k?oc=5",
+              "origin": "google",
+              "title": "콘진원, 국내 콘텐츠 기업 8685만 달러 수출·투자 상담"
+            },
+            {
+              "name": "뉴스컬처",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mN09NMmIzUURQU2hnNWxFQlpMVEt0bExBNEdVZWdZRjV0N25YSGpPem56UXF2Y1VoaHNTR3ExNVNLSm5pUzlKTlJ3eEloaUIwVGswblNiQkhQTWdJSWNPQ0t2UmJsUQ?oc=5",
+              "origin": "google",
+              "title": "콘진원, K-콘텐츠 싱가포르 수출·투자망 넓혔다…상담액 8685만 달러 성과"
+            }
+          ],
+          "source_count": 5,
+          "published": "2026-11-06T09:52:00+09:00",
+          "ts": 1793926320.0,
+          "group": "central",
+          "group_label": "중앙부처(콘텐츠)"
+        },
+        {
           "title": "[IT라운지] 카모 'IRBC 참가'·'카나나-2-v-디사이드' 공개·AI트릭스 'OASES 파트너'·'예약 루키 캠페인'·콘진원 '아세안 진출 지원'·쿠콘-DSRV 'MOU'·카카오-MUST '워크숍'·알바몬 '겨울 캠페인'·알바천국 'AI 구직'·'타이완 어때'",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VNmFvcU1vOEs1XzNfYWR2d25USEt1d1kxaE05Z1Z5a1JqMFR6RldhbjFZUllsRS05SklOQUctNGU5b1lBWkE2Q2ktYjMyTEpYaUxGMl93cHJZRjE2VXZxbkZfZEtnRmJxcGVkenFmRQ?oc=5",
           "snippet": "",
@@ -6757,12 +6825,6 @@
               "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VNmFvcU1vOEs1XzNfYWR2d25USEt1d1kxaE05Z1Z5a1JqMFR6RldhbjFZUllsRS05SklOQUctNGU5b1lBWkE2Q2ktYjMyTEpYaUxGMl93cHJZRjE2VXZxbkZfZEtnRmJxcGVkenFmRQ?oc=5",
               "origin": "google",
               "title": "[IT라운지] 카모 'IRBC 참가'·'카나나-2-v-디사이드' 공개·AI트릭스 'OASES 파트너'·'예약 루키 캠페인'·콘진원 '아세안 진출 지원'·쿠콘-DSRV 'MOU'·카카오-MUST '워크숍'·알바몬 '겨울 캠페인'·알바천국 'AI 구직'·'타이완 어때'"
-            },
-            {
-              "name": "dealsite.co.kr",
-              "url": "https://dealsite.co.kr/articles/172236",
-              "origin": "naver",
-              "title": "[재계는 지금] 카카오, 멀티모달 모델 ‘카나나-2-v-디사이드’ 오픈소..."
             },
             {
               "name": "와이드경제",
@@ -6789,7 +6851,7 @@
               "title": "카카오, AI 에이전트용 판단 모델 '카나나-2-v-디사이드' 공개"
             }
           ],
-          "source_count": 6,
+          "source_count": 5,
           "published": "2026-11-06T09:34:40+09:00",
           "ts": 1793925280.0,
           "group": "central",
@@ -6833,43 +6895,6 @@
           "group_label": "중앙부처(콘텐츠)"
         },
         {
-          "title": "콘진원, 국내 콘텐츠 기업 8685만 달러 수출·투자 상담",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1422434",
-          "snippet": "사진=콘진원 제공 한국콘텐츠진흥원이 싱가포르에서 국내 콘텐츠 기업의 아세안 시장 진출과 해외 투자 유치를 위한 종합 지원 프로그램을 성공적으로 마쳤다. 문화체육관광부와 한국콘텐츠진흥원은 지난달...",
-          "source": "beSUCCESS",
-          "sources": [
-            {
-              "name": "beSUCCESS",
-              "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1xa2xMeWZodThWMmlhYTJiZ01LLWFJcllsX050RHl3ckFqWEdfOUFPMm1oRkVjTzZmcFdGVFo4SG9FZjhZUEE?oc=5",
-              "origin": "google",
-              "title": "콘진원, 싱가포르 ‘스위치 2026’ 연계 지원…8,685만 달러 수출·투자 상담 달성"
-            },
-            {
-              "name": "스타트업엔(StartupN)",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXMjRRd1RaTUN1bDJ3MXRVbXJpb0xkcC1zYnNKYTRRT0xjSGxTWXVnX2loZTVCX3hyYXdPeDYwTDBnU25PQzdnQ3hWcV9aeVBraTdfd2ZWVTAxVlFKeXBlUW5qN25GZXNkWWU0atIBbEFVX3lxTFBXMjRRd1RaTUN1bDJ3MXRVbXJpb0xkcC1zYnNKYTRRT0xjSGxTWXVnX2loZTVCX3hyYXdPeDYwTDBnU25PQzdnQ3hWcV9aeVBraTdfd2ZWVTAxVlFKeXBlUW5qN25GZXNkWWU0ag?oc=5",
-              "origin": "google",
-              "title": "콘진원, 싱가포르서 K-콘텐츠 기업 해외 투자·수출 지원…상담 843건 기록"
-            },
-            {
-              "name": "데일리한국",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96VlVFQXRiaXhoeXJHTkJMWldTRkZtVDRxdGVkckYzMWF3bFZIMkJVbmtrazAxQW83X1VIeUdhUWpDOHRwZUJlM2tTaGwyNkt5aUlGRU9nX1hfaWQ4RHRzb213MjVrZXRZMFlra05EY9IBc0FVX3lxTE9HdDJuR2l0ZHNPblBYXy1VeGhRLWhrRVhqdmZRY3hBZE5VU3ZsY3VKaXRralh0TUt4NjFMQzRWa2NLSjJLVmU0dV81V3BXWjh6SzVmWldSb3ZmX282S3RsWUtFd2dpQTBEeDNsd3VsT2REX0k?oc=5",
-              "origin": "google",
-              "title": "콘진원, 국내 콘텐츠 기업 8685만 달러 수출·투자 상담"
-            },
-            {
-              "name": "뉴스컬처",
-              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mN09NMmIzUURQU2hnNWxFQlpMVEt0bExBNEdVZWdZRjV0N25YSGpPem56UXF2Y1VoaHNTR3ExNVNLSm5pUzlKTlJ3eEloaUIwVGswblNiQkhQTWdJSWNPQ0t2UmJsUQ?oc=5",
-              "origin": "google",
-              "title": "콘진원, K-콘텐츠 싱가포르 수출·투자망 넓혔다…상담액 8685만 달러 성과"
-            }
-          ],
-          "source_count": 4,
-          "published": "2026-11-06T09:52:00+09:00",
-          "ts": 1793926320.0,
-          "group": "central",
-          "group_label": "중앙부처(콘텐츠)"
-        },
-        {
           "title": "암표 근절 동참하고 선물도 받고‥콘진원&음공협 ‘암표 ZERO 캠페인’ 개최",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tUjFwZTdoTkdaczZZblZ4ZUlpMW1EUUFHVk4taXp6TmtLMGlBZE1OYTJQQ1c5TGJoUHRGYmpZWVJBY1d3dVltcVFtNlVDbzBmaDMyOU1sR1pKdi1xTGNicDcyYTVqVEcz?oc=5",
           "snippet": "",
@@ -6907,9 +6932,9 @@
           "group_label": "중앙부처(콘텐츠)"
         },
         {
-          "title": "K-콘텐츠 불법유통 막는다…정부·민간 33개 기관 한자리에",
-          "url": "http://www.starnewsk.com/news/articleView.html?idxno=60712",
-          "snippet": "이어 한국저작권보호원과 게임물관리위원회, 영화진흥위원회 등 공공기관이 K-콘텐츠 보호 과정에서 축적한 주요 대응 사례를 발표한다. 민간 협회와 단체들도 해외 시장에서 겪는 지식재산권 보호 관련 애로사항을...",
+          "title": "해외서 K-콘텐츠 베끼기 막는다…정부·민간 머리 맞대",
+          "url": "https://www.tjb.co.kr/news05/bodo/view/id/105723",
+          "snippet": "2019년 10월 '저작권보호협의체'로 시작했고, 2020년부터는 문화콘텐츠와 관련된 산업재산권까지 다루고 있습니다. ◆ 정부·공공기관, 정책과 대응 사례 공유 정부 부처들은 각자 추진 중인 정책을 소개합니다. 문체부는 K...",
           "source": "starnewsk.com",
           "sources": [
             {
@@ -6932,8 +6957,8 @@
             }
           ],
           "source_count": 3,
-          "published": "2026-11-05T12:12:00+09:00",
-          "ts": 1793848320.0,
+          "published": "2026-11-05T10:34:00+09:00",
+          "ts": 1793842440.0,
           "group": "central",
           "group_label": "중앙부처(콘텐츠)"
         },
@@ -7165,25 +7190,6 @@
           "group_label": "중앙부처(콘텐츠)"
         },
         {
-          "title": "판치는 불법 웹툰에 가짜 K팝 상품…정부·업계 머리 맞댄다",
-          "url": "https://www.nocutnews.co.kr/news/6602425?utm_source=naver&utm_medium=article&utm_campaign=20261105094145",
-          "snippet": "저작권해외진흥협회는 긴급차단 대상과 범위 확대를 제안한다. 김영수 차관은 \"K콘텐츠가 세계적인 사랑을 받을수록 지식재산권 침해 수법 또한 지능화·고도화되고 있다\"며 \"현장의 목소리를 정책에 적극 반영해 우리...",
-          "source": "노컷뉴스",
-          "sources": [
-            {
-              "name": "노컷뉴스",
-              "url": "https://www.nocutnews.co.kr/news/6602425?utm_source=naver&utm_medium=article&utm_campaign=20261105094145",
-              "origin": "naver",
-              "title": "판치는 불법 웹툰에 가짜 K팝 상품…정부·업계 머리 맞댄다"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-11-05T09:41:00+09:00",
-          "ts": 1793839260.0,
-          "group": "central",
-          "group_label": "중앙부처(콘텐츠)"
-        },
-        {
           "title": "금융·공공기관 AI 활용 확대…수은·우리·농협銀·콘진원도 도입",
           "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7192291",
           "snippet": "한국콘텐츠진흥원도 AI 기반 계약업무 지원 프로그램을 운영하기 시작했다. 5일 수출입은행에 따르면 탄자니아의 'AI·디지털 기술교육기관 건립 사업'에 1억7000만 달러 규모의 대외경제협력기금(EDCF) 차관을 지원하는...",
@@ -7210,7 +7216,7 @@
       "priority": 11,
       "page": "trends",
       "preview": 3,
-      "count": 356,
+      "count": 355,
       "items": [
         {
           "title": "NC AI, '지스타'서 3D·사운드 AI 체험 카페 선보인다",
@@ -7400,22 +7406,22 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "“‘소년범 논란’ 조진웅 옹호 아닙니다”…‘시그널2’, 12월 7일 첫방...",
-          "url": "https://www.seoul.co.kr/news/life/2026/11/06/20261106500190?wlog_tag3=naver",
-          "snippet": "이어 “기획 단계부터 촬영과 후반 작업에 이르기까지 많은 스태프와 제작진, 관계자들의 시간과 노력이... 검토했다”며 “영상 기술을 활용한 수정 방안을 모색하고 AI를 활용한 인물 교체 테스트도 진행했다. 하지만...",
-          "source": "서울신문",
+          "title": "조진웅 출연 '두 번째 시그널' 12월 7일 첫 방송…\"문제 옹호 아냐\"",
+          "url": "https://www.goodkyung.com/news/articleView.html?idxno=293196",
+          "snippet": "많은 스태프와 제작진, 관계자들의 시간과 노력이 담긴 공동의 창작물\"이라며 \"출연자 개인에 대한 평가와... tvN은 영상 기술을 통한 수정과 AI를 활용한 인물 교체 테스트까지 진행했지만, 연기 표현과 이야기의 흐름을...",
+          "source": "굿모닝경기",
           "sources": [
+            {
+              "name": "굿모닝경기",
+              "url": "https://www.goodkyung.com/news/articleView.html?idxno=293196",
+              "origin": "naver",
+              "title": "조진웅 출연 '두 번째 시그널' 12월 7일 첫 방송…\"문제 옹호 아냐\""
+            },
             {
               "name": "서울신문",
               "url": "https://www.seoul.co.kr/news/life/2026/11/06/20261106500190?wlog_tag3=naver",
               "origin": "naver",
               "title": "“‘소년범 논란’ 조진웅 옹호 아닙니다”…‘시그널2’, 12월 7일 첫방..."
-            },
-            {
-              "name": "아주경제",
-              "url": "https://www.ajunews.com/view/20261106141419625",
-              "origin": "naver",
-              "title": "'시그널2' 12월 7일 첫방…tvN \"조진웅역 AI로 교체 시도했지만 한계\""
             },
             {
               "name": "bntnews.co.kr",
@@ -7424,10 +7430,10 @@
               "title": "‘두번째 시그널’ 조진웅 논란 속 결국 방송 확정"
             },
             {
-              "name": "imaeil.com",
-              "url": "https://www.imaeil.com/page/view/2026110613584346887",
+              "name": "아주경제",
+              "url": "https://www.ajunews.com/view/20261106141419625",
               "origin": "naver",
-              "title": "조진웅 논란에도 '시그널2' 방송 확정…tvN \"잘못 옹호 아냐\""
+              "title": "'시그널2' 12월 7일 첫방…tvN \"조진웅역 AI로 교체 시도했지만 한계\""
             },
             {
               "name": "joynews24.com",
@@ -7436,10 +7442,10 @@
               "title": "'시그널2', 12월 7일 편성 확정 \"조진웅 출연, AI 대체 어려워\""
             },
             {
-              "name": "dailian.co.kr",
-              "url": "https://www.dailian.co.kr/news/view/1711808/?sc=Naver",
+              "name": "imaeil.com",
+              "url": "https://www.imaeil.com/page/view/2026110613584346887",
               "origin": "naver",
-              "title": "\"AI 기술의 최종 적용 어렵다\"…‘두번째 시그널’, 조진웅 논란에도 12..."
+              "title": "조진웅 논란에도 '시그널2' 방송 확정…tvN \"잘못 옹호 아냐\""
             },
             {
               "name": "연합뉴스",
@@ -7526,16 +7532,22 @@
               "title": "[공식] \"'소년범' 조진웅 옹호 아닙니다\"..'시그널2', 12월 7일 첫방 확정..."
             },
             {
-              "name": "celuvmedia.com",
-              "url": "http://www.celuvmedia.com/article.php?aid=1793939937530480006",
+              "name": "heraldmuse.com",
+              "url": "https://www.heraldmuse.com/article/10928567?ref=naver",
               "origin": "naver",
-              "title": "'두번째 시그널', 12월 7일 편성 확정…\"출연자 문제 옹호·정당화 아니..."
+              "title": "‘두 번째 시그널’ 12월 편성‥“조진웅, AI 교체도 시도해봤지만 한계..."
             },
             {
               "name": "경향신문",
               "url": "https://sports.khan.co.kr/article/202611061345003?pt=nv",
               "origin": "naver",
               "title": "[속보] 조진웅 은퇴작 ‘시그널2’, 12월 7일 방송 확정…“출연자 옹호..."
+            },
+            {
+              "name": "뉴스1",
+              "url": "https://www.news1.kr/entertain/broadcast-tv/6345601",
+              "origin": "naver",
+              "title": "'두번째 시그널' 12월7일 첫방 확정…조진웅 논란에 \"옹호나 정당화 아..."
             },
             {
               "name": "etoday.co.kr",
@@ -7548,12 +7560,6 @@
               "url": "https://www.xportsnews.com/article/2216342",
               "origin": "naver",
               "title": "[공식] '두번째 시그널', 12월 7일 첫방 확정…\"조진웅 AI 인물 교체 한..."
-            },
-            {
-              "name": "뉴스1",
-              "url": "https://www.news1.kr/entertain/broadcast-tv/6345601",
-              "origin": "naver",
-              "title": "'두번째 시그널' 12월7일 첫방 확정…조진웅 논란에 \"옹호나 정당화 아..."
             },
             {
               "name": "tvdaily.co.kr",
@@ -7575,8 +7581,8 @@
             }
           ],
           "source_count": 28,
-          "published": "2026-11-06T14:34:00+09:00",
-          "ts": 1793943240.0,
+          "published": "2026-11-06T14:48:00+09:00",
+          "ts": 1793944080.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -7780,12 +7786,6 @@
               "title": "CJ ENM, 3분기 영업익 221억원…전년 대비 25.5% 증가"
             },
             {
-              "name": "etoday.co.kr",
-              "url": "https://www.etoday.co.kr/news/view/2644757",
-              "origin": "naver",
-              "title": "CJ ENM, 3분기 영업익 221억…미디어플랫폼 흑자 전환"
-            },
-            {
               "name": "뉴스투데이",
               "url": "https://www.news2day.co.kr/article/20261105500147",
               "origin": "naver",
@@ -7814,6 +7814,12 @@
               "url": "https://www.huffingtonpost.kr/article/261834",
               "origin": "naver",
               "title": "CJENM 3분기 영업이익 221억 25.5% 증가 : 미디어 흑자 전환·글로벌 콘텐..."
+            },
+            {
+              "name": "etoday.co.kr",
+              "url": "https://www.etoday.co.kr/news/view/2644685",
+              "origin": "naver",
+              "title": "CJ ENM, 3분기 영업익 25.5% 증가한 221억원...“콘텐츠·플랫폼 경쟁력”"
             },
             {
               "name": "문화일보",
@@ -7858,6 +7864,18 @@
               "title": "CJ ENM 3분기 영업익 221억 달성, 글로벌 콘텐츠 공급 결실"
             },
             {
+              "name": "SBS Biz",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlMjRaN0gzUVlQdUh1dEg2SkUtZ0t1TTZRSWdTNmpOa2VSMjRPMjV4UndwakItbXNSd2toUzk1V1dySnhoSUxBeDFNY2FKUVNiTUZV0gFYQVVfeXFMTzhwYmFJaVBPNnVHSGpKS2tiTmZqUFpQUXFfTGt1X0JSaFhWWkdldGZSNURFTjA4djNBRG9FUXRySkUwVDg0aXNYT0FKb3VodTBmdTZnZ1daXw?oc=5",
+              "origin": "google",
+              "title": "CJ ENM, 3분기 영업이익 221억원…티빙 성장·콘텐츠 수출 확대"
+            },
+            {
+              "name": "파이낸셜포스트",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tRENfbG11QnNpTE1DTWIzTUhBeVZNZTl0YVk1RXhxYU1rUnp1Zm9tNVhrSlhtY0p3ME5lamQwRUc4X255SmNlYmtxcF9lZkdFVjVSblZTM2V6cThWaTN1QW1FZ0U3YVByX2hwQnpHM1RYQldl?oc=5",
+              "origin": "google",
+              "title": "[3Q실적] CJ ENM, 영업익 221억원 25.5%↑…글로벌 콘텐츠 '집중'"
+            },
+            {
               "name": "동행미디어 시대",
               "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LSEJwSnRuT28zaTlRRk5uT3FDVVRpS0RWcUM2MU43UkY4WEwza2lRVWY5Qzk1VGlLMHpYSVdBaktWUFVkc2hEOThDUElMQjAyN0c2M09xWnAwM2VVMFE?oc=5",
               "origin": "google",
@@ -7868,18 +7886,6 @@
               "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43UXBlU3hnd2F2ZUJOZ1FtNmZCR0k1UHdmUlJBSHVBZm44RGxXbXNLeXQ1SFcxdVJyOFVHQTd1X0FjbmxvYkswejZaajdPM0JoTV85N1Z4VQ?oc=5",
               "origin": "google",
               "title": "CJENM 영업이익 25.5% 증가 : 미디어 흑자 전환·글로벌 콘텐츠 판매 확대"
-            },
-            {
-              "name": "파이낸셜포스트",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tRENfbG11QnNpTE1DTWIzTUhBeVZNZTl0YVk1RXhxYU1rUnp1Zm9tNVhrSlhtY0p3ME5lamQwRUc4X255SmNlYmtxcF9lZkdFVjVSblZTM2V6cThWaTN1QW1FZ0U3YVByX2hwQnpHM1RYQldl?oc=5",
-              "origin": "google",
-              "title": "[3Q실적] CJ ENM, 영업익 221억원 25.5%↑…글로벌 콘텐츠 '집중'"
-            },
-            {
-              "name": "SBS Biz",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlMjRaN0gzUVlQdUh1dEg2SkUtZ0t1TTZRSWdTNmpOa2VSMjRPMjV4UndwakItbXNSd2toUzk1V1dySnhoSUxBeDFNY2FKUVNiTUZV0gFYQVVfeXFMTzhwYmFJaVBPNnVHSGpKS2tiTmZqUFpQUXFfTGt1X0JSaFhWWkdldGZSNURFTjA4djNBRG9FUXRySkUwVDg0aXNYT0FKb3VodTBmdTZnZ1daXw?oc=5",
-              "origin": "google",
-              "title": "CJ ENM, 3분기 영업이익 221억원…티빙 성장·콘텐츠 수출 확대"
             }
           ],
           "source_count": 23,
@@ -8276,6 +8282,12 @@
               "title": "한전KPS, 피지컬AI 로봇 발전정비 현장적용 시험 착수"
             },
             {
+              "name": "뉴스1",
+              "url": "https://www.news1.kr/local/gwangju-jeonnam/6343974",
+              "origin": "naver",
+              "title": "\"발전정비 현장 안전·효율 높인다\"…한전KPS 피지컬AI 로봇 실증 시연"
+            },
+            {
               "name": "https://www.2news.co.kr/",
               "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmcHlpTEo3UGcydk5iUVdfeDJuTWdsalJqX1VtMUhkbDF6Wk44WTg1X3FOazI2bG13MW9uZjNkSnI3Rzh3ZXZkV2w1YnVzRlFhM1dzdEkyeUJzQkRFRmFwRmNDNU44UTNz?oc=5",
               "origin": "google",
@@ -8294,16 +8306,22 @@
               "title": "한전KPS, '피지컬AI 로봇' 실증시연 마치고 정비현장 적용 시험"
             },
             {
-              "name": "시사캐스트",
-              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LXzdST040Q0l4dldwMFgyNXF0bUhzYllVUTRhTjNFX3N1T25HOHRCZExFeDlEUEhaeVBGNF9TNDBBbXNtcVcwczA3NWE0R3FfR2U1VnJPN21WRXpKRlBTb250dXJmbnps?oc=5",
+              "name": "스마트비즈",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTTUpfdDVDQjlKd2tfd0lDZlBWR19JT243MUhReGJ4NU5pVjlzdGs0WERWaTE0VG5Wczd3VVZaTHFDWC1id1k3ZG13amlzOHhhNGtPeUNFZ2haVXFPS2pjNWREY0lYajhFVVhucA?oc=5",
               "origin": "google",
-              "title": "한전KPS, 발전정비 피지컬AI 로봇 실증 마무리…현장 적용성 검증"
+              "title": "한전KPS, 공구 나르고 안전 안내하는 AI 로봇 현장 시험 추진"
             },
             {
               "name": "에너지데일리",
               "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzeHJ2SEE2WEhYX0liOGJTZEZ2cjdjam82R0dWSGpSaDlIenhxc0sxa000YV9adWFFMk9RYk5JZWxETzZrQ0NxeVNoS2NDdVZZRTAzWldvVGh5TmVQa0JzMUhGcUUzVnNVQzFHTG9RclJXUQ?oc=5",
               "origin": "google",
               "title": "한전KPS, 피지컬AI 로봇 발전정비 현장 투입 시험… AI 기반 정비 혁신 본격화"
+            },
+            {
+              "name": "시사캐스트",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LXzdST040Q0l4dldwMFgyNXF0bUhzYllVUTRhTjNFX3N1T25HOHRCZExFeDlEUEhaeVBGNF9TNDBBbXNtcVcwczA3NWE0R3FfR2U1VnJPN21WRXpKRlBTb250dXJmbnps?oc=5",
+              "origin": "google",
+              "title": "한전KPS, 발전정비 피지컬AI 로봇 실증 마무리…현장 적용성 검증"
             },
             {
               "name": "비건뉴스",
@@ -8346,15 +8364,9 @@
               "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DUzJyd0tNRWFFMVg1SkVyWTJRc2kzLVBnMWZwaGp5Wi1oa01XSDJ6cFN0NTJ0bFh2dGh0eVVRekxkNjhWTldSYWZ3TXFGRDNJVjJNYXlfY2xzQ3pKZGZFWTA1ZnNPZGZxaVNId1lsWlhESmRnSUU4ZzJNTzg?oc=5",
               "origin": "google",
               "title": "한전KPS, 발전정비 피지컬AI 로봇 실증 마쳐…현장 적용 시험 추진"
-            },
-            {
-              "name": "스마트비즈",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTTUpfdDVDQjlKd2tfd0lDZlBWR19JT243MUhReGJ4NU5pVjlzdGs0WERWaTE0VG5Wczd3VVZaTHFDWC1id1k3ZG13amlzOHhhNGtPeUNFZ2haVXFPS2pjNWREY0lYajhFVVhucA?oc=5",
-              "origin": "google",
-              "title": "한전KPS, 공구 나르고 안전 안내하는 AI 로봇 현장 시험 추진"
             }
           ],
-          "source_count": 14,
+          "source_count": 15,
           "published": "2026-11-05T13:17:00+09:00",
           "ts": 1793852220.0,
           "group": "trend_ai",
@@ -8701,6 +8713,85 @@
           "group_label": "AI · 생성형AI"
         },
         {
+          "title": "남원시, 1500억 규모 '피지컬AI 물류 국가실증센터' 추진",
+          "url": "https://www.news1.kr/local/jeonbuk/6345641",
+          "snippet": "전북 남원시가 '피지컬 AI 자율형 통합물류 국가실증센터' 조성을 추진한다. 영호남 중심의 지리적 강점과 교통·산업 인프라를 바탕으로 피지컬 AI 기술을 실제 물류 현장에서 검증하고 산업계로 확산하겠다는 구상이다....",
+          "source": "뉴스1",
+          "sources": [
+            {
+              "name": "뉴스1",
+              "url": "https://www.news1.kr/local/jeonbuk/6345641",
+              "origin": "naver",
+              "title": "남원시, 1500억 규모 '피지컬AI 물류 국가실증센터' 추진"
+            },
+            {
+              "name": "노컷뉴스",
+              "url": "https://www.nocutnews.co.kr/news/6603247?utm_source=naver&utm_medium=article&utm_campaign=20261106140359",
+              "origin": "naver",
+              "title": "남원시, 피지컬AI 국가실증센터 유치 도전…1500억 규모"
+            },
+            {
+              "name": "아이뉴스24",
+              "url": "http://www.inews24.com/view/2023363",
+              "origin": "naver",
+              "title": "남원, '피지컬AI 물류' 승부수…1500억 원 국가실증센터 도전"
+            },
+            {
+              "name": "시사의창",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DU3lRcXlqQ29tVlRIUzFUbEpWeUN5NzFjQm5MMmtYT3k5Mmo0aEo4aEV4b1RIbGhBYzk5cVo2NTFkNFFUVkJXRlBqS3QwTWd6aTB0UA?oc=5",
+              "origin": "google",
+              "title": "남원시, 1,500억 원 규모 피지컬AI 물류 실증센터 추진"
+            },
+            {
+              "name": "파이낸셜뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00Nm84cm1GRTFRV2hYR3MzczNFanBXNmtqUUJXRWNOOTFlcTRCQTNwYkV5UjlsNDNVYWNhY3k4czF4Y1VxeE1POElVTFRZN3h5dkdmN1J2Z0M3UQ?oc=5",
+              "origin": "google",
+              "title": "남원시, 1500억 규모 '피지컬AI 물류 국가실증센터' 추진"
+            },
+            {
+              "name": "한국사회복지저널",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94TFUyOW02c2lGNGYtUXNnR2ExbXN4U25mazE1MUZUeEZJSHNBZ0RRcVpKVmV0aVQwQjlrOFNYTEZpejliUUhSZEN0bWhwcFpWVkhWa1YwcVU5NldRZFJnT0ZlUDdJZjhfUFVR?oc=5",
+              "origin": "google",
+              "title": "남원시, 1500억 규모 피지컬AI 물류 국가실증센터 추진…영호남 교통 요충지 강점 살린다"
+            },
+            {
+              "name": "LG헬로비전",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2UXRBTDlQWExPNXQ0NmcwbEhiVWZhZEpUcEN4TV9NS1pXRnY5RmJmZldWdGNPbDQxZThweTVJbHVmd3liTGYtdzNleFdyMkhwbkdSM184VDFlclItWDR1X0dwNnhMQnNwSkc4N3JBZTk3Z9IBdkFVX3lxTFBaLW1YRnVUYUVUY1BxM1VWRFRxWUVzTTNvV094d3l2S2xHQlBEUk0xN0NIaFJxYzJtUFd3NTJZTFhHbjk1MW1CaDFtSkF5cXZtSW56eXlKclRtdDlOVW4xaU9iVUpWY0RWc2Zobk4yeFhoSzIzTHc?oc=5",
+              "origin": "google",
+              "title": "남원시, 1천5백억 규모 '피지컬AI 물류 국가 실증 센터' 추진"
+            },
+            {
+              "name": "더펜뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GRUQzYjNBdTE4WEN1V0Y5bGxYWE03N1cwLUhSQVlIVWg2Y2Qwd1Vua2o1NWRpbXNMbEk3S0IxSURVZHpiZWU3b0ZucUJvSnBsWTJVSmp4VjRhdDZfWjZyZjZITQ?oc=5",
+              "origin": "google",
+              "title": "남원시, 1500억원 규모 ‘피지컬AI 물류 실증거점’ 구축 추진"
+            },
+            {
+              "name": "아시아투데이",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ENUFGX0NEemhEcjItMzJucVZPNmRjeHJjYjBVVkM5VnRUUi1EWHF6Z0dBOENQY04yRTNwY1djODczN1pXaEVWYmpRWXVCakJzZmhVT0s1V0o3RDkxMmxGdHd4UlBCMWhvRlFLa2ZR?oc=5",
+              "origin": "google",
+              "title": "남원시, 1500억 규모 ‘피지컬AI 물류 국가실증센터’ 조성 추진"
+            },
+            {
+              "name": "투데이안",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52V0VTcEJyMHJkTllFSkhEaUZYeHVhamhqdXVKZWlpLWtFSi1hUHNVeUIwTlZUM3NPLXB4SWM4VXhkZGJTTE5TUmZoNk9qakd1QWFEMGhNd3BkbE5ycnphMmVoVzZKVXoy?oc=5",
+              "origin": "google",
+              "title": "[남원시] 1,500억 규모 피지컬AI 물류 국가실증센터 조성 준비 총력"
+            },
+            {
+              "name": "쿠키뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93N3BBOFJ6YW1UVl9Wb3JVRzRPWDZPWVlKcjdlMGVyZmdHT1FMaXNTZ3I4VFM5ZlNBbkJMSHpxaHpWSmVmVVRFYXdYTTFKOVFaaXA1LURsU2hTa2lFRjVodUtFSQ?oc=5",
+              "origin": "google",
+              "title": "남원시, 피지컬AI 물류 국가실증센터 조성 추진"
+            }
+          ],
+          "source_count": 11,
+          "published": "2026-11-06T14:16:00+09:00",
+          "ts": 1793942160.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
           "title": "HSAD, 넷플릭스 광고 도달률 예측 AI 개발…공식 데이터 연동",
           "url": "https://sateconomy.co.kr/news/view/1065600082384330",
           "snippet": "LG그룹 계열 광고사, 넷플릭스 광고 데이터 자체 플랫폼에 연결 광고 대상·예산 입력하면 예상 노출 규모 분석…통합 시스템 연내 출시 목표 ▲ HSAD가 공개한 넷플릭스 광고 도달 범위 예측 AI 에이전트 자료 이미지....",
@@ -8780,79 +8871,6 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "남원시, 1500억 규모 '피지컬AI 물류 국가실증센터' 추진",
-          "url": "https://www.news1.kr/local/jeonbuk/6345641",
-          "snippet": "전북 남원시가 '피지컬 AI 자율형 통합물류 국가실증센터' 조성을 추진한다. 영호남 중심의 지리적 강점과 교통·산업 인프라를 바탕으로 피지컬 AI 기술을 실제 물류 현장에서 검증하고 산업계로 확산하겠다는 구상이다....",
-          "source": "뉴스1",
-          "sources": [
-            {
-              "name": "뉴스1",
-              "url": "https://www.news1.kr/local/jeonbuk/6345641",
-              "origin": "naver",
-              "title": "남원시, 1500억 규모 '피지컬AI 물류 국가실증센터' 추진"
-            },
-            {
-              "name": "노컷뉴스",
-              "url": "https://www.nocutnews.co.kr/news/6603247?utm_source=naver&utm_medium=article&utm_campaign=20261106140359",
-              "origin": "naver",
-              "title": "남원시, 피지컬AI 국가실증센터 유치 도전…1500억 규모"
-            },
-            {
-              "name": "아이뉴스24",
-              "url": "http://www.inews24.com/view/2023363",
-              "origin": "naver",
-              "title": "남원, '피지컬AI 물류' 승부수…1500억 원 국가실증센터 도전"
-            },
-            {
-              "name": "시사의창",
-              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DU3lRcXlqQ29tVlRIUzFUbEpWeUN5NzFjQm5MMmtYT3k5Mmo0aEo4aEV4b1RIbGhBYzk5cVo2NTFkNFFUVkJXRlBqS3QwTWd6aTB0UA?oc=5",
-              "origin": "google",
-              "title": "남원시, 1,500억 원 규모 피지컬AI 물류 실증센터 추진"
-            },
-            {
-              "name": "한국사회복지저널",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94TFUyOW02c2lGNGYtUXNnR2ExbXN4U25mazE1MUZUeEZJSHNBZ0RRcVpKVmV0aVQwQjlrOFNYTEZpejliUUhSZEN0bWhwcFpWVkhWa1YwcVU5NldRZFJnT0ZlUDdJZjhfUFVR?oc=5",
-              "origin": "google",
-              "title": "남원시, 1500억 규모 피지컬AI 물류 국가실증센터 추진…영호남 교통 요충지 강점 살린다"
-            },
-            {
-              "name": "LG헬로비전",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2UXRBTDlQWExPNXQ0NmcwbEhiVWZhZEpUcEN4TV9NS1pXRnY5RmJmZldWdGNPbDQxZThweTVJbHVmd3liTGYtdzNleFdyMkhwbkdSM184VDFlclItWDR1X0dwNnhMQnNwSkc4N3JBZTk3Z9IBdkFVX3lxTFBaLW1YRnVUYUVUY1BxM1VWRFRxWUVzTTNvV094d3l2S2xHQlBEUk0xN0NIaFJxYzJtUFd3NTJZTFhHbjk1MW1CaDFtSkF5cXZtSW56eXlKclRtdDlOVW4xaU9iVUpWY0RWc2Zobk4yeFhoSzIzTHc?oc=5",
-              "origin": "google",
-              "title": "남원시, 1천5백억 규모 '피지컬AI 물류 국가 실증 센터' 추진"
-            },
-            {
-              "name": "더펜뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GRUQzYjNBdTE4WEN1V0Y5bGxYWE03N1cwLUhSQVlIVWg2Y2Qwd1Vua2o1NWRpbXNMbEk3S0IxSURVZHpiZWU3b0ZucUJvSnBsWTJVSmp4VjRhdDZfWjZyZjZITQ?oc=5",
-              "origin": "google",
-              "title": "남원시, 1500억원 규모 ‘피지컬AI 물류 실증거점’ 구축 추진"
-            },
-            {
-              "name": "아시아투데이",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ENUFGX0NEemhEcjItMzJucVZPNmRjeHJjYjBVVkM5VnRUUi1EWHF6Z0dBOENQY04yRTNwY1djODczN1pXaEVWYmpRWXVCakJzZmhVT0s1V0o3RDkxMmxGdHd4UlBCMWhvRlFLa2ZR?oc=5",
-              "origin": "google",
-              "title": "남원시, 1500억 규모 ‘피지컬AI 물류 국가실증센터’ 조성 추진"
-            },
-            {
-              "name": "투데이안",
-              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52V0VTcEJyMHJkTllFSkhEaUZYeHVhamhqdXVKZWlpLWtFSi1hUHNVeUIwTlZUM3NPLXB4SWM4VXhkZGJTTE5TUmZoNk9qakd1QWFEMGhNd3BkbE5ycnphMmVoVzZKVXoy?oc=5",
-              "origin": "google",
-              "title": "[남원시] 1,500억 규모 피지컬AI 물류 국가실증센터 조성 준비 총력"
-            },
-            {
-              "name": "쿠키뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93N3BBOFJ6YW1UVl9Wb3JVRzRPWDZPWVlKcjdlMGVyZmdHT1FMaXNTZ3I4VFM5ZlNBbkJMSHpxaHpWSmVmVVRFYXdYTTFKOVFaaXA1LURsU2hTa2lFRjVodUtFSQ?oc=5",
-              "origin": "google",
-              "title": "남원시, 피지컬AI 물류 국가실증센터 조성 추진"
-            }
-          ],
-          "source_count": 10,
-          "published": "2026-11-06T14:16:00+09:00",
-          "ts": 1793942160.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
           "title": "카카오, AI 에이전트 ‘판단 두뇌’ 공개…0.04초 만에 응답",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YMjlJaC1VMG52TXljb0hkbkV4UHlmRE5GWDg1WjNRQ2tXdEdwY2FJTHFxY2tGckFZNWJvRzUwcVFhRDd2aFlodjl4SFpzbkluQ1BZWVUxeC1ORThkNl9Ya1ZNMjliT3owYU9n?oc=5",
           "snippet": "",
@@ -8922,79 +8940,6 @@
           "source_count": 10,
           "published": "2026-11-06T14:00:00+09:00",
           "ts": 1793941200.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "국방부, AI로 진화하는 국방...군수 AI 에이전트 개발 본격 시동",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBva3c0RlZPTUpGZ09zMnhWTHRsNXdfSDI0WUk5eTZzQl8xSTNZaE1XcVYwY2Y5aVVJUnJYTHB1M0dmS05VV1lPdTRsYUhOa1ZERjZGZmlfM1NSYkQyekNGVjJEa3hzUFd0b1VIcjBR?oc=5",
-          "snippet": "",
-          "source": "하나뉴스",
-          "sources": [
-            {
-              "name": "하나뉴스",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBva3c0RlZPTUpGZ09zMnhWTHRsNXdfSDI0WUk5eTZzQl8xSTNZaE1XcVYwY2Y5aVVJUnJYTHB1M0dmS05VV1lPdTRsYUhOa1ZERjZGZmlfM1NSYkQyekNGVjJEa3hzUFd0b1VIcjBR?oc=5",
-              "origin": "google",
-              "title": "국방부, AI로 진화하는 국방...군수 AI 에이전트 개발 본격 시동"
-            },
-            {
-              "name": "시사일보",
-              "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1OTUthNU9RX2RjeTBIVEZnZGJLZ3NTTjVTZHU4X211Sy1pTzBMLWVVLTY2Ynd4eFNmOWZ3RWJqTGhsa2tFdS1ZaW5EV0Rtdw?oc=5",
-              "origin": "google",
-              "title": "국방부, AI로 진화하는 국방...군수 AI 에이전트 개발 본격 시동"
-            },
-            {
-              "name": "시큐리티팩트",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nYmQ5WjNLbW93ZGl0dGk1VXRZNUtpYlBIRmRTbkVoZEg2eFVMMTJoWFNiRmRPc3dlTmFTanVuRWFHckVObzgya244Q2x3NjVZTlF6NkoyV3hXeFdQbmxtZA?oc=5",
-              "origin": "google",
-              "title": "정부, 국방 AI 에이전트 개발 본격 추진... 4년간 300억 투입"
-            },
-            {
-              "name": "https://www.kotn.kr/",
-              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RX0l4V0F4ME5oX3JSYnI2emNRZ1NsblViSDZfTUJqa2ludDFYckVJMThycWVDR1VCUzJhX016NnhXbDE1a2E2bTFxbHVVWUxyZ3ZhZUE0UzVzZ0llNkRPNjdnMTQ?oc=5",
-              "origin": "google",
-              "title": "국방부, AI로 진화하는 국방...군수 AI 에이전트 개발 본격 시동"
-            },
-            {
-              "name": "뉴스후플러스",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tZUdjd19yT0FlV0dueTJDQWlYanpsWkIxN09sQkkzc1p3M0RuLTN2bXVWS25kSjUteE9fUDdRcEl5N1BGRTY1NF8yYU5fdnl3TGJ3Vm9vdUp1dko3ck5PSlpVVkFnNFJhd2d1T05R?oc=5",
-              "origin": "google",
-              "title": "AI로 진화하는 국방...군수 AI 에이전트 개발 본격 시동"
-            },
-            {
-              "name": "뉴스파이어",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Cd21UZURydUZkLW9BOHRPaHJnblBnNjdtOVUwdURnX0J1N2E2bXJta1dFUUlKV1dtWE4zWmh3bEE2OEd6bTlGMHRRR1Z5V1RqcEdUdy1CdGxhWUdZX0syT2Frb05QR3A4ZExKbWt2RQ?oc=5",
-              "origin": "google",
-              "title": "AI로 진화하는 국방 군수 AI 에이전트 개발 본격 시동"
-            },
-            {
-              "name": "한국방송뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iM0Q5Tzc2V0h0VTNPREdkZXZZNW81SzB4TlVLNXBIUzdGZXJucmtZMWdGY01pTFNfOTQyMEhCNS16RFB4ZnRaNTFzMGxaTEYzams1ck5ybzJNbEJOZVBNZA?oc=5",
-              "origin": "google",
-              "title": "AI로 진화하는 국방... 군수 AI 에이전트 개발 본격 시동"
-            },
-            {
-              "name": "메가충청뉴스",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hQ0ZjTjNuRS0wWnJJWXhibkFJZWNER2lHS1g2dEZrcEgxTGZHWllQYUVVLUJ6SGN0ODFGck1xdXRYV28zWjI2cG5UWHJzd2F1YkRob1NYblZZRlBiemNVUVlWdjE1RW9WMExIRw?oc=5",
-              "origin": "google",
-              "title": "AI로 진화하는 국방 군수 AI 에이전트 개발 본격 시동"
-            },
-            {
-              "name": "서프라이즈뉴스",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Rd3lGTXJHM3loWXdHSlIzZ3duMlRWSXp4bUloejVGZTBjT3A2Q0JLSzBZLVVuVFBMdlM4bkw2NzAyT1NydFkxNGwxQ2Q2M3hWM25RbUxNeXh2SVdESG91RWRxczNqQWc0LTNPYnJ3?oc=5",
-              "origin": "google",
-              "title": "AI로 진화하는 국방 군수 AI 에이전트 개발 본격 시동"
-            },
-            {
-              "name": "이코노미트리뷴",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IY0FMZEt6dFo4WF9zSXlRc3VjQ0l1OXN4NXhlX0ZaQVIyMU13TnV6MV9PUkNFY1ZqNE10TjU5UDNPTVlyeXF4VVNfdFdEWlI4X1hrX1lIY0M1ZUZGQmpyOWFST05xNzl5b19yOUZPVFIxbTFJbE1N?oc=5",
-              "origin": "google",
-              "title": "카카오모빌리티, 택시 넘어 국방 피지컬 AI로…현대차그룹과 경쟁 구도 본격화"
-            }
-          ],
-          "source_count": 10,
-          "published": "2026-11-05T08:49:24+09:00",
-          "ts": 1793836164.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -9248,82 +9193,21 @@
               "title": "엔지니어 1명이 AI 군단 지휘…KAIST 테라랩, 반도체 설계에 ‘AI 에이전트’ 접목"
             },
             {
-              "name": "지디넷코리아",
-              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iZWN4UUdZU0ROYW91cUU0MEFHMlJCWnhJOGM2QlpYalBXcDlrZ3RCZ2JlSktwN2R6bXU3ZC10MVM3dVF0cjdzSTl4SzU2aDVrdno0WS13?oc=5",
-              "origin": "google",
-              "title": "KAIST 테라랩, 반도체 TSV→HBM·HBF서 이번엔 AI 에이전트 '선공'"
-            },
-            {
               "name": "헬로디디",
               "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aemlDdTZvSUJCbWItV2t6WC0yVTRnR1ZGdnNkU3Q3cTgzaFFuQlR0cjFqS3dkTDBsalk5b3FqbnlmbWZDdWZSV08wd2l0Ym96a0Q3dUpJZFdvcmxCMnB3U292YV90dm0zUXc?oc=5",
               "origin": "google",
               "title": "KAIST 테라랩, 반도체 설계부터 논문 작성까지···'AI 에이전트' 접목"
+            },
+            {
+              "name": "지디넷코리아",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iZWN4UUdZU0ROYW91cUU0MEFHMlJCWnhJOGM2QlpYalBXcDlrZ3RCZ2JlSktwN2R6bXU3ZC10MVM3dVF0cjdzSTl4SzU2aDVrdno0WS13?oc=5",
+              "origin": "google",
+              "title": "KAIST 테라랩, 반도체 TSV→HBM·HBF서 이번엔 AI 에이전트 '선공'"
             }
           ],
           "source_count": 9,
           "published": "2026-11-05T16:45:00+09:00",
           "ts": 1793864700.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "[오늘의 게임·IT 소식] 넷마블 카밤, 워너브라더스 IP 활용 신작 ‘WB 올...",
-          "url": "https://dealsite.co.kr/articles/172238",
-          "snippet": "컬래버레이션 콘텐츠가 모두 포함됐다. 닌텐도 e숍에서는 게임 초반부를 체험할 수 있는 무료 체험판도... 엠게임은 출시 전 생성형 인공지능(AI)을 활용한 메인 스토리 영상을 공개하고 이용자 참여형 ‘귀혼...",
-          "source": "dealsite.co.kr",
-          "sources": [
-            {
-              "name": "dealsite.co.kr",
-              "url": "https://dealsite.co.kr/articles/172238",
-              "origin": "naver",
-              "title": "[오늘의 게임·IT 소식] 넷마블 카밤, 워너브라더스 IP 활용 신작 ‘WB 올..."
-            },
-            {
-              "name": "전자신문",
-              "url": "https://www.etnews.com/20261106000187",
-              "origin": "naver",
-              "title": "넷마블 카밤, 'WB 올스타 키우기' 공개... 배트맨·벅스 버니 등 100여 캐..."
-            },
-            {
-              "name": "동아일보",
-              "url": "https://game.donga.com/124999/",
-              "origin": "naver",
-              "title": "넷마블 카밤, 배트맨부터 핀과 제이크까지 'WB 올스타 키우기' 공개"
-            },
-            {
-              "name": "아주경제",
-              "url": "https://www.ajunews.com/view/20261106121546436",
-              "origin": "naver",
-              "title": "넷마블, 워너브라더스 IP 활용 신작 'WB 올스타 키우기' 공개"
-            },
-            {
-              "name": "매일경제",
-              "url": "https://www.mk.co.kr/article/12200339",
-              "origin": "naver",
-              "title": "넷마블, 북미 자회사 카밤 신작 ‘WB 올스타 키우기’ 공개"
-            },
-            {
-              "name": "국민일보",
-              "url": "https://www.kmib.co.kr/article/20261106500064",
-              "origin": "naver",
-              "title": "넷마블, 워너브라더스 IP 총집합 ‘WB 올스타 키우기’ 공개"
-            },
-            {
-              "name": "뉴스1",
-              "url": "https://www.news1.kr/it-science/game-review/6345309",
-              "origin": "naver",
-              "title": "넷마블 북미 자회사 카밤, 애니 9종 집결 'WB 올스타 키우기' 공개"
-            },
-            {
-              "name": "www.ebn.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Rai1GTVRtZ1RzaHVsM0V3MEJlWEkxdThLN2VFc1dNS3BXZzZLMkNkRV9xUlZvU1h2Q0h4TjZmTkFOMEdYSV9iem02d056Q2U3WDBpVThkSlVFNWp1SVBUYlBxeVNNa01C?oc=5",
-              "origin": "google",
-              "title": "[Game & Now] 넷마블, 인기 IP 활용 신작 공개…넥슨 '템빨' 26일 출시"
-            }
-          ],
-          "source_count": 8,
-          "published": "2026-11-06T10:48:00+09:00",
-          "ts": 1793929680.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -9511,6 +9395,116 @@
           "group_label": "AI · 생성형AI"
         },
         {
+          "title": "문장 대신 확률·점수로 답하는 AI, 카카오 에이전트용 판단 모델 오픈...",
+          "url": "https://platum.kr/archives/297920",
+          "snippet": "",
+          "source": "platum.kr",
+          "sources": [
+            {
+              "name": "platum.kr",
+              "url": "https://platum.kr/archives/297920",
+              "origin": "naver",
+              "title": "문장 대신 확률·점수로 답하는 AI, 카카오 에이전트용 판단 모델 오픈..."
+            },
+            {
+              "name": "서울신문",
+              "url": "https://www.seoul.co.kr/news/economy/IT/2026/11/06/20261106500074?wlog_tag3=naver",
+              "origin": "naver",
+              "title": "카카오, AI 판단 돕는 의사결정 모델 오픈소스 공개"
+            },
+            {
+              "name": "카카오",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wYVNTb1B0QTRyRnB6RTZZaEFackZlN3c2UGFsQ3FLYnNCUFZudk8xU1pxSFVaRFdtdE91VzUwMHJHVFMxWTRCV0pnb0lBNnlhSHlKVjVR?oc=5",
+              "origin": "google",
+              "title": "카카오, 에이전트의 판단과 선택 돕는 모델 ‘Kanana-2-v-decide’ 오픈소스 공개"
+            },
+            {
+              "name": "로이슈",
+              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLU2tETUljbjFoWlRIMDlDT2Nsbk9xT0NmTGtEbXBGV2w2TmZMN09OSGxPaW9kQTE5YXY0QWZjejRweXR0SFNJVWhjS3NodnV2VDluWHdJRTZTR1lfbnRrRUF5VFhSZnJyUUFQSnROQW05OU1taFJlbE1B?oc=5",
+              "origin": "google",
+              "title": "카카오, AI 에이전트용 멀티모달 의사결정 모델 공개"
+            },
+            {
+              "name": "핀포인트뉴스",
+              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HOEdHV2w0QjV3VTI4UlhVNVVheWRkX1pBRWh0WXRLbzRuTWllb21NRmZFcjZTLXJhbTJXMFk1cnQ5dFg1aERPSk5pUGZoODIzUXZfbllIdkZkTTk1dUZmNnpwNFBJTHRUelVQR3U3NXdyZUHSAXdBVV95cUxNNFpPUGRoNERsNFphVGFoR0RSVnZJUjMzSTU4cHVwWXAxOTAyT0xKYThkdDVBTjVqQWFodDRBNnNCQWM3ZUZpbl9WZUVGaTRMU2Vqc3l6UnVBNTE3dEtWS09DM1JnVjRza1A5MkxJYXpvQlVFekZDcw?oc=5",
+              "origin": "google",
+              "title": "카카오, AI 의사결정 모델 '카나나' 오픈소스 공개…에이전트 기술 경쟁력 강화"
+            },
+            {
+              "name": "아시아타임즈",
+              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBva0VBMHkxUEpCTElVU19TUlkyaG9JUEtLeEhOVlRRaFRQQXdwbk1Vb0tVUnRndUtwRnRaRm44QkxUZEx6d05sbXZKTWVWb185TEkwdndWR1VoamktRXc?oc=5",
+              "origin": "google",
+              "title": "문장 대신 확률·점수로 답한다… 카카오, 에이전트 맞춤형 AI 모델 공개"
+            },
+            {
+              "name": "뉴스핌",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mSEtwQlprS01NakVmVldhMXE5aFhNTGNiWlprcU1kbHBfVXgxVDBmRE5SX2c2bFhuQ2F3eWFnTWhWVm5Pd1VNTTl6bXlleFczSTliaWo3cU50M0d5?oc=5",
+              "origin": "google",
+              "title": "카카오, AI 의사결정 특화 모델 '카나나' 오픈소스 공개"
+            }
+          ],
+          "source_count": 7,
+          "published": "2026-11-06T13:03:00+09:00",
+          "ts": 1793937780.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "[오늘의 게임·IT 소식] 넷마블 카밤, 워너브라더스 IP 활용 신작 ‘WB 올...",
+          "url": "https://dealsite.co.kr/articles/172238",
+          "snippet": "컬래버레이션 콘텐츠가 모두 포함됐다. 닌텐도 e숍에서는 게임 초반부를 체험할 수 있는 무료 체험판도... 엠게임은 출시 전 생성형 인공지능(AI)을 활용한 메인 스토리 영상을 공개하고 이용자 참여형 ‘귀혼...",
+          "source": "dealsite.co.kr",
+          "sources": [
+            {
+              "name": "dealsite.co.kr",
+              "url": "https://dealsite.co.kr/articles/172238",
+              "origin": "naver",
+              "title": "[오늘의 게임·IT 소식] 넷마블 카밤, 워너브라더스 IP 활용 신작 ‘WB 올..."
+            },
+            {
+              "name": "전자신문",
+              "url": "https://www.etnews.com/20261106000187",
+              "origin": "naver",
+              "title": "넷마블 카밤, 'WB 올스타 키우기' 공개... 배트맨·벅스 버니 등 100여 캐..."
+            },
+            {
+              "name": "동아일보",
+              "url": "https://game.donga.com/124999/",
+              "origin": "naver",
+              "title": "넷마블 카밤, 배트맨부터 핀과 제이크까지 'WB 올스타 키우기' 공개"
+            },
+            {
+              "name": "아주경제",
+              "url": "https://www.ajunews.com/view/20261106121546436",
+              "origin": "naver",
+              "title": "넷마블, 워너브라더스 IP 활용 신작 'WB 올스타 키우기' 공개"
+            },
+            {
+              "name": "매일경제",
+              "url": "https://www.mk.co.kr/article/12200339",
+              "origin": "naver",
+              "title": "넷마블, 북미 자회사 카밤 신작 ‘WB 올스타 키우기’ 공개"
+            },
+            {
+              "name": "국민일보",
+              "url": "https://www.kmib.co.kr/article/20261106500064",
+              "origin": "naver",
+              "title": "넷마블, 워너브라더스 IP 총집합 ‘WB 올스타 키우기’ 공개"
+            },
+            {
+              "name": "www.ebn.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Rai1GTVRtZ1RzaHVsM0V3MEJlWEkxdThLN2VFc1dNS3BXZzZLMkNkRV9xUlZvU1h2Q0h4TjZmTkFOMEdYSV9iem02d056Q2U3WDBpVThkSlVFNWp1SVBUYlBxeVNNa01C?oc=5",
+              "origin": "google",
+              "title": "[Game & Now] 넷마블, 인기 IP 활용 신작 공개…넥슨 '템빨' 26일 출시"
+            }
+          ],
+          "source_count": 7,
+          "published": "2026-11-06T10:48:00+09:00",
+          "ts": 1793929680.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
           "title": "“지출 늘어난 곳 알려줘”…웹케시 AI플랫폼 ‘경리나라 MCP’ 12월 출시",
           "url": "https://biz.heraldcorp.com/article/10927403?ref=naver",
           "snippet": "",
@@ -9621,110 +9615,6 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "애플, AI 에이전트 위험 공식 경고…\"허가 없이 행동하고 통제 벗어날 수 있다\"",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95TUFtMXhaQmZEZm9DcERBdXJfZExlYzEyNnBTQ211dTVka2FyX1dqaGo0VDNZRlRMbG9mVVhVbGItSUtsS0NLWWNRWTczZmEtLUlwNEdxZjhUZ0lCaG1ZOVBsdmlEY3IyMXlV?oc=5",
-          "snippet": "",
-          "source": "솔루션뉴스",
-          "sources": [
-            {
-              "name": "솔루션뉴스",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95TUFtMXhaQmZEZm9DcERBdXJfZExlYzEyNnBTQ211dTVka2FyX1dqaGo0VDNZRlRMbG9mVVhVbGItSUtsS0NLWWNRWTczZmEtLUlwNEdxZjhUZ0lCaG1ZOVBsdmlEY3IyMXlV?oc=5",
-              "origin": "google",
-              "title": "애플, AI 에이전트 위험 공식 경고…\"허가 없이 행동하고 통제 벗어날 수 있다\""
-            },
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202611041414001",
-              "origin": "naver",
-              "title": "인간 지시 안 따르고 예측 불가···애플, ‘AI 에이전트 돌발 행동’ ..."
-            },
-            {
-              "name": "매일경제",
-              "url": "https://www.mk.co.kr/article/12196234",
-              "origin": "naver",
-              "title": "“AI가 지시 거부하고 행동 숨길 수도”…애플 연례보고서 경고"
-            },
-            {
-              "name": "YTN",
-              "url": "https://www.ytn.co.kr/_ln/0104_202611041022112523",
-              "origin": "naver",
-              "title": "\"AI 에이전트, 지시 어기고 돌발 행동 가능성\"...애플의 공식 경고"
-            },
-            {
-              "name": "YTN 사이언스",
-              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNnd0WVd3NnlGdHB3N1V3bVE1TlJUS3RBR1M0RzJtcTF5OFB0anhRZkVSdUdfb0lkak92YXJWS19YN1RCU2FoVzVyTWw4QmpBM01PYjhpZDVjNGpFRzFFNDJXaTJsNF9TZVVwZmFPNHk0UEJsTkpiYUtESGVMa1lnQmhzbnY2aF9Ccl95SW5HdXY2bDZOSkE?oc=5",
-              "origin": "google",
-              "title": "\"AI 에이전트, 지시 어기고 돌발 행동 가능성\"...애플의 공식 경고"
-            },
-            {
-              "name": "글로벌이코노믹",
-              "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWFVlTzJuSTNPWkd5RzZMZ21LZG5GemYyb0NzUEZPTEwtS0h5Qmk4TEJnMTB3TU0zQmh5WGpyMXRCM1lJa2tVY0lvb0dFQ3JsSWt0clB6NG90MEg0OHRRdjFfUm81RVV1ck5OOF90WVlsWkhqSzNjQTEzZGY0ekxQVTllNmQ4VGdH?oc=5",
-              "origin": "google",
-              "title": "애플이 연례보고서에 AI 에이전트 오작동 경고를 담은 속사정"
-            },
-            {
-              "name": "연합뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVcnRYS2lVZEF2dlplVHVZUDE5MUFta3VZLWlKM2lBSFVhampsaDVPenZINkp5QU5iaU5KMkpTMGF5dE0yUkpiV0RVNzE0eWM4ZjNmRG44bm5nT3owdlVVetIBYEFVX3lxTFBVcnRYS2lVZEF2dlplVHVZUDE5MUFta3VZLWlKM2lBSFVhampsaDVPenZINkp5QU5iaU5KMkpTMGF5dE0yUkpiV0RVNzE0eWM4ZjNmRG44bm5nT3owdlVVeg?oc=5",
-              "origin": "google",
-              "title": "애플 \"AI에이전트, 예상 밖 돌발행동 위험\"…연례보고서에 경고"
-            }
-          ],
-          "source_count": 7,
-          "published": "2026-11-05T08:51:00+09:00",
-          "ts": 1793836260.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "tvN ‘시그널2’, 조진웅 안고 간다…12월 7월 편성 확정[공식]",
-          "url": "https://www.mk.co.kr/article/12200406",
-          "snippet": "기획 단계부터 촬영과 후반 작업에 이르기까지 많은 스태프와 제작진, 관계자들의 시간과 노력이 담긴... tvN은 “영상 기술을 활용한 수정 방안을 모색하고 AI를 활용한 인물 교체 테스트도 진행했다. 하지만 연기 표현과...",
-          "source": "매일경제",
-          "sources": [
-            {
-              "name": "매일경제",
-              "url": "https://www.mk.co.kr/article/12200406",
-              "origin": "naver",
-              "title": "tvN ‘시그널2’, 조진웅 안고 간다…12월 7월 편성 확정[공식]"
-            },
-            {
-              "name": "enter.etoday.co.kr",
-              "url": "https://enter.etoday.co.kr/news/view/304856",
-              "origin": "naver",
-              "title": "'시그널2' 방영일 확정 12월 7일, 월화드라마 편성"
-            },
-            {
-              "name": "한국일보",
-              "url": "https://www.hankookilbo.com/news/article/A2026110613370003389?did=NA",
-              "origin": "naver",
-              "title": "조진웅 주연 '시그널2', 12월 편성… tvN \"교체 노력했으나 불가피\""
-            },
-            {
-              "name": "heraldmuse.com",
-              "url": "https://www.heraldmuse.com/article/10928567?ref=naver",
-              "origin": "naver",
-              "title": "‘두 번째 시그널’ 12월 편성‥“조진웅, AI 교체도 시도해봤지만 한계..."
-            },
-            {
-              "name": "ize.co.kr",
-              "url": "https://www.ize.co.kr/news/articleView.html?idxno=82326",
-              "origin": "naver",
-              "title": "'두번째 시그널', 12월 7일 tvN 월화극 편성 확정 \"본연의 의미 전달\" [공..."
-            },
-            {
-              "name": "stoo.com",
-              "url": "http://www.stoo.com/article.php?aid=109768957518",
-              "origin": "naver",
-              "title": "조진웅 '두번째 시그널', 12월 편성 확정 \"창작자 노력 봐주길\" [전문]"
-            }
-          ],
-          "source_count": 6,
-          "published": "2026-11-06T14:25:00+09:00",
-          "ts": 1793942700.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
           "title": "NHN클라우드, 일본서 첫 파트너 세미나 개최…현지 생태계 구축 나서",
           "url": "http://www.metroseoul.co.kr/article/20261106500114",
           "snippet": "이어 NHN클라우드 재팬의 사업 체계와 향후 계획을 소개하고, 인공지능(AI) 개발과 운영에 필요한 '그래픽처리장치(GPU) 라이브', '에이전트 스튜디오' 등 여러 솔루션을 선보였다. 네트워크·보안 전문기업...",
@@ -9743,16 +9633,16 @@
               "title": "NHN클라우드, 일본서 첫 파트너 세미나⋯AI 사업 협력 모색"
             },
             {
-              "name": "ddaily.co.kr",
-              "url": "https://www.ddaily.co.kr/page/view/2026110610022369138",
-              "origin": "naver",
-              "title": "NHN클라우드, 도쿄서 첫 파트너 세미나…일본 기업에 협력 제안"
-            },
-            {
               "name": "뉴시스",
               "url": "https://www.newsis.com/view/NISX20261106_0003857614",
               "origin": "naver",
               "title": "NHN클라우드, 일본서 첫 파트너 세미나…AI 인프라 소개"
+            },
+            {
+              "name": "ddaily.co.kr",
+              "url": "https://www.ddaily.co.kr/page/view/2026110610022369138",
+              "origin": "naver",
+              "title": "NHN클라우드, 도쿄서 첫 파트너 세미나…일본 기업에 협력 제안"
             },
             {
               "name": "아이뉴스24",
@@ -9774,51 +9664,51 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "문장 대신 확률·점수로 답하는 AI, 카카오 에이전트용 판단 모델 오픈...",
-          "url": "https://platum.kr/archives/297920",
+          "title": "다날, AI 에이전트 서비스 '결제비서' 상표 등록 완료… 스테이블코인 상표 15종도 출원공고 마쳐",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5QzRvUkw5dVJuVFdKUkEwZmUyZVpEa3lGTHBiaHNYMUIydXpqM1NOcU1EaWx1QjNWYW00eDd5dXUtMWtHNFkyMFJWbkMzVk5mNlpOWksydUZRS0lNTFBJd1hlbExDUGdfSjBzZQ?oc=5",
           "snippet": "",
-          "source": "platum.kr",
+          "source": "플레이포럼",
           "sources": [
             {
-              "name": "platum.kr",
-              "url": "https://platum.kr/archives/297920",
+              "name": "플레이포럼",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5QzRvUkw5dVJuVFdKUkEwZmUyZVpEa3lGTHBiaHNYMUIydXpqM1NOcU1EaWx1QjNWYW00eDd5dXUtMWtHNFkyMFJWbkMzVk5mNlpOWksydUZRS0lNTFBJd1hlbExDUGdfSjBzZQ?oc=5",
+              "origin": "google",
+              "title": "다날, AI 에이전트 서비스 '결제비서' 상표 등록 완료… 스테이블코인 상표 15종도 출원공고 마쳐"
+            },
+            {
+              "name": "뉴스핌",
+              "url": "https://www.newspim.com/news/view/20261106000441",
               "origin": "naver",
-              "title": "문장 대신 확률·점수로 답하는 AI, 카카오 에이전트용 판단 모델 오픈..."
+              "title": "다날, AI 에이전트 '결제비서' 상표 등록…\"스테이블코인 15종 출원공고..."
             },
             {
-              "name": "서울신문",
-              "url": "https://www.seoul.co.kr/news/economy/IT/2026/11/06/20261106500074?wlog_tag3=naver",
+              "name": "etoday.co.kr",
+              "url": "https://www.etoday.co.kr/news/view/2644967",
               "origin": "naver",
-              "title": "카카오, AI 판단 돕는 의사결정 모델 오픈소스 공개"
+              "title": "다날, AI 결제 에이전트 ‘결제비서’ 상표 등록…스테이블코인 15종 출..."
             },
             {
-              "name": "로이슈",
-              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLU2tETUljbjFoWlRIMDlDT2Nsbk9xT0NmTGtEbXBGV2w2TmZMN09OSGxPaW9kQTE5YXY0QWZjejRweXR0SFNJVWhjS3NodnV2VDluWHdJRTZTR1lfbnRrRUF5VFhSZnJyUUFQSnROQW05OU1taFJlbE1B?oc=5",
+              "name": "이머니뉴스",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Odk54YVItRVg0RGQ0dUJoNnBvaFh5RGFBa1pVQmFrcnNLZGNqeTE3YnhVODdobkppU2VuVlhTV1VhV1hoM0J6bTNReDlrY2Zvc0xqcHdTRDQzMEpyczExa3lzakduLVN0cmVPdEktTQ?oc=5",
               "origin": "google",
-              "title": "카카오, AI 에이전트용 멀티모달 의사결정 모델 공개"
+              "title": "다날, AI 에이전트 서비스 '결제비서' 상표 등록 완료"
             },
             {
-              "name": "핀포인트뉴스",
-              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HOEdHV2w0QjV3VTI4UlhVNVVheWRkX1pBRWh0WXRLbzRuTWllb21NRmZFcjZTLXJhbTJXMFk1cnQ5dFg1aERPSk5pUGZoODIzUXZfbllIdkZkTTk1dUZmNnpwNFBJTHRUelVQR3U3NXdyZUHSAXdBVV95cUxNNFpPUGRoNERsNFphVGFoR0RSVnZJUjMzSTU4cHVwWXAxOTAyT0xKYThkdDVBTjVqQWFodDRBNnNCQWM3ZUZpbl9WZUVGaTRMU2Vqc3l6UnVBNTE3dEtWS09DM1JnVjRza1A5MkxJYXpvQlVFekZDcw?oc=5",
+              "name": "이투데이",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WemQzVUhsZC1NMEdYN3ZYcXBWMkVpSjlucVR1MkRoandOVE9nNV9jNmIzcWxfQi1lbDU1c1dreTdCdXJ6amxPZ1FFZTREd1RLUFVvTkxQUG5nWjBMMTFza0VpSkVlUENGUnFUdG9ZLTRYd2pZ?oc=5",
               "origin": "google",
-              "title": "카카오, AI 의사결정 모델 '카나나' 오픈소스 공개…에이전트 기술 경쟁력 강화"
+              "title": "다날, AI 결제 에이전트 ‘결제비서’ 상표 등록…스테이블코인 15종 출원공고"
             },
             {
-              "name": "아시아타임즈",
-              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBva0VBMHkxUEpCTElVU19TUlkyaG9JUEtLeEhOVlRRaFRQQXdwbk1Vb0tVUnRndUtwRnRaRm44QkxUZEx6d05sbXZKTWVWb185TEkwdndWR1VoamktRXc?oc=5",
+              "name": "AI 매터스",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kZlR5RlZ1ZWZPWmR1OTAyT0NaZEw1NTRWZUxEVkU1dlU1cjNLa1g5RGo2c2IxcUhmZ01UWG5qWUR5NDdheHowNDhCaUZ1U2RRVndYcA?oc=5",
               "origin": "google",
-              "title": "문장 대신 확률·점수로 답한다… 카카오, 에이전트 맞춤형 AI 모델 공개"
-            },
-            {
-              "name": "카카오",
-              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wYVNTb1B0QTRyRnB6RTZZaEFackZlN3c2UGFsQ3FLYnNCUFZudk8xU1pxSFVaRFdtdE91VzUwMHJHVFMxWTRCV0pnb0lBNnlhSHlKVjVR?oc=5",
-              "origin": "google",
-              "title": "카카오, 에이전트의 판단과 선택 돕는 모델 ‘Kanana-2-v-decide’ 오픈소스 공개"
+              "title": "토크데스크 조사 \"AI 에이전트에 결제 맡기겠다는 쇼핑객 15%\""
             }
           ],
           "source_count": 6,
-          "published": "2026-11-06T13:03:00+09:00",
-          "ts": 1793937780.0,
+          "published": "2026-11-06T12:44:57+09:00",
+          "ts": 1793936697.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -9923,7 +9813,7 @@
         {
           "title": "최준석 발레앤모델 AI 대표 \"발레는 출발점일 뿐 … 인간 움직임 AI 원천...",
           "url": "https://www.newdaily.co.kr/site/data/html/2026/11/06/2026110600118.html",
-          "snippet": "화면 속 영상을 따라 하는 교육에서 나아가 실제 물리적 환경에서 로봇과 상호작용하며 움직임을 익히는 '피지컬 AI 발레교육'을 구현하겠다는 것이다. 이를 위해 발레앤모델 AI는 발레 전문가의 동작을 로봇 관절...",
+          "snippet": "다양한 산업에 공급하겠다는 전략이다. 인간의 움직임에는 신체 균형과 관절의 변화, 동작 간 연결... KAIST 김재철AI대학원 주재걸 석좌교수는 회사와 협력해 컴퓨터 비전과 생성형 AI, 피지컬 AI 분야의 연구 역량을...",
           "source": "newdaily.co.kr",
           "sources": [
             {
@@ -10015,55 +9905,6 @@
           "source_count": 6,
           "published": "2026-11-06T11:01:00+09:00",
           "ts": 1793930460.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "다날, AI 에이전트 '결제비서' 상표 등록…\"스테이블코인 15종 출원공고...",
-          "url": "https://www.newspim.com/news/view/20261106000441",
-          "snippet": "[사진=다날] 다날은 이번 스테이블코인 상표 출원공고와 AI 에이전트 서비스 구축을 바탕으로 두 서비스 간 연계를 추진할 계획이다. 상표권 등록을 마친 '결제비서'는 AI 에이전트와 실물 결제를 연결하는 서비스다....",
-          "source": "뉴스핌",
-          "sources": [
-            {
-              "name": "뉴스핌",
-              "url": "https://www.newspim.com/news/view/20261106000441",
-              "origin": "naver",
-              "title": "다날, AI 에이전트 '결제비서' 상표 등록…\"스테이블코인 15종 출원공고..."
-            },
-            {
-              "name": "etoday.co.kr",
-              "url": "https://www.etoday.co.kr/news/view/2644967",
-              "origin": "naver",
-              "title": "다날, AI 결제 에이전트 ‘결제비서’ 상표 등록…스테이블코인 15종 출..."
-            },
-            {
-              "name": "플레이포럼",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5QzRvUkw5dVJuVFdKUkEwZmUyZVpEa3lGTHBiaHNYMUIydXpqM1NOcU1EaWx1QjNWYW00eDd5dXUtMWtHNFkyMFJWbkMzVk5mNlpOWksydUZRS0lNTFBJd1hlbExDUGdfSjBzZQ?oc=5",
-              "origin": "google",
-              "title": "다날, AI 에이전트 서비스 '결제비서' 상표 등록 완료… 스테이블코인 상표 15종도 출원공고 마쳐"
-            },
-            {
-              "name": "이머니뉴스",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Odk54YVItRVg0RGQ0dUJoNnBvaFh5RGFBa1pVQmFrcnNLZGNqeTE3YnhVODdobkppU2VuVlhTV1VhV1hoM0J6bTNReDlrY2Zvc0xqcHdTRDQzMEpyczExa3lzakduLVN0cmVPdEktTQ?oc=5",
-              "origin": "google",
-              "title": "다날, AI 에이전트 서비스 '결제비서' 상표 등록 완료"
-            },
-            {
-              "name": "이투데이",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WemQzVUhsZC1NMEdYN3ZYcXBWMkVpSjlucVR1MkRoandOVE9nNV9jNmIzcWxfQi1lbDU1c1dreTdCdXJ6amxPZ1FFZTREd1RLUFVvTkxQUG5nWjBMMTFza0VpSkVlUENGUnFUdG9ZLTRYd2pZ?oc=5",
-              "origin": "google",
-              "title": "다날, AI 결제 에이전트 ‘결제비서’ 상표 등록…스테이블코인 15종 출원공고"
-            },
-            {
-              "name": "AI 매터스",
-              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kZlR5RlZ1ZWZPWmR1OTAyT0NaZEw1NTRWZUxEVkU1dlU1cjNLa1g5RGo2c2IxcUhmZ01UWG5qWUR5NDdheHowNDhCaUZ1U2RRVndYcA?oc=5",
-              "origin": "google",
-              "title": "토크데스크 조사 \"AI 에이전트에 결제 맡기겠다는 쇼핑객 15%\""
-            }
-          ],
-          "source_count": 6,
-          "published": "2026-11-06T10:45:00+09:00",
-          "ts": 1793929500.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -10303,6 +10144,49 @@
           "source_count": 5,
           "published": "2026-11-06T14:30:00+09:00",
           "ts": 1793943000.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "tvN ‘시그널2’, 조진웅 안고 간다…12월 7월 편성 확정[공식]",
+          "url": "https://www.mk.co.kr/article/12200406",
+          "snippet": "기획 단계부터 촬영과 후반 작업에 이르기까지 많은 스태프와 제작진, 관계자들의 시간과 노력이 담긴... tvN은 “영상 기술을 활용한 수정 방안을 모색하고 AI를 활용한 인물 교체 테스트도 진행했다. 하지만 연기 표현과...",
+          "source": "매일경제",
+          "sources": [
+            {
+              "name": "매일경제",
+              "url": "https://www.mk.co.kr/article/12200406",
+              "origin": "naver",
+              "title": "tvN ‘시그널2’, 조진웅 안고 간다…12월 7월 편성 확정[공식]"
+            },
+            {
+              "name": "enter.etoday.co.kr",
+              "url": "https://enter.etoday.co.kr/news/view/304856",
+              "origin": "naver",
+              "title": "'시그널2' 방영일 확정 12월 7일, 월화드라마 편성"
+            },
+            {
+              "name": "한국일보",
+              "url": "https://www.hankookilbo.com/news/article/A2026110613370003389?did=NA",
+              "origin": "naver",
+              "title": "조진웅 주연 '시그널2', 12월 편성… tvN \"교체 노력했으나 불가피\""
+            },
+            {
+              "name": "ize.co.kr",
+              "url": "https://www.ize.co.kr/news/articleView.html?idxno=82326",
+              "origin": "naver",
+              "title": "'두번째 시그널', 12월 7일 tvN 월화극 편성 확정 \"본연의 의미 전달\" [공..."
+            },
+            {
+              "name": "stoo.com",
+              "url": "http://www.stoo.com/article.php?aid=109768957518",
+              "origin": "naver",
+              "title": "조진웅 '두번째 시그널', 12월 편성 확정 \"창작자 노력 봐주길\" [전문]"
+            }
+          ],
+          "source_count": 5,
+          "published": "2026-11-06T14:25:00+09:00",
+          "ts": 1793942700.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -10989,43 +10873,6 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "카카오모빌리티, ‘브링온’으로 로봇 통합 제어…피지컬 AI 확대",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1RmhtdFFKMkp1WXo0LVB6dU5GVUYycGVCOHJhRmdkMmR2V2dKSXBSeGVtVDllRFphdGFfVHJlRzNZYXZyZk4yQW5Bdjh2cW9NTWJnUmFqT2xJcGI2cFNaTjhuMU00a1NGQUxN?oc=5",
-          "snippet": "",
-          "source": "한스경제",
-          "sources": [
-            {
-              "name": "한스경제",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1RmhtdFFKMkp1WXo0LVB6dU5GVUYycGVCOHJhRmdkMmR2V2dKSXBSeGVtVDllRFphdGFfVHJlRzNZYXZyZk4yQW5Bdjh2cW9NTWJnUmFqT2xJcGI2cFNaTjhuMU00a1NGQUxN?oc=5",
-              "origin": "google",
-              "title": "카카오모빌리티, ‘브링온’으로 로봇 통합 제어…피지컬 AI 확대"
-            },
-            {
-              "name": "digitalchosun.dizzo.com",
-              "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/03/2026110380204.html",
-              "origin": "naver",
-              "title": "카카오모빌리티, 육군과 국방 AI 협력…드론·로봇 통합관제 기술 개발"
-            },
-            {
-              "name": "서울경제",
-              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IbFh2c3I0XzdIdEtaSXhvZW5iVHlrd0FsWE81aDlPTWlvcDBRZWZ6aWh3b1FFS0g4ejFZMVpaVEdzNERRNGZzTTYzZ1VWNktmLXfSAVNBVV95cUxQTVFoRHdVSFQxUDNhTFUwMGxaMnNINGUtc05LaHpBd0R3ajlZU1hFZ3lCX3ZIZFAwR0pxX2tDN1dzczFkVGR1SGd4VWIwUFZORzZkNA?oc=5",
-              "origin": "google",
-              "title": "카카오모빌리티, 로봇 통합 운영 플랫폼 고도화…피지컬 AI 상용화 속도"
-            },
-            {
-              "name": "웹이코노미",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFd1E4UnhXcW5aZkxpbFRicUQteDIxTE9VY3dBeW8yZmZBb3J4VHlwVmtMWmtXVlYwX202Wm9oakY4OXdOa1d4QzNtV1Vka2xxMVpZNm40X2plSTBHM0ptcUdPVHB6RXI2SGNsZ3lTRUJFQQ?oc=5",
-              "origin": "google",
-              "title": "카카오모빌리티·육군, 국방 피지컬 AI·무인체계 통합관제 기술 공동개발"
-            }
-          ],
-          "source_count": 4,
-          "published": "2026-11-06T13:30:00+09:00",
-          "ts": 1793939400.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
           "title": "자비스, 경기도 피지컬AI 실증과제 수요기업 최종 선정",
           "url": "https://www.donga.com/news/Economy/article/all/20261106/134977244/1",
           "snippet": "자비스는 지난 8월 맞춤형 피지컬AI 컨설팅 참여기업 9곳에 포함됐고, 지난달 20일 실증과제 선정위원회 평가를 거쳐 최종 3곳에 들었다. 수행 과제는 ‘X-ray 촬영 셀 듀얼암 로봇 자동 얼라인먼트 실증‘이다. 실증...",
@@ -11429,74 +11276,6 @@
           "source_count": 4,
           "published": "2026-11-05T17:16:00+09:00",
           "ts": 1793866560.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "인천시, 내년 예산 15조 9천억 편성…인천e음 캐시백 10%·월 한도 50만원...",
-          "url": "https://www.siminsori.com/news/articleView.html?idxno=402285",
-          "snippet": "주요 사업으로는 K-바이오랩허브 건립 321억 원, AI 혁신성장 지원 40억 원, 피지컬 AI 실증센터 조성·운영 13억 원, 탄소포집용 수소생산기지 구축 61억 원 등이 포함됐다. 교통 인프라 확충과 원도심 혁신에는 2조...",
-          "source": "siminsori.com",
-          "sources": [
-            {
-              "name": "siminsori.com",
-              "url": "https://www.siminsori.com/news/articleView.html?idxno=402285",
-              "origin": "naver",
-              "title": "인천시, 내년 예산 15조 9천억 편성…인천e음 캐시백 10%·월 한도 50만원..."
-            },
-            {
-              "name": "breaknews.com",
-              "url": "http://www.breaknews.com/1248596",
-              "origin": "naver",
-              "title": "인천시 민선9기 첫 예산 ‘2027년 예산안 15조 9천억 원 편성’"
-            },
-            {
-              "name": "아주경제",
-              "url": "https://www.ajunews.com/view/20261105102513316",
-              "origin": "naver",
-              "title": "박찬대 인천시장, 민생 지키고 인천 제값 찾는다...내년 예산 15조9천억..."
-            },
-            {
-              "name": "viva100.com",
-              "url": "https://www.viva100.com/article/20261105500200",
-              "origin": "naver",
-              "title": "인천시 15조9000억 예산 승부수…민생 지키고 미래 키운다"
-            }
-          ],
-          "source_count": 4,
-          "published": "2026-11-05T15:22:00+09:00",
-          "ts": 1793859720.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "LG전자, 美 밴더빌트에 해외 첫 브랜드 라운지... 미래·인재 확보 시동",
-          "url": "https://www.moneystorm.kr/news/articleView.html?idxno=8147",
-          "snippet": "해당 공장은 2023년 세계경제포럼(WEF)의 등대공장으로 선정됐으며, 최근에는 로봇과 AI를 제조 현장에 적용하는 피지컬 AI 기술 검증 거점으로 활용되고 있다. 곽도영 LG전자 북미지역대표 부사장은 \"라이프스...",
-          "source": "moneystorm.kr",
-          "sources": [
-            {
-              "name": "moneystorm.kr",
-              "url": "https://www.moneystorm.kr/news/articleView.html?idxno=8147",
-              "origin": "naver",
-              "title": "LG전자, 美 밴더빌트에 해외 첫 브랜드 라운지... 미래·인재 확보 시동"
-            },
-            {
-              "name": "viva100.com",
-              "url": "https://www.viva100.com/article/20261106500299",
-              "origin": "naver",
-              "title": "LG전자, 美 밴더빌트대에 첫 브랜드 공간 마련"
-            },
-            {
-              "name": "동아일보",
-              "url": "https://www.donga.com/news/Economy/article/all/20261106/134977453/1",
-              "origin": "naver",
-              "title": "LG전자, 美 밴더빌트대에 첫 브랜드 공간 열었다…미래 세대 접점 확대"
-            }
-          ],
-          "source_count": 3,
-          "published": "2026-11-06T14:29:00+09:00",
-          "ts": 1793942940.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -11997,6 +11776,37 @@
           "group_label": "AI · 생성형AI"
         },
         {
+          "title": "넥써쓰, 레포르게임즈 '아스텔리아2' 글로벌 정식 출시… 원스토어 품은...",
+          "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=361986",
+          "snippet": "원스토어 참여형 마케팅 솔루션 '원퀘스트(ONEquest)'를 통해 플레이 미션 및 보상을 제공하며, 크리에이터... 오는 11월 16일 임시주주총회를 통한 사명 변경(주식회사 원)을 앞두고, '아스텔리아2'를 시작으로 AI 및 Web3...",
+          "source": "biztribune.co.kr",
+          "sources": [
+            {
+              "name": "biztribune.co.kr",
+              "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=361986",
+              "origin": "naver",
+              "title": "넥써쓰, 레포르게임즈 '아스텔리아2' 글로벌 정식 출시… 원스토어 품은..."
+            },
+            {
+              "name": "이뉴스투데이",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LdTFGcnhmZ043bmN5QnRqSHE0Mkl3ZmxRaXhYc1JEb29VbF9pcF91Um1fSk9SakNjdHpuNE81aFBjOE1iRm5qU2ZvaFhQZlo3RmNBSWhuZnd2Q2o1WkNKcXZkMmp4XzhqUkQwLTRuWWnSAXRBVV95cUxQeFUzWVlmQUN0dWJRaWNEbGxPZ1NhWG1PREZHVTJRLUlRakJiZ1pqTW1fUWh4UWUyZm90N1F0WXVZTm1TVUdTWXJlTkU3TXBfQjlOcjlkX2poZnpFR1JfdWo5cHN2ekx1SmVaWnkxbW1DQ0xZMg?oc=5",
+              "origin": "google",
+              "title": "넥써쓰, ‘아스텔리아2’ 글로벌 출시···원스토어 인수 후 첫 신작"
+            },
+            {
+              "name": "게임앤드",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSeldKUWNzaDlMSUxlVm9sQW1rUmdXa3kyTURwTnh2Z1hRdUtHNWtvdjZuZVFwam5MeF9TSVNrRFdPSUZPd3BJTEg2YUVFSnFpWGRkSVVpTllxNmxWYnZpNWtVdnFTRXdTcnc?oc=5",
+              "origin": "google",
+              "title": "넥써쓰, 모처럼 신작! 아스텔리아2 출시"
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-11-05T20:26:00+09:00",
+          "ts": 1793877960.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
           "title": "AI 에이전트 시대 개인정보 보호 어떻게…개보위 공개토론회",
           "url": "https://www.yna.co.kr/view/AKR20261105070600530?input=1195m",
           "snippet": "",
@@ -12148,6 +11958,37 @@
           "source_count": 3,
           "published": "2026-11-05T15:30:00+09:00",
           "ts": 1793860200.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "인천시, 내년 예산 15조 9천억 편성…인천e음 캐시백 10%·월 한도 50만원...",
+          "url": "https://www.siminsori.com/news/articleView.html?idxno=402285",
+          "snippet": "주요 사업으로는 K-바이오랩허브 건립 321억 원, AI 혁신성장 지원 40억 원, 피지컬 AI 실증센터 조성·운영 13억 원, 탄소포집용 수소생산기지 구축 61억 원 등이 포함됐다. 교통 인프라 확충과 원도심 혁신에는 2조...",
+          "source": "siminsori.com",
+          "sources": [
+            {
+              "name": "siminsori.com",
+              "url": "https://www.siminsori.com/news/articleView.html?idxno=402285",
+              "origin": "naver",
+              "title": "인천시, 내년 예산 15조 9천억 편성…인천e음 캐시백 10%·월 한도 50만원..."
+            },
+            {
+              "name": "breaknews.com",
+              "url": "http://www.breaknews.com/1248596",
+              "origin": "naver",
+              "title": "인천시 민선9기 첫 예산 ‘2027년 예산안 15조 9천억 원 편성’"
+            },
+            {
+              "name": "아주경제",
+              "url": "https://www.ajunews.com/view/20261105102513316",
+              "origin": "naver",
+              "title": "박찬대 인천시장, 민생 지키고 인천 제값 찾는다...내년 예산 15조9천억..."
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-11-05T15:22:00+09:00",
+          "ts": 1793859720.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -12338,6 +12179,31 @@
           "group_label": "AI · 생성형AI"
         },
         {
+          "title": "크립토랩, 동형암호 보안 솔루션 '헤라클레스' 출시…암호화 상태로 검...",
+          "url": "https://www.dailysecu.com/news/articleView.html?idxno=209341",
+          "snippet": "이번 테스트는 공격자가 DB 조회 계정을 탈취해 읽기 권한을 확보한 상황을 가정했으며, 다수의 AI 에이전트가 공격을 시도하고 정보를 공유하는 방식으로 진행됐다. 동북아생물다양성연구소가 헤라클레스를 처음...",
+          "source": "dailysecu.com",
+          "sources": [
+            {
+              "name": "dailysecu.com",
+              "url": "https://www.dailysecu.com/news/articleView.html?idxno=209341",
+              "origin": "naver",
+              "title": "크립토랩, 동형암호 보안 솔루션 '헤라클레스' 출시…암호화 상태로 검..."
+            },
+            {
+              "name": "머니투데이",
+              "url": "https://www.mt.co.kr/future/2026/11/06/2026110610020097112",
+              "origin": "naver",
+              "title": "\"탈취돼도 원문 확인 못해\"…크립토랩, DB 보안 솔루션 출시"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-11-06T14:42:00+09:00",
+          "ts": 1793943720.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
           "title": "\"韓 반도체와 日 로봇 맞손\"…한일 재계, 피지컬 AI 협력 모색",
           "url": "https://view.asiae.co.kr/article/2026110614355536332",
           "snippet": "첫 번째 세션에서는 피지컬 AI와 로보틱스 기술의 산업 적용 방안이 다뤄졌다. 이지평 한국외국어대학교 특임교수와 노자키 히로키 젠인텔리전스 최고경영자(CEO)가 발표자로 나섰다. 참석자들은 한국의 AI 및 반도체...",
@@ -12359,6 +12225,31 @@
           "source_count": 2,
           "published": "2026-11-06T14:35:00+09:00",
           "ts": 1793943300.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "LG전자, 美 밴더빌트에 해외 첫 브랜드 라운지... 미래·인재 확보 시동",
+          "url": "https://www.moneystorm.kr/news/articleView.html?idxno=8147",
+          "snippet": "해당 공장은 2023년 세계경제포럼(WEF)의 등대공장으로 선정됐으며, 최근에는 로봇과 AI를 제조 현장에 적용하는 피지컬 AI 기술 검증 거점으로 활용되고 있다. 곽도영 LG전자 북미지역대표 부사장은 \"라이프스...",
+          "source": "moneystorm.kr",
+          "sources": [
+            {
+              "name": "moneystorm.kr",
+              "url": "https://www.moneystorm.kr/news/articleView.html?idxno=8147",
+              "origin": "naver",
+              "title": "LG전자, 美 밴더빌트에 해외 첫 브랜드 라운지... 미래·인재 확보 시동"
+            },
+            {
+              "name": "viva100.com",
+              "url": "https://www.viva100.com/article/20261106500299",
+              "origin": "naver",
+              "title": "LG전자, 美 밴더빌트대에 첫 브랜드 공간 마련"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-11-06T14:29:00+09:00",
+          "ts": 1793942940.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -12388,27 +12279,27 @@
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "해킹에 데이터 탈취돼도 원문 노출 차단…크립토랩, '헤라클레스' 출시",
-          "url": "https://www.ddaily.co.kr/page/view/2026110614145915629",
-          "snippet": "공격자가 DB 조회 계정을 탈취해 읽기 권한을 확보한 상황을 가정하고 다수 AI 에이전트가 침투를 시도한 결과, 일반 DB에서는 개인정보 원문 1000건이 모두 노출됐으나 HEracles 적용 환경에서는 유출 0건을 기록했다....",
-          "source": "ddaily.co.kr",
+          "title": "\"AI 기술의 최종 적용 어렵다\"…‘두번째 시그널’, 조진웅 논란에도 12...",
+          "url": "https://www.dailian.co.kr/news/view/1711808/?sc=Naver",
+          "snippet": "스태프와 제작진, 관계자들의 시간과 노력이 담긴 공동의 창작물”이라고 설명했다. 이어 “영상 기술을 활용한 수정 방안을 모색하고 AI를 활용한 인물 교체 테스트도 진행했다”며 “그러나 연기 표현과 서사의...",
+          "source": "dailian.co.kr",
           "sources": [
             {
-              "name": "ddaily.co.kr",
-              "url": "https://www.ddaily.co.kr/page/view/2026110614145915629",
+              "name": "dailian.co.kr",
+              "url": "https://www.dailian.co.kr/news/view/1711808/?sc=Naver",
               "origin": "naver",
-              "title": "해킹에 데이터 탈취돼도 원문 노출 차단…크립토랩, '헤라클레스' 출시"
+              "title": "\"AI 기술의 최종 적용 어렵다\"…‘두번째 시그널’, 조진웅 논란에도 12..."
             },
             {
-              "name": "머니투데이",
-              "url": "https://www.mt.co.kr/future/2026/11/06/2026110610020097112",
+              "name": "sportsseoul.com",
+              "url": "https://www.sportsseoul.com/news/read/1647488?ref=naver",
               "origin": "naver",
-              "title": "\"탈취돼도 원문 확인 못해\"…크립토랩, DB 보안 솔루션 출시"
+              "title": "‘두번째 시그널’ 측 “조진웅만의 작품 아냐…AI 테스트도 해봤다” ..."
             }
           ],
           "source_count": 2,
-          "published": "2026-11-06T14:18:00+09:00",
-          "ts": 1793942280.0,
+          "published": "2026-11-06T14:20:00+09:00",
+          "ts": 1793942400.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -12539,13 +12430,13 @@
         },
         {
           "title": "경과원 · NIA '2026 AI대전환 오픈 세미나' 개최… AI 시대, 기술의 한계를 넘어 인간 본질과 무한한 도전을 논하다",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXMlFoRjJzaGdHOVFMS1JRcHRMay1kdXRIOU9RSUlCeWtNRS1pUnFkN0d1a2JIVzA4SGhsZ3k2WTBJcDFwUUtqT0ZVY015SjVCTkRubWt0TWNYbnotTmM3TXBwS19ZOVXSAWtBVV95cUxQTlZFaHNZWEtUaUFrWENnd1pibWdlbzZaUFV0bG9vTXhXMEt5WjV4NlZ6UE83X3lsX2piX0FkWXdqSlRzTl9JZ04yRlVJM1dCQXVUTDl6WnB1dG1VeU9icWpfSVNoMnU0aWd3OA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOVkVoc1lYS1RpQWtYQ2d3WmJtZ2VvNlpQVXRsb29NeFcwS3laNXg2VnpQTzdfeWxfamJfQWRZd2pKVHNOX0lnTjJGVUkzV0JBdVRMOXpacHV0bVV5T2Jxal9JU2gydTRpZ3c40gFrQVVfeXFMUE5WRWhzWVhLVGlBa1hDZ3daYm1nZW82WlBVdGxvb014VzBLeVo1eDZWelBPN195bF9qYl9BZFl3akpUc05fSWdOMkZVSTNXQkF1VEw5elpwdXRtVXlPYnFqX0lTaDJ1NGlndzg?oc=5",
           "snippet": "",
           "source": "에이빙",
           "sources": [
             {
               "name": "에이빙",
-              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXMlFoRjJzaGdHOVFMS1JRcHRMay1kdXRIOU9RSUlCeWtNRS1pUnFkN0d1a2JIVzA4SGhsZ3k2WTBJcDFwUUtqT0ZVY015SjVCTkRubWt0TWNYbnotTmM3TXBwS19ZOVXSAWtBVV95cUxQTlZFaHNZWEtUaUFrWENnd1pibWdlbzZaUFV0bG9vTXhXMEt5WjV4NlZ6UE83X3lsX2piX0FkWXdqSlRzTl9JZ04yRlVJM1dCQXVUTDl6WnB1dG1VeU9icWpfSVNoMnU0aWd3OA?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOVkVoc1lYS1RpQWtYQ2d3WmJtZ2VvNlpQVXRsb29NeFcwS3laNXg2VnpQTzdfeWxfamJfQWRZd2pKVHNOX0lnTjJGVUkzV0JBdVRMOXpacHV0bVV5T2Jxal9JU2gydTRpZ3c40gFrQVVfeXFMUE5WRWhzWVhLVGlBa1hDZ3daYm1nZW82WlBVdGxvb014VzBLeVo1eDZWelBPN195bF9qYl9BZFl3akpUc05fSWdOMkZVSTNXQkF1VEw5elpwdXRtVXlPYnFqX0lTaDJ1NGlndzg?oc=5",
               "origin": "google",
               "title": "경과원 · NIA '2026 AI대전환 오픈 세미나' 개최… AI 시대, 기술의 한계를 넘어 인간 본질과 무한한 도전을 논하다"
             },
@@ -12557,33 +12448,33 @@
             }
           ],
           "source_count": 2,
-          "published": "2026-11-06T13:41:52+09:00",
-          "ts": 1793940112.0,
+          "published": "2026-11-06T13:45:44+09:00",
+          "ts": 1793940344.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
         {
-          "title": "교보교육재단, 중학생 60명 대상 AI 윤리 토론 프로그램 운영",
-          "url": "https://sateconomy.co.kr/news/view/1065587117382671",
-          "snippet": "서울교대와 교육 콘텐츠 개발…공정성·프라이버시 등 4개 가치 중심 청소년 AI윤리ON 캠프 참여…토론 결과 생성형 AI로 카드뉴스 제작 ▲ 지난 10월 31일 서울 서초구 대한건축사협회 대강당에서 열린 ‘2026년 제2회...",
-          "source": "sateconomy.co.kr",
+          "title": "카카오모빌리티, 육군과 국방 AI 협력…드론·로봇 통합관제 기술 개발",
+          "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/03/2026110380204.html",
+          "snippet": "",
+          "source": "digitalchosun.dizzo.com",
           "sources": [
             {
-              "name": "sateconomy.co.kr",
-              "url": "https://sateconomy.co.kr/news/view/1065587117382671",
+              "name": "digitalchosun.dizzo.com",
+              "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/03/2026110380204.html",
               "origin": "naver",
-              "title": "교보교육재단, 중학생 60명 대상 AI 윤리 토론 프로그램 운영"
+              "title": "카카오모빌리티, 육군과 국방 AI 협력…드론·로봇 통합관제 기술 개발"
             },
             {
-              "name": "newsmap.co.kr",
-              "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=4896",
-              "origin": "naver",
-              "title": "교보교육재단, '청소년 AI윤리ON 캠프'서 가치판단 토론 교육 운영"
+              "name": "웹이코노미",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFd1E4UnhXcW5aZkxpbFRicUQteDIxTE9VY3dBeW8yZmZBb3J4VHlwVmtMWmtXVlYwX202Wm9oakY4OXdOa1d4QzNtV1Vka2xxMVpZNm40X2plSTBHM0ptcUdPVHB6RXI2SGNsZ3lTRUJFQQ?oc=5",
+              "origin": "google",
+              "title": "카카오모빌리티·육군, 국방 피지컬 AI·무인체계 통합관제 기술 공동개발"
             }
           ],
           "source_count": 2,
-          "published": "2026-11-06T13:36:00+09:00",
-          "ts": 1793939760.0,
+          "published": "2026-11-06T13:30:00+09:00",
+          "ts": 1793939400.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -12634,31 +12525,6 @@
           "source_count": 2,
           "published": "2026-11-06T13:06:00+09:00",
           "ts": 1793937960.0,
-          "group": "trend_ai",
-          "group_label": "AI · 생성형AI"
-        },
-        {
-          "title": "AI도 이제 '판단'이 경쟁력…카카오, 의사결정 특화 '카나나-2-v-decide' 공개",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GNTJ4M0dsYkxncHhtQmZxYU9wRUgzSFhid29BMkl5NGItWWJUQ3Y5Z3h6T1YzYmEwTDJvUVhBbmhvTnRzWnVVeXBpN0ZrVE9pSXBCWFVXa3dKZ1g5bElxMjM5UXFEZFBmWmV2eDd4WnM1RV8tQlE?oc=5",
-          "snippet": "",
-          "source": "인포스탁데일리",
-          "sources": [
-            {
-              "name": "인포스탁데일리",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GNTJ4M0dsYkxncHhtQmZxYU9wRUgzSFhid29BMkl5NGItWWJUQ3Y5Z3h6T1YzYmEwTDJvUVhBbmhvTnRzWnVVeXBpN0ZrVE9pSXBCWFVXa3dKZ1g5bElxMjM5UXFEZFBmWmV2eDd4WnM1RV8tQlE?oc=5",
-              "origin": "google",
-              "title": "AI도 이제 '판단'이 경쟁력…카카오, 의사결정 특화 '카나나-2-v-decide' 공개"
-            },
-            {
-              "name": "뉴스핌",
-              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mSEtwQlprS01NakVmVldhMXE5aFhNTGNiWlprcU1kbHBfVXgxVDBmRE5SX2c2bFhuQ2F3eWFnTWhWVm5Pd1VNTTl6bXlleFczSTliaWo3cU50M0d5?oc=5",
-              "origin": "google",
-              "title": "카카오, AI 의사결정 특화 모델 '카나나' 오픈소스 공개"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-11-06T13:03:00+09:00",
-          "ts": 1793937780.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
         },
@@ -12888,6 +12754,31 @@
           "group_label": "AI · 생성형AI"
         },
         {
+          "title": "호원대, 생성형 AI 활용·심화과정 실습 워크숍 운영",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wYy00RW1yM19GY3k1c3h5aFowckF0NGlPcjZMdVlvQmJ2dV8yU0dqWnZTYlhoYi1hVUY3VWJOeXc2QjZLbVJwdG5TSzhfVVJXSFZlLW9ZVGRXMDhRTTliVXVWRTBQdw?oc=5",
+          "snippet": "",
+          "source": "한국대학신문",
+          "sources": [
+            {
+              "name": "한국대학신문",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wYy00RW1yM19GY3k1c3h5aFowckF0NGlPcjZMdVlvQmJ2dV8yU0dqWnZTYlhoYi1hVUY3VWJOeXc2QjZLbVJwdG5TSzhfVVJXSFZlLW9ZVGRXMDhRTTliVXVWRTBQdw?oc=5",
+              "origin": "google",
+              "title": "호원대, 생성형 AI 활용·심화과정 실습 워크숍 운영"
+            },
+            {
+              "name": "경기신문",
+              "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpWm5ETlFtTjZGUzVDbVkyT0pKem40ZW9ISEh3Y08tbVo5cDZ4Ri1UN0ZtRl83ZkdKRnhCSVlURlBuaUR6dl9VVV9sdW5qbk5LdElHbmQySkVSNnY2SWFlcTFR?oc=5",
+              "origin": "google",
+              "title": "구리남양주교육지원청, 생성형 AI 활용 학원 운영 안내 영상 자체 제작… 예방 중심 관리 강화"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-11-06T11:13:15+09:00",
+          "ts": 1793931195.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
+        },
+        {
           "title": "서울세무사회, AI 업무혁신 심화교육…100명 모집 10분 만에 마감",
           "url": "https://www.sejungilbo.com/news/articleView.html?idxno=60991",
           "snippet": "제1기 교육이 AI의 기본 개념과 기초 활용에 초점을 맞췄다면, 이번 교육은 AI 에이전트와 업무 자동화, 바이브 코딩 등을 활용한 실무 심화과정으로 구성됐다. 강의는 1기에 이어 윤상복 세무사(한국세무사회...",
@@ -12911,6 +12802,31 @@
           "ts": 1793929920.0,
           "group": "trend_ai",
           "group_label": "AI · 생성형AI"
+        },
+        {
+          "title": "[리포트 브리핑]카카오, '본업 무난, 결국 AI 에이전트 증명 필요' 목표가 39,000원 - 신한투자증권",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41aEZ4bTZjRE9tR2pDeWVuTkhjRmlOdWRnaUxVNlVxZnhVbktqbHE1dEctVlZoUUxNNjhXSGtfeDBKdTFkZ29Ld3h3TzZEUHN6ellVS013X2ZWVl9v?oc=5",
+          "snippet": "",
+          "source": "뉴스핌",
+          "sources": [
+            {
+              "name": "뉴스핌",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41aEZ4bTZjRE9tR2pDeWVuTkhjRmlOdWRnaUxVNlVxZnhVbktqbHE1dEctVlZoUUxNNjhXSGtfeDBKdTFkZ29Ld3h3TzZEUHN6ellVS013X2ZWVl9v?oc=5",
+              "origin": "google",
+              "title": "[리포트 브리핑]카카오, '본업 무난, 결국 AI 에이전트 증명 필요' 목표가 39,000원 - 신한투자증권"
+            },
+            {
+              "name": "이데일리",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeG9aeUVGUWhUVTR4WE10YUlFV05yNjBtWUVJUU1WcGRSYVlMVFpLQk1CQzJQVUxCVFhCQTVfRGdSS3VBSUF4WkxZcmJZemk3dzFnWTlSNTZ1MTVTRDh1X19TR2g4di0zeFVSZFJGWGlLNjdhTzJRZVBBVGFGSnR5Vg?oc=5",
+              "origin": "google",
+              "title": "카카오, 3분기 실적 순항…12월 AI 에이전트가 분수령-신한"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-11-06T10:21:00+09:00",
+          "ts": 1793928060.0,
+          "group": "trend_ai",
+          "group_label": "AI · 생성형AI"
         }
       ]
     },
@@ -12920,7 +12836,7 @@
       "priority": 12,
       "page": "trends",
       "preview": 3,
-      "count": 153,
+      "count": 154,
       "items": [
         {
           "title": "“숏폼으로 글로벌 공략”… CJ온스타일, 협력사 대상 세미나",
@@ -13032,16 +12948,16 @@
               "title": "CJ ENM, 통합 광고·글로벌 유통 확대…성장전략 가속"
             },
             {
-              "name": "파이낸셜뉴스",
-              "url": "https://www.fnnews.com/news/202611060925333871",
-              "origin": "naver",
-              "title": "CJ ENM, 광고·콘텐츠·커머스 집중 강화...성장전략 '실행' 가속"
-            },
-            {
               "name": "뉴스1",
               "url": "https://www.news1.kr/it-science/cc-newmedia/6345156",
               "origin": "naver",
               "title": "CJ ENM \"4분기 광고사업 고도화 등 성장 전략 속도\""
+            },
+            {
+              "name": "파이낸셜뉴스",
+              "url": "https://www.fnnews.com/news/202611060925333871",
+              "origin": "naver",
+              "title": "CJ ENM, 광고·콘텐츠·커머스 집중 강화...성장전략 '실행' 가속"
             },
             {
               "name": "news.mtn.co.kr",
@@ -13584,16 +13500,16 @@
               "title": "루노소프트, 순천 이전 후 웹툰 IP 게임 개발 확대"
             },
             {
-              "name": "IT타임스",
-              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52S3FoVlI5OU5NYkVsQWpWaWpYR0ltWTFSdVBwT0QxX1lxek9mNnI3SU1IeWlBdU1NaHhScEQtYjhTS2Q0bXZyZkZuYzY3aTJNOUtvck9xZmI4bXB1c3JxQUtiellpXzlI?oc=5",
-              "origin": "google",
-              "title": "루노소프트, 순천 거점으로 글로벌 IP 게임 확대…웹툰 기반 스토리 게임 진출"
-            },
-            {
               "name": "스타트업엔(StartupN)",
               "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yYkV0a05vN0VsYU5xdlVWRFcza1hvd1Q4Q2YxUzhIOFJJUG13bzZUYklZcW52cVp2RUttVk9GaDRGbTVLM0xGb29rLW0wV1c2NkNnd3JwNHdlVzZMUHhxOElvVlNNZ3dCbW9YM9IBbEFVX3lxTE1yYkV0a05vN0VsYU5xdlVWRFcza1hvd1Q4Q2YxUzhIOFJJUG13bzZUYklZcW52cVp2RUttVk9GaDRGbTVLM0xGb29rLW0wV1c2NkNnd3JwNHdlVzZMUHhxOElvVlNNZ3dCbW9YMw?oc=5",
               "origin": "google",
               "title": "루노소프트, 순천으로 본사 이전… 웹툰·애니메이션 IP 게임 사업 확대"
+            },
+            {
+              "name": "IT타임스",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52S3FoVlI5OU5NYkVsQWpWaWpYR0ltWTFSdVBwT0QxX1lxek9mNnI3SU1IeWlBdU1NaHhScEQtYjhTS2Q0bXZyZkZuYzY3aTJNOUtvck9xZmI4bXB1c3JxQUtiellpXzlI?oc=5",
+              "origin": "google",
+              "title": "루노소프트, 순천 거점으로 글로벌 IP 게임 확대…웹툰 기반 스토리 게임 진출"
             }
           ],
           "source_count": 3,
@@ -13615,16 +13531,16 @@
               "title": "GICON 지원기업 스튜디오질풍, 인천 송도서 웹툰 '레벨업 닥터 최기석' ..."
             },
             {
-              "name": "남도일보",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXSkhidm5qR1VCb3QzY2szREprY3RremlVaENYSEFDN2dBcDBYeXAtaWo4Z2xfci1pQWFvLXQ4bEdZWHlsT3dzTW9tdnJ4NFJLcDF6c0ZadXFDcFVxS00xMVFZNmljQl9TUVppbWRoTWzSAXBBVV95cUxQV0pIYnZuakdVQm90M2NrM0RKa2N0a3ppVWhDWEhBQzdnQXAwWHlwLWlqOGdsX3ItaUFhby10OGxHWVh5bE93c01vbXZyeDRSS3AxenNGWnVxQ3BVcUtNMTFRWTZpY0JfU1FaaW1kaE1s?oc=5",
-              "origin": "google",
-              "title": "광주 웹툰 ‘레벨업 닥터 최기석’, 수도권 대형 유통가 팝업으로 뻗어나간다"
-            },
-            {
               "name": "AI포스트",
               "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HcmFxNFIyUGhsZHhoRTd1dnYxRGhiWVZxZE4xcXlHU3RQMjBNbmF6Qkl0eVl5NzM2LXVWLWI5XzVBekZ2aUZfQmVHRjEtdUtGWTRVZDYycENBaWNHTFFWaTkzMjJicGtyQ05YbXlidkdIQdIBckFVX3lxTE9HcmFxNFIyUGhsZHhoRTd1dnYxRGhiWVZxZE4xcXlHU3RQMjBNbmF6Qkl0eVl5NzM2LXVWLWI5XzVBekZ2aUZfQmVHRjEtdUtGWTRVZDYycENBaWNHTFFWaTkzMjJicGtyQ05YbXlidkdIQQ?oc=5",
               "origin": "google",
               "title": "GICON 지원기업 스튜디오질풍, 인천 송도서 웹툰 ‘레벨업 닥터 최기석’ 반짝매장 운영"
+            },
+            {
+              "name": "남도일보",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXSkhidm5qR1VCb3QzY2szREprY3RremlVaENYSEFDN2dBcDBYeXAtaWo4Z2xfci1pQWFvLXQ4bEdZWHlsT3dzTW9tdnJ4NFJLcDF6c0ZadXFDcFVxS00xMVFZNmljQl9TUVppbWRoTWzSAXBBVV95cUxQV0pIYnZuakdVQm90M2NrM0RKa2N0a3ppVWhDWEhBQzdnQXAwWHlwLWlqOGdsX3ItaUFhby10OGxHWVh5bE93c01vbXZyeDRSS3AxenNGWnVxQ3BVcUtNMTFRWTZpY0JfU1FaaW1kaE1s?oc=5",
+              "origin": "google",
+              "title": "광주 웹툰 ‘레벨업 닥터 최기석’, 수도권 대형 유통가 팝업으로 뻗어나간다"
             }
           ],
           "source_count": 3,
@@ -13754,6 +13670,31 @@
           "source_count": 3,
           "published": "2026-11-05T08:54:50+09:00",
           "ts": 1793836490.0,
+          "group": "trend_content",
+          "group_label": "콘텐츠 · 크리에이터"
+        },
+        {
+          "title": "원천 자료 하나로 기사·블로그·숏폼·SNS 한꺼번에 만드는 통합 콘텐츠 전략",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE80OGE5Q2xrTlhiRWw3bGxVN0pPS0dzV3lZRlJWT01ha1YtejJ6R1pxNXhYUEtsMDRVUjZiY0VUVU8wSGVhYWUzNVZR?oc=5",
+          "snippet": "",
+          "source": "뉴스N연합",
+          "sources": [
+            {
+              "name": "뉴스N연합",
+              "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE80OGE5Q2xrTlhiRWw3bGxVN0pPS0dzV3lZRlJWT01ha1YtejJ6R1pxNXhYUEtsMDRVUjZiY0VUVU8wSGVhYWUzNVZR?oc=5",
+              "origin": "google",
+              "title": "원천 자료 하나로 기사·블로그·숏폼·SNS 한꺼번에 만드는 통합 콘텐츠 전략"
+            },
+            {
+              "name": "얼리어답터뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1nOWhMM3VOYWw5MWxqanFmV0NSWVViZVliRGNRQkdfNjVqd1JYTFlKRTlwRFZzenp1ZkRLdjNqTXJzalhvaVFxQm9B?oc=5",
+              "origin": "google",
+              "title": "원천 자료 하나로 기사·블로그·숏폼·SNS 한꺼번에 만드는 통합 콘텐츠 전략"
+            }
+          ],
+          "source_count": 2,
+          "published": "2026-11-06T14:40:07+09:00",
+          "ts": 1793943607.0,
           "group": "trend_content",
           "group_label": "콘텐츠 · 크리에이터"
         },
@@ -14123,25 +14064,6 @@
           "source_count": 1,
           "published": "2026-11-06T14:32:00+09:00",
           "ts": 1793943120.0,
-          "group": "trend_content",
-          "group_label": "콘텐츠 · 크리에이터"
-        },
-        {
-          "title": "원천 자료 하나로 기사·블로그·숏폼·SNS 한꺼번에 만드는 통합 콘텐츠 전략",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1nOWhMM3VOYWw5MWxqanFmV0NSWVViZVliRGNRQkdfNjVqd1JYTFlKRTlwRFZzenp1ZkRLdjNqTXJzalhvaVFxQm9B?oc=5",
-          "snippet": "",
-          "source": "얼리어답터뉴스",
-          "sources": [
-            {
-              "name": "얼리어답터뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1nOWhMM3VOYWw5MWxqanFmV0NSWVViZVliRGNRQkdfNjVqd1JYTFlKRTlwRFZzenp1ZkRLdjNqTXJzalhvaVFxQm9B?oc=5",
-              "origin": "google",
-              "title": "원천 자료 하나로 기사·블로그·숏폼·SNS 한꺼번에 만드는 통합 콘텐츠 전략"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-11-06T14:24:58+09:00",
-          "ts": 1793942698.0,
           "group": "trend_content",
           "group_label": "콘텐츠 · 크리에이터"
         },
@@ -15768,7 +15690,7 @@
       "priority": 13,
       "page": "trends",
       "preview": 3,
-      "count": 144,
+      "count": 140,
       "items": [
         {
           "title": "넷마블, ‘나혼렙:어라이즈 오버드라이브’ 콘솔 출시 기대감 ‘up’",
@@ -16199,6 +16121,139 @@
           "group_label": "게임 · e스포츠"
         },
         {
+          "title": "넥슨 '템빨: 오버기어드', 26일 정식 출시…한국 등 4개 지역 동시 서비...",
+          "url": "https://www.ddaily.co.kr/page/view/2026110614073867143",
+          "snippet": "구현한 신작 다중접속역할수행게임(MMORPG) '템빨: 오버기어드'를 선보인다. 넥슨은 오는 26일 그레이게임즈가 개발 중인 템빨: 오버기어드를 한국·대만·홍콩·마카오에 동시 출시한다고 6일 밝혔다. PC와 모바일...",
+          "source": "ddaily.co.kr",
+          "sources": [
+            {
+              "name": "ddaily.co.kr",
+              "url": "https://www.ddaily.co.kr/page/view/2026110614073867143",
+              "origin": "naver",
+              "title": "넥슨 '템빨: 오버기어드', 26일 정식 출시…한국 등 4개 지역 동시 서비..."
+            },
+            {
+              "name": "swtvnews.com",
+              "url": "https://www.swtvnews.com/news/newsview.php?ncode=1065579155871845",
+              "origin": "naver",
+              "title": "넥슨, 오는 26일 신작 MMORPG ‘템빨: 오버기어드’ 정식 출시"
+            },
+            {
+              "name": "asiatime.co.kr",
+              "url": "https://www.asiatime.co.kr/article/20261106500029",
+              "origin": "naver",
+              "title": "넥슨, 신작 MMORPG ‘템빨: 오버기어드’ 26일 출격"
+            },
+            {
+              "name": "뉴스1",
+              "url": "https://www.news1.kr/it-science/game-review/6345023",
+              "origin": "naver",
+              "title": "넥슨, MMORPG '템빨: 오버기어드' 26일 한국·대만 등 정식 출시"
+            },
+            {
+              "name": "insight.co.kr",
+              "url": "https://www.insight.co.kr/news/580892",
+              "origin": "naver",
+              "title": "넥슨 MMORPG 신작 '템빨: 오버기어드' 오는 26일 국내 정식 출시"
+            },
+            {
+              "name": "조선비즈",
+              "url": "https://biz.chosun.com/it-science/ict/2026/11/06/B3QV2XTEH5DMZMOYZ573XLNDW4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+              "origin": "naver",
+              "title": "넥슨, 신작 MMORPG ‘템빨: 오버기어드’ 11월 26일 출시"
+            },
+            {
+              "name": "breaknews.com",
+              "url": "http://www.breaknews.com/1248873",
+              "origin": "naver",
+              "title": "넥슨, 신작 MMORPG ‘템빨: 오버기어드’ 11월 26일 출시 확정"
+            },
+            {
+              "name": "디스이즈게임",
+              "url": "https://www.thisisgame.com/articles/432235",
+              "origin": "naver",
+              "title": "조회수 13억 '템빨' IP, 11월 26일 MMORPG로 나온다"
+            },
+            {
+              "name": "헤럴드경제",
+              "url": "https://biz.heraldcorp.com/article/10928381?ref=naver",
+              "origin": "naver",
+              "title": "넥슨 ‘템빨: 오버기어드’ 26일 출시"
+            },
+            {
+              "name": "dizzotv.com",
+              "url": "https://www.dizzotv.com/site/data/html_dir/2026/11/06/2026110680040.html",
+              "origin": "naver",
+              "title": "인기 웹툰 '템빨'이 게임으로…넥슨, 26일 한국·중화권 동시 출격"
+            },
+            {
+              "name": "viva100.com",
+              "url": "https://www.viva100.com/article/20261106500037",
+              "origin": "naver",
+              "title": "[게임업계 소식] 넥슨, 신작 MMORPG ‘템빨: 오버기어드’ 26일 정식 출시..."
+            },
+            {
+              "name": "매일경제",
+              "url": "https://www.mk.co.kr/article/12199022",
+              "origin": "naver",
+              "title": "넥슨 신작 ‘템빨: 오버기어드’, 26일 출격…“원작의 ‘갓 핸드’도 ..."
+            },
+            {
+              "name": "라이센스뉴스",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ibkVNcUpFLUswVG1QenF4OUpRVkNWbEpWcDlNXzdJSjdLZXMzc0dBZXFWWDljVTZmSWpLenlzbGVHbldvRndfY1BWYUkxeWZXckM0Y2o1ZGNpc2lQcUxKcEN0ZXZkOFRxQk8w?oc=5",
+              "origin": "google",
+              "title": "[게임 Pick] 넥슨, '템빨: 오버기어드' 26일 출시…넷마블, 신작 '가디언 테일즈: 디그닷' 최초 공개"
+            },
+            {
+              "name": "오늘경제",
+              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLVnNsUjlCZEtEZnZ6VWpESkNPUG9ZQVJEUG5EcXhja000c0FXbllocjFTT1MycmhBazEwb2poQkxrcENvWkZ2cmxiMXZmLUdCR0lXci05NldpNUMxSGk1d2x5Ykt4V1g4Z2lSR0w0QmdLUlk?oc=5",
+              "origin": "google",
+              "title": "넥슨 신작 MMORPG '템빨: 오버기어드' 11월 26일 출시"
+            },
+            {
+              "name": "게임어바웃",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82b1ptTVNFcGhJQlVUamlKdGxDZnNZbXZsQldsMzJvVFlpSi1yRUNzUE9aXzY4SkJaTnNLdW9oX0J2X1R2bzE5NnBNTzk1TXhrU2JvQXBONXdRWmpIQTZ1emZQT1lNUmFueC1B0gFvQVVfeXFMTldyTlBwTFl6N2dHWVBRQnJIelgzNnBmSEgzNFpnUkdMYXVjcjJScDZMOUZZaEZadl9aWk5rdHJpeWRUclotaWJJVllqTVN6bnlnbW5sNUR3X2NIRWtDVTJDUXFLVWRTRzE4OUNQTkdr?oc=5",
+              "origin": "google",
+              "title": "넥슨, 신작 MMORPG ‘템빨: 오버기어드’ 11월 26일 정식 출시"
+            },
+            {
+              "name": "파이낸셜포스트",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPYThUcjI0MDk4eXZKZGNVbDJNYlFXclBRU1NyRWlkQ0s3VWEyNkpQUS1SaUtfUGdnZWpDUElwUWppSDBicHJtUDFWSGFxdEY1V0hMUkhqak81QWtLTmxkNDFwaThkSGFUdWhWRF9IclF6dmN5?oc=5",
+              "origin": "google",
+              "title": "[게임노트] 넥슨, 신작 MMORPG ‘템빨: 오버기어드' 26일 출시"
+            },
+            {
+              "name": "뉴스핌",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXd3NMYzM2a2N5RHlOLTJDYXZ6OE1FejZldDVRa3kycXFRLWtUWEVsUnRjTG9MQm9CZEFIQ0ZrR2NEZVM5LWZBaDhwUi1jdE5xWk5lZ1RhZWZDaXlK?oc=5",
+              "origin": "google",
+              "title": "넥슨, 웹소설 IP 기반 MMORPG '템빨: 오버기어드' 26일 출시"
+            },
+            {
+              "name": "디지털투데이",
+              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GbXJPMjR1QmFOdXJkcGdsV1pYWkVBVnJUdDRvVkIwVEN6R1pYWm13SHA2cDZnSDdDYjRyVXMzT0NUcmNNd3U0NWdHN3A5Q21uaDhMZk1iR2FZZFpSX01hblczaGp0RHBOQV9ZemxiTXNOS0E?oc=5",
+              "origin": "google",
+              "title": "넥슨, 신작 MMORPG '템빨: 오버기어드' 26일 출시"
+            },
+            {
+              "name": "게임메카",
+              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LbXd5UHBkTzdBQlV0ZEFUakNmUHRZQTRHejktc3FoT1FWdDR4TEpOaVllYm9yWEluZVl1cXczSzdIcXQ5cHpIMzFmVzhNMWlZS2RwQ1ZnX2_SAVtBVV95cUxPdFRiLUhJX3NYeGlLMGlRNmlncl96NXpLOEgzYUJEUmliTG9wZWF6RUQ1SzEzSzZtcWZtMmRHYXVqanU1N3VzU3RSc2I3TjNPZ2dvZ0otQ2lBVHh3?oc=5",
+              "origin": "google",
+              "title": "넥슨 신작 MMORPG '템빨: 오버기어드' 11월 26일 출시"
+            },
+            {
+              "name": "시사포커스",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Va2plWGJjYVNpcEJsNTkyTWY2RHVNZDNpRWI3enROT1E2ejFJTjh1b0FXYWNSdzdFcFpGaEdiMlRfbDJ4SXNvcU1OMC0yWmd2TmdEZ0E0X01SbTJRbG54di1MQm9kVk5LU0RmRE5OUQ?oc=5",
+              "origin": "google",
+              "title": "넥슨, 신작 MMORPG '템빨: 오버기어드' 26일 출시 확정"
+            }
+          ],
+          "source_count": 20,
+          "published": "2026-11-06T14:40:00+09:00",
+          "ts": 1793943600.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
           "title": "넷마블, 3분기 영업이익 44.6% 감소…내년 신작 13종 이상 예고",
           "url": "https://www.mydaily.co.kr/page/view/2026110516144861831",
           "snippet": "",
@@ -16332,132 +16387,23 @@
           "group_label": "게임 · e스포츠"
         },
         {
-          "title": "넥슨, 오는 26일 신작 MMORPG ‘템빨: 오버기어드’ 정식 출시",
-          "url": "https://www.swtvnews.com/news/newsview.php?ncode=1065579155871845",
-          "snippet": "넥슨은 오는 26일 그레이게임즈가 개발 중인 신작 MMORPG ‘템빨: 오버기어드’를 국내와 대만·홍콩·마카오에 정식 출시한다고 6일 밝혔다. ‘템빨: 오버기어드’는 웹소설·웹툰 ‘템빨’을 원작으로 한 PC·모바일...",
-          "source": "swtvnews.com",
+          "title": "넷마블, '가디언 테일즈: 디그닷' 최초 공개... 2027년 출시",
+          "url": "https://www.etnews.com/20261106000242",
+          "snippet": "넷마블이 '가디언 테일즈' 지식재산(IP)을 활용한 첫 스핀오프 신작 '가디언 테일즈: 디그닷'을 공개했다.... 넷마블은 '가디언 테일즈: 디그닷'을 2027년 모바일 게임으로 출시할 예정이다. 원작 '가디언 테일즈'는 2020년...",
+          "source": "전자신문",
           "sources": [
             {
-              "name": "swtvnews.com",
-              "url": "https://www.swtvnews.com/news/newsview.php?ncode=1065579155871845",
+              "name": "전자신문",
+              "url": "https://www.etnews.com/20261106000242",
               "origin": "naver",
-              "title": "넥슨, 오는 26일 신작 MMORPG ‘템빨: 오버기어드’ 정식 출시"
+              "title": "넷마블, '가디언 테일즈: 디그닷' 최초 공개... 2027년 출시"
             },
             {
-              "name": "헤럴드경제",
-              "url": "https://biz.heraldcorp.com/article/10928381?ref=naver",
+              "name": "socialvalue.kr",
+              "url": "https://www.socialvalue.kr/news/view/1065587875671629",
               "origin": "naver",
-              "title": "넥슨 ‘템빨: 오버기어드’ 26일 출시"
+              "title": "넷마블, 모바일 게임 '가디언 테일즈: 디그닷' 첫 공개…2027년 신작 라인..."
             },
-            {
-              "name": "asiatime.co.kr",
-              "url": "https://www.asiatime.co.kr/article/20261106500029",
-              "origin": "naver",
-              "title": "넥슨, 신작 MMORPG ‘템빨: 오버기어드’ 26일 출격"
-            },
-            {
-              "name": "뉴스1",
-              "url": "https://www.news1.kr/it-science/game-review/6345023",
-              "origin": "naver",
-              "title": "넥슨, MMORPG '템빨: 오버기어드' 26일 한국·대만 등 정식 출시"
-            },
-            {
-              "name": "insight.co.kr",
-              "url": "https://www.insight.co.kr/news/580892",
-              "origin": "naver",
-              "title": "넥슨 MMORPG 신작 '템빨: 오버기어드' 오는 26일 국내 정식 출시"
-            },
-            {
-              "name": "조선비즈",
-              "url": "https://biz.chosun.com/it-science/ict/2026/11/06/B3QV2XTEH5DMZMOYZ573XLNDW4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-              "origin": "naver",
-              "title": "넥슨, 신작 MMORPG ‘템빨: 오버기어드’ 11월 26일 출시"
-            },
-            {
-              "name": "breaknews.com",
-              "url": "http://www.breaknews.com/1248873",
-              "origin": "naver",
-              "title": "넥슨, 신작 MMORPG ‘템빨: 오버기어드’ 11월 26일 출시 확정"
-            },
-            {
-              "name": "디스이즈게임",
-              "url": "https://www.thisisgame.com/articles/432235",
-              "origin": "naver",
-              "title": "조회수 13억 '템빨' IP, 11월 26일 MMORPG로 나온다"
-            },
-            {
-              "name": "viva100.com",
-              "url": "https://www.viva100.com/article/20261106500037",
-              "origin": "naver",
-              "title": "[게임업계 소식] 넥슨, 신작 MMORPG ‘템빨: 오버기어드’ 26일 정식 출시..."
-            },
-            {
-              "name": "매일경제",
-              "url": "https://www.mk.co.kr/article/12199022",
-              "origin": "naver",
-              "title": "넥슨 신작 ‘템빨: 오버기어드’, 26일 출격…“원작의 ‘갓 핸드’도 ..."
-            },
-            {
-              "name": "라이센스뉴스",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ibkVNcUpFLUswVG1QenF4OUpRVkNWbEpWcDlNXzdJSjdLZXMzc0dBZXFWWDljVTZmSWpLenlzbGVHbldvRndfY1BWYUkxeWZXckM0Y2o1ZGNpc2lQcUxKcEN0ZXZkOFRxQk8w?oc=5",
-              "origin": "google",
-              "title": "[게임 Pick] 넥슨, '템빨: 오버기어드' 26일 출시…넷마블, 신작 '가디언 테일즈: 디그닷' 최초 공개"
-            },
-            {
-              "name": "오늘경제",
-              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLVnNsUjlCZEtEZnZ6VWpESkNPUG9ZQVJEUG5EcXhja000c0FXbllocjFTT1MycmhBazEwb2poQkxrcENvWkZ2cmxiMXZmLUdCR0lXci05NldpNUMxSGk1d2x5Ykt4V1g4Z2lSR0w0QmdLUlk?oc=5",
-              "origin": "google",
-              "title": "넥슨 신작 MMORPG '템빨: 오버기어드' 11월 26일 출시"
-            },
-            {
-              "name": "게임어바웃",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82b1ptTVNFcGhJQlVUamlKdGxDZnNZbXZsQldsMzJvVFlpSi1yRUNzUE9aXzY4SkJaTnNLdW9oX0J2X1R2bzE5NnBNTzk1TXhrU2JvQXBONXdRWmpIQTZ1emZQT1lNUmFueC1B0gFvQVVfeXFMTldyTlBwTFl6N2dHWVBRQnJIelgzNnBmSEgzNFpnUkdMYXVjcjJScDZMOUZZaEZadl9aWk5rdHJpeWRUclotaWJJVllqTVN6bnlnbW5sNUR3X2NIRWtDVTJDUXFLVWRTRzE4OUNQTkdr?oc=5",
-              "origin": "google",
-              "title": "넥슨, 신작 MMORPG ‘템빨: 오버기어드’ 11월 26일 정식 출시"
-            },
-            {
-              "name": "파이낸셜포스트",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPYThUcjI0MDk4eXZKZGNVbDJNYlFXclBRU1NyRWlkQ0s3VWEyNkpQUS1SaUtfUGdnZWpDUElwUWppSDBicHJtUDFWSGFxdEY1V0hMUkhqak81QWtLTmxkNDFwaThkSGFUdWhWRF9IclF6dmN5?oc=5",
-              "origin": "google",
-              "title": "[게임노트] 넥슨, 신작 MMORPG ‘템빨: 오버기어드' 26일 출시"
-            },
-            {
-              "name": "뉴스핌",
-              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXd3NMYzM2a2N5RHlOLTJDYXZ6OE1FejZldDVRa3kycXFRLWtUWEVsUnRjTG9MQm9CZEFIQ0ZrR2NEZVM5LWZBaDhwUi1jdE5xWk5lZ1RhZWZDaXlK?oc=5",
-              "origin": "google",
-              "title": "넥슨, 웹소설 IP 기반 MMORPG '템빨: 오버기어드' 26일 출시"
-            },
-            {
-              "name": "디지털투데이",
-              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GbXJPMjR1QmFOdXJkcGdsV1pYWkVBVnJUdDRvVkIwVEN6R1pYWm13SHA2cDZnSDdDYjRyVXMzT0NUcmNNd3U0NWdHN3A5Q21uaDhMZk1iR2FZZFpSX01hblczaGp0RHBOQV9ZemxiTXNOS0E?oc=5",
-              "origin": "google",
-              "title": "넥슨, 신작 MMORPG '템빨: 오버기어드' 26일 출시"
-            },
-            {
-              "name": "게임메카",
-              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LbXd5UHBkTzdBQlV0ZEFUakNmUHRZQTRHejktc3FoT1FWdDR4TEpOaVllYm9yWEluZVl1cXczSzdIcXQ5cHpIMzFmVzhNMWlZS2RwQ1ZnX2_SAVtBVV95cUxPdFRiLUhJX3NYeGlLMGlRNmlncl96NXpLOEgzYUJEUmliTG9wZWF6RUQ1SzEzSzZtcWZtMmRHYXVqanU1N3VzU3RSc2I3TjNPZ2dvZ0otQ2lBVHh3?oc=5",
-              "origin": "google",
-              "title": "넥슨 신작 MMORPG '템빨: 오버기어드' 11월 26일 출시"
-            },
-            {
-              "name": "시사포커스",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Va2plWGJjYVNpcEJsNTkyTWY2RHVNZDNpRWI3enROT1E2ejFJTjh1b0FXYWNSdzdFcFpGaEdiMlRfbDJ4SXNvcU1OMC0yWmd2TmdEZ0E0X01SbTJRbG54di1MQm9kVk5LU0RmRE5OUQ?oc=5",
-              "origin": "google",
-              "title": "넥슨, 신작 MMORPG '템빨: 오버기어드' 26일 출시 확정"
-            }
-          ],
-          "source_count": 18,
-          "published": "2026-11-06T13:06:00+09:00",
-          "ts": 1793937960.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
-          "title": "넷마블, 신작 로그라이트 '가디언 테일즈: 디그닷' 첫 공개",
-          "url": "http://www.inews24.com/view/2023268",
-          "snippet": "",
-          "source": "아이뉴스24",
-          "sources": [
             {
               "name": "아이뉴스24",
               "url": "http://www.inews24.com/view/2023268",
@@ -16501,12 +16447,6 @@
               "title": "넷마블, 신작 '가디언 테일즈: 디그닷' 게임명 및 키아트 공개"
             },
             {
-              "name": "wikitree.co.kr",
-              "url": "https://www.wikitree.co.kr/articles/1172432",
-              "origin": "naver",
-              "title": "가디언 테일즈 첫 스핀오프 ‘디그닷’, RPG 아닌 덱 빌딩 로그라이트로..."
-            },
-            {
               "name": "동아일보",
               "url": "https://game.donga.com/124998/",
               "origin": "naver",
@@ -16525,6 +16465,18 @@
               "title": "넷마블, 신작 '가디언 테일즈: 디그닷' 게임명·키아트 이미지 공개"
             },
             {
+              "name": "소셜밸류",
+              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vVWxLaWtYWW1UaGhrZzgzSGhvcUE3bFhuZzFidF9aZUVGblhvTmFqdE9rcjQtdWFBb05ZcFJNTDItWHc5Z2F1UXFYVkIwS19hWmRvanM4bXVHM1gtRjc3WFRjVdIBbEFVX3lxTE1xd05iczF4Y1paUy1SR25zR2xNMER0NG15ZzFqODQ3Rkk0Wllic0h6RmlmVmdxa3h0Sm1JdU9CVHVnRU5ubVBnREUxaDlVQURmVlQtc0t2Tmx2U1YzRlFjelRmckZiRGNNaGU2Sw?oc=5",
+              "origin": "google",
+              "title": "넷마블, 모바일 게임 ′가디언 테일즈: 디그닷′ 첫 공개…2027년 신작 라인업 확대"
+            },
+            {
+              "name": "뉴스웍스",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jVnpkZFFwd1NBc1RHcmpid2pLeXpzQlNLZzZyR2p6QUt0c0V6VGJCU001X1JWQnc3THUyTVhQeHdnZU5GUEpxM1hmdVUyOWtRYi0zbTNBZUd1WkRPcFVGQkhVNzYxTVA0N3lKLVhKUdIBc0FVX3lxTFAtaWphS2tEMnJESmFyTjJNeU5mXzBQTnYwdjVld1d6T1h5dWZuQlFET1ZrUVJLemU4MGQxMmxJVjZpc1VjbnViODlUOS0xNl9FbE96MThwMk1hUmdIR2Fwa0k4azZxU3R6azJsTEZpalZILU0?oc=5",
+              "origin": "google",
+              "title": "[게임스테이션] '테일즈위버 모바일' 공개·'오버기어드' 26일 출시·'사이코 슬루스' 출시·'WB 올스타 키우기' 공개·'디그닷' 키아트 공개"
+            },
+            {
               "name": "데일리한국",
               "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SektNNUJ1UGs2OFkxdHo1UjVoM1dRMzhnZFVpcC1JLTZjT1VTR1hSUGRIUjFtZDg1akM4ZlgxQm83WU5tc2pxcTdDQjQzNmdsNWthYXNWcWJzNXNnOWZBSFBmX0hmQ051QU9uQzdxONIBc0FVX3lxTE83LWl3UEpPR0hITjlZWHJ6OGJFV3hMNFkzajJPZWtWSlZicnU0ZWtYMXFvN3hCQTZhY0JGbGtBSHZsZ2g4S1hEZUIzSWxCeTRjTzRxTHotT2FQWXdtamJyOUJ4V2xCNTktbGRnQ0lDbzRnTmM?oc=5",
               "origin": "google",
@@ -16537,9 +16489,9 @@
               "title": "넷마블, 신작 '가디언 테일즈: 디그닷' 공개…2027년 모바일 출시"
             }
           ],
-          "source_count": 13,
-          "published": "2026-11-06T13:40:00+09:00",
-          "ts": 1793940000.0,
+          "source_count": 16,
+          "published": "2026-11-06T14:42:00+09:00",
+          "ts": 1793943720.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
         },
@@ -16680,6 +16632,67 @@
           "source_count": 9,
           "published": "2026-11-05T18:10:11+09:00",
           "ts": 1793869811.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
+          "title": "스마일게이트, 추리 어드벤처 '사이코 슬루스' 출시... 인지 장애를 추...",
+          "url": "https://www.etnews.com/20261106000237",
+          "snippet": "출시 전에는 스팀 넥스트 페스트와 부산인디커넥트페스티벌(BIC), 게임스컴 2026, 도쿄게임쇼 2026 등에서 데모를 선보였다. 스마일게이트는 출시를 기념해 2주간 스토브와 스팀에서 10% 할인 판매한다. 스토브에서는...",
+          "source": "전자신문",
+          "sources": [
+            {
+              "name": "전자신문",
+              "url": "https://www.etnews.com/20261106000237",
+              "origin": "naver",
+              "title": "스마일게이트, 추리 어드벤처 '사이코 슬루스' 출시... 인지 장애를 추..."
+            },
+            {
+              "name": "뉴스1",
+              "url": "https://www.news1.kr/it-science/game-review/6345648",
+              "origin": "naver",
+              "title": "스마일게이트, 추리 게임 '사이코 슬루스' 스토브·스팀 출시"
+            },
+            {
+              "name": "xportsnews.com",
+              "url": "https://www.xportsnews.com/article/2216324",
+              "origin": "naver",
+              "title": "스마일게이트, 추리 어드벤처 '사이코 슬루스' 스토브·스팀 동시 정식..."
+            },
+            {
+              "name": "todayeconomic.com",
+              "url": "https://www.todayeconomic.com/news/article.html?no=32742",
+              "origin": "naver",
+              "title": "스마일게이트, 추리 어드벤처 ‘사이코 슬루스’ 출시…스토브·스팀 동..."
+            },
+            {
+              "name": "dizzotv.com",
+              "url": "https://www.dizzotv.com/site/data/html_dir/2026/11/06/2026110680083.html",
+              "origin": "naver",
+              "title": "\"보이는 것도 의심하라\"…스마일게이트, 추리 신작 '사이코 슬루스' 출..."
+            },
+            {
+              "name": "betanews.net",
+              "url": "https://www.betanews.net/article/view/beta202611060074",
+              "origin": "naver",
+              "title": "스마일게이트, 추리 어드벤처 사이코 슬루스 출시"
+            },
+            {
+              "name": "일요경제",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QVU9KZnRXZzdkUDNncmRkNzE0bUctNGxQYmtpZTdPLVJZT1JZeThZemc0alR1bTFvUG5RU05iM3lfM3BqeE14b2l6eUJMTkJObVBkbWZ3OTNCSENDU1pRVjNIM3BKRUN6VlBkSDRR?oc=5",
+              "origin": "google",
+              "title": "[게임 신작] 스마일게이트, 추리 어드벤처 신작 '사이코 슬루스' 출시"
+            },
+            {
+              "name": "게임메카",
+              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CVV9reUlNQjQ1QW9KWEk3ajFGRENlTkl6RWg0VkpyaWN4d2huUUdSSFRXNzlBaEgzMFBrMGNVRVRrb0VyZDVxMi1HY2R2TTJRSTdYV3BPeUvSAVtBVV95cUxNRHlianl1WXJnNUVVRGxwUmY3R3dkWmJOMXlmSWZvRXM0elQ5NDBnanFVenY4Z1lGM1p1dG41d2lieWdrSzJtWVMzZDJBaXZ2OUNNQ2FTNmJ6M0w0?oc=5",
+              "origin": "google",
+              "title": "인지 장애 접목한 데스게임, 추리 신작 '사이코 슬루스' 출시"
+            }
+          ],
+          "source_count": 8,
+          "published": "2026-11-06T14:38:00+09:00",
+          "ts": 1793943480.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
         },
@@ -16916,55 +16929,6 @@
           "group_label": "게임 · e스포츠"
         },
         {
-          "title": "스마일게이트, 추리 게임 '사이코 슬루스' 스토브·스팀 출시",
-          "url": "https://www.news1.kr/it-science/game-review/6345648",
-          "snippet": "사이코 슬루스는 정식 출시에 앞서 스팀 넥스트 페스트와 부산인디커넥트페스티벌(BIC), 게임스컴 2026, 도쿄게임쇼 2026 등에서 체험판을 공개한 바 있다. 스마일게이트는 출시를 기념해 2주간 스토브와 스팀에서...",
-          "source": "뉴스1",
-          "sources": [
-            {
-              "name": "뉴스1",
-              "url": "https://www.news1.kr/it-science/game-review/6345648",
-              "origin": "naver",
-              "title": "스마일게이트, 추리 게임 '사이코 슬루스' 스토브·스팀 출시"
-            },
-            {
-              "name": "xportsnews.com",
-              "url": "https://www.xportsnews.com/article/2216324",
-              "origin": "naver",
-              "title": "스마일게이트, 추리 어드벤처 '사이코 슬루스' 스토브·스팀 동시 정식..."
-            },
-            {
-              "name": "todayeconomic.com",
-              "url": "https://www.todayeconomic.com/news/article.html?no=32742",
-              "origin": "naver",
-              "title": "스마일게이트, 추리 어드벤처 ‘사이코 슬루스’ 출시…스토브·스팀 동..."
-            },
-            {
-              "name": "dizzotv.com",
-              "url": "https://www.dizzotv.com/site/data/html_dir/2026/11/06/2026110680083.html",
-              "origin": "naver",
-              "title": "\"보이는 것도 의심하라\"…스마일게이트, 추리 신작 '사이코 슬루스' 출..."
-            },
-            {
-              "name": "betanews.net",
-              "url": "https://www.betanews.net/article/view/beta202611060074",
-              "origin": "naver",
-              "title": "스마일게이트, 추리 어드벤처 사이코 슬루스 출시"
-            },
-            {
-              "name": "게임메카",
-              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CVV9reUlNQjQ1QW9KWEk3ajFGRENlTkl6RWg0VkpyaWN4d2huUUdSSFRXNzlBaEgzMFBrMGNVRVRrb0VyZDVxMi1HY2R2TTJRSTdYV3BPeUvSAVtBVV95cUxNRHlianl1WXJnNUVVRGxwUmY3R3dkWmJOMXlmSWZvRXM0elQ5NDBnanFVenY4Z1lGM1p1dG41d2lieWdrSzJtWVMzZDJBaXZ2OUNNQ2FTNmJ6M0w0?oc=5",
-              "origin": "google",
-              "title": "인지 장애 접목한 데스게임, 추리 신작 '사이코 슬루스' 출시"
-            }
-          ],
-          "source_count": 6,
-          "published": "2026-11-06T14:15:00+09:00",
-          "ts": 1793942100.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
           "title": "‘엠버 앤 블레이드’·‘QUIET’ 中 이용자와 접점 확대",
           "url": "https://www.mk.co.kr/article/12198187",
           "snippet": "라인게임즈(대표 배영진)는 중국 인디게임 게임쇼 ‘위플레이 엑스포 2026)’에 ‘엠버 앤 블레이드’와 ‘QUIET’ 등을 출품한다. 라인게임즈는 이번 전시회를 통해 중국과 글로벌 이용자들에게 ‘엠버 앤...",
@@ -17010,49 +16974,6 @@
           "source_count": 6,
           "published": "2026-11-05T11:27:00+09:00",
           "ts": 1793845620.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
-          "title": "넷마블, 인기 IP로 신작 라인업 확대…신작 2종 공개",
-          "url": "https://www.ddaily.co.kr/page/view/2026110613573159248",
-          "snippet": "넷마블이 워너브라더스의 유명 애니메이션 캐릭터를 활용한 신작과 인기 역할수행게임(RPG) '가디언 테일즈... 넷마블은 오는 2027년 모바일 게임으로 출시할 계획이다. 원작 가디언 테일즈는 올해 7월 말 기준 글로벌...",
-          "source": "ddaily.co.kr",
-          "sources": [
-            {
-              "name": "ddaily.co.kr",
-              "url": "https://www.ddaily.co.kr/page/view/2026110613573159248",
-              "origin": "naver",
-              "title": "넷마블, 인기 IP로 신작 라인업 확대…신작 2종 공개"
-            },
-            {
-              "name": "socialvalue.kr",
-              "url": "https://www.socialvalue.kr/news/view/1065587875671629",
-              "origin": "naver",
-              "title": "넷마블, 모바일 게임 '가디언 테일즈: 디그닷' 첫 공개…2027년 신작 라인..."
-            },
-            {
-              "name": "소셜밸류",
-              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vVWxLaWtYWW1UaGhrZzgzSGhvcUE3bFhuZzFidF9aZUVGblhvTmFqdE9rcjQtdWFBb05ZcFJNTDItWHc5Z2F1UXFYVkIwS19hWmRvanM4bXVHM1gtRjc3WFRjVdIBbEFVX3lxTE1xd05iczF4Y1paUy1SR25zR2xNMER0NG15ZzFqODQ3Rkk0Wllic0h6RmlmVmdxa3h0Sm1JdU9CVHVnRU5ubVBnREUxaDlVQURmVlQtc0t2Tmx2U1YzRlFjelRmckZiRGNNaGU2Sw?oc=5",
-              "origin": "google",
-              "title": "넷마블, 모바일 게임 ′가디언 테일즈: 디그닷′ 첫 공개…2027년 신작 라인업 확대"
-            },
-            {
-              "name": "www.ebn.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yV2J4UGRXbU1Uc2ZiWDB0QlAwWG12cEZkWlBBSGtUZXV5WWxtR0VZOFlmdjN3X05odXA4QWtfVEpfZ283UC00RlBtTWxVLUlfV2lvXzRQMnlnRGpTd2tWd3R2UThJSjZV?oc=5",
-              "origin": "google",
-              "title": "[컨콜] 넷마블 “2027년 신작 13종 이상 출시…신규 라인업 7종 첫 공개”"
-            },
-            {
-              "name": "서울경제TV",
-              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tWDM1dk11cUE4UV9iZURPTXpPUTUyZnZBMDRPN0ZYYktKOWFZRnNkQkZ0VTNuXy1iV2w2QVdKbHRscWV6Z1dpU0k3RFVHTE40M0FKaTVMYmRYRXBHZ3QwWHZyZEo?oc=5",
-              "origin": "google",
-              "title": "[컨콜] 넷마블 “내년 신작 13종 이상 출시…라인업 확대”"
-            }
-          ],
-          "source_count": 5,
-          "published": "2026-11-06T14:36:00+09:00",
-          "ts": 1793943360.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
         },
@@ -17176,43 +17097,6 @@
           "source_count": 4,
           "published": "2026-11-06T14:10:00+09:00",
           "ts": 1793941800.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
-          "title": "[게임스테이션] '테일즈위버 모바일' 공개·'오버기어드' 26일 출시·'사이코 슬루스' 출시·'WB 올스타 키우기' 공개·'디그닷' 키아트 공개",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jVnpkZFFwd1NBc1RHcmpid2pLeXpzQlNLZzZyR2p6QUt0c0V6VGJCU001X1JWQnc3THUyTVhQeHdnZU5GUEpxM1hmdVUyOWtRYi0zbTNBZUd1WkRPcFVGQkhVNzYxTVA0N3lKLVhKUdIBc0FVX3lxTFAtaWphS2tEMnJESmFyTjJNeU5mXzBQTnYwdjVld1d6T1h5dWZuQlFET1ZrUVJLemU4MGQxMmxJVjZpc1VjbnViODlUOS0xNl9FbE96MThwMk1hUmdIR2Fwa0k4azZxU3R6azJsTEZpalZILU0?oc=5",
-          "snippet": "",
-          "source": "뉴스웍스",
-          "sources": [
-            {
-              "name": "뉴스웍스",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jVnpkZFFwd1NBc1RHcmpid2pLeXpzQlNLZzZyR2p6QUt0c0V6VGJCU001X1JWQnc3THUyTVhQeHdnZU5GUEpxM1hmdVUyOWtRYi0zbTNBZUd1WkRPcFVGQkhVNzYxTVA0N3lKLVhKUdIBc0FVX3lxTFAtaWphS2tEMnJESmFyTjJNeU5mXzBQTnYwdjVld1d6T1h5dWZuQlFET1ZrUVJLemU4MGQxMmxJVjZpc1VjbnViODlUOS0xNl9FbE96MThwMk1hUmdIR2Fwa0k4azZxU3R6azJsTEZpalZILU0?oc=5",
-              "origin": "google",
-              "title": "[게임스테이션] '테일즈위버 모바일' 공개·'오버기어드' 26일 출시·'사이코 슬루스' 출시·'WB 올스타 키우기' 공개·'디그닷' 키아트 공개"
-            },
-            {
-              "name": "etoday.co.kr",
-              "url": "https://www.etoday.co.kr/news/view/2644934",
-              "origin": "naver",
-              "title": "넷마블, 배트맨·벅스 버니 한자리에…신작 'WB 올스타 키우기' 공개"
-            },
-            {
-              "name": "wikitree.co.kr",
-              "url": "https://www.wikitree.co.kr/articles/1172434",
-              "origin": "naver",
-              "title": "넷마블, ‘WB 올스타 키우기’ 공개…배트맨·벅스 버니 등 100종 이상 한..."
-            },
-            {
-              "name": "뉴시스",
-              "url": "https://www.newsis.com/view/NISX20261106_0003857731",
-              "origin": "naver",
-              "title": "배트맨·벅스 버니 한 게임에…넷마블, 신작 'WB 올스타 키우기' 공개"
-            }
-          ],
-          "source_count": 4,
-          "published": "2026-11-06T13:20:40+09:00",
-          "ts": 1793938840.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
         },
@@ -17421,7 +17305,7 @@
             },
             {
               "name": "파이낸셜투데이",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oby1xaExYZEkyOTQxR0ZwTWNmZmZ0d3BNYkkweXBteTNzbEU0dWotemVTRHNWQkY1cjl0eXhweEhWdzlUSWFYaVBxbk5IZ2lBa29lWWlvVV85Ry1IR3ZxRzRWbEYxMU85ZkHSAW5BVV95cUxOOE1zbGExYlQ1bUVsam5CcDJNNjNiYzl3WW1rWkJ1Sjd5Vmd0R09uaWFJWmh5bDVTM3BFd0Z5OWRhdllYSjJWWUJuakJxeVFuSkxsVE05UnpfcmhzQmZuNWc5aTFyMjVWMGdBSnBWZw?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWM3dhYy1PMTN5cE5jbDdwM2xfNzZ0cHlGNmNzSWpHdjF1QTBlMDExQkhsdnJTVVRBM2N5eUhDZWF3Sks3NEpRdzd2SElTYm8wSklhQ0VnYU50VUlnYThOaktQZkN1cUU0OG040gFuQVVfeXFMTjhNc2xhMWJUNW1FbGpuQnAyTTYzYmM5d1lta1pCdUo3eVZndEdPbmlhSVpoeWw1UzNwRXdGeTlkYXZZWEoyVllCbmpCcXlRbkpMbFRNOVJ6X3Joc0JmbjVnOWkxcjI1VjBnQUpwVmc?oc=5",
               "origin": "google",
               "title": "사이게임스, 신작 ‘씨앗이 내려앉는 곳’ 출시…지스타 출격"
             },
@@ -17439,39 +17323,33 @@
           "group_label": "게임 · e스포츠"
         },
         {
-          "title": "현대차證 \"카카오게임즈, 신작 MMORPG로 턴어라운드 기대감…목표가 1만...",
-          "url": "https://www.newsis.com/view/NISX20261105_0003855621",
-          "snippet": "현대차증권은 카카오게임즈에 대해 MMORPG 위주의 신작 출시로 턴어라운드를 전망하며 투자의견 '매수'를 유지하고 목표가는 기존 1만3000원에서 1만5000원으로 상향했다. 최승호 현대차증권 연구원은 6일 리포트를 통해...",
-          "source": "뉴시스",
+          "title": "넷마블, 인기 IP로 신작 라인업 확대…신작 2종 공개",
+          "url": "https://www.ddaily.co.kr/page/view/2026110613573159248",
+          "snippet": "넷마블이 워너브라더스의 유명 애니메이션 캐릭터를 활용한 신작과 인기 역할수행게임(RPG) '가디언 테일즈... 넷마블은 오는 2027년 모바일 게임으로 출시할 계획이다. 원작 가디언 테일즈는 올해 7월 말 기준 글로벌...",
+          "source": "ddaily.co.kr",
           "sources": [
             {
-              "name": "뉴시스",
-              "url": "https://www.newsis.com/view/NISX20261105_0003855621",
+              "name": "ddaily.co.kr",
+              "url": "https://www.ddaily.co.kr/page/view/2026110613573159248",
               "origin": "naver",
-              "title": "현대차證 \"카카오게임즈, 신작 MMORPG로 턴어라운드 기대감…목표가 1만..."
+              "title": "넷마블, 인기 IP로 신작 라인업 확대…신작 2종 공개"
             },
             {
-              "name": "머니투데이",
-              "url": "https://www.mt.co.kr/tech/2026/11/04/2026110409221390516",
-              "origin": "naver",
-              "title": "카카오게임즈, '도깨비의세계'서 희망 봤다…턴어라운드 기대감↑"
-            },
-            {
-              "name": "뉴스핌",
-              "url": "https://www.newspim.com/news/view/20261105000078",
-              "origin": "naver",
-              "title": "[모닝 리포트] \"카카오게임즈, 신작 기대에 목표가 상향…'매수' 유지\""
-            },
-            {
-              "name": "한국경제TV",
-              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yOGlkQ2VxOHZ5MGN0MUx6NS14a1c5N3dkWFh5dzJjdnAzTU80a3ptRktmejRRSFdkS3ZCX1NnczhMRHNnVVNJOTk2QnNicTZ1SDlEREg0czg5SW02NEF4UEpXakpqRm9WTXB3SV9VaUwxbEk?oc=5",
+              "name": "www.ebn.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yV2J4UGRXbU1Uc2ZiWDB0QlAwWG12cEZkWlBBSGtUZXV5WWxtR0VZOFlmdjN3X05odXA4QWtfVEpfZ283UC00RlBtTWxVLUlfV2lvXzRQMnlnRGpTd2tWd3R2UThJSjZV?oc=5",
               "origin": "google",
-              "title": "“신작 흥행해도 밸류 부담”…카카오게임즈 목표가 1만3000원"
+              "title": "[컨콜] 넷마블 “2027년 신작 13종 이상 출시…신규 라인업 7종 첫 공개”"
+            },
+            {
+              "name": "서울경제TV",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tWDM1dk11cUE4UV9iZURPTXpPUTUyZnZBMDRPN0ZYYktKOWFZRnNkQkZ0VTNuXy1iV2w2QVdKbHRscWV6Z1dpU0k3RFVHTE40M0FKaTVMYmRYRXBHZ3QwWHZyZEo?oc=5",
+              "origin": "google",
+              "title": "[컨콜] 넷마블 “내년 신작 13종 이상 출시…라인업 확대”"
             }
           ],
-          "source_count": 4,
-          "published": "2026-11-05T08:51:00+09:00",
-          "ts": 1793836260.0,
+          "source_count": 3,
+          "published": "2026-11-06T14:36:00+09:00",
+          "ts": 1793943360.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
         },
@@ -17503,6 +17381,37 @@
           "source_count": 3,
           "published": "2026-11-06T14:04:00+09:00",
           "ts": 1793941440.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
+          "title": "넷마블, 배트맨·벅스 버니 한자리에…신작 'WB 올스타 키우기' 공개",
+          "url": "https://www.etoday.co.kr/news/view/2644934",
+          "snippet": "",
+          "source": "etoday.co.kr",
+          "sources": [
+            {
+              "name": "etoday.co.kr",
+              "url": "https://www.etoday.co.kr/news/view/2644934",
+              "origin": "naver",
+              "title": "넷마블, 배트맨·벅스 버니 한자리에…신작 'WB 올스타 키우기' 공개"
+            },
+            {
+              "name": "wikitree.co.kr",
+              "url": "https://www.wikitree.co.kr/articles/1172434",
+              "origin": "naver",
+              "title": "넷마블, ‘WB 올스타 키우기’ 공개…배트맨·벅스 버니 등 100종 이상 한..."
+            },
+            {
+              "name": "뉴시스",
+              "url": "https://www.newsis.com/view/NISX20261106_0003857731",
+              "origin": "naver",
+              "title": "배트맨·벅스 버니 한 게임에…넷마블, 신작 'WB 올스타 키우기' 공개"
+            }
+          ],
+          "source_count": 3,
+          "published": "2026-11-06T13:20:40+09:00",
+          "ts": 1793938840.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
         },
@@ -17833,31 +17742,6 @@
           "source_count": 2,
           "published": "2026-11-05T17:40:00+09:00",
           "ts": 1793868000.0,
-          "group": "trend_game",
-          "group_label": "게임 · e스포츠"
-        },
-        {
-          "title": "넥써쓰, ‘아스텔리아2’ 글로벌 출시···원스토어 인수 후 첫 신작",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LdTFGcnhmZ043bmN5QnRqSHE0Mkl3ZmxRaXhYc1JEb29VbF9pcF91Um1fSk9SakNjdHpuNE81aFBjOE1iRm5qU2ZvaFhQZlo3RmNBSWhuZnd2Q2o1WkNKcXZkMmp4XzhqUkQwLTRuWWnSAXRBVV95cUxQeFUzWVlmQUN0dWJRaWNEbGxPZ1NhWG1PREZHVTJRLUlRakJiZ1pqTW1fUWh4UWUyZm90N1F0WXVZTm1TVUdTWXJlTkU3TXBfQjlOcjlkX2poZnpFR1JfdWo5cHN2ekx1SmVaWnkxbW1DQ0xZMg?oc=5",
-          "snippet": "",
-          "source": "이뉴스투데이",
-          "sources": [
-            {
-              "name": "이뉴스투데이",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LdTFGcnhmZ043bmN5QnRqSHE0Mkl3ZmxRaXhYc1JEb29VbF9pcF91Um1fSk9SakNjdHpuNE81aFBjOE1iRm5qU2ZvaFhQZlo3RmNBSWhuZnd2Q2o1WkNKcXZkMmp4XzhqUkQwLTRuWWnSAXRBVV95cUxQeFUzWVlmQUN0dWJRaWNEbGxPZ1NhWG1PREZHVTJRLUlRakJiZ1pqTW1fUWh4UWUyZm90N1F0WXVZTm1TVUdTWXJlTkU3TXBfQjlOcjlkX2poZnpFR1JfdWo5cHN2ekx1SmVaWnkxbW1DQ0xZMg?oc=5",
-              "origin": "google",
-              "title": "넥써쓰, ‘아스텔리아2’ 글로벌 출시···원스토어 인수 후 첫 신작"
-            },
-            {
-              "name": "게임앤드",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSeldKUWNzaDlMSUxlVm9sQW1rUmdXa3kyTURwTnh2Z1hRdUtHNWtvdjZuZVFwam5MeF9TSVNrRFdPSUZPd3BJTEg2YUVFSnFpWGRkSVVpTllxNmxWYnZpNWtVdnFTRXdTcnc?oc=5",
-              "origin": "google",
-              "title": "넥써쓰, 모처럼 신작! 아스텔리아2 출시"
-            }
-          ],
-          "source_count": 2,
-          "published": "2026-11-05T16:24:53+09:00",
-          "ts": 1793863493.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
         },
@@ -18252,21 +18136,21 @@
           "group_label": "게임 · e스포츠"
         },
         {
-          "title": "인기 웹툰 '템빨'이 게임으로…넥슨, 26일 한국·중화권 동시 출격",
-          "url": "https://www.dizzotv.com/site/data/html_dir/2026/11/06/2026110680040.html",
-          "snippet": "",
-          "source": "dizzotv.com",
+          "title": "가디언 테일즈 첫 스핀오프 ‘디그닷’, RPG 아닌 덱 빌딩 로그라이트로...",
+          "url": "https://www.wikitree.co.kr/articles/1172432",
+          "snippet": "넷마블이 모바일 RPG '가디언 테일즈'의 첫 스핀오프 신작 '가디언 테일즈: 디그닷(Guardian Tales: Dig Dot)'의 정식... 콩스튜디오가 개발 중인 캐주얼 로그라이트 게임으로, 넷마블은 2027년 모바일 게임으로 출시할 예정이라고...",
+          "source": "wikitree.co.kr",
           "sources": [
             {
-              "name": "dizzotv.com",
-              "url": "https://www.dizzotv.com/site/data/html_dir/2026/11/06/2026110680040.html",
+              "name": "wikitree.co.kr",
+              "url": "https://www.wikitree.co.kr/articles/1172432",
               "origin": "naver",
-              "title": "인기 웹툰 '템빨'이 게임으로…넥슨, 26일 한국·중화권 동시 출격"
+              "title": "가디언 테일즈 첫 스핀오프 ‘디그닷’, RPG 아닌 덱 빌딩 로그라이트로..."
             }
           ],
           "source_count": 1,
-          "published": "2026-11-06T11:17:00+09:00",
-          "ts": 1793931420.0,
+          "published": "2026-11-06T12:38:00+09:00",
+          "ts": 1793936280.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
         },
@@ -19412,8 +19296,8 @@
         },
         {
           "title": "모바일서 검증된 게임, PC·콘솔 탑승… '플랫폼 다변화'로 글로벌 공략",
-          "url": "https://www.asiatime.co.kr/article/20261105500331",
-          "snippet": "센서타워가 발간한 '2026년 게임 현황' 리포트에 따르면 지난해 전 세계 PC·콘솔 게임 다운로드는 약 20억건으로 모바일보다 적지만 이용자당 수익화 수준은 높은 것으로 나타났다. 이용자들이 보다 깊이 있는 플레이...",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WeWprVnN0dmxqZ2J4czYyWDZfaEFFX1NROEljRllGQndXRHpEMWwtVG8wSDV3T0pFZTd4YkY4Q25taHZ2RnRmSDVBd3B2OGtmOUwzVTFwaDRRN21WSlE?oc=5",
+          "snippet": "",
           "source": "아시아타임즈",
           "sources": [
             {
@@ -19424,8 +19308,8 @@
             }
           ],
           "source_count": 1,
-          "published": "2026-11-05T15:28:00+09:00",
-          "ts": 1793860080.0,
+          "published": "2026-11-05T15:27:00+09:00",
+          "ts": 1793860020.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
         },
@@ -19445,6 +19329,44 @@
           "source_count": 1,
           "published": "2026-11-05T15:20:00+09:00",
           "ts": 1793859600.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
+          "title": "더블유게임즈, '쥬스 머지' 30만 설치 돌파",
+          "url": "https://www.newspim.com/news/view/20261105001153",
+          "snippet": "더블유게임즈는 자회사 팍시게임즈(Paxie Games)가 지난 9월 8일 글로벌 출시한 캐주얼 게임 '쥬스 머지(Juice... 팍시게임즈는 인공지능(AI) 기반 개발 체계인 'AI Lab'을 활용해 시장 데이터를 분석하고 신작을 개발한 뒤...",
+          "source": "뉴스핌",
+          "sources": [
+            {
+              "name": "뉴스핌",
+              "url": "https://www.newspim.com/news/view/20261105001153",
+              "origin": "naver",
+              "title": "더블유게임즈, '쥬스 머지' 30만 설치 돌파"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-11-05T15:19:00+09:00",
+          "ts": 1793859540.0,
+          "group": "trend_game",
+          "group_label": "게임 · e스포츠"
+        },
+        {
+          "title": "美 블루 쇼크에 亞 증시 '희비'…반도체 울고 자동차·게임 웃었다",
+          "url": "https://www.newsis.com/view/NISX20261105_0003856444",
+          "snippet": "AI 투자 확대 속도가 느려지면 메모리 반도체 가격이 하락해 게임 콘솔 생산 비용이 낮아질 수 있다는 기대가 반영됐다. 국제유가 하락도 일부 아시아 증시의 투자심리를 뒷받침했다. 민주당이 장악한 의회가 트럼프...",
+          "source": "뉴시스",
+          "sources": [
+            {
+              "name": "뉴시스",
+              "url": "https://www.newsis.com/view/NISX20261105_0003856444",
+              "origin": "naver",
+              "title": "美 블루 쇼크에 亞 증시 '희비'…반도체 울고 자동차·게임 웃었다"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-11-05T15:14:00+09:00",
+          "ts": 1793859240.0,
           "group": "trend_game",
           "group_label": "게임 · e스포츠"
         }
@@ -19633,6 +19555,25 @@
           "group_label": "전망 · 심층분석"
         },
         {
+          "title": "고트헤이븐, 수학 문제풀이 과정 AI가 분석… 학생과 양방향 학습",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CdjdWcXE0d3o0N3VoNGNyLTV1YVRuQVNaZDU1eFlSMTlpdUNhc0hlQjVyY1ZsYlNtR2lPZUlPTUtfTVpwTE5kRjRhVTVIcUM0Qy16Q1FUVVpVbm5oU25aTy14S0RFdDFITmhRbDNn0gFzQVVfeXFMTlNJM1NKRkFick45X0VMRjQtdEs1cXR0eXg5bUtLaVlacXFRLVZ5c0ViQnNFUHNWZFAtS1NGdG9GdWh6U1hrYkQ1SlN4VHJ0SThaVy16U0VXYWVmVTI0dlBYWW9VVkdXc0UwYVZxd2VCSFZQTQ?oc=5",
+          "snippet": "",
+          "source": "한국일보",
+          "sources": [
+            {
+              "name": "한국일보",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CdjdWcXE0d3o0N3VoNGNyLTV1YVRuQVNaZDU1eFlSMTlpdUNhc0hlQjVyY1ZsYlNtR2lPZUlPTUtfTVpwTE5kRjRhVTVIcUM0Qy16Q1FUVVpVbm5oU25aTy14S0RFdDFITmhRbDNn0gFzQVVfeXFMTlNJM1NKRkFick45X0VMRjQtdEs1cXR0eXg5bUtLaVlacXFRLVZ5c0ViQnNFUHNWZFAtS1NGdG9GdWh6U1hrYkQ1SlN4VHJ0SThaVy16U0VXYWVmVTI0dlBYWW9VVkdXc0UwYVZxd2VCSFZQTQ?oc=5",
+              "origin": "google",
+              "title": "고트헤이븐, 수학 문제풀이 과정 AI가 분석… 학생과 양방향 학습"
+            }
+          ],
+          "source_count": 1,
+          "published": "2026-11-06T14:33:00+09:00",
+          "ts": 1793943180.0,
+          "group": "trend_insight",
+          "group_label": "전망 · 심층분석"
+        },
+        {
           "title": "에이아이트릭스, 홍콩 정부 전략기업 선정…의료 AI ‘바이탈케어’ 아...",
           "url": "https://www.venturesquare.net/1126382/",
           "snippet": "가능성과 산업적 경쟁력을 갖춘 글로벌 기업을 유치하기 위해 설립한 기관이다. 선정 기업에는 부지... 성과로 이어지고, 이를 다른 아시아 국가로 확장할 수 있을지가 향후 해외 사업의 중요한 지표가 될 전망이다.",
@@ -19648,25 +19589,6 @@
           "source_count": 1,
           "published": "2026-11-06T14:00:00+09:00",
           "ts": 1793941200.0,
-          "group": "trend_insight",
-          "group_label": "전망 · 심층분석"
-        },
-        {
-          "title": "몰로코, 서울서 ‘몰로콘 26’ 개최… AI 기반 광고·마케팅 전략 공유",
-          "url": "https://biz.heraldcorp.com/article/10928527?ref=naver",
-          "snippet": "다양한 산업 분야의 관계자 약 500명이 참석했다. 행사에서는 AI 기술을 활용한 광고 최적화와 오픈... 등을 분석해 광고 집행을 최적화하는 시스템이다. 회사 측에 따르면 해당 시스템은 하루 1조 건 이상의 광고...",
-          "source": "헤럴드경제",
-          "sources": [
-            {
-              "name": "헤럴드경제",
-              "url": "https://biz.heraldcorp.com/article/10928527?ref=naver",
-              "origin": "naver",
-              "title": "몰로코, 서울서 ‘몰로콘 26’ 개최… AI 기반 광고·마케팅 전략 공유"
-            }
-          ],
-          "source_count": 1,
-          "published": "2026-11-06T13:26:00+09:00",
-          "ts": 1793939160.0,
           "group": "trend_insight",
           "group_label": "전망 · 심층분석"
         },
