@@ -186,30 +186,31 @@ def _spread(items: list, window: int, entities: list) -> list:
     같은 사건이 여러 덩이로 쪼개지면 한 기관이 섹션 상단을 통째로 차지한다
     (2026-11-04: 경과원 AI 행정혁신 한 건이 상위 5칸을 독식, 경기신보 건이 묻힘).
 
-    ★기관 대표는 '매체 수가 가장 많은 기사'로 뽑는다★ — boost 배지를 먼저 보면
-    쪼개진 조각 중 작은 것(2매체)이 그 기관 대표로 올라오고 정작 본 기사(10매체)가
-    묻힌다. 기관을 고르는 순서에서만 배지를 우선한다.
+    - 기관마다 한 칸. 그 칸의 대표는 경영·혁신 배지 기사 우선, 그다음 매체 수.
+      (GH 칸에 '전원주택 공급' 대신 'GH 부채 관리·감독'이 오도록 — 섹션 목적이
+      경영평가 벤치마킹이다. 배지 기준을 넓혀둬서 같은 사건의 큰 기사에도 대개
+      배지가 붙으므로, 작은 조각이 대표가 되는 일은 드물다.)
+    - 기관명을 특정할 수 없는 기사는 '(공통)' 한 칸. 도 재정난처럼 산하기관 전체에
+      걸린 이슈가 대개 여기 속한다(2026-11-09: '공공기관 계약직 1천명 해고 위기'가
+      23위에 묻혀 있었다).
+    - 어느 기관이 앞칸을 받을지도 배지 기사가 있는 기관 우선.
     """
-    by_score = sorted(items, key=lambda c: (c["source_count"], c["ts"]), reverse=True)
-    reps, used, spare = [], set(), []
-    for it in by_score:
-        if len(reps) >= window:
-            break
-        e = _entity_of(it.get("title", ""), entities)
+    best = {}
+    for it in items:
+        t = it.get("title", "")
+        e = _entity_of(t, entities)
         if e is None:
-            spare.append(it)          # 기관을 못 가리면 빈칸 채우기용으로 보류
-            continue
-        if e in used:
-            continue
-        used.add(e)
-        reps.append(it)
-    for it in spare:                  # 기관 수가 모자라면 미상 기사로 채움
-        if len(reps) >= window:
-            break
-        reps.append(it)
-    # 앞칸끼리는 경영·혁신 배지 우선 → 그다음 매체 수
-    reps.sort(key=lambda c: (bool(c.get("flag")), c["source_count"], c["ts"]),
-              reverse=True)
+            # 기관명 없는 기사는 '경기 산하기관 전체' 이야기일 때만 앞칸 후보.
+            # (2026-11-05 백테스트: '국토교통부, 토지개발 인허가 AI 서비스'가
+            #  'AI 서비스' 배지로 1위에 올라옴 → 경기·공공기관 언급 없으면 제외)
+            if not any(w in t for w in ("경기", "공공기관", "산하기관", "출연기관")):
+                continue
+            e = "(공통)"
+        k = (bool(it.get("flag")), it["source_count"], it["ts"])
+        if e not in best or k > best[e][0]:
+            best[e] = (k, it)
+    ranked = sorted(best.values(), key=lambda kv: kv[0], reverse=True)
+    reps = [it for _, it in ranked[:window]]
     picked = {id(x) for x in reps}
     return reps + [x for x in items if id(x) not in picked]
 
