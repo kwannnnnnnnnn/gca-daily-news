@@ -16,6 +16,23 @@ from util import (is_domainish, load_config, normalize_title, now_kst,
                   press_display, press_key, press_name, today_str)
 
 
+_RE_CACHE = {}
+
+
+def _match(word: str, text: str) -> bool:
+    """키워드 일치 판정. 're:'로 시작하면 정규식으로 본다.
+
+    영문 약칭(GH 등)은 단순 포함으로 보면 'HIGH'·'LIGHT'에 걸린다.
+    keywords.yaml에 're:(?<![A-Za-z])GH(?![A-Za-z])' 처럼 적어 낱말 경계를 준다.
+    """
+    if word.startswith("re:"):
+        rx = _RE_CACHE.get(word)
+        if rx is None:
+            rx = _RE_CACHE[word] = re.compile(word[3:])
+        return bool(rx.search(text))
+    return word in text
+
+
 def build_group_map(cfg: dict) -> dict:
     return {g["id"]: g for g in cfg.get("groups", [])}
 
@@ -26,14 +43,14 @@ def is_relevant(art: dict, group: dict, global_exclude: list,
     snip = art.get("snippet", "")
     text = f"{title} {snip}"
     for w in global_exclude:
-        if w and w in text:
+        if w and _match(w, text):
             return False
     for w in (group.get("exclude") or []):
-        if w and w in text:
+        if w and _match(w, text):
             return False
     # 내용 게이트(있으면): 제목/요약 어디든 하나
     req = group.get("require_any") or []
-    if req and not any(w in text for w in req):
+    if req and not any(_match(w, text) for w in req):
         return False
     # 주제(subject) 게이트: 아래 중 정의된 게 있으면 최소 하나는 충족해야
     #   title_any    : 제목에 하나라도(엔티티 헤드라인)
@@ -43,9 +60,10 @@ def is_relevant(art: dict, group: dict, global_exclude: list,
     lany = group.get("lead_any") or []
     tall = group.get("title_all_of") or []
     if tany or lany or tall:
-        ok = (any(w in title for w in tany)
-              or any(w in snip[:lead_window] for w in lany)
-              or (bool(tall) and all(any(w in title for w in sub) for sub in tall)))
+        ok = (any(_match(w, title) for w in tany)
+              or any(_match(w, snip[:lead_window]) for w in lany)
+              or (bool(tall) and all(any(_match(w, title) for w in sub)
+                                     for sub in tall)))
         if not ok:
             return False
     return True
@@ -157,8 +175,8 @@ def _entity_of(title: str, entities: list):
     """제목에 등장한 기관(별칭 묶음의 대표 표기). 못 찾으면 None."""
     for names in entities or []:
         for n in names:
-            if n and n in title:
-                return names[0]
+            if n and _match(n, title):
+                return names[0].replace("re:", "")
     return None
 
 
@@ -351,7 +369,7 @@ def process(articles: list, meta: dict, cfg: dict) -> dict:
         bo = g.get("boost") or []
         if bo:
             for c in items:
-                if any(w in c["title"] for w in bo):
+                if any(_match(w, c["title"]) for w in bo):
                     c["flag"] = g.get("boost_label", "경영·혁신")
         items.sort(key=lambda c: (bool(c.get("flag")), c["source_count"], c["ts"]),
                    reverse=True)
