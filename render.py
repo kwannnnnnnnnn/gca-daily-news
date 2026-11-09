@@ -65,6 +65,12 @@ padding:11px 13px;margin-bottom:8px}
 display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .flag{background:#0f766e;color:#fff;border-radius:4px;padding:1px 6px;font-size:.68rem;font-weight:600}
 .chips{margin-top:8px;display:flex;flex-wrap:wrap;gap:5px}
+.common{margin-top:14px;padding:10px 12px 4px;border-radius:10px;background:color-mix(in srgb,var(--accent) 7%,transparent);border:1px dashed color-mix(in srgb,var(--accent) 40%,transparent)}
+.common-h{font-size:.8rem;font-weight:700;color:var(--accent);margin-bottom:6px;display:flex;gap:8px;align-items:baseline;flex-wrap:wrap}
+.common-h span{font-weight:400;color:var(--muted);font-size:.72rem}
+.common .card{background:transparent}
+.from{border:1px solid var(--line);border-radius:4px;padding:0 5px;font-size:.68rem;color:var(--muted)}
+.empty{color:var(--muted);font-size:.85rem;margin:6px 0}
 details.srcs{margin-top:6px;font-size:.74rem}
 details.srcs>summary{list-style:none;cursor:pointer;color:var(--muted);
   user-select:none;padding:2px 0}
@@ -175,9 +181,22 @@ def _section(group: dict, preview: int) -> str:
             f'<span class="lbl-less">접기</span>'
             f'</summary><div class="rest">{rest_cards}</div></details>'
         )
+    common = ""
+    ci = group.get("common")
+    if ci and ci.get("items"):
+        # 다른 섹션 기사를 끌어온 것이라 출처 섹션을 함께 표시
+        cards = "".join(
+            _card(it).replace('<div class="meta">',
+                              f'<div class="meta"><span class="from">{esc(it.get("origin_label", ""))}</span>', 1)
+            for it in ci["items"])
+        common = (f'<div class="common"><div class="common-h">{esc(ci["label"])}'
+                  f'<span>경콘진 포함 · 산하기관 전체 대상</span></div>{cards}</div>')
+    if not items and not common:
+        head = ""
+    empty = '<p class="empty">오늘 기관명이 나온 기사는 없습니다.</p>' if not items and common else ""
     return (
         f'<section><div class="sec-h"><h2>{esc(group["label"])}</h2>'
-        f'<span class="n">{group.get("count", 0)}건</span></div>{head}{more}</section>'
+        f'<span class="n">{group.get("count", 0)}건</span></div>{empty}{head}{more}{common}</section>'
     )
 
 

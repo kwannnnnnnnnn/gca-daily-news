@@ -384,6 +384,32 @@ def process(articles: list, meta: dict, cfg: dict) -> dict:
                                "preview": g.get("preview_items"),
                                "count": len(items), "items": items[:maxg]})
 
+    # 경콘진 섹션 아래 '산하기관 공통 이슈' — 산하기관 전체를 다룬 기사를 끌어와 덧붙인다.
+    # (원래 섹션에서 빼지 않는다. 기관명 없이 '도 산하기관 전체' 이야기면 경콘진도 당사자)
+    for g in cfg.get("groups", []):
+        ci = g.get("common_issues")
+        if not ci:
+            continue
+        src = set(ci.get("from") or [])
+        tall = ci.get("title_all_of") or []
+        own = g.get("title_any") or []
+        pool = [c for c in out_clusters
+                if c["group"] in src and c["group"] != g["id"]
+                and all(any(_match(w, c["title"]) for w in sub) for sub in tall)
+                and not any(_match(w, c["title"]) for w in own)]
+        pool.sort(key=lambda c: (c["source_count"], c["ts"]), reverse=True)
+        if not pool:
+            continue
+        picked = [dict(c, origin_label=c["group_label"]) for c in pool[:ci.get("max", 3)]]
+        sec = next((x for x in groups_out if x["id"] == g["id"]), None)
+        if sec is None:          # 그날 경콘진 기사가 0건이어도 공통 이슈는 보여준다
+            sec = {"id": g["id"], "label": g["label"], "priority": g.get("priority", 99),
+                   "page": g.get("page", "main"), "preview": g.get("preview_items"),
+                   "count": 0, "items": []}
+            groups_out.append(sec)
+            groups_out.sort(key=lambda x: x.get("priority", 99))
+        sec["common"] = {"label": ci.get("label", "공통 이슈"), "items": picked}
+
     multi = sum(1 for c in out_clusters if c["source_count"] > 1)
     result = {
         "date": today_str(),
